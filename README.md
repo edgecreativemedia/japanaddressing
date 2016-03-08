@@ -3,6 +3,8 @@ JAPAN ADDRESSING
 
 Current Status: dev-master (https://github.com/edgecreativemedia/japanaddressing)
 
+This is currently underdevelopment.
+
 A PHP 5.4+ address library for Japan’s address/postal system in both English & Japanese. It is powered by Japan Post’s csv dataset.
 
 The library stores, sets and manipulates regions, prefectures and cities, as well as performing a lookup function for full Japanese addresses via it’s postal code (yubin-bango) in either language.
@@ -22,3 +24,6 @@ The datasets for subdivisions are stored locally in JSON format, from Google's [
 # Integrations
 
 [Drupal 8 module] : https://www.drupal.org/project/japanaddress
+
+
+
