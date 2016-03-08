@@ -3,7 +3,7 @@ JAPAN ADDRESSING
 
 Current Status: dev-master (https://github.com/edgecreativemedia/japanaddressing)
 
-This is currently underdevelopment.
+This is currently underdevelopment..
 
 A PHP 5.4+ address library for Japan’s address/postal system in both English & Japanese. It is powered by Japan Post’s csv dataset.
 
