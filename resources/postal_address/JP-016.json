@@ -1,0 +1,3263 @@
+{
+	"country_code": "JP",
+	"parent_id": "016",
+	"locale": "ja-Latn",
+	"address": {
+		"0168602": {
+			"postcode": "0168602",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "畠町",
+			"building_name": "１１−１８（能代郵便局私書箱第９号）",
+			"organization_name": "株式会社　秋田銀行　能代駅前支店",
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "畠町",
+					"building_name": "１１−１８（能代郵便局私書箱第９号）",
+					"organization_name": "株式会社　秋田銀行　能代駅前支店"
+				}
+			}
+		},
+		"0168601": {
+			"postcode": "0168601",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "末広町",
+			"building_name": "４−２０能代合同庁舎",
+			"organization_name": "能代税務署",
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "末広町",
+					"building_name": "４−２０能代合同庁舎",
+					"organization_name": "能代税務署"
+				}
+			}
+		},
+		"0168555": {
+			"postcode": "0168555",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "御指南町",
+			"building_name": "１−１０",
+			"organization_name": "山本地方部　県民室",
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "御指南町",
+					"building_name": "１−１０",
+					"organization_name": "山本地方部　県民室"
+				}
+			}
+		},
+		"0168501": {
+			"postcode": "0168501",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "上町",
+			"building_name": "１−３",
+			"organization_name": "能代市役所",
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "上町",
+					"building_name": "１−３",
+					"organization_name": "能代市役所"
+				}
+			}
+		},
+		"0160897": {
+			"postcode": "0160897",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Shonammachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "昭南町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160896": {
+			"postcode": "0160896",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Hannyamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "盤若町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160895": {
+			"postcode": "0160895",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Suehiromachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "末広町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160894": {
+			"postcode": "0160894",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Haginodai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "萩の台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160893": {
+			"postcode": "0160893",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Matsumimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "松美町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160892": {
+			"postcode": "0160892",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Keirimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "景林町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160891": {
+			"postcode": "0160891",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Nishidorimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "西通町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160884": {
+			"postcode": "0160884",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Oroshimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "卸町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160883": {
+			"postcode": "0160883",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Gondai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "五雲岱",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160882": {
+			"postcode": "0160882",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Hoodai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "鳳凰岱",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160881": {
+			"postcode": "0160881",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Sunadomeyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "砂留山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160879": {
+			"postcode": "0160879",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Furodai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "不老岱",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160878": {
+			"postcode": "0160878",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Garyuzan",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "臥竜山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160877": {
+			"postcode": "0160877",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Senyunagane",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "仙遊長根",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160876": {
+			"postcode": "0160876",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Kaieizaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "海詠坂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160875": {
+			"postcode": "0160875",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Nanyozaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "南陽崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160874": {
+			"postcode": "0160874",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Numanoe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "沼ノ上",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160873": {
+			"postcode": "0160873",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Nagasaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "長崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160872": {
+			"postcode": "0160872",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Shidomori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "芝童森",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160871": {
+			"postcode": "0160871",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Shoheidai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "昇平岱",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160865": {
+			"postcode": "0160865",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Aobamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "青葉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160864": {
+			"postcode": "0160864",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Torigoya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "鳥小屋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160863": {
+			"postcode": "0160863",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Ushiroyachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "後谷地",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160862": {
+			"postcode": "0160862",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Juikinagane",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "寿域長根",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160861": {
+			"postcode": "0160861",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Saikanagane",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "彩霞長根",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160857": {
+			"postcode": "0160857",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Takomukai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "田子向",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160856": {
+			"postcode": "0160856",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Fujiyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "藤山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160855": {
+			"postcode": "0160855",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Nishiose",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "西大瀬",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160854": {
+			"postcode": "0160854",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Hoshodai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "豊祥岱",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160853": {
+			"postcode": "0160853",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Deto",
+			"building_name": "Ushiro",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "出戸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160852": {
+			"postcode": "0160852",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Deto",
+			"building_name": "Hommachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "出戸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160851": {
+			"postcode": "0160851",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Midorimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "緑町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160846": {
+			"postcode": "0160846",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Sakaemachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "栄町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160845": {
+			"postcode": "0160845",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Torimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "通町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160844": {
+			"postcode": "0160844",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Hanazonomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "花園町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160843": {
+			"postcode": "0160843",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Chuwa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "中和",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160842": {
+			"postcode": "0160842",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Oiwakemachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "追分町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160841": {
+			"postcode": "0160841",
+			"prefecture_name": "Noshiro-shi",
+			"city_name": "Yosan",
+			"ward_name": "",
+			"town_name": null,
+			"building_name": null,
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "養蚕\",AKITA KEN\"",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160839": {
+			"postcode": "0160839",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Higashiose",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "東大瀬",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160838": {
+			"postcode": "0160838",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Yosanwaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "養蚕脇",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160837": {
+			"postcode": "0160837",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Nishiakanuma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "西赤沼",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160836": {
+			"postcode": "0160836",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Higashiakanuma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "東赤沼",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160835": {
+			"postcode": "0160835",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Akanuma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "赤沼",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160834": {
+			"postcode": "0160834",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Genaizaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "下内崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160833": {
+			"postcode": "0160833",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Meijimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "明治町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160832": {
+			"postcode": "0160832",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Minamimotomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "南元町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160831": {
+			"postcode": "0160831",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Motomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "元町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160825": {
+			"postcode": "0160825",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Yanagimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "柳町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160824": {
+			"postcode": "0160824",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Sumiyoshimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "住吉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160823": {
+			"postcode": "0160823",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Wakamatsucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "若松町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160822": {
+			"postcode": "0160822",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Higashimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "東町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160821": {
+			"postcode": "0160821",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Hatamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "畠町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160817": {
+			"postcode": "0160817",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Kammachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "上町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160816": {
+			"postcode": "0160816",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Tomimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "富町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160815": {
+			"postcode": "0160815",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Goshinammachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "御指南町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160814": {
+			"postcode": "0160814",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Nakagawara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "中川原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160813": {
+			"postcode": "0160813",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Noshiromachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "能代町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160812": {
+			"postcode": "0160812",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Nakajima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "中嶋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160811": {
+			"postcode": "0160811",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Hiyoshimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "日吉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160808": {
+			"postcode": "0160808",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Hiyoriyamashita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "日和山下",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160807": {
+			"postcode": "0160807",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Omoriyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "大森山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160806": {
+			"postcode": "0160806",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Seisukemachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "清助町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160805": {
+			"postcode": "0160805",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Otemachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "大手町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160804": {
+			"postcode": "0160804",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Aramachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "万町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160803": {
+			"postcode": "0160803",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Omachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "大町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160802": {
+			"postcode": "0160802",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Kawabatamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "川反町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160801": {
+			"postcode": "0160801",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Hamadorimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "浜通町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160188": {
+			"postcode": "0160188",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Teramukai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "寺向",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160187": {
+			"postcode": "0160187",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Shimoyanagi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "下柳",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160186": {
+			"postcode": "0160186",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Shimono",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "下野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160185": {
+			"postcode": "0160185",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Shimose",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "下瀬",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160184": {
+			"postcode": "0160184",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Takahana",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "高塙",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160183": {
+			"postcode": "0160183",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Nakayanagi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "中柳",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160182": {
+			"postcode": "0160182",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Kamiyanagi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "上柳",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160181": {
+			"postcode": "0160181",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Osemamashita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "大瀬儘下",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160179": {
+			"postcode": "0160179",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Asanai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "浅内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160178": {
+			"postcode": "0160178",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Kurozaemonsasadai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "九郎左衛門笹台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160177": {
+			"postcode": "0160177",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Gongendai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "権現台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160176": {
+			"postcode": "0160176",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Togawamukai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "戸川向",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160175": {
+			"postcode": "0160175",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Furuyashiki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "古屋布",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160174": {
+			"postcode": "0160174",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Shinzammae",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "新山前",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160173": {
+			"postcode": "0160173",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Shimofurukawashiki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "下古川布",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160172": {
+			"postcode": "0160172",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Kamifurukawashiki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "上古川布",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160171": {
+			"postcode": "0160171",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Kawatogawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "河戸川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160169": {
+			"postcode": "0160169",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Bogasaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "坊ケ崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160168": {
+			"postcode": "0160168",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Jisshuzaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "十洲崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160167": {
+			"postcode": "0160167",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Shiokarada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "塩干田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160166": {
+			"postcode": "0160166",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Kashikodokoro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "柏子所",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160165": {
+			"postcode": "0160165",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Taya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "田屋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160164": {
+			"postcode": "0160164",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Otsuka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "大塚",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160163": {
+			"postcode": "0160163",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Sodemata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "袖又",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160162": {
+			"postcode": "0160162",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Ouchida",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "大内田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160161": {
+			"postcode": "0160161",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Matsunagashiki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "松長布",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160157": {
+			"postcode": "0160157",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Haragainosawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "腹鞁ノ沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160156": {
+			"postcode": "0160156",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Nakazawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "中沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160155": {
+			"postcode": "0160155",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Omori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "大森",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160154": {
+			"postcode": "0160154",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Kamiyachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "上谷地",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160153": {
+			"postcode": "0160153",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Kamiseki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "上関",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160152": {
+			"postcode": "0160152",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Motai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "母体",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160151": {
+			"postcode": "0160151",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Hiyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "檜山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160149": {
+			"postcode": "0160149",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Tanakayachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "田中谷地",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160148": {
+			"postcode": "0160148",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Hiyashimizu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "冷清水",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160147": {
+			"postcode": "0160147",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Toyaba",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "鳥矢場",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160146": {
+			"postcode": "0160146",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Sototsutsumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "外堤",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160145": {
+			"postcode": "0160145",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Wakata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "若田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160144": {
+			"postcode": "0160144",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Uenoyamadai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "上ノ山台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160143": {
+			"postcode": "0160143",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Uenoyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "上ノ山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160142": {
+			"postcode": "0160142",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Hantozawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "半戸沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160141": {
+			"postcode": "0160141",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Unosawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "鵜ノ沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160139": {
+			"postcode": "0160139",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Yachiue",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "谷地上",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160138": {
+			"postcode": "0160138",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Udori",
+			"building_name": "Gawara",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "鵜鳥",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160137": {
+			"postcode": "0160137",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Udori",
+			"building_name": "Akudo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "鵜鳥",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160136": {
+			"postcode": "0160136",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Utori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "鵜鳥",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160135": {
+			"postcode": "0160135",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Ubafutokoro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "姥懐",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160134": {
+			"postcode": "0160134",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Tokusazawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "戸草沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160133": {
+			"postcode": "0160133",
+			"prefecture_name": "Noshiro-shi",
+			"city_name": "Mukaitaomote",
+			"ward_name": "",
+			"town_name": null,
+			"building_name": null,
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "向田表\",AKITA KEN\"",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160132": {
+			"postcode": "0160132",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Machiushiro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "町後",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160131": {
+			"postcode": "0160131",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Tsurugata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "鶴形",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160123": {
+			"postcode": "0160123",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Tadokonai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "田床内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160122": {
+			"postcode": "0160122",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Ogida",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "扇田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160121": {
+			"postcode": "0160121",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Kairagefuchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "鰄渕",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160116": {
+			"postcode": "0160116",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Hataorisorinome",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "機織轌ノ目",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160115": {
+			"postcode": "0160115",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Akudo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "悪戸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160114": {
+			"postcode": "0160114",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Nakaakudo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "中悪戸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160113": {
+			"postcode": "0160113",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Shimoakudo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "下悪戸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160112": {
+			"postcode": "0160112",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Nakajima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "中嶋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160111": {
+			"postcode": "0160111",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Niidashiroyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "仁井田白山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160104": {
+			"postcode": "0160104",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Shimoseki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "下関",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160103": {
+			"postcode": "0160103",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Miyanomae",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "宮ノ前",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160102": {
+			"postcode": "0160102",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Ippongi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "一本木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160101": {
+			"postcode": "0160101",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Nakaseki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "中関",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160017": {
+			"postcode": "0160017",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Iwao",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "磐",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160016": {
+			"postcode": "0160016",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Tako",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "竹生",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160015": {
+			"postcode": "0160015",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Suda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "須田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160014": {
+			"postcode": "0160014",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Ochiai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "落合",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160013": {
+			"postcode": "0160013",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Mukainoshiro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "向能代",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160012": {
+			"postcode": "0160012",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Hihata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "比八田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160011": {
+			"postcode": "0160011",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Sakagata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "坂形",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160005": {
+			"postcode": "0160005",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Makabechi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "真壁地",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160004": {
+			"postcode": "0160004",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Fukkoshi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "吹越",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160003": {
+			"postcode": "0160003",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Nihata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "荷八田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160002": {
+			"postcode": "0160002",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Honokise",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "朴瀬",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160001": {
+			"postcode": "0160001",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "Sotoaramaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "外荒巻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		},
+		"0160000": {
+			"postcode": "0160000",
+			"prefecture_name": "Akita-ken",
+			"city_name": "Noshiro-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "秋田県",
+					"city_name": "能代市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"city_code": "能代市"
+		}
+	}
+}

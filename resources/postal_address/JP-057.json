@@ -1,0 +1,711 @@
+{
+	"country_code": "JP",
+	"parent_id": "057",
+	"locale": "ja-Latn",
+	"address": {
+		"0578558": {
+			"postcode": "0578558",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Urakawa-gun",
+			"ward_name": "Urakawa-cho",
+			"town_name": "栄丘東通",
+			"building_name": "５６号",
+			"organization_name": "北海道　日高振興局",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "浦河郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "浦河郡",
+					"ward_name": "浦河町",
+					"town_name": "栄丘東通",
+					"building_name": "５６号",
+					"organization_name": "北海道　日高振興局"
+				}
+			}
+		},
+		"0578511": {
+			"postcode": "0578511",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Urakawa-gun",
+			"ward_name": "Urakawa-cho",
+			"town_name": "築地",
+			"building_name": "１丁目３−１",
+			"organization_name": "浦河町役場",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "浦河郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "浦河郡",
+					"ward_name": "浦河町",
+					"town_name": "築地",
+					"building_name": "１丁目３−１",
+					"organization_name": "浦河町役場"
+				}
+			}
+		},
+		"0570174": {
+			"postcode": "0570174",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Urakawa-gun",
+			"ward_name": "Urakawa-cho",
+			"town_name": "Kaminishicha",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "浦河郡",
+					"ward_name": "浦河町",
+					"town_name": "上西舎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "浦河郡"
+		},
+		"0570173": {
+			"postcode": "0570173",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Urakawa-gun",
+			"ward_name": "Urakawa-cho",
+			"town_name": "Kamikineusu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "浦河郡",
+					"ward_name": "浦河町",
+					"town_name": "上杵臼",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "浦河郡"
+		},
+		"0570172": {
+			"postcode": "0570172",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Urakawa-gun",
+			"ward_name": "Urakawa-cho",
+			"town_name": "Kineusu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "浦河郡",
+					"ward_name": "浦河町",
+					"town_name": "杵臼",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "浦河郡"
+		},
+		"0570171": {
+			"postcode": "0570171",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Urakawa-gun",
+			"ward_name": "Urakawa-cho",
+			"town_name": "Nishicha",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "浦河郡",
+					"ward_name": "浦河町",
+					"town_name": "西舎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "浦河郡"
+		},
+		"0570036": {
+			"postcode": "0570036",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Urakawa-gun",
+			"ward_name": "Urakawa-cho",
+			"town_name": "Ebue",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "浦河郡",
+					"ward_name": "浦河町",
+					"town_name": "絵笛",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "浦河郡"
+		},
+		"0570035": {
+			"postcode": "0570035",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Urakawa-gun",
+			"ward_name": "Urakawa-cho",
+			"town_name": "Ikantai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "浦河郡",
+					"ward_name": "浦河町",
+					"town_name": "井寒台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "浦河郡"
+		},
+		"0570034": {
+			"postcode": "0570034",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Urakawa-gun",
+			"ward_name": "Urakawa-cho",
+			"town_name": "Sakaimachi",
+			"building_name": "Nishi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "浦河郡",
+					"ward_name": "浦河町",
+					"town_name": "堺町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "浦河郡"
+		},
+		"0570033": {
+			"postcode": "0570033",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Urakawa-gun",
+			"ward_name": "Urakawa-cho",
+			"town_name": "Sakaimachi",
+			"building_name": "Higashi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "浦河郡",
+					"ward_name": "浦河町",
+					"town_name": "堺町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "浦河郡"
+		},
+		"0570032": {
+			"postcode": "0570032",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Urakawa-gun",
+			"ward_name": "Urakawa-cho",
+			"town_name": "Mukogaoka",
+			"building_name": "Nishi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "浦河郡",
+					"ward_name": "浦河町",
+					"town_name": "向が丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "浦河郡"
+		},
+		"0570031": {
+			"postcode": "0570031",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Urakawa-gun",
+			"ward_name": "Urakawa-cho",
+			"town_name": "Mukogaoka",
+			"building_name": "Higashi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "浦河郡",
+					"ward_name": "浦河町",
+					"town_name": "向が丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "浦河郡"
+		},
+		"0570027": {
+			"postcode": "0570027",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Urakawa-gun",
+			"ward_name": "Urakawa-cho",
+			"town_name": "Kamimukobetsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "浦河郡",
+					"ward_name": "浦河町",
+					"town_name": "上向別",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "浦河郡"
+		},
+		"0570026": {
+			"postcode": "0570026",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Urakawa-gun",
+			"ward_name": "Urakawa-cho",
+			"town_name": "Mukobetsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "浦河郡",
+					"ward_name": "浦河町",
+					"town_name": "向別",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "浦河郡"
+		},
+		"0570025": {
+			"postcode": "0570025",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Urakawa-gun",
+			"ward_name": "Urakawa-cho",
+			"town_name": "Midorimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "浦河郡",
+					"ward_name": "浦河町",
+					"town_name": "緑町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "浦河郡"
+		},
+		"0570024": {
+			"postcode": "0570024",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Urakawa-gun",
+			"ward_name": "Urakawa-cho",
+			"town_name": "Tsukiji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "浦河郡",
+					"ward_name": "浦河町",
+					"town_name": "築地",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "浦河郡"
+		},
+		"0570023": {
+			"postcode": "0570023",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Urakawa-gun",
+			"ward_name": "Urakawa-cho",
+			"town_name": "Sakaeoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "浦河郡",
+					"ward_name": "浦河町",
+					"town_name": "栄丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "浦河郡"
+		},
+		"0570022": {
+			"postcode": "0570022",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Urakawa-gun",
+			"ward_name": "Urakawa-cho",
+			"town_name": "Shoheicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "浦河郡",
+					"ward_name": "浦河町",
+					"town_name": "昌平町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "浦河郡"
+		},
+		"0570021": {
+			"postcode": "0570021",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Urakawa-gun",
+			"ward_name": "Urakawa-cho",
+			"town_name": "Shiomicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "浦河郡",
+					"ward_name": "浦河町",
+					"town_name": "潮見町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "浦河郡"
+		},
+		"0570015": {
+			"postcode": "0570015",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Urakawa-gun",
+			"ward_name": "Urakawa-cho",
+			"town_name": "Hamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "浦河郡",
+					"ward_name": "浦河町",
+					"town_name": "浜町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "浦河郡"
+		},
+		"0570014": {
+			"postcode": "0570014",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Urakawa-gun",
+			"ward_name": "Urakawa-cho",
+			"town_name": "Irifunecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "浦河郡",
+					"ward_name": "浦河町",
+					"town_name": "入船町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "浦河郡"
+		},
+		"0570013": {
+			"postcode": "0570013",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Urakawa-gun",
+			"ward_name": "Urakawa-cho",
+			"town_name": "Odori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "浦河郡",
+					"ward_name": "浦河町",
+					"town_name": "大通",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "浦河郡"
+		},
+		"0570012": {
+			"postcode": "0570012",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Urakawa-gun",
+			"ward_name": "Urakawa-cho",
+			"town_name": "Tokiwacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "浦河郡",
+					"ward_name": "浦河町",
+					"town_name": "常盤町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "浦河郡"
+		},
+		"0570011": {
+			"postcode": "0570011",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Urakawa-gun",
+			"ward_name": "Urakawa-cho",
+			"town_name": "Asahicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "浦河郡",
+					"ward_name": "浦河町",
+					"town_name": "旭町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "浦河郡"
+		},
+		"0570007": {
+			"postcode": "0570007",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Urakawa-gun",
+			"ward_name": "Urakawa-cho",
+			"town_name": "Higashicho",
+			"building_name": "Chinomi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "浦河郡",
+					"ward_name": "浦河町",
+					"town_name": "東町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "浦河郡"
+		},
+		"0570006": {
+			"postcode": "0570006",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Urakawa-gun",
+			"ward_name": "Urakawa-cho",
+			"town_name": "Higashicho",
+			"building_name": "Kashiwa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "浦河郡",
+					"ward_name": "浦河町",
+					"town_name": "東町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "浦河郡"
+		},
+		"0570005": {
+			"postcode": "0570005",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Urakawa-gun",
+			"ward_name": "Urakawa-cho",
+			"town_name": "Higashicho",
+			"building_name": "Ushio",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "浦河郡",
+					"ward_name": "浦河町",
+					"town_name": "東町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "浦河郡"
+		},
+		"0570004": {
+			"postcode": "0570004",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Urakawa-gun",
+			"ward_name": "Urakawa-cho",
+			"town_name": "Tsukisappu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "浦河郡",
+					"ward_name": "浦河町",
+					"town_name": "月寒",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "浦河郡"
+		},
+		"0570003": {
+			"postcode": "0570003",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Urakawa-gun",
+			"ward_name": "Urakawa-cho",
+			"town_name": "Shiroizumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "浦河郡",
+					"ward_name": "浦河町",
+					"town_name": "白泉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "浦河郡"
+		},
+		"0570002": {
+			"postcode": "0570002",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Urakawa-gun",
+			"ward_name": "Urakawa-cho",
+			"town_name": "Nishihorobetsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "浦河郡",
+					"ward_name": "浦河町",
+					"town_name": "西幌別",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "浦河郡"
+		},
+		"0570001": {
+			"postcode": "0570001",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Urakawa-gun",
+			"ward_name": "Urakawa-cho",
+			"town_name": "Higashihorobetsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "浦河郡",
+					"ward_name": "浦河町",
+					"town_name": "東幌別",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "浦河郡"
+		},
+		"0570000": {
+			"postcode": "0570000",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Urakawa-gun",
+			"ward_name": "Urakawa-cho",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "浦河郡",
+					"ward_name": "浦河町",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "浦河郡"
+		}
+	}
+}

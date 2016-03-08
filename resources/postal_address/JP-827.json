@@ -1,0 +1,139 @@
+{
+	"country_code": "JP",
+	"parent_id": "827",
+	"locale": "ja-Latn",
+	"address": {
+		"8278501": {
+			"postcode": "8278501",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Tagawa-gun",
+			"ward_name": "Kawasaki-machi",
+			"town_name": "大字田原",
+			"building_name": "７８９−２",
+			"organization_name": "川崎町役場",
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "田川郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "田川郡",
+					"ward_name": "川崎町",
+					"town_name": "大字田原",
+					"building_name": "７８９−２",
+					"organization_name": "川崎町役場"
+				}
+			}
+		},
+		"8270004": {
+			"postcode": "8270004",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Tagawa-gun",
+			"ward_name": "Kawasaki-machi",
+			"town_name": "Tabara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "田川郡",
+					"ward_name": "川崎町",
+					"town_name": "田原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "田川郡"
+		},
+		"8270003": {
+			"postcode": "8270003",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Tagawa-gun",
+			"ward_name": "Kawasaki-machi",
+			"town_name": "Kawasaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "田川郡",
+					"ward_name": "川崎町",
+					"town_name": "川崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "田川郡"
+		},
+		"8270002": {
+			"postcode": "8270002",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Tagawa-gun",
+			"ward_name": "Kawasaki-machi",
+			"town_name": "Ikejiri",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "田川郡",
+					"ward_name": "川崎町",
+					"town_name": "池尻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "田川郡"
+		},
+		"8270001": {
+			"postcode": "8270001",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Tagawa-gun",
+			"ward_name": "Kawasaki-machi",
+			"town_name": "Amagi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "田川郡",
+					"ward_name": "川崎町",
+					"town_name": "安眞木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "田川郡"
+		},
+		"8270000": {
+			"postcode": "8270000",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Tagawa-gun",
+			"ward_name": "Kawasaki-machi",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "田川郡",
+					"ward_name": "川崎町",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "田川郡"
+		}
+	}
+}

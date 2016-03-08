@@ -1,0 +1,843 @@
+{
+	"country_code": "JP",
+	"parent_id": "075",
+	"locale": "ja-Latn",
+	"address": {
+		"0758711": {
+			"postcode": "0758711",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ashibetsu-shi",
+			"ward_name": "",
+			"town_name": "北一条東",
+			"building_name": "１丁目３番地",
+			"organization_name": "芦別市役所",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "芦別市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "芦別市",
+					"ward_name": "",
+					"town_name": "北一条東",
+					"building_name": "１丁目３番地",
+					"organization_name": "芦別市役所"
+				}
+			}
+		},
+		"0758501": {
+			"postcode": "0758501",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ashibetsu-shi",
+			"ward_name": "",
+			"town_name": "本町",
+			"building_name": "１４番地",
+			"organization_name": "芦別市立病院",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "芦別市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "芦別市",
+					"ward_name": "",
+					"town_name": "本町",
+					"building_name": "１４番地",
+					"organization_name": "芦別市立病院"
+				}
+			}
+		},
+		"0750254": {
+			"postcode": "0750254",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ashibetsu-shi",
+			"ward_name": "",
+			"town_name": "Toyoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "芦別市",
+					"ward_name": "",
+					"town_name": "豊岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "芦別市"
+		},
+		"0750253": {
+			"postcode": "0750253",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ashibetsu-shi",
+			"ward_name": "",
+			"town_name": "Toyokacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "芦別市",
+					"ward_name": "",
+					"town_name": "豊岡町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "芦別市"
+		},
+		"0750252": {
+			"postcode": "0750252",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ashibetsu-shi",
+			"ward_name": "",
+			"town_name": "Koganecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "芦別市",
+					"ward_name": "",
+					"town_name": "黄金町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "芦別市"
+		},
+		"0750251": {
+			"postcode": "0750251",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ashibetsu-shi",
+			"ward_name": "",
+			"town_name": "Shinjocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "芦別市",
+					"ward_name": "",
+					"town_name": "新城町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "芦別市"
+		},
+		"0750167": {
+			"postcode": "0750167",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ashibetsu-shi",
+			"ward_name": "",
+			"town_name": "Nakanokacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "芦別市",
+					"ward_name": "",
+					"town_name": "中の丘町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "芦別市"
+		},
+		"0750166": {
+			"postcode": "0750166",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ashibetsu-shi",
+			"ward_name": "",
+			"town_name": "Kawagishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "芦別市",
+					"ward_name": "",
+					"town_name": "川岸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "芦別市"
+		},
+		"0750165": {
+			"postcode": "0750165",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ashibetsu-shi",
+			"ward_name": "",
+			"town_name": "Aokisawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "芦別市",
+					"ward_name": "",
+					"town_name": "青木沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "芦別市"
+		},
+		"0750164": {
+			"postcode": "0750164",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ashibetsu-shi",
+			"ward_name": "",
+			"town_name": "Raijocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "芦別市",
+					"ward_name": "",
+					"town_name": "頼城町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "芦別市"
+		},
+		"0750163": {
+			"postcode": "0750163",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ashibetsu-shi",
+			"ward_name": "",
+			"town_name": "Rokusencho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "芦別市",
+					"ward_name": "",
+					"town_name": "緑泉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "芦別市"
+		},
+		"0750162": {
+			"postcode": "0750162",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ashibetsu-shi",
+			"ward_name": "",
+			"town_name": "Higashiraijocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "芦別市",
+					"ward_name": "",
+					"town_name": "東頼城町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "芦別市"
+		},
+		"0750161": {
+			"postcode": "0750161",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ashibetsu-shi",
+			"ward_name": "",
+			"town_name": "Nishiashibetsucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "芦別市",
+					"ward_name": "",
+					"town_name": "西芦別町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "芦別市"
+		},
+		"0750041": {
+			"postcode": "0750041",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ashibetsu-shi",
+			"ward_name": "",
+			"town_name": "Honcho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "芦別市",
+					"ward_name": "",
+					"town_name": "本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "芦別市"
+		},
+		"0750036": {
+			"postcode": "0750036",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ashibetsu-shi",
+			"ward_name": "",
+			"town_name": "Asahicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "芦別市",
+					"ward_name": "",
+					"town_name": "旭町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "芦別市"
+		},
+		"0750035": {
+			"postcode": "0750035",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ashibetsu-shi",
+			"ward_name": "",
+			"town_name": "Asahimachiyuya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "芦別市",
+					"ward_name": "",
+					"town_name": "旭町油谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "芦別市"
+		},
+		"0750034": {
+			"postcode": "0750034",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ashibetsu-shi",
+			"ward_name": "",
+			"town_name": "Horonai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "芦別市",
+					"ward_name": "",
+					"town_name": "幌内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "芦別市"
+		},
+		"0750033": {
+			"postcode": "0750033",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ashibetsu-shi",
+			"ward_name": "",
+			"town_name": "Minami3-johigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "芦別市",
+					"ward_name": "",
+					"town_name": "南三条東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "芦別市"
+		},
+		"0750032": {
+			"postcode": "0750032",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ashibetsu-shi",
+			"ward_name": "",
+			"town_name": "Minami2-johigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "芦別市",
+					"ward_name": "",
+					"town_name": "南二条東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "芦別市"
+		},
+		"0750031": {
+			"postcode": "0750031",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ashibetsu-shi",
+			"ward_name": "",
+			"town_name": "Minami1-johigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "芦別市",
+					"ward_name": "",
+					"town_name": "南一条東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "芦別市"
+		},
+		"0750021": {
+			"postcode": "0750021",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ashibetsu-shi",
+			"ward_name": "",
+			"town_name": "Minami1-jonishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "芦別市",
+					"ward_name": "",
+					"town_name": "南一条西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "芦別市"
+		},
+		"0750019": {
+			"postcode": "0750019",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ashibetsu-shi",
+			"ward_name": "",
+			"town_name": "Takanecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "芦別市",
+					"ward_name": "",
+					"town_name": "高根町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "芦別市"
+		},
+		"0750018": {
+			"postcode": "0750018",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ashibetsu-shi",
+			"ward_name": "",
+			"town_name": "Tokiwacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "芦別市",
+					"ward_name": "",
+					"town_name": "常磐町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "芦別市"
+		},
+		"0750017": {
+			"postcode": "0750017",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ashibetsu-shi",
+			"ward_name": "",
+			"town_name": "Fukuzumicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "芦別市",
+					"ward_name": "",
+					"town_name": "福住町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "芦別市"
+		},
+		"0750016": {
+			"postcode": "0750016",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ashibetsu-shi",
+			"ward_name": "",
+			"town_name": "Kita6-johigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "芦別市",
+					"ward_name": "",
+					"town_name": "北六条東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "芦別市"
+		},
+		"0750015": {
+			"postcode": "0750015",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ashibetsu-shi",
+			"ward_name": "",
+			"town_name": "Kita5-johigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "芦別市",
+					"ward_name": "",
+					"town_name": "北五条東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "芦別市"
+		},
+		"0750014": {
+			"postcode": "0750014",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ashibetsu-shi",
+			"ward_name": "",
+			"town_name": "Kita4-johigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "芦別市",
+					"ward_name": "",
+					"town_name": "北四条東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "芦別市"
+		},
+		"0750013": {
+			"postcode": "0750013",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ashibetsu-shi",
+			"ward_name": "",
+			"town_name": "Kita3-johigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "芦別市",
+					"ward_name": "",
+					"town_name": "北三条東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "芦別市"
+		},
+		"0750012": {
+			"postcode": "0750012",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ashibetsu-shi",
+			"ward_name": "",
+			"town_name": "Kita2-johigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "芦別市",
+					"ward_name": "",
+					"town_name": "北二条東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "芦別市"
+		},
+		"0750011": {
+			"postcode": "0750011",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ashibetsu-shi",
+			"ward_name": "",
+			"town_name": "Kita1-johigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "芦別市",
+					"ward_name": "",
+					"town_name": "北一条東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "芦別市"
+		},
+		"0750007": {
+			"postcode": "0750007",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ashibetsu-shi",
+			"ward_name": "",
+			"town_name": "Kita7-jonishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "芦別市",
+					"ward_name": "",
+					"town_name": "北七条西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "芦別市"
+		},
+		"0750006": {
+			"postcode": "0750006",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ashibetsu-shi",
+			"ward_name": "",
+			"town_name": "Kita6-jonishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "芦別市",
+					"ward_name": "",
+					"town_name": "北六条西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "芦別市"
+		},
+		"0750005": {
+			"postcode": "0750005",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ashibetsu-shi",
+			"ward_name": "",
+			"town_name": "Kita5-jonishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "芦別市",
+					"ward_name": "",
+					"town_name": "北五条西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "芦別市"
+		},
+		"0750004": {
+			"postcode": "0750004",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ashibetsu-shi",
+			"ward_name": "",
+			"town_name": "Kita4-jonishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "芦別市",
+					"ward_name": "",
+					"town_name": "北四条西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "芦別市"
+		},
+		"0750003": {
+			"postcode": "0750003",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ashibetsu-shi",
+			"ward_name": "",
+			"town_name": "Kita3-jonishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "芦別市",
+					"ward_name": "",
+					"town_name": "北三条西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "芦別市"
+		},
+		"0750002": {
+			"postcode": "0750002",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ashibetsu-shi",
+			"ward_name": "",
+			"town_name": "Kita2-jonishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "芦別市",
+					"ward_name": "",
+					"town_name": "北二条西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "芦別市"
+		},
+		"0750001": {
+			"postcode": "0750001",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ashibetsu-shi",
+			"ward_name": "",
+			"town_name": "Kita1-jonishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "芦別市",
+					"ward_name": "",
+					"town_name": "北一条西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "芦別市"
+		},
+		"0750000": {
+			"postcode": "0750000",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ashibetsu-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "芦別市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "芦別市"
+		}
+	}
+}

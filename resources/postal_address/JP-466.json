@@ -1,0 +1,2911 @@
+{
+	"country_code": "JP",
+	"parent_id": "466",
+	"locale": "ja-Latn",
+	"address": {
+		"4668711": {
+			"postcode": "4668711",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "白金",
+			"building_name": "３丁目２０−１５",
+			"organization_name": "辰巳屋興業　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "白金",
+					"building_name": "３丁目２０−１５",
+					"organization_name": "辰巳屋興業　株式会社"
+				}
+			}
+		},
+		"4668707": {
+			"postcode": "4668707",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "高峯町",
+			"building_name": "１５４（昭和郵便局私書箱第１２３号）",
+			"organization_name": "中京テレビ放送　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "高峯町",
+					"building_name": "１５４（昭和郵便局私書箱第１２３号）",
+					"organization_name": "中京テレビ放送　株式会社"
+				}
+			}
+		},
+		"4668701": {
+			"postcode": "4668701",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "高辻町",
+			"building_name": "６−８（昭和郵便局私書箱第３９号）",
+			"organization_name": "愛知トヨタ自動車　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "高辻町",
+					"building_name": "６−８（昭和郵便局私書箱第３９号）",
+					"organization_name": "愛知トヨタ自動車　株式会社"
+				}
+			}
+		},
+		"4668673": {
+			"postcode": "4668673",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "山里町",
+			"building_name": "１８",
+			"organization_name": "南山大学",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "山里町",
+					"building_name": "１８",
+					"organization_name": "南山大学"
+				}
+			}
+		},
+		"4668666": {
+			"postcode": "4668666",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "八事本町",
+			"building_name": "１０１−２",
+			"organization_name": "中京大学",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "八事本町",
+					"building_name": "１０１−２",
+					"organization_name": "中京大学"
+				}
+			}
+		},
+		"4668660": {
+			"postcode": "4668660",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "山手通",
+			"building_name": "３丁目２１ワイワイプラザ",
+			"organization_name": "（株）　ジョットインターナショナル　名古屋支店",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "山手通",
+					"building_name": "３丁目２１ワイワイプラザ",
+					"organization_name": "（株）　ジョットインターナショナル　名古屋支店"
+				}
+			}
+		},
+		"4668657": {
+			"postcode": "4668657",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "山手通",
+			"building_name": "２丁目１６−１",
+			"organization_name": "大学生協　東海会館",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "山手通",
+					"building_name": "２丁目１６−１",
+					"organization_name": "大学生協　東海会館"
+				}
+			}
+		},
+		"4668656": {
+			"postcode": "4668656",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "山手通",
+			"building_name": "３丁目２１",
+			"organization_name": "矢崎総業　株式会社　名古屋支店",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "山手通",
+					"building_name": "３丁目２１",
+					"organization_name": "矢崎総業　株式会社　名古屋支店"
+				}
+			}
+		},
+		"4668655": {
+			"postcode": "4668655",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "妙見町",
+			"building_name": "１９−２",
+			"organization_name": "愛知県保険医協会",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "妙見町",
+					"building_name": "１９−２",
+					"organization_name": "愛知県保険医協会"
+				}
+			}
+		},
+		"4668650": {
+			"postcode": "4668650",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "妙見町",
+			"building_name": "２−９",
+			"organization_name": "名古屋第二赤十字病院",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "妙見町",
+					"building_name": "２−９",
+					"organization_name": "名古屋第二赤十字病院"
+				}
+			}
+		},
+		"4668635": {
+			"postcode": "4668635",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "高峯町",
+			"building_name": "１５４",
+			"organization_name": "中京テレビ放送　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "高峯町",
+					"building_name": "１５４",
+					"organization_name": "中京テレビ放送　株式会社"
+				}
+			}
+		},
+		"4668633": {
+			"postcode": "4668633",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "川名山町",
+			"building_name": "５６",
+			"organization_name": "聖霊病院",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "川名山町",
+					"building_name": "５６",
+					"organization_name": "聖霊病院"
+				}
+			}
+		},
+		"4668630": {
+			"postcode": "4668630",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "滝川町",
+			"building_name": "４７−２４",
+			"organization_name": "光洋マテリカ　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "滝川町",
+					"building_name": "４７−２４",
+					"organization_name": "光洋マテリカ　株式会社"
+				}
+			}
+		},
+		"4668588": {
+			"postcode": "4668588",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "緑町",
+			"building_name": "３丁目１７",
+			"organization_name": "パイロットインキ　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "緑町",
+					"building_name": "３丁目１７",
+					"organization_name": "パイロットインキ　株式会社"
+				}
+			}
+		},
+		"4668585": {
+			"postcode": "4668585",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "阿由知通",
+			"building_name": "３丁目１９",
+			"organization_name": "名古屋市昭和区役所",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "阿由知通",
+					"building_name": "３丁目１９",
+					"organization_name": "名古屋市昭和区役所"
+				}
+			}
+		},
+		"4668580": {
+			"postcode": "4668580",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "福江",
+			"building_name": "３丁目７番５６号",
+			"organization_name": "社団法人　日本自動車連盟　愛知支部",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "福江",
+					"building_name": "３丁目７番５６号",
+					"organization_name": "社団法人　日本自動車連盟　愛知支部"
+				}
+			}
+		},
+		"4668567": {
+			"postcode": "4668567",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "桜山町",
+			"building_name": "５丁目９９番地６",
+			"organization_name": "日本年金機構　昭和年金事務所",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "桜山町",
+					"building_name": "５丁目９９番地６",
+					"organization_name": "日本年金機構　昭和年金事務所"
+				}
+			}
+		},
+		"4668566": {
+			"postcode": "4668566",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "円上町",
+			"building_name": "２６番１５号愛知県高辻センター２階（愛知県警察本部分庁舎内）",
+			"organization_name": "公益社団法人　愛知県安全運転管理協議会",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "円上町",
+					"building_name": "２６番１５号愛知県高辻センター２階（愛知県警察本部分庁舎内）",
+					"organization_name": "公益社団法人　愛知県安全運転管理協議会"
+				}
+			}
+		},
+		"4668565": {
+			"postcode": "4668565",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "滝子町",
+			"building_name": "２９−１９",
+			"organization_name": "（ＪＡＦ）社団法人　日本自動車連盟　中部本部",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "滝子町",
+					"building_name": "２９−１９",
+					"organization_name": "（ＪＡＦ）社団法人　日本自動車連盟　中部本部"
+				}
+			}
+		},
+		"4668560": {
+			"postcode": "4668560",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "鶴舞町",
+			"building_name": "６５",
+			"organization_name": "名古屋大学　医学部　附属病院",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "鶴舞町",
+					"building_name": "６５",
+					"organization_name": "名古屋大学　医学部　附属病院"
+				}
+			}
+		},
+		"4668558": {
+			"postcode": "4668558",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "滝子町",
+			"building_name": "３０番１６号",
+			"organization_name": "愛知県　自動車会館",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "滝子町",
+					"building_name": "３０番１６号",
+					"organization_name": "愛知県　自動車会館"
+				}
+			}
+		},
+		"4668555": {
+			"postcode": "4668555",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "御器所町",
+			"building_name": "",
+			"organization_name": "名古屋工業大学",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "御器所町",
+					"building_name": "",
+					"organization_name": "名古屋工業大学"
+				}
+			}
+		},
+		"4668554": {
+			"postcode": "4668554",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "阿由知通",
+			"building_name": "２丁目３",
+			"organization_name": "味の素　株式会社　名古屋支社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "阿由知通",
+					"building_name": "２丁目３",
+					"organization_name": "味の素　株式会社　名古屋支社"
+				}
+			}
+		},
+		"4668550": {
+			"postcode": "4668550",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "鶴舞町",
+			"building_name": "６５",
+			"organization_name": "名古屋大学　医学部",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "鶴舞町",
+					"building_name": "６５",
+					"organization_name": "名古屋大学　医学部"
+				}
+			}
+		},
+		"4668540": {
+			"postcode": "4668540",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "白金",
+			"building_name": "１丁目５−８",
+			"organization_name": "株式会社　ホンダベルノ愛知",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "白金",
+					"building_name": "１丁目５−８",
+					"organization_name": "株式会社　ホンダベルノ愛知"
+				}
+			}
+		},
+		"4668539": {
+			"postcode": "4668539",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "福江",
+			"building_name": "１丁目１９−２３",
+			"organization_name": "株式会社　一光　名古屋支店",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "福江",
+					"building_name": "１丁目１９−２３",
+					"organization_name": "株式会社　一光　名古屋支店"
+				}
+			}
+		},
+		"4668533": {
+			"postcode": "4668533",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "白金",
+			"building_name": "２丁目１０−７",
+			"organization_name": "株式会社　日伝　名古屋支店",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "白金",
+					"building_name": "２丁目１０−７",
+					"organization_name": "株式会社　日伝　名古屋支店"
+				}
+			}
+		},
+		"4668525": {
+			"postcode": "4668525",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "川名山町",
+			"building_name": "１２２",
+			"organization_name": "中京大学附属　中京高等学校",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "川名山町",
+					"building_name": "１２２",
+					"organization_name": "中京大学附属　中京高等学校"
+				}
+			}
+		},
+		"4668522": {
+			"postcode": "4668522",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "白金",
+			"building_name": "３丁目１８−２６",
+			"organization_name": "日本ペイント販売　株式会社　中部支社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "白金",
+					"building_name": "３丁目１８−２６",
+					"organization_name": "日本ペイント販売　株式会社　中部支社"
+				}
+			}
+		},
+		"4668515": {
+			"postcode": "4668515",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "白金",
+			"building_name": "１丁目１６−７",
+			"organization_name": "安藤　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "白金",
+					"building_name": "１丁目１６−７",
+					"organization_name": "安藤　株式会社"
+				}
+			}
+		},
+		"4668512": {
+			"postcode": "4668512",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "白金",
+			"building_name": "１丁目１１−１０",
+			"organization_name": "竹田印刷　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "白金",
+					"building_name": "１丁目１１−１０",
+					"organization_name": "竹田印刷　株式会社"
+				}
+			}
+		},
+		"4668511": {
+			"postcode": "4668511",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "高辻町",
+			"building_name": "４−３",
+			"organization_name": "中央工機　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "高辻町",
+					"building_name": "４−３",
+					"organization_name": "中央工機　株式会社"
+				}
+			}
+		},
+		"4668510": {
+			"postcode": "4668510",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "白金",
+			"building_name": "３丁目１７−１６",
+			"organization_name": "榊原　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "白金",
+					"building_name": "３丁目１７−１６",
+					"organization_name": "榊原　株式会社"
+				}
+			}
+		},
+		"4668508": {
+			"postcode": "4668508",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "滝子通",
+			"building_name": "２丁目２",
+			"organization_name": "トヨタカローラ愛豊　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "滝子通",
+					"building_name": "２丁目２",
+					"organization_name": "トヨタカローラ愛豊　株式会社"
+				}
+			}
+		},
+		"4668507": {
+			"postcode": "4668507",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "白金",
+			"building_name": "３丁目１８−１３",
+			"organization_name": "株式会社　木曽路",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "白金",
+					"building_name": "３丁目１８−１３",
+					"organization_name": "株式会社　木曽路"
+				}
+			}
+		},
+		"4668506": {
+			"postcode": "4668506",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "福江",
+			"building_name": "３丁目７−２",
+			"organization_name": "宮吉硝子　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "福江",
+					"building_name": "３丁目７−２",
+					"organization_name": "宮吉硝子　株式会社"
+				}
+			}
+		},
+		"4668505": {
+			"postcode": "4668505",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "白金",
+			"building_name": "３丁目２１−５",
+			"organization_name": "白川電気土木　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "白金",
+					"building_name": "３丁目２１−５",
+					"organization_name": "白川電気土木　株式会社"
+				}
+			}
+		},
+		"4668502": {
+			"postcode": "4668502",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "白金",
+			"building_name": "３丁目７−１２",
+			"organization_name": "トヨタＬ＆Ｆ中部　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "白金",
+					"building_name": "３丁目７−１２",
+					"organization_name": "トヨタＬ＆Ｆ中部　株式会社"
+				}
+			}
+		},
+		"4668501": {
+			"postcode": "4668501",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "円上町",
+			"building_name": "２６番１５号",
+			"organization_name": "愛知県名古屋南部県税事務所　高辻間税課",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "円上町",
+					"building_name": "２６番１５号",
+					"organization_name": "愛知県名古屋南部県税事務所　高辻間税課"
+				}
+			}
+		},
+		"4660858": {
+			"postcode": "4660858",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Oridocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "折戸町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660857": {
+			"postcode": "4660857",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Yasudatori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "安田通",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660856": {
+			"postcode": "4660856",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Kawanacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "川名町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660855": {
+			"postcode": "4660855",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Kawanahommachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "川名本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660854": {
+			"postcode": "4660854",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Hirojitori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "広路通",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660853": {
+			"postcode": "4660853",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Kawaharatori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "川原通",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660852": {
+			"postcode": "4660852",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Hagiwaracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "萩原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660851": {
+			"postcode": "4660851",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Motomiyacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "元宮町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660849": {
+			"postcode": "4660849",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Minamiwakecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "南分町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660848": {
+			"postcode": "4660848",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Nagatocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "長戸町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660847": {
+			"postcode": "4660847",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Nagaikecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "長池町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660846": {
+			"postcode": "4660846",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Todacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "戸田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660845": {
+			"postcode": "4660845",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Fujinaritori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "藤成通",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660844": {
+			"postcode": "4660844",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Aratacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "荒田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660843": {
+			"postcode": "4660843",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Kikuzonocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "菊園町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660842": {
+			"postcode": "4660842",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Dankeitori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "檀溪通",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660841": {
+			"postcode": "4660841",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Hirojihommachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "広路本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660838": {
+			"postcode": "4660838",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Gokenyacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "五軒家町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660837": {
+			"postcode": "4660837",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Shiomicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "汐見町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660836": {
+			"postcode": "4660836",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Kamiyamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "上山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660835": {
+			"postcode": "4660835",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Minamiyamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "南山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660834": {
+			"postcode": "4660834",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Hirojicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "広路町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660833": {
+			"postcode": "4660833",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Hayatocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "隼人町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660832": {
+			"postcode": "4660832",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Komagatacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "駒方町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660831": {
+			"postcode": "4660831",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Hanamitori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "花見通",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660829": {
+			"postcode": "4660829",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Mukaiyamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "向山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660828": {
+			"postcode": "4660828",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Yamanakacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "山中町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660827": {
+			"postcode": "4660827",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Kawanayamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "川名山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660826": {
+			"postcode": "4660826",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Takikawacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "滝川町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660825": {
+			"postcode": "4660825",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Yagotohommachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "八事本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660824": {
+			"postcode": "4660824",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Yamazatocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "山里町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660823": {
+			"postcode": "4660823",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Yakumocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "八雲町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660822": {
+			"postcode": "4660822",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Rakuencho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "楽園町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660821": {
+			"postcode": "4660821",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Maeyamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "前山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660815": {
+			"postcode": "4660815",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Yamanotetori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "山手通",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660814": {
+			"postcode": "4660814",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Myokencho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "妙見町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660812": {
+			"postcode": "4660812",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Yagotofujimi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "八事富士見",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660811": {
+			"postcode": "4660811",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Takaminecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "高峯町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660807": {
+			"postcode": "4660807",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Yamahanacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "山花町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660806": {
+			"postcode": "4660806",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Nishibatacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "西畑町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660805": {
+			"postcode": "4660805",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Ikatsucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "伊勝町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660804": {
+			"postcode": "4660804",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Miyahigashicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "宮東町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660803": {
+			"postcode": "4660803",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Fukuharacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "福原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660802": {
+			"postcode": "4660802",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Kamimuracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "神村町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660801": {
+			"postcode": "4660801",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Taomocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "田面町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660065": {
+			"postcode": "4660065",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Tsurumaicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "鶴舞町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660064": {
+			"postcode": "4660064",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Tsurumai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "鶴舞",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660063": {
+			"postcode": "4660063",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Yamawakicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "山脇町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660062": {
+			"postcode": "4660062",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Hazamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "狭間町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660061": {
+			"postcode": "4660061",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Gokisocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "御器所町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660059": {
+			"postcode": "4660059",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Fukue",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "福江",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660058": {
+			"postcode": "4660058",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Shirakane",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "白金",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660057": {
+			"postcode": "4660057",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Takatsujicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "高辻町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660056": {
+			"postcode": "4660056",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Tokotori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "東郊通",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660055": {
+			"postcode": "4660055",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Takigotori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "滝子通",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660054": {
+			"postcode": "4660054",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Enjocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "円上町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660053": {
+			"postcode": "4660053",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Takikocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "滝子町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660052": {
+			"postcode": "4660052",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Murakumocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "村雲町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660051": {
+			"postcode": "4660051",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Gokiso",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "御器所",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660047": {
+			"postcode": "4660047",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Eikincho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "永金町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660046": {
+			"postcode": "4660046",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Hiromicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "広見町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660045": {
+			"postcode": "4660045",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Maruyacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "丸屋町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660044": {
+			"postcode": "4660044",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Sakurayamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "桜山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660043": {
+			"postcode": "4660043",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Ikebatacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "池端町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660042": {
+			"postcode": "4660042",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Hiroikecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "広池町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660041": {
+			"postcode": "4660041",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Deguchicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "出口町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660037": {
+			"postcode": "4660037",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Ehocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "恵方町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660036": {
+			"postcode": "4660036",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Wakayagicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "若柳町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660035": {
+			"postcode": "4660035",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Matsukazecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "松風町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660034": {
+			"postcode": "4660034",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Meigetsucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "明月町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660033": {
+			"postcode": "4660033",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Daimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "台町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660032": {
+			"postcode": "4660032",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Tenjincho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "天神町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660031": {
+			"postcode": "4660031",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Kobaicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "紅梅町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660027": {
+			"postcode": "4660027",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Ayuchitori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "阿由知通",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660026": {
+			"postcode": "4660026",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Toseicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "陶生町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660025": {
+			"postcode": "4660025",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Shimogamaecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "下構町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660024": {
+			"postcode": "4660024",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Yamatocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "大和町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660023": {
+			"postcode": "4660023",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Ishibotokecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "石仏町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660022": {
+			"postcode": "4660022",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Shiotsuketori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "塩付通",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660021": {
+			"postcode": "4660021",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Kosakacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "小坂町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660016": {
+			"postcode": "4660016",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Kitayamahommachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "北山本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660015": {
+			"postcode": "4660015",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Gokisotori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "御器所通",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660014": {
+			"postcode": "4660014",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Tohatacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "東畑町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660013": {
+			"postcode": "4660013",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Midoricho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "緑町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660012": {
+			"postcode": "4660012",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Kosakuracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "小桜町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660011": {
+			"postcode": "4660011",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Tsuruhacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "鶴羽町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660006": {
+			"postcode": "4660006",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Kitayamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "北山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660005": {
+			"postcode": "4660005",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Yukimicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "雪見町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660004": {
+			"postcode": "4660004",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Hirosecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "広瀬町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660003": {
+			"postcode": "4660003",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Akebonocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "曙町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660002": {
+			"postcode": "4660002",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Fukiagecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "吹上町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660001": {
+			"postcode": "4660001",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "Kurumadacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "車田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4660000": {
+			"postcode": "4660000",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Showa-ku",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "昭和区",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		}
+	}
+}

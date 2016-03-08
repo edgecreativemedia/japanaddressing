@@ -1,0 +1,623 @@
+{
+	"country_code": "JP",
+	"parent_id": "316",
+	"locale": "ja-Latn",
+	"address": {
+		"3168533": {
+			"postcode": "3168533",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Hitachi-shi",
+			"ward_name": "",
+			"town_name": "鮎川町",
+			"building_name": "２丁目８−１６",
+			"organization_name": "医療法人　愛宣会　秦病院",
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "日立市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "日立市",
+					"ward_name": "",
+					"town_name": "鮎川町",
+					"building_name": "２丁目８−１６",
+					"organization_name": "医療法人　愛宣会　秦病院"
+				}
+			}
+		},
+		"3168511": {
+			"postcode": "3168511",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Hitachi-shi",
+			"ward_name": "",
+			"town_name": "中成沢町",
+			"building_name": "４丁目１２−１",
+			"organization_name": "茨城大学　工学部",
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "日立市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "日立市",
+					"ward_name": "",
+					"town_name": "中成沢町",
+					"building_name": "４丁目１２−１",
+					"organization_name": "茨城大学　工学部"
+				}
+			}
+		},
+		"3168502": {
+			"postcode": "3168502",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Hitachi-shi",
+			"ward_name": "",
+			"town_name": "東多賀町",
+			"building_name": "１丁目１−１",
+			"organization_name": "日立製作所　電化機器事業部",
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "日立市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "日立市",
+					"ward_name": "",
+					"town_name": "東多賀町",
+					"building_name": "１丁目１−１",
+					"organization_name": "日立製作所　電化機器事業部"
+				}
+			}
+		},
+		"3168501": {
+			"postcode": "3168501",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Hitachi-shi",
+			"ward_name": "",
+			"town_name": "国分町",
+			"building_name": "１丁目１−１",
+			"organization_name": "日立製作所　国分工場",
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "日立市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "日立市",
+					"ward_name": "",
+					"town_name": "国分町",
+					"building_name": "１丁目１−１",
+					"organization_name": "日立製作所　国分工場"
+				}
+			}
+		},
+		"3160036": {
+			"postcode": "3160036",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Hitachi-shi",
+			"ward_name": "",
+			"town_name": "Ayukawacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "日立市",
+					"ward_name": "",
+					"town_name": "鮎川町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "日立市"
+		},
+		"3160035": {
+			"postcode": "3160035",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Hitachi-shi",
+			"ward_name": "",
+			"town_name": "Kokubucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "日立市",
+					"ward_name": "",
+					"town_name": "国分町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "日立市"
+		},
+		"3160034": {
+			"postcode": "3160034",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Hitachi-shi",
+			"ward_name": "",
+			"town_name": "Higashinarusawacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "日立市",
+					"ward_name": "",
+					"town_name": "東成沢町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "日立市"
+		},
+		"3160033": {
+			"postcode": "3160033",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Hitachi-shi",
+			"ward_name": "",
+			"town_name": "Nakanarusawacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "日立市",
+					"ward_name": "",
+					"town_name": "中成沢町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "日立市"
+		},
+		"3160032": {
+			"postcode": "3160032",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Hitachi-shi",
+			"ward_name": "",
+			"town_name": "Nishinarusawacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "日立市",
+					"ward_name": "",
+					"town_name": "西成沢町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "日立市"
+		},
+		"3160031": {
+			"postcode": "3160031",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Hitachi-shi",
+			"ward_name": "",
+			"town_name": "Narusawacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "日立市",
+					"ward_name": "",
+					"town_name": "成沢町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "日立市"
+		},
+		"3160026": {
+			"postcode": "3160026",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Hitachi-shi",
+			"ward_name": "",
+			"town_name": "Mikanoharacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "日立市",
+					"ward_name": "",
+					"town_name": "みかの原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "日立市"
+		},
+		"3160025": {
+			"postcode": "3160025",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Hitachi-shi",
+			"ward_name": "",
+			"town_name": "Moriyamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "日立市",
+					"ward_name": "",
+					"town_name": "森山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "日立市"
+		},
+		"3160024": {
+			"postcode": "3160024",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Hitachi-shi",
+			"ward_name": "",
+			"town_name": "Mizukicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "日立市",
+					"ward_name": "",
+					"town_name": "水木町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "日立市"
+		},
+		"3160023": {
+			"postcode": "3160023",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Hitachi-shi",
+			"ward_name": "",
+			"town_name": "Higashionumacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "日立市",
+					"ward_name": "",
+					"town_name": "東大沼町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "日立市"
+		},
+		"3160022": {
+			"postcode": "3160022",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Hitachi-shi",
+			"ward_name": "",
+			"town_name": "Onumacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "日立市",
+					"ward_name": "",
+					"town_name": "大沼町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "日立市"
+		},
+		"3160021": {
+			"postcode": "3160021",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Hitachi-shi",
+			"ward_name": "",
+			"town_name": "Daiharacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "日立市",
+					"ward_name": "",
+					"town_name": "台原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "日立市"
+		},
+		"3160015": {
+			"postcode": "3160015",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Hitachi-shi",
+			"ward_name": "",
+			"town_name": "Kanesawacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "日立市",
+					"ward_name": "",
+					"town_name": "金沢町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "日立市"
+		},
+		"3160014": {
+			"postcode": "3160014",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Hitachi-shi",
+			"ward_name": "",
+			"town_name": "Higashikanesawacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "日立市",
+					"ward_name": "",
+					"town_name": "東金沢町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "日立市"
+		},
+		"3160013": {
+			"postcode": "3160013",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Hitachi-shi",
+			"ward_name": "",
+			"town_name": "Chikokucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "日立市",
+					"ward_name": "",
+					"town_name": "千石町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "日立市"
+		},
+		"3160012": {
+			"postcode": "3160012",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Hitachi-shi",
+			"ward_name": "",
+			"town_name": "Okubocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "日立市",
+					"ward_name": "",
+					"town_name": "大久保町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "日立市"
+		},
+		"3160011": {
+			"postcode": "3160011",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Hitachi-shi",
+			"ward_name": "",
+			"town_name": "Hanayamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "日立市",
+					"ward_name": "",
+					"town_name": "塙山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "日立市"
+		},
+		"3160007": {
+			"postcode": "3160007",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Hitachi-shi",
+			"ward_name": "",
+			"town_name": "Nakamarucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "日立市",
+					"ward_name": "",
+					"town_name": "中丸町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "日立市"
+		},
+		"3160006": {
+			"postcode": "3160006",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Hitachi-shi",
+			"ward_name": "",
+			"town_name": "Suehirocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "日立市",
+					"ward_name": "",
+					"town_name": "末広町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "日立市"
+		},
+		"3160005": {
+			"postcode": "3160005",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Hitachi-shi",
+			"ward_name": "",
+			"town_name": "Kawaragocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "日立市",
+					"ward_name": "",
+					"town_name": "河原子町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "日立市"
+		},
+		"3160004": {
+			"postcode": "3160004",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Hitachi-shi",
+			"ward_name": "",
+			"town_name": "Higashitagacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "日立市",
+					"ward_name": "",
+					"town_name": "東多賀町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "日立市"
+		},
+		"3160003": {
+			"postcode": "3160003",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Hitachi-shi",
+			"ward_name": "",
+			"town_name": "Tagacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "日立市",
+					"ward_name": "",
+					"town_name": "多賀町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "日立市"
+		},
+		"3160002": {
+			"postcode": "3160002",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Hitachi-shi",
+			"ward_name": "",
+			"town_name": "Sakuragawacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "日立市",
+					"ward_name": "",
+					"town_name": "桜川町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "日立市"
+		},
+		"3160001": {
+			"postcode": "3160001",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Hitachi-shi",
+			"ward_name": "",
+			"town_name": "Suwacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "日立市",
+					"ward_name": "",
+					"town_name": "諏訪町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "日立市"
+		}
+	}
+}

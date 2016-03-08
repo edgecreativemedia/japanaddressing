@@ -1,0 +1,799 @@
+{
+	"country_code": "JP",
+	"parent_id": "580",
+	"locale": "ja-Latn",
+	"address": {
+		"5808601": {
+			"postcode": "5808601",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Matsubara-shi",
+			"ward_name": "",
+			"town_name": "松ケ丘",
+			"building_name": "４丁目２０−１２（松原郵便局私書箱第３０号）",
+			"organization_name": "シャディ　株式会社",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "松原市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "松原市",
+					"ward_name": "",
+					"town_name": "松ケ丘",
+					"building_name": "４丁目２０−１２（松原郵便局私書箱第３０号）",
+					"organization_name": "シャディ　株式会社"
+				}
+			}
+		},
+		"5808505": {
+			"postcode": "5808505",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Matsubara-shi",
+			"ward_name": "",
+			"town_name": "天美西",
+			"building_name": "２丁目４−１６",
+			"organization_name": "株式会社　犬印本舗",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "松原市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "松原市",
+					"ward_name": "",
+					"town_name": "天美西",
+					"building_name": "２丁目４−１６",
+					"organization_name": "株式会社　犬印本舗"
+				}
+			}
+		},
+		"5808504": {
+			"postcode": "5808504",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Matsubara-shi",
+			"ward_name": "",
+			"town_name": "三宅東",
+			"building_name": "２丁目１８３５の５（松原郵便局私書箱第１５号）",
+			"organization_name": "山崎製パン　株式会社　大阪第二工場",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "松原市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "松原市",
+					"ward_name": "",
+					"town_name": "三宅東",
+					"building_name": "２丁目１８３５の５（松原郵便局私書箱第１５号）",
+					"organization_name": "山崎製パン　株式会社　大阪第二工場"
+				}
+			}
+		},
+		"5808503": {
+			"postcode": "5808503",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Matsubara-shi",
+			"ward_name": "",
+			"town_name": "西大塚",
+			"building_name": "１丁目３−４０",
+			"organization_name": "藤本製薬　株式会社",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "松原市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "松原市",
+					"ward_name": "",
+					"town_name": "西大塚",
+					"building_name": "１丁目３−４０",
+					"organization_name": "藤本製薬　株式会社"
+				}
+			}
+		},
+		"5808502": {
+			"postcode": "5808502",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Matsubara-shi",
+			"ward_name": "",
+			"town_name": "天美東",
+			"building_name": "５丁目４−３３",
+			"organization_name": "阪南大学",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "松原市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "松原市",
+					"ward_name": "",
+					"town_name": "天美東",
+					"building_name": "５丁目４−３３",
+					"organization_name": "阪南大学"
+				}
+			}
+		},
+		"5808501": {
+			"postcode": "5808501",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Matsubara-shi",
+			"ward_name": "",
+			"town_name": "阿保",
+			"building_name": "１丁目１−１",
+			"organization_name": "松原市役所",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "松原市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "松原市",
+					"ward_name": "",
+					"town_name": "阿保",
+					"building_name": "１丁目１−１",
+					"organization_name": "松原市役所"
+				}
+			}
+		},
+		"5800046": {
+			"postcode": "5800046",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Matsubara-shi",
+			"ward_name": "",
+			"town_name": "Miyake",
+			"building_name": "Naka",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "松原市",
+					"ward_name": "",
+					"town_name": "三宅",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "松原市"
+		},
+		"5800045": {
+			"postcode": "5800045",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Matsubara-shi",
+			"ward_name": "",
+			"town_name": "Miyake",
+			"building_name": "Nishi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "松原市",
+					"ward_name": "",
+					"town_name": "三宅",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "松原市"
+		},
+		"5800044": {
+			"postcode": "5800044",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Matsubara-shi",
+			"ward_name": "",
+			"town_name": "Taijo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "松原市",
+					"ward_name": "",
+					"town_name": "田井城",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "松原市"
+		},
+		"5800043": {
+			"postcode": "5800043",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Matsubara-shi",
+			"ward_name": "",
+			"town_name": "Ao",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "松原市",
+					"ward_name": "",
+					"town_name": "阿保",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "松原市"
+		},
+		"5800042": {
+			"postcode": "5800042",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Matsubara-shi",
+			"ward_name": "",
+			"town_name": "Matsugaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "松原市",
+					"ward_name": "",
+					"town_name": "松ケ丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "松原市"
+		},
+		"5800041": {
+			"postcode": "5800041",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Matsubara-shi",
+			"ward_name": "",
+			"town_name": "Miyake",
+			"building_name": "Higashi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "松原市",
+					"ward_name": "",
+					"town_name": "三宅",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "松原市"
+		},
+		"5800034": {
+			"postcode": "5800034",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Matsubara-shi",
+			"ward_name": "",
+			"town_name": "Amami",
+			"building_name": "Nishi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "松原市",
+					"ward_name": "",
+					"town_name": "天美",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "松原市"
+		},
+		"5800033": {
+			"postcode": "5800033",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Matsubara-shi",
+			"ward_name": "",
+			"town_name": "Amami",
+			"building_name": "Minami",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "松原市",
+					"ward_name": "",
+					"town_name": "天美",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "松原市"
+		},
+		"5800032": {
+			"postcode": "5800032",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Matsubara-shi",
+			"ward_name": "",
+			"town_name": "Amami",
+			"building_name": "Higashi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "松原市",
+					"ward_name": "",
+					"town_name": "天美",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "松原市"
+		},
+		"5800031": {
+			"postcode": "5800031",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Matsubara-shi",
+			"ward_name": "",
+			"town_name": "Amami",
+			"building_name": "Kita",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "松原市",
+					"ward_name": "",
+					"town_name": "天美",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "松原市"
+		},
+		"5800026": {
+			"postcode": "5800026",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Matsubara-shi",
+			"ward_name": "",
+			"town_name": "Amamigado",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "松原市",
+					"ward_name": "",
+					"town_name": "天美我堂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "松原市"
+		},
+		"5800025": {
+			"postcode": "5800025",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Matsubara-shi",
+			"ward_name": "",
+			"town_name": "Kitashimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "松原市",
+					"ward_name": "",
+					"town_name": "北新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "松原市"
+		},
+		"5800024": {
+			"postcode": "5800024",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Matsubara-shi",
+			"ward_name": "",
+			"town_name": "Higashishimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "松原市",
+					"ward_name": "",
+					"town_name": "東新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "松原市"
+		},
+		"5800023": {
+			"postcode": "5800023",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Matsubara-shi",
+			"ward_name": "",
+			"town_name": "Minamishimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "松原市",
+					"ward_name": "",
+					"town_name": "南新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "松原市"
+		},
+		"5800022": {
+			"postcode": "5800022",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Matsubara-shi",
+			"ward_name": "",
+			"town_name": "Kawai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "松原市",
+					"ward_name": "",
+					"town_name": "河合",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "松原市"
+		},
+		"5800021": {
+			"postcode": "5800021",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Matsubara-shi",
+			"ward_name": "",
+			"town_name": "Takaminosato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "松原市",
+					"ward_name": "",
+					"town_name": "高見の里",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "松原市"
+		},
+		"5800017": {
+			"postcode": "5800017",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Matsubara-shi",
+			"ward_name": "",
+			"town_name": "Shibagaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "松原市",
+					"ward_name": "",
+					"town_name": "柴垣",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "松原市"
+		},
+		"5800016": {
+			"postcode": "5800016",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Matsubara-shi",
+			"ward_name": "",
+			"town_name": "Ueda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "松原市",
+					"ward_name": "",
+					"town_name": "上田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "松原市"
+		},
+		"5800015": {
+			"postcode": "5800015",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Matsubara-shi",
+			"ward_name": "",
+			"town_name": "Shindo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "松原市",
+					"ward_name": "",
+					"town_name": "新堂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "松原市"
+		},
+		"5800014": {
+			"postcode": "5800014",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Matsubara-shi",
+			"ward_name": "",
+			"town_name": "Oka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "松原市",
+					"ward_name": "",
+					"town_name": "岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "松原市"
+		},
+		"5800013": {
+			"postcode": "5800013",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Matsubara-shi",
+			"ward_name": "",
+			"town_name": "Tannan",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "松原市",
+					"ward_name": "",
+					"town_name": "丹南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "松原市"
+		},
+		"5800012": {
+			"postcode": "5800012",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Matsubara-shi",
+			"ward_name": "",
+			"town_name": "Tatsube",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "松原市",
+					"ward_name": "",
+					"town_name": "立部",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "松原市"
+		},
+		"5800011": {
+			"postcode": "5800011",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Matsubara-shi",
+			"ward_name": "",
+			"town_name": "Nishiotsuka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "松原市",
+					"ward_name": "",
+					"town_name": "西大塚",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "松原市"
+		},
+		"5800006": {
+			"postcode": "5800006",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Matsubara-shi",
+			"ward_name": "",
+			"town_name": "Obori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "松原市",
+					"ward_name": "",
+					"town_name": "大堀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "松原市"
+		},
+		"5800005": {
+			"postcode": "5800005",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Matsubara-shi",
+			"ward_name": "",
+			"town_name": "Bessho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "松原市",
+					"ward_name": "",
+					"town_name": "別所",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "松原市"
+		},
+		"5800004": {
+			"postcode": "5800004",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Matsubara-shi",
+			"ward_name": "",
+			"town_name": "Nishinono",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "松原市",
+					"ward_name": "",
+					"town_name": "西野々",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "松原市"
+		},
+		"5800003": {
+			"postcode": "5800003",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Matsubara-shi",
+			"ward_name": "",
+			"town_name": "Hitotsuya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "松原市",
+					"ward_name": "",
+					"town_name": "一津屋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "松原市"
+		},
+		"5800002": {
+			"postcode": "5800002",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Matsubara-shi",
+			"ward_name": "",
+			"town_name": "Ogawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "松原市",
+					"ward_name": "",
+					"town_name": "小川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "松原市"
+		},
+		"5800001": {
+			"postcode": "5800001",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Matsubara-shi",
+			"ward_name": "",
+			"town_name": "Wakabayashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "松原市",
+					"ward_name": "",
+					"town_name": "若林",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "松原市"
+		},
+		"5800000": {
+			"postcode": "5800000",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Matsubara-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "松原市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "松原市"
+		}
+	}
+}

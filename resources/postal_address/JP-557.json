@@ -1,0 +1,755 @@
+{
+	"country_code": "JP",
+	"parent_id": "557",
+	"locale": "ja-Latn",
+	"address": {
+		"5578501": {
+			"postcode": "5578501",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Nishinari-ku",
+			"town_name": "岸里",
+			"building_name": "１丁目５番２０号",
+			"organization_name": "大阪市西成区役所",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "西成区",
+					"town_name": "岸里",
+					"building_name": "１丁目５番２０号",
+					"organization_name": "大阪市西成区役所"
+				}
+			}
+		},
+		"5570063": {
+			"postcode": "5570063",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Nishinari-ku",
+			"town_name": "Minamitsumori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "西成区",
+					"town_name": "南津守",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5570062": {
+			"postcode": "5570062",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Nishinari-ku",
+			"town_name": "Tsumori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "西成区",
+					"town_name": "津守",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5570061": {
+			"postcode": "5570061",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Nishinari-ku",
+			"town_name": "Kitatsumori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "西成区",
+					"town_name": "北津守",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5570055": {
+			"postcode": "5570055",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Nishinari-ku",
+			"town_name": "Sembomminami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "西成区",
+					"town_name": "千本南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5570054": {
+			"postcode": "5570054",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Nishinari-ku",
+			"town_name": "Sembonnaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "西成区",
+					"town_name": "千本中",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5570053": {
+			"postcode": "5570053",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Nishinari-ku",
+			"town_name": "Sembonkita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "西成区",
+					"town_name": "千本北",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5570052": {
+			"postcode": "5570052",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Nishinari-ku",
+			"town_name": "Shioji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "西成区",
+					"town_name": "潮路",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5570051": {
+			"postcode": "5570051",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Nishinari-ku",
+			"town_name": "Tachibana",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "西成区",
+					"town_name": "橘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5570045": {
+			"postcode": "5570045",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Nishinari-ku",
+			"town_name": "Tamadenishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "西成区",
+					"town_name": "玉出西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5570044": {
+			"postcode": "5570044",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Nishinari-ku",
+			"town_name": "Tamadenaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "西成区",
+					"town_name": "玉出中",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5570043": {
+			"postcode": "5570043",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Nishinari-ku",
+			"town_name": "Tamadehigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "西成区",
+					"town_name": "玉出東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5570042": {
+			"postcode": "5570042",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Nishinari-ku",
+			"town_name": "Kishinosatohigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "西成区",
+					"town_name": "岸里東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5570041": {
+			"postcode": "5570041",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Nishinari-ku",
+			"town_name": "Kishinosato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "西成区",
+					"town_name": "岸里",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5570034": {
+			"postcode": "5570034",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Nishinari-ku",
+			"town_name": "Matsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "西成区",
+					"town_name": "松",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5570033": {
+			"postcode": "5570033",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Nishinari-ku",
+			"town_name": "Bainan",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "西成区",
+					"town_name": "梅南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5570032": {
+			"postcode": "5570032",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Nishinari-ku",
+			"town_name": "Asahi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "西成区",
+					"town_name": "旭",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5570031": {
+			"postcode": "5570031",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Nishinari-ku",
+			"town_name": "Tsurumibashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "西成区",
+					"town_name": "鶴見橋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5570025": {
+			"postcode": "5570025",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Nishinari-ku",
+			"town_name": "Nagahashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "西成区",
+					"town_name": "長橋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5570024": {
+			"postcode": "5570024",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Nishinari-ku",
+			"town_name": "Deshiro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "西成区",
+					"town_name": "出城",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5570023": {
+			"postcode": "5570023",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Nishinari-ku",
+			"town_name": "Minamibiraki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "西成区",
+					"town_name": "南開",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5570022": {
+			"postcode": "5570022",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Nishinari-ku",
+			"town_name": "Nakabiraki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "西成区",
+					"town_name": "中開",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5570021": {
+			"postcode": "5570021",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Nishinari-ku",
+			"town_name": "Kitabiraki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "西成区",
+					"town_name": "北開",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5570016": {
+			"postcode": "5570016",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Nishinari-ku",
+			"town_name": "Hanazonokita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "西成区",
+					"town_name": "花園北",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5570015": {
+			"postcode": "5570015",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Nishinari-ku",
+			"town_name": "Hanazonominami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "西成区",
+					"town_name": "花園南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5570014": {
+			"postcode": "5570014",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Nishinari-ku",
+			"town_name": "Tengachaya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "西成区",
+					"town_name": "天下茶屋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5570013": {
+			"postcode": "5570013",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Nishinari-ku",
+			"town_name": "Tenjinnomori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "西成区",
+					"town_name": "天神ノ森",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5570012": {
+			"postcode": "5570012",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Nishinari-ku",
+			"town_name": "Shotenshita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "西成区",
+					"town_name": "聖天下",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5570011": {
+			"postcode": "5570011",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Nishinari-ku",
+			"town_name": "Tengachayahigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "西成区",
+					"town_name": "天下茶屋東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5570004": {
+			"postcode": "5570004",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Nishinari-ku",
+			"town_name": "Haginochaya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "西成区",
+					"town_name": "萩之茶屋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5570003": {
+			"postcode": "5570003",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Nishinari-ku",
+			"town_name": "Tengachayakita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "西成区",
+					"town_name": "天下茶屋北",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5570002": {
+			"postcode": "5570002",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Nishinari-ku",
+			"town_name": "Taishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "西成区",
+					"town_name": "太子",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5570001": {
+			"postcode": "5570001",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Nishinari-ku",
+			"town_name": "Sanno",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "西成区",
+					"town_name": "山王",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5570000": {
+			"postcode": "5570000",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Nishinari-ku",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "西成区",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		}
+	}
+}

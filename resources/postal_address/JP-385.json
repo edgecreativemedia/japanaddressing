@@ -1,0 +1,1239 @@
+{
+	"country_code": "JP",
+	"parent_id": "385",
+	"locale": "ja-Latn",
+	"address": {
+		"3858611": {
+			"postcode": "3858611",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "大字岩村田",
+			"building_name": "１２０１−２",
+			"organization_name": "佐久税務署",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "大字岩村田",
+					"building_name": "１２０１−２",
+					"organization_name": "佐久税務署"
+				}
+			}
+		},
+		"3858601": {
+			"postcode": "3858601",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "小田井",
+			"building_name": "４６２−１",
+			"organization_name": "ＴＤＫ　株式会社　千曲川テクノ工場",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "小田井",
+					"building_name": "４６２−１",
+					"organization_name": "ＴＤＫ　株式会社　千曲川テクノ工場"
+				}
+			}
+		},
+		"3858588": {
+			"postcode": "3858588",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "岩村田",
+			"building_name": "９５１",
+			"organization_name": "佐久長聖高等学校",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "岩村田",
+					"building_name": "９５１",
+					"organization_name": "佐久長聖高等学校"
+				}
+			}
+		},
+		"3858586": {
+			"postcode": "3858586",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "大字中込中込原北",
+			"building_name": "３６００",
+			"organization_name": "ツガミ　株式会社　信州工場",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "大字中込中込原北",
+					"building_name": "３６００",
+					"organization_name": "ツガミ　株式会社　信州工場"
+				}
+			}
+		},
+		"3858585": {
+			"postcode": "3858585",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "猿久保",
+			"building_name": "８８２",
+			"organization_name": "ＪＡ　佐久浅間",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "猿久保",
+					"building_name": "８８２",
+					"organization_name": "ＪＡ　佐久浅間"
+				}
+			}
+		},
+		"3858558": {
+			"postcode": "3858558",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "岩村田",
+			"building_name": "１８６２−１",
+			"organization_name": "佐久市立国保　浅間総合病院",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "岩村田",
+					"building_name": "１８６２−１",
+					"organization_name": "佐久市立国保　浅間総合病院"
+				}
+			}
+		},
+		"3858555": {
+			"postcode": "3858555",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "小田井",
+			"building_name": "５４３",
+			"organization_name": "ＴＤＫ株式会社　浅間テクノ工場",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "小田井",
+					"building_name": "５４３",
+					"organization_name": "ＴＤＫ株式会社　浅間テクノ工場"
+				}
+			}
+		},
+		"3858533": {
+			"postcode": "3858533",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "大字跡部",
+			"building_name": "６５−１",
+			"organization_name": "佐久地方事務所",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "大字跡部",
+					"building_name": "６５−１",
+					"organization_name": "佐久地方事務所"
+				}
+			}
+		},
+		"3858522": {
+			"postcode": "3858522",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "佐久平駅南",
+			"building_name": "１１−１",
+			"organization_name": "イオン　佐久平店",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "佐久平駅南",
+					"building_name": "１１−１",
+					"organization_name": "イオン　佐久平店"
+				}
+			}
+		},
+		"3858511": {
+			"postcode": "3858511",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "根々井",
+			"building_name": "１５−１０",
+			"organization_name": "樫山工業　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "根々井",
+					"building_name": "１５−１０",
+					"organization_name": "樫山工業　株式会社"
+				}
+			}
+		},
+		"3858501": {
+			"postcode": "3858501",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "大字中込",
+			"building_name": "３０５６",
+			"organization_name": "佐久市役所",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "大字中込",
+					"building_name": "３０５６",
+					"organization_name": "佐久市役所"
+				}
+			}
+		},
+		"3850063": {
+			"postcode": "3850063",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Higashitateshina",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "東立科",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850062": {
+			"postcode": "3850062",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Negishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "根岸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850061": {
+			"postcode": "3850061",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Tomono",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "伴野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850056": {
+			"postcode": "3850056",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Sakurai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "桜井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850055": {
+			"postcode": "3850055",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Michizuka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "三塚",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850054": {
+			"postcode": "3850054",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Atobe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "跡部",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850053": {
+			"postcode": "3850053",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Nozawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "野沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850052": {
+			"postcode": "3850052",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Hara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850051": {
+			"postcode": "3850051",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Nakagomi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "中込",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850047": {
+			"postcode": "3850047",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Komiyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "小宮山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850046": {
+			"postcode": "3850046",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Maeyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "前山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850045": {
+			"postcode": "3850045",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Osawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "大沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850044": {
+			"postcode": "3850044",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Honshimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "本新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850043": {
+			"postcode": "3850043",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Toridemachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "取出町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850042": {
+			"postcode": "3850042",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Takayagi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "高柳",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850041": {
+			"postcode": "3850041",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Kajiya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "鍛冶屋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850035": {
+			"postcode": "3850035",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Seto",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "瀬戸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850034": {
+			"postcode": "3850034",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Hiraka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "平賀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850033": {
+			"postcode": "3850033",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Otabe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "太田部",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850032": {
+			"postcode": "3850032",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Tokiwa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "常和",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850031": {
+			"postcode": "3850031",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Uchiyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "内山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850029": {
+			"postcode": "3850029",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Sakudairaeki",
+			"building_name": "Minami",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "佐久平駅",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850028": {
+			"postcode": "3850028",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Sakudairaeki",
+			"building_name": "Higashi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "佐久平駅",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850027": {
+			"postcode": "3850027",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Sakudairaeki",
+			"building_name": "Kita",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "佐久平駅",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850026": {
+			"postcode": "3850026",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Tokida",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "常田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850025": {
+			"postcode": "3850025",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Tsukabara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "塚原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850024": {
+			"postcode": "3850024",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Hiratsuka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "平塚",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850023": {
+			"postcode": "3850023",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Iwamuradakita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "岩村田北",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850022": {
+			"postcode": "3850022",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Iwamurada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "岩村田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850021": {
+			"postcode": "3850021",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Nagatoro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "長土呂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850016": {
+			"postcode": "3850016",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Naruse",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "鳴瀬",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850015": {
+			"postcode": "3850015",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Imai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "今井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850014": {
+			"postcode": "3850014",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Mikawada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "三河田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850013": {
+			"postcode": "3850013",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Yokowa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "横和",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850012": {
+			"postcode": "3850012",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Nenei",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "根々井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850011": {
+			"postcode": "3850011",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Sarukubo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "猿久保",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850009": {
+			"postcode": "3850009",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Otai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "小田井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850007": {
+			"postcode": "3850007",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Arakoda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "新子田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850006": {
+			"postcode": "3850006",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Shiga",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "志賀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850005": {
+			"postcode": "3850005",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Kosaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "香坂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850004": {
+			"postcode": "3850004",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Yasuhara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "安原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850003": {
+			"postcode": "3850003",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Shimohirao",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "下平尾",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850002": {
+			"postcode": "3850002",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Kamihirao",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "上平尾",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850001": {
+			"postcode": "3850001",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "Yokone",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "横根",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		},
+		"3850000": {
+			"postcode": "3850000",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Saku-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "佐久市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "佐久市"
+		}
+	}
+}

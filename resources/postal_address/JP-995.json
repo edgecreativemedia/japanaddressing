@@ -1,0 +1,1085 @@
+{
+	"country_code": "JP",
+	"parent_id": "995",
+	"locale": "ja-Latn",
+	"address": {
+		"9958666": {
+			"postcode": "9958666",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "中央",
+			"building_name": "１丁目３−６",
+			"organization_name": "村山市役所",
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "中央",
+					"building_name": "１丁目３−６",
+					"organization_name": "村山市役所"
+				}
+			}
+		},
+		"9950209": {
+			"postcode": "9950209",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Goten",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "碁点",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950208": {
+			"postcode": "9950208",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Tominami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "富並",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950207": {
+			"postcode": "9950207",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Yukinokannongo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "雪の観音郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950206": {
+			"postcode": "9950206",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Yamanochi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "山の内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950205": {
+			"postcode": "9950205",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Taruishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "樽石",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950204": {
+			"postcode": "9950204",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Inakudashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "稲下",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950203": {
+			"postcode": "9950203",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Omaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "大槇",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950202": {
+			"postcode": "9950202",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Shirotori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "白鳥",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950201": {
+			"postcode": "9950201",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Chozenji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "長善寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950113": {
+			"postcode": "9950113",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Iwano",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "岩野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950112": {
+			"postcode": "9950112",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Yunosawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "湯野沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950111": {
+			"postcode": "9950111",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Okubo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "大久保",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950056": {
+			"postcode": "9950056",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Kawashimayama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "河島山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950055": {
+			"postcode": "9950055",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Nagashima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "長島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950054": {
+			"postcode": "9950054",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Oyodo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "大淀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950053": {
+			"postcode": "9950053",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Nishigo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "西郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950052": {
+			"postcode": "9950052",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Natori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "名取",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950051": {
+			"postcode": "9950051",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Tazawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "田沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950042": {
+			"postcode": "9950042",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Sugishima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "杉島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950041": {
+			"postcode": "9950041",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Kawashima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "河島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950038": {
+			"postcode": "9950038",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Ekinishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "駅西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950037": {
+			"postcode": "9950037",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Tateoka",
+			"building_name": "Tawaramachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "楯岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950036": {
+			"postcode": "9950036",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Tateoka",
+			"building_name": "Nakamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "楯岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950035": {
+			"postcode": "9950035",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Chuo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "中央",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950034": {
+			"postcode": "9950034",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Tateoka",
+			"building_name": "Itsukamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "楯岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950033": {
+			"postcode": "9950033",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Tateoka",
+			"building_name": "Shimmachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "楯岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950032": {
+			"postcode": "9950032",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Tateoka",
+			"building_name": "Aramachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "楯岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950031": {
+			"postcode": "9950031",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Tateoka",
+			"building_name": "Osawagawa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "楯岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950025": {
+			"postcode": "9950025",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Tateoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "楯岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950024": {
+			"postcode": "9950024",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Tateoka",
+			"building_name": "Fueda",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "楯岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950023": {
+			"postcode": "9950023",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Tateoka",
+			"building_name": "Higashizawa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "楯岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950022": {
+			"postcode": "9950022",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Tateoka",
+			"building_name": "Baba",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "楯岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950021": {
+			"postcode": "9950021",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Tateoka",
+			"building_name": "Tate",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "楯岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950018": {
+			"postcode": "9950018",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Tateoka",
+			"building_name": "Shintakada",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "楯岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950017": {
+			"postcode": "9950017",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Tateoka",
+			"building_name": "Tokamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "楯岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950016": {
+			"postcode": "9950016",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Tateoka",
+			"building_name": "Misokamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "楯岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950015": {
+			"postcode": "9950015",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Tateoka",
+			"building_name": "Futsukamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "楯岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950014": {
+			"postcode": "9950014",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Tateoka",
+			"building_name": "Tsurugacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "楯岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950013": {
+			"postcode": "9950013",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Tateoka",
+			"building_name": "Yuzawa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "楯岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950012": {
+			"postcode": "9950012",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Yuzawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "湯沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950011": {
+			"postcode": "9950011",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Tateoka",
+			"building_name": "Kitamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "楯岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950006": {
+			"postcode": "9950006",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Hayashizaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "林崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950005": {
+			"postcode": "9950005",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Tamoyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "たも山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950004": {
+			"postcode": "9950004",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Kanaya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "金谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950003": {
+			"postcode": "9950003",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Motoiida",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "本飯田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950002": {
+			"postcode": "9950002",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Isazawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "五十沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950001": {
+			"postcode": "9950001",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "Tochiuda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "土生田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		},
+		"9950000": {
+			"postcode": "9950000",
+			"prefecture_name": "Yamagata-ken",
+			"city_name": "Murayama-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山形県",
+					"city_name": "村山市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "山形県",
+			"city_code": "村山市"
+		}
+	}
+}

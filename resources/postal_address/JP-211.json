@@ -1,0 +1,1393 @@
+{
+	"country_code": "JP",
+	"parent_id": "211",
+	"locale": "ja-Latn",
+	"address": {
+		"2118675": {
+			"postcode": "2118675",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "市ノ坪",
+			"building_name": "１６０",
+			"organization_name": "信号器材　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "市ノ坪",
+					"building_name": "１６０",
+					"organization_name": "信号器材　株式会社"
+				}
+			}
+		},
+		"2118666": {
+			"postcode": "2118666",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "下沼部",
+			"building_name": "１７５３",
+			"organization_name": "日本電気　株式会社　玉川事業場",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "下沼部",
+					"building_name": "１７５３",
+					"organization_name": "日本電気　株式会社　玉川事業場"
+				}
+			}
+		},
+		"2118619": {
+			"postcode": "2118619",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "小杉町",
+			"building_name": "三丁目４７２番地",
+			"organization_name": "武蔵小杉東急スクエア",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "小杉町",
+					"building_name": "三丁目４７２番地",
+					"organization_name": "武蔵小杉東急スクエア"
+				}
+			}
+		},
+		"2118611": {
+			"postcode": "2118611",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "下沼部",
+			"building_name": "１７５３番地",
+			"organization_name": "パイオニアプラズマディスプレイ　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "下沼部",
+					"building_name": "１７５３番地",
+					"organization_name": "パイオニアプラズマディスプレイ　株式会社"
+				}
+			}
+		},
+		"2118601": {
+			"postcode": "2118601",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "下沼部",
+			"building_name": "１７５３",
+			"organization_name": "ＮＥＣマネジメントパートナー　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "下沼部",
+					"building_name": "１７５３",
+					"organization_name": "ＮＥＣマネジメントパートナー　株式会社"
+				}
+			}
+		},
+		"2118588": {
+			"postcode": "2118588",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "上小田中",
+			"building_name": "４丁目１−１",
+			"organization_name": "富士通　株式会社　川崎工場",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "上小田中",
+					"building_name": "４丁目１−１",
+					"organization_name": "富士通　株式会社　川崎工場"
+				}
+			}
+		},
+		"2118585": {
+			"postcode": "2118585",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "下小田中",
+			"building_name": "２丁目１２−８",
+			"organization_name": "沖電線　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "下小田中",
+					"building_name": "２丁目１２−８",
+					"organization_name": "沖電線　株式会社"
+				}
+			}
+		},
+		"2118577": {
+			"postcode": "2118577",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "今井南町",
+			"building_name": "４６１",
+			"organization_name": "三木プーリ　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "今井南町",
+					"building_name": "４６１",
+					"organization_name": "三木プーリ　株式会社"
+				}
+			}
+		},
+		"2118570": {
+			"postcode": "2118570",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "小杉町",
+			"building_name": "３丁目２４５",
+			"organization_name": "中原区役所",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "小杉町",
+					"building_name": "３丁目２４５",
+					"organization_name": "中原区役所"
+				}
+			}
+		},
+		"2118566": {
+			"postcode": "2118566",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "小杉町",
+			"building_name": "１丁目４０３武蔵小杉タワープレイス",
+			"organization_name": "かわさき市民放送　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "小杉町",
+					"building_name": "１丁目４０３武蔵小杉タワープレイス",
+					"organization_name": "かわさき市民放送　株式会社"
+				}
+			}
+		},
+		"2118555": {
+			"postcode": "2118555",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "宮内",
+			"building_name": "２丁目５−２",
+			"organization_name": "株式会社　テクノ",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "宮内",
+					"building_name": "２丁目５−２",
+					"organization_name": "株式会社　テクノ"
+				}
+			}
+		},
+		"2118550": {
+			"postcode": "2118550",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "市ノ坪",
+			"building_name": "１５０",
+			"organization_name": "株式会社　東計電算",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "市ノ坪",
+					"building_name": "１５０",
+					"organization_name": "株式会社　東計電算"
+				}
+			}
+		},
+		"2118540": {
+			"postcode": "2118540",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "新城中町",
+			"building_name": "１１−８",
+			"organization_name": "富士通エフ・アイ・ピー　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "新城中町",
+					"building_name": "１１−８",
+					"organization_name": "富士通エフ・アイ・ピー　株式会社"
+				}
+			}
+		},
+		"2118530": {
+			"postcode": "2118530",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "苅宿",
+			"building_name": "４５−１",
+			"organization_name": "帝国通信工業　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "苅宿",
+					"building_name": "４５−１",
+					"organization_name": "帝国通信工業　株式会社"
+				}
+			}
+		},
+		"2118522": {
+			"postcode": "2118522",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "大倉町",
+			"building_name": "１０",
+			"organization_name": "三菱ふそうトラック・バス　株式会社　川崎製作所",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "大倉町",
+					"building_name": "１０",
+					"organization_name": "三菱ふそうトラック・バス　株式会社　川崎製作所"
+				}
+			}
+		},
+		"2118520": {
+			"postcode": "2118520",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "下小田中",
+			"building_name": "２丁目２０−５中原ビル",
+			"organization_name": "富士通　ＦＩＰ",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "下小田中",
+					"building_name": "２丁目２０−５中原ビル",
+					"organization_name": "富士通　ＦＩＰ"
+				}
+			}
+		},
+		"2118511": {
+			"postcode": "2118511",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "木月大町",
+			"building_name": "１９８",
+			"organization_name": "第一メール　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "木月大町",
+					"building_name": "１９８",
+					"organization_name": "第一メール　株式会社"
+				}
+			}
+		},
+		"2118510": {
+			"postcode": "2118510",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "木月住吉町",
+			"building_name": "２０３５",
+			"organization_name": "関東労災病院",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "木月住吉町",
+					"building_name": "２０３５",
+					"organization_name": "関東労災病院"
+				}
+			}
+		},
+		"2118505": {
+			"postcode": "2118505",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "中丸子",
+			"building_name": "５８８",
+			"organization_name": "株式会社　ドメス",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "中丸子",
+					"building_name": "５８８",
+					"organization_name": "株式会社　ドメス"
+				}
+			}
+		},
+		"2118502": {
+			"postcode": "2118502",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "市ノ坪",
+			"building_name": "３７０",
+			"organization_name": "東横化学　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "市ノ坪",
+					"building_name": "３７０",
+					"organization_name": "東横化学　株式会社"
+				}
+			}
+		},
+		"2118501": {
+			"postcode": "2118501",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "今井上町",
+			"building_name": "５３",
+			"organization_name": "キヤノン　株式会社　小杉事業所",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "今井上町",
+					"building_name": "５３",
+					"organization_name": "キヤノン　株式会社　小杉事業所"
+				}
+			}
+		},
+		"2110068": {
+			"postcode": "2110068",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "Kosugi",
+			"building_name": "Gotencho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "小杉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市"
+		},
+		"2110067": {
+			"postcode": "2110067",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "Imai",
+			"building_name": "Kamicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "今井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市"
+		},
+		"2110066": {
+			"postcode": "2110066",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "Imai",
+			"building_name": "Nishimachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "今井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市"
+		},
+		"2110065": {
+			"postcode": "2110065",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "Imai",
+			"building_name": "Nakamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "今井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市"
+		},
+		"2110064": {
+			"postcode": "2110064",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "Imai",
+			"building_name": "Minamicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "今井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市"
+		},
+		"2110063": {
+			"postcode": "2110063",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "Kosugimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "小杉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市"
+		},
+		"2110062": {
+			"postcode": "2110062",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "Kosugi",
+			"building_name": "Jinyacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "小杉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市"
+		},
+		"2110061": {
+			"postcode": "2110061",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "Kosugi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "小杉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市"
+		},
+		"2110053": {
+			"postcode": "2110053",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "Kamikodanaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "上小田中",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市"
+		},
+		"2110052": {
+			"postcode": "2110052",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "Todoroki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "等々力",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市"
+		},
+		"2110051": {
+			"postcode": "2110051",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "Miyauchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "宮内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市"
+		},
+		"2110045": {
+			"postcode": "2110045",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "Kamishinjo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "上新城",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市"
+		},
+		"2110044": {
+			"postcode": "2110044",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "Shinjo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "新城",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市"
+		},
+		"2110043": {
+			"postcode": "2110043",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "Shinjonakacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "新城中町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市"
+		},
+		"2110042": {
+			"postcode": "2110042",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "Shimoshinjo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "下新城",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市"
+		},
+		"2110041": {
+			"postcode": "2110041",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "Shimokodanaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "下小田中",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市"
+		},
+		"2110037": {
+			"postcode": "2110037",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "Ida",
+			"building_name": "Sammaicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "井田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市"
+		},
+		"2110036": {
+			"postcode": "2110036",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "Ida",
+			"building_name": "Sugiyamacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "井田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市"
+		},
+		"2110035": {
+			"postcode": "2110035",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "Ida",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "井田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市"
+		},
+		"2110034": {
+			"postcode": "2110034",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "Ida",
+			"building_name": "Nakanocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "井田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市"
+		},
+		"2110033": {
+			"postcode": "2110033",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "Kizuki",
+			"building_name": "Gioncho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "木月",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市"
+		},
+		"2110032": {
+			"postcode": "2110032",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "Kizuki",
+			"building_name": "Isecho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "木月",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市"
+		},
+		"2110031": {
+			"postcode": "2110031",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "Kizuki",
+			"building_name": "Omachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "木月",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市"
+		},
+		"2110025": {
+			"postcode": "2110025",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "Kizuki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "木月",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市"
+		},
+		"2110024": {
+			"postcode": "2110024",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "Nishikase",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "西加瀬",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市"
+		},
+		"2110023": {
+			"postcode": "2110023",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "Okuracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "大倉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市"
+		},
+		"2110022": {
+			"postcode": "2110022",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "Kariyado",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "苅宿",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市"
+		},
+		"2110021": {
+			"postcode": "2110021",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "Kizuki",
+			"building_name": "Sumiyoshicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "木月",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市"
+		},
+		"2110016": {
+			"postcode": "2110016",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "Ichinotsubo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "市ノ坪",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市"
+		},
+		"2110015": {
+			"postcode": "2110015",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "Kitayacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "北谷町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市"
+		},
+		"2110014": {
+			"postcode": "2110014",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "Tajiricho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "田尻町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市"
+		},
+		"2110013": {
+			"postcode": "2110013",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "Kamihirama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "上平間",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市"
+		},
+		"2110012": {
+			"postcode": "2110012",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "Nakamaruko",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "中丸子",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市"
+		},
+		"2110011": {
+			"postcode": "2110011",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "Shimonumabe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "下沼部",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市"
+		},
+		"2110007": {
+			"postcode": "2110007",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "Kamimaruko",
+			"building_name": "Tenjincho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "上丸子",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市"
+		},
+		"2110006": {
+			"postcode": "2110006",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "Marukodori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "丸子通",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市"
+		},
+		"2110005": {
+			"postcode": "2110005",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "Shimmarukomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "新丸子町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市"
+		},
+		"2110004": {
+			"postcode": "2110004",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "Shimmarukohigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "新丸子東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市"
+		},
+		"2110003": {
+			"postcode": "2110003",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "Kamimaruko",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "上丸子",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市"
+		},
+		"2110002": {
+			"postcode": "2110002",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "Kamimaruko",
+			"building_name": "Sannocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "上丸子",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市"
+		},
+		"2110001": {
+			"postcode": "2110001",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "Kamimaruko",
+			"building_name": "Hachimancho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "上丸子",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市"
+		},
+		"2110000": {
+			"postcode": "2110000",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kawasaki-shi",
+			"ward_name": "Nakahara-ku",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "川崎市",
+					"ward_name": "中原区",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "川崎市"
+		}
+	}
+}

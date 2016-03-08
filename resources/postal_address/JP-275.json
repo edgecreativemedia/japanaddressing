@@ -1,0 +1,843 @@
+{
+	"country_code": "JP",
+	"parent_id": "275",
+	"locale": "ja-Latn",
+	"address": {
+		"2758666": {
+			"postcode": "2758666",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narashino-shi",
+			"ward_name": "",
+			"town_name": "藤崎",
+			"building_name": "１−１−１３（習志野郵便局私書箱第６号）",
+			"organization_name": "習志野市企業局",
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "習志野市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "習志野市",
+					"ward_name": "",
+					"town_name": "藤崎",
+					"building_name": "１−１−１３（習志野郵便局私書箱第６号）",
+					"organization_name": "習志野市企業局"
+				}
+			}
+		},
+		"2758611": {
+			"postcode": "2758611",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narashino-shi",
+			"ward_name": "",
+			"town_name": "東習志野",
+			"building_name": "７丁目１−１",
+			"organization_name": "株式会社　日立産機システム　習志野事業所",
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "習志野市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "習志野市",
+					"ward_name": "",
+					"town_name": "東習志野",
+					"building_name": "７丁目１−１",
+					"organization_name": "株式会社　日立産機システム　習志野事業所"
+				}
+			}
+		},
+		"2758601": {
+			"postcode": "2758601",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narashino-shi",
+			"ward_name": "",
+			"town_name": "鷺沼",
+			"building_name": "１丁目１−１（習志野郵便局私書箱第１２号）",
+			"organization_name": "習志野市役所",
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "習志野市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "習志野市",
+					"ward_name": "",
+					"town_name": "鷺沼",
+					"building_name": "１丁目１−１（習志野郵便局私書箱第１２号）",
+					"organization_name": "習志野市役所"
+				}
+			}
+		},
+		"2758588": {
+			"postcode": "2758588",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narashino-shi",
+			"ward_name": "",
+			"town_name": "津田沼",
+			"building_name": "２丁目１７−１",
+			"organization_name": "学校法人　千葉工業大学　津田沼校舎",
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "習志野市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "習志野市",
+					"ward_name": "",
+					"town_name": "津田沼",
+					"building_name": "２丁目１７−１",
+					"organization_name": "学校法人　千葉工業大学　津田沼校舎"
+				}
+			}
+		},
+		"2758585": {
+			"postcode": "2758585",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narashino-shi",
+			"ward_name": "",
+			"town_name": "茜浜",
+			"building_name": "２丁目３−１",
+			"organization_name": "株式会社　ダーバン　物流東京センター",
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "習志野市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "習志野市",
+					"ward_name": "",
+					"town_name": "茜浜",
+					"building_name": "２丁目３−１",
+					"organization_name": "株式会社　ダーバン　物流東京センター"
+				}
+			}
+		},
+		"2758580": {
+			"postcode": "2758580",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narashino-shi",
+			"ward_name": "",
+			"town_name": "泉町",
+			"building_name": "１−１−１",
+			"organization_name": "社会福祉法人　恩賜財団　済生会　千葉県済生会習志野病院",
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "習志野市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "習志野市",
+					"ward_name": "",
+					"town_name": "泉町",
+					"building_name": "１−１−１",
+					"organization_name": "社会福祉法人　恩賜財団　済生会　千葉県済生会習志野病院"
+				}
+			}
+		},
+		"2758577": {
+			"postcode": "2758577",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narashino-shi",
+			"ward_name": "",
+			"town_name": "東習志野",
+			"building_name": "７丁目５−１",
+			"organization_name": "鈴木金属工業　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "習志野市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "習志野市",
+					"ward_name": "",
+					"town_name": "東習志野",
+					"building_name": "７丁目５−１",
+					"organization_name": "鈴木金属工業　株式会社"
+				}
+			}
+		},
+		"2758576": {
+			"postcode": "2758576",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narashino-shi",
+			"ward_name": "",
+			"town_name": "新栄",
+			"building_name": "２丁目１１−１",
+			"organization_name": "日本大学　生産工学部　実籾校舎",
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "習志野市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "習志野市",
+					"ward_name": "",
+					"town_name": "新栄",
+					"building_name": "２丁目１１−１",
+					"organization_name": "日本大学　生産工学部　実籾校舎"
+				}
+			}
+		},
+		"2758575": {
+			"postcode": "2758575",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narashino-shi",
+			"ward_name": "",
+			"town_name": "泉町",
+			"building_name": "１丁目２−１",
+			"organization_name": "日本大学　生産工学部",
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "習志野市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "習志野市",
+					"ward_name": "",
+					"town_name": "泉町",
+					"building_name": "１丁目２−１",
+					"organization_name": "日本大学　生産工学部"
+				}
+			}
+		},
+		"2758572": {
+			"postcode": "2758572",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narashino-shi",
+			"ward_name": "",
+			"town_name": "茜浜",
+			"building_name": "１丁目４−２",
+			"organization_name": "アシザワ・ファインテック　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "習志野市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "習志野市",
+					"ward_name": "",
+					"town_name": "茜浜",
+					"building_name": "１丁目４−２",
+					"organization_name": "アシザワ・ファインテック　株式会社"
+				}
+			}
+		},
+		"2758560": {
+			"postcode": "2758560",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narashino-shi",
+			"ward_name": "",
+			"town_name": "茜浜",
+			"building_name": "１丁目１−１",
+			"organization_name": "セイコークロック　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "習志野市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "習志野市",
+					"ward_name": "",
+					"town_name": "茜浜",
+					"building_name": "１丁目１−１",
+					"organization_name": "セイコークロック　株式会社"
+				}
+			}
+		},
+		"2758533": {
+			"postcode": "2758533",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narashino-shi",
+			"ward_name": "",
+			"town_name": "芝園",
+			"building_name": "２丁目１−１６",
+			"organization_name": "天龍　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "習志野市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "習志野市",
+					"ward_name": "",
+					"town_name": "芝園",
+					"building_name": "２丁目１−１６",
+					"organization_name": "天龍　株式会社"
+				}
+			}
+		},
+		"2758528": {
+			"postcode": "2758528",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narashino-shi",
+			"ward_name": "",
+			"town_name": "東習志野",
+			"building_name": "７丁目５−２",
+			"organization_name": "大平洋機工　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "習志野市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "習志野市",
+					"ward_name": "",
+					"town_name": "東習志野",
+					"building_name": "７丁目５−２",
+					"organization_name": "大平洋機工　株式会社"
+				}
+			}
+		},
+		"2758525": {
+			"postcode": "2758525",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narashino-shi",
+			"ward_name": "",
+			"town_name": "茜浜",
+			"building_name": "３丁目７番１０号プロロジスパーク習志野４",
+			"organization_name": "株式会社　スタートトゥデイ",
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "習志野市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "習志野市",
+					"ward_name": "",
+					"town_name": "茜浜",
+					"building_name": "３丁目７番１０号プロロジスパーク習志野４",
+					"organization_name": "株式会社　スタートトゥデイ"
+				}
+			}
+		},
+		"2758520": {
+			"postcode": "2758520",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narashino-shi",
+			"ward_name": "",
+			"town_name": "茜浜",
+			"building_name": "３−１−２",
+			"organization_name": "株式会社　日立産機システム",
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "習志野市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "習志野市",
+					"ward_name": "",
+					"town_name": "茜浜",
+					"building_name": "３−１−２",
+					"organization_name": "株式会社　日立産機システム"
+				}
+			}
+		},
+		"2758511": {
+			"postcode": "2758511",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narashino-shi",
+			"ward_name": "",
+			"town_name": "泉町",
+			"building_name": "２丁目１−３７",
+			"organization_name": "東邦大学付属東邦中学校・高等学校",
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "習志野市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "習志野市",
+					"ward_name": "",
+					"town_name": "泉町",
+					"building_name": "２丁目１−３７",
+					"organization_name": "東邦大学付属東邦中学校・高等学校"
+				}
+			}
+		},
+		"2750028": {
+			"postcode": "2750028",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narashino-shi",
+			"ward_name": "",
+			"town_name": "Kanadenomori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "習志野市",
+					"ward_name": "",
+					"town_name": "奏の杜",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "習志野市"
+		},
+		"2750027": {
+			"postcode": "2750027",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narashino-shi",
+			"ward_name": "",
+			"town_name": "Yatsumachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "習志野市",
+					"ward_name": "",
+					"town_name": "谷津町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "習志野市"
+		},
+		"2750026": {
+			"postcode": "2750026",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narashino-shi",
+			"ward_name": "",
+			"town_name": "Yatsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "習志野市",
+					"ward_name": "",
+					"town_name": "谷津",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "習志野市"
+		},
+		"2750025": {
+			"postcode": "2750025",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narashino-shi",
+			"ward_name": "",
+			"town_name": "Akitsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "習志野市",
+					"ward_name": "",
+					"town_name": "秋津",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "習志野市"
+		},
+		"2750024": {
+			"postcode": "2750024",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narashino-shi",
+			"ward_name": "",
+			"town_name": "Akanehama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "習志野市",
+					"ward_name": "",
+					"town_name": "茜浜",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "習志野市"
+		},
+		"2750023": {
+			"postcode": "2750023",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narashino-shi",
+			"ward_name": "",
+			"town_name": "Shibazono",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "習志野市",
+					"ward_name": "",
+					"town_name": "芝園",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "習志野市"
+		},
+		"2750022": {
+			"postcode": "2750022",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narashino-shi",
+			"ward_name": "",
+			"town_name": "Kasumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "習志野市",
+					"ward_name": "",
+					"town_name": "香澄",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "習志野市"
+		},
+		"2750021": {
+			"postcode": "2750021",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narashino-shi",
+			"ward_name": "",
+			"town_name": "Sodegaura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "習志野市",
+					"ward_name": "",
+					"town_name": "袖ケ浦",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "習志野市"
+		},
+		"2750017": {
+			"postcode": "2750017",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narashino-shi",
+			"ward_name": "",
+			"town_name": "Fujisaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "習志野市",
+					"ward_name": "",
+					"town_name": "藤崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "習志野市"
+		},
+		"2750016": {
+			"postcode": "2750016",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narashino-shi",
+			"ward_name": "",
+			"town_name": "Tsudanuma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "習志野市",
+					"ward_name": "",
+					"town_name": "津田沼",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "習志野市"
+		},
+		"2750015": {
+			"postcode": "2750015",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narashino-shi",
+			"ward_name": "",
+			"town_name": "Saginumadai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "習志野市",
+					"ward_name": "",
+					"town_name": "鷺沼台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "習志野市"
+		},
+		"2750014": {
+			"postcode": "2750014",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narashino-shi",
+			"ward_name": "",
+			"town_name": "Saginuma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "習志野市",
+					"ward_name": "",
+					"town_name": "鷺沼",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "習志野市"
+		},
+		"2750013": {
+			"postcode": "2750013",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narashino-shi",
+			"ward_name": "",
+			"town_name": "Hanasaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "習志野市",
+					"ward_name": "",
+					"town_name": "花咲",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "習志野市"
+		},
+		"2750012": {
+			"postcode": "2750012",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narashino-shi",
+			"ward_name": "",
+			"town_name": "Motookubo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "習志野市",
+					"ward_name": "",
+					"town_name": "本大久保",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "習志野市"
+		},
+		"2750011": {
+			"postcode": "2750011",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narashino-shi",
+			"ward_name": "",
+			"town_name": "Okubo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "習志野市",
+					"ward_name": "",
+					"town_name": "大久保",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "習志野市"
+		},
+		"2750006": {
+			"postcode": "2750006",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narashino-shi",
+			"ward_name": "",
+			"town_name": "Izumicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "習志野市",
+					"ward_name": "",
+					"town_name": "泉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "習志野市"
+		},
+		"2750005": {
+			"postcode": "2750005",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narashino-shi",
+			"ward_name": "",
+			"town_name": "Shinei",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "習志野市",
+					"ward_name": "",
+					"town_name": "新栄",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "習志野市"
+		},
+		"2750004": {
+			"postcode": "2750004",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narashino-shi",
+			"ward_name": "",
+			"town_name": "Yashiki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "習志野市",
+					"ward_name": "",
+					"town_name": "屋敷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "習志野市"
+		},
+		"2750003": {
+			"postcode": "2750003",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narashino-shi",
+			"ward_name": "",
+			"town_name": "Mimomihongo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "習志野市",
+					"ward_name": "",
+					"town_name": "実籾本郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "習志野市"
+		},
+		"2750002": {
+			"postcode": "2750002",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narashino-shi",
+			"ward_name": "",
+			"town_name": "Mimomi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "習志野市",
+					"ward_name": "",
+					"town_name": "実籾",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "習志野市"
+		},
+		"2750001": {
+			"postcode": "2750001",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narashino-shi",
+			"ward_name": "",
+			"town_name": "Higashinarashino",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "習志野市",
+					"ward_name": "",
+					"town_name": "東習志野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "習志野市"
+		},
+		"2750000": {
+			"postcode": "2750000",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narashino-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "習志野市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "習志野市"
+		}
+	}
+}

@@ -1,0 +1,953 @@
+{
+	"country_code": "JP",
+	"parent_id": "026",
+	"locale": "ja-Latn",
+	"address": {
+		"0268686": {
+			"postcode": "0268686",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Kamaishi-shi",
+			"ward_name": "",
+			"town_name": "只越町",
+			"building_name": "３丁目９−１３（釜石郵便局私書箱第４号）",
+			"organization_name": "釜石市役所",
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "釜石市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "釜石市",
+					"ward_name": "",
+					"town_name": "只越町",
+					"building_name": "３丁目９−１３（釜石郵便局私書箱第４号）",
+					"organization_name": "釜石市役所"
+				}
+			}
+		},
+		"0268567": {
+			"postcode": "0268567",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Kamaishi-shi",
+			"ward_name": "",
+			"town_name": "鈴子町",
+			"building_name": "２３−１５",
+			"organization_name": "新日本製鐵　株式会社　釜石製鐵所",
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "釜石市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "釜石市",
+					"ward_name": "",
+					"town_name": "鈴子町",
+					"building_name": "２３−１５",
+					"organization_name": "新日本製鐵　株式会社　釜石製鐵所"
+				}
+			}
+		},
+		"0268550": {
+			"postcode": "0268550",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Kamaishi-shi",
+			"ward_name": "",
+			"town_name": "甲子町",
+			"building_name": "第１０地割４８３−６",
+			"organization_name": "岩手県立　釜石病院",
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "釜石市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "釜石市",
+					"ward_name": "",
+					"town_name": "甲子町",
+					"building_name": "第１０地割４８３−６",
+					"organization_name": "岩手県立　釜石病院"
+				}
+			}
+		},
+		"0260412": {
+			"postcode": "0260412",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Kamaishi-shi",
+			"ward_name": "",
+			"town_name": "Kuribayashicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "釜石市",
+					"ward_name": "",
+					"town_name": "栗林町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "釜石市"
+		},
+		"0260411": {
+			"postcode": "0260411",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Kamaishi-shi",
+			"ward_name": "",
+			"town_name": "Hashinocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "釜石市",
+					"ward_name": "",
+					"town_name": "橋野町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "釜石市"
+		},
+		"0260304": {
+			"postcode": "0260304",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Kamaishi-shi",
+			"ward_name": "",
+			"town_name": "Ryoishicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "釜石市",
+					"ward_name": "",
+					"town_name": "両石町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "釜石市"
+		},
+		"0260303": {
+			"postcode": "0260303",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Kamaishi-shi",
+			"ward_name": "",
+			"town_name": "Hakozakicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "釜石市",
+					"ward_name": "",
+					"town_name": "箱崎町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "釜石市"
+		},
+		"0260302": {
+			"postcode": "0260302",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Kamaishi-shi",
+			"ward_name": "",
+			"town_name": "Katagishicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "釜石市",
+					"ward_name": "",
+					"town_name": "片岸町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "釜石市"
+		},
+		"0260301": {
+			"postcode": "0260301",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Kamaishi-shi",
+			"ward_name": "",
+			"town_name": "Unosumaicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "釜石市",
+					"ward_name": "",
+					"town_name": "鵜住居町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "釜石市"
+		},
+		"0260121": {
+			"postcode": "0260121",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Kamaishi-shi",
+			"ward_name": "",
+			"town_name": "Tonicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "釜石市",
+					"ward_name": "",
+					"town_name": "唐丹町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "釜石市"
+		},
+		"0260061": {
+			"postcode": "0260061",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Kamaishi-shi",
+			"ward_name": "",
+			"town_name": "Tonicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "釜石市",
+					"ward_name": "",
+					"town_name": "唐丹町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "釜石市"
+		},
+		"0260055": {
+			"postcode": "0260055",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Kamaishi-shi",
+			"ward_name": "",
+			"town_name": "Kasshicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "釜石市",
+					"ward_name": "",
+					"town_name": "甲子町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "釜石市"
+		},
+		"0260054": {
+			"postcode": "0260054",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Kamaishi-shi",
+			"ward_name": "",
+			"town_name": "Nodacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "釜石市",
+					"ward_name": "",
+					"town_name": "野田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "釜石市"
+		},
+		"0260053": {
+			"postcode": "0260053",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Kamaishi-shi",
+			"ward_name": "",
+			"town_name": "Sadanaicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "釜石市",
+					"ward_name": "",
+					"town_name": "定内町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "釜石市"
+		},
+		"0260052": {
+			"postcode": "0260052",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Kamaishi-shi",
+			"ward_name": "",
+			"town_name": "Kosanocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "釜石市",
+					"ward_name": "",
+					"town_name": "小佐野町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "釜石市"
+		},
+		"0260051": {
+			"postcode": "0260051",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Kamaishi-shi",
+			"ward_name": "",
+			"town_name": "Reigaguchicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "釜石市",
+					"ward_name": "",
+					"town_name": "礼ケ口町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "釜石市"
+		},
+		"0260046": {
+			"postcode": "0260046",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Kamaishi-shi",
+			"ward_name": "",
+			"town_name": "Sakuragicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "釜石市",
+					"ward_name": "",
+					"town_name": "桜木町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "釜石市"
+		},
+		"0260045": {
+			"postcode": "0260045",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Kamaishi-shi",
+			"ward_name": "",
+			"town_name": "Kogawacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "釜石市",
+					"ward_name": "",
+					"town_name": "小川町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "釜石市"
+		},
+		"0260044": {
+			"postcode": "0260044",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Kamaishi-shi",
+			"ward_name": "",
+			"town_name": "Sumiyoshicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "釜石市",
+					"ward_name": "",
+					"town_name": "住吉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "釜石市"
+		},
+		"0260043": {
+			"postcode": "0260043",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Kamaishi-shi",
+			"ward_name": "",
+			"town_name": "Shimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "釜石市",
+					"ward_name": "",
+					"town_name": "新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "釜石市"
+		},
+		"0260042": {
+			"postcode": "0260042",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Kamaishi-shi",
+			"ward_name": "",
+			"town_name": "Gentasawacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "釜石市",
+					"ward_name": "",
+					"town_name": "源太沢町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "釜石市"
+		},
+		"0260041": {
+			"postcode": "0260041",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Kamaishi-shi",
+			"ward_name": "",
+			"town_name": "Kaminakashimacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "釜石市",
+					"ward_name": "",
+					"town_name": "上中島町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "釜石市"
+		},
+		"0260035": {
+			"postcode": "0260035",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Kamaishi-shi",
+			"ward_name": "",
+			"town_name": "Yagumocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "釜石市",
+					"ward_name": "",
+					"town_name": "八雲町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "釜石市"
+		},
+		"0260034": {
+			"postcode": "0260034",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Kamaishi-shi",
+			"ward_name": "",
+			"town_name": "Nakazumacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "釜石市",
+					"ward_name": "",
+					"town_name": "中妻町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "釜石市"
+		},
+		"0260033": {
+			"postcode": "0260033",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Kamaishi-shi",
+			"ward_name": "",
+			"town_name": "Komagicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "釜石市",
+					"ward_name": "",
+					"town_name": "駒木町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "釜石市"
+		},
+		"0260032": {
+			"postcode": "0260032",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Kamaishi-shi",
+			"ward_name": "",
+			"town_name": "Chidoricho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "釜石市",
+					"ward_name": "",
+					"town_name": "千鳥町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "釜石市"
+		},
+		"0260031": {
+			"postcode": "0260031",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Kamaishi-shi",
+			"ward_name": "",
+			"town_name": "Suzukocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "釜石市",
+					"ward_name": "",
+					"town_name": "鈴子町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "釜石市"
+		},
+		"0260026": {
+			"postcode": "0260026",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Kamaishi-shi",
+			"ward_name": "",
+			"town_name": "Kamaishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "釜石市",
+					"ward_name": "",
+					"town_name": "釜石",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "釜石市"
+		},
+		"0260025": {
+			"postcode": "0260025",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Kamaishi-shi",
+			"ward_name": "",
+			"town_name": "Owataricho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "釜石市",
+					"ward_name": "",
+					"town_name": "大渡町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "釜石市"
+		},
+		"0260024": {
+			"postcode": "0260024",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Kamaishi-shi",
+			"ward_name": "",
+			"town_name": "Omachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "釜石市",
+					"ward_name": "",
+					"town_name": "大町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "釜石市"
+		},
+		"0260023": {
+			"postcode": "0260023",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Kamaishi-shi",
+			"ward_name": "",
+			"town_name": "Tenjincho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "釜石市",
+					"ward_name": "",
+					"town_name": "天神町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "釜石市"
+		},
+		"0260022": {
+			"postcode": "0260022",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Kamaishi-shi",
+			"ward_name": "",
+			"town_name": "Otadakoecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "釜石市",
+					"ward_name": "",
+					"town_name": "大只越町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "釜石市"
+		},
+		"0260021": {
+			"postcode": "0260021",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Kamaishi-shi",
+			"ward_name": "",
+			"town_name": "Tadakoecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "釜石市",
+					"ward_name": "",
+					"town_name": "只越町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "釜石市"
+		},
+		"0260015": {
+			"postcode": "0260015",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Kamaishi-shi",
+			"ward_name": "",
+			"town_name": "Shinhamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "釜石市",
+					"ward_name": "",
+					"town_name": "新浜町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "釜石市"
+		},
+		"0260014": {
+			"postcode": "0260014",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Kamaishi-shi",
+			"ward_name": "",
+			"town_name": "Higashimaecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "釜石市",
+					"ward_name": "",
+					"town_name": "東前町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "釜石市"
+		},
+		"0260013": {
+			"postcode": "0260013",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Kamaishi-shi",
+			"ward_name": "",
+			"town_name": "Hamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "釜石市",
+					"ward_name": "",
+					"town_name": "浜町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "釜石市"
+		},
+		"0260012": {
+			"postcode": "0260012",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Kamaishi-shi",
+			"ward_name": "",
+			"town_name": "Uogashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "釜石市",
+					"ward_name": "",
+					"town_name": "魚河岸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "釜石市"
+		},
+		"0260011": {
+			"postcode": "0260011",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Kamaishi-shi",
+			"ward_name": "",
+			"town_name": "Minatomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "釜石市",
+					"ward_name": "",
+					"town_name": "港町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "釜石市"
+		},
+		"0260004": {
+			"postcode": "0260004",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Kamaishi-shi",
+			"ward_name": "",
+			"town_name": "Matsubaracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "釜石市",
+					"ward_name": "",
+					"town_name": "松原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "釜石市"
+		},
+		"0260003": {
+			"postcode": "0260003",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Kamaishi-shi",
+			"ward_name": "",
+			"town_name": "Ureishicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "釜石市",
+					"ward_name": "",
+					"town_name": "嬉石町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "釜石市"
+		},
+		"0260002": {
+			"postcode": "0260002",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Kamaishi-shi",
+			"ward_name": "",
+			"town_name": "Odairacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "釜石市",
+					"ward_name": "",
+					"town_name": "大平町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "釜石市"
+		},
+		"0260001": {
+			"postcode": "0260001",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Kamaishi-shi",
+			"ward_name": "",
+			"town_name": "Heita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "釜石市",
+					"ward_name": "",
+					"town_name": "平田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "釜石市"
+		},
+		"0260000": {
+			"postcode": "0260000",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Kamaishi-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "釜石市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "釜石市"
+		}
+	}
+}

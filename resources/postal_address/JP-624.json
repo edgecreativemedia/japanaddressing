@@ -1,0 +1,2185 @@
+{
+	"country_code": "JP",
+	"parent_id": "624",
+	"locale": "ja-Latn",
+	"address": {
+		"6248686": {
+			"postcode": "6248686",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "字下福井",
+			"building_name": "９０１",
+			"organization_name": "第八管区海上保安本部",
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "字下福井",
+					"building_name": "９０１",
+					"organization_name": "第八管区海上保安本部"
+				}
+			}
+		},
+		"6248555": {
+			"postcode": "6248555",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "字南田辺",
+			"building_name": "５０−８",
+			"organization_name": "日本年金機構　舞鶴年金事務所",
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "字南田辺",
+					"building_name": "５０−８",
+					"organization_name": "日本年金機構　舞鶴年金事務所"
+				}
+			}
+		},
+		"6240968": {
+			"postcode": "6240968",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Kamihigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "上東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240967": {
+			"postcode": "6240967",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Shimohigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "下東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240966": {
+			"postcode": "6240966",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Nakayama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "中山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240965": {
+			"postcode": "6240965",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Mizuma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "水間",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240964": {
+			"postcode": "6240964",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Kamaya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "蒲江",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240963": {
+			"postcode": "6240963",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Yugo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "油江",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240962": {
+			"postcode": "6240962",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Higashikanzaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "東神崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240961": {
+			"postcode": "6240961",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Nishikanzaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "西神崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240956": {
+			"postcode": "6240956",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Wae",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "和江",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240955": {
+			"postcode": "6240955",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Maruta",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "丸田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240954": {
+			"postcode": "6240954",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Hatta",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "八田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240953": {
+			"postcode": "6240953",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Hatochi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "八戸地",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240952": {
+			"postcode": "6240952",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Mikkaichi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "三日市",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240951": {
+			"postcode": "6240951",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Kamifukui",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "上福井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240946": {
+			"postcode": "6240946",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Shimofukui",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "下福井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240945": {
+			"postcode": "6240945",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Kita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "喜多",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240944": {
+			"postcode": "6240944",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Okimi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "大君",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240943": {
+			"postcode": "6240943",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Yoshida",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "吉田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240942": {
+			"postcode": "6240942",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Aoi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "青井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240941": {
+			"postcode": "6240941",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Shirasugi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "白杉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240937": {
+			"postcode": "6240937",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Nishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240936": {
+			"postcode": "6240936",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Konya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "紺屋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240935": {
+			"postcode": "6240935",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Kyoguchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "京口",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240934": {
+			"postcode": "6240934",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Horikami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "堀上",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240933": {
+			"postcode": "6240933",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Shin",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "新",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240932": {
+			"postcode": "6240932",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Miyazuguchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "宮津口",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240931": {
+			"postcode": "6240931",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Matsukage",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "松陰",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240929": {
+			"postcode": "6240929",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Jinai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "寺内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240928": {
+			"postcode": "6240928",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Takeya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "竹屋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240927": {
+			"postcode": "6240927",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Hiranoya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "平野屋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240926": {
+			"postcode": "6240926",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Hon",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "本",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240925": {
+			"postcode": "6240925",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Tamba",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "丹波",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240924": {
+			"postcode": "6240924",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Shokunin",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "職人",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240923": {
+			"postcode": "6240923",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Uoya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "魚屋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240922": {
+			"postcode": "6240922",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Nishiyoshihara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "西吉原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240921": {
+			"postcode": "6240921",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Higashiyoshihara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "東吉原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240914": {
+			"postcode": "6240914",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Shimoagu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "下安久",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240913": {
+			"postcode": "6240913",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Kamiagu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "上安久",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240912": {
+			"postcode": "6240912",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Ueyasu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "上安",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240911": {
+			"postcode": "6240911",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Ueyasuhigashimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "上安東町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240909": {
+			"postcode": "6240909",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Tendaishimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "天台新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240908": {
+			"postcode": "6240908",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Kiyomichishimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "清道新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240907": {
+			"postcode": "6240907",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Fukitonyamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "福来問屋町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240906": {
+			"postcode": "6240906",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Kuratani",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "倉谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240905": {
+			"postcode": "6240905",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Fuki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "福来",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240904": {
+			"postcode": "6240904",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Showadai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "昭和台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240903": {
+			"postcode": "6240903",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Tendai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "天台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240902": {
+			"postcode": "6240902",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Kiyomichi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "清道",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240901": {
+			"postcode": "6240901",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Kiyomigaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "清美が丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240855": {
+			"postcode": "6240855",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Kitatanabe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "北田辺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240854": {
+			"postcode": "6240854",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Emmanji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "円満寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240853": {
+			"postcode": "6240853",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Minamitanabe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "南田辺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240852": {
+			"postcode": "6240852",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Ouchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "大内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240851": {
+			"postcode": "6240851",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Ochinocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "大内野町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240843": {
+			"postcode": "6240843",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Hikitsuchishin",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "引土新",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240842": {
+			"postcode": "6240842",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Asashiro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "朝代",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240841": {
+			"postcode": "6240841",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Hikitsuchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "引土",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240836": {
+			"postcode": "6240836",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Nyo",
+			"building_name": "Kitamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "女布",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240835": {
+			"postcode": "6240835",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Takanoyuri",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "高野由里",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240834": {
+			"postcode": "6240834",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Joya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "城屋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240833": {
+			"postcode": "6240833",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Nomuraji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "野村寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240832": {
+			"postcode": "6240832",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Takanodai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "高野台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240831": {
+			"postcode": "6240831",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Nyo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "女布",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240826": {
+			"postcode": "6240826",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Kyodashimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "京田新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240825": {
+			"postcode": "6240825",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Tokura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "十倉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240824": {
+			"postcode": "6240824",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Magura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "真倉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240823": {
+			"postcode": "6240823",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Kyoda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "京田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240822": {
+			"postcode": "6240822",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Nanukaichi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "七日市",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240821": {
+			"postcode": "6240821",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Kumonna",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "公文名",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240816": {
+			"postcode": "6240816",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Isazu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "伊佐津",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240815": {
+			"postcode": "6240815",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Sakaidani",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "境谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240814": {
+			"postcode": "6240814",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Manganji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "万願寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240813": {
+			"postcode": "6240813",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Imada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "今田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240812": {
+			"postcode": "6240812",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Hori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "堀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240811": {
+			"postcode": "6240811",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Ikenochishimo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "池ノ内下",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240806": {
+			"postcode": "6240806",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Nunoshiki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "布敷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240805": {
+			"postcode": "6240805",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Besshiyo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "別所",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240804": {
+			"postcode": "6240804",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Kishidani",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "岸谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240803": {
+			"postcode": "6240803",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Shirataki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "白滝",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240802": {
+			"postcode": "6240802",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Uene",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "上根",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240801": {
+			"postcode": "6240801",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Terada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "寺田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240125": {
+			"postcode": "6240125",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Kuwagaikami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "桑飼上",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240124": {
+			"postcode": "6240124",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Kuwagaishimo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "桑飼下",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240123": {
+			"postcode": "6240123",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Omata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "大俣",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240122": {
+			"postcode": "6240122",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Jito",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "地頭",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240121": {
+			"postcode": "6240121",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Takigauro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "滝ケ宇呂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240118": {
+			"postcode": "6240118",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Saihoji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "西方寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240117": {
+			"postcode": "6240117",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Okadayuri",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "岡田由里",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240116": {
+			"postcode": "6240116",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Fumuro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "富室",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240115": {
+			"postcode": "6240115",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Kora",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "河原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240114": {
+			"postcode": "6240114",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Shimomidani",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "下見谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240113": {
+			"postcode": "6240113",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Shimorushibara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "下漆原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240112": {
+			"postcode": "6240112",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Kamiurushibara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "上漆原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240111": {
+			"postcode": "6240111",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Nagatani",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "長谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240103": {
+			"postcode": "6240103",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Kutami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "久田美",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240102": {
+			"postcode": "6240102",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Shidaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "志高",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		},
+		"6240101": {
+			"postcode": "6240101",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Maizuru-shi",
+			"ward_name": "",
+			"town_name": "Okawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "舞鶴市",
+					"ward_name": "",
+					"town_name": "大川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "舞鶴市"
+		}
+	}
+}

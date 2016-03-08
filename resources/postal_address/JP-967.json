@@ -1,0 +1,2009 @@
+{
+	"country_code": "JP",
+	"parent_id": "967",
+	"locale": "ja-Latn",
+	"address": {
+		"9678501": {
+			"postcode": "9678501",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "田島",
+			"building_name": "字後原甲３５３１番地１",
+			"organization_name": "南会津町役場",
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "田島",
+					"building_name": "字後原甲３５３１番地１",
+					"organization_name": "南会津町役場"
+				}
+			}
+		},
+		"9670692": {
+			"postcode": "9670692",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "山口",
+			"building_name": "字村上８６７",
+			"organization_name": "会津森林管理署南会津支署",
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "山口",
+					"building_name": "字村上８６７",
+					"organization_name": "会津森林管理署南会津支署"
+				}
+			}
+		},
+		"9670642": {
+			"postcode": "9670642",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Onoshima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "小野島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670641": {
+			"postcode": "9670641",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Izumita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "和泉田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670634": {
+			"postcode": "9670634",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Shimoyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "下山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670633": {
+			"postcode": "9670633",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Tomiyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "富山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670632": {
+			"postcode": "9670632",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Katakai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "片貝",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670631": {
+			"postcode": "9670631",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Sakai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "界",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670622": {
+			"postcode": "9670622",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Miyatoko",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "宮床",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670621": {
+			"postcode": "9670621",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Tonosu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "鴇巣",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670611": {
+			"postcode": "9670611",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Yamaguchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "山口",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670605": {
+			"postcode": "9670605",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Azuma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670604": {
+			"postcode": "9670604",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Ohashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "大橋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670603": {
+			"postcode": "9670603",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Onita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "大新田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670602": {
+			"postcode": "9670602",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Mizunesawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "水根沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670601": {
+			"postcode": "9670601",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Kibushi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "木伏",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670532": {
+			"postcode": "9670532",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Hinoemata-mura",
+			"town_name": "Ozenuma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "檜枝岐村",
+					"town_name": "尾瀬沼",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670531": {
+			"postcode": "9670531",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Hinoemata-mura",
+			"town_name": "Hiuchigatake",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "檜枝岐村",
+					"town_name": "燧ケ岳",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670528": {
+			"postcode": "9670528",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Hinoemata-mura",
+			"town_name": "Yoshigataira",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "檜枝岐村",
+					"town_name": "葭ケ平",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670527": {
+			"postcode": "9670527",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Hinoemata-mura",
+			"town_name": "Mizuri",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "檜枝岐村",
+					"town_name": "見通",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670526": {
+			"postcode": "9670526",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Hinoemata-mura",
+			"town_name": "Takizawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "檜枝岐村",
+					"town_name": "滝沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670525": {
+			"postcode": "9670525",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Hinoemata-mura",
+			"town_name": "Shimonohara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "檜枝岐村",
+					"town_name": "下ノ原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670524": {
+			"postcode": "9670524",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Hinoemata-mura",
+			"town_name": "Uenodai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "檜枝岐村",
+					"town_name": "上ノ台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670523": {
+			"postcode": "9670523",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Hinoemata-mura",
+			"town_name": "Shitanodai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "檜枝岐村",
+					"town_name": "下ノ台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670522": {
+			"postcode": "9670522",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Hinoemata-mura",
+			"town_name": "Kaminohara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "檜枝岐村",
+					"town_name": "上ノ原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670521": {
+			"postcode": "9670521",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Hinoemata-mura",
+			"town_name": "Idaira",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "檜枝岐村",
+					"town_name": "居平",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670515": {
+			"postcode": "9670515",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Omomo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "大桃",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670514": {
+			"postcode": "9670514",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Kodateiwa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "小立岩",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670513": {
+			"postcode": "9670513",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Ohara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "大原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670512": {
+			"postcode": "9670512",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Hajikaze",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "耻風",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670511": {
+			"postcode": "9670511",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Uchikawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "内川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670507": {
+			"postcode": "9670507",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Aoyagi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "青柳",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670506": {
+			"postcode": "9670506",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Koshio",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "小塩",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670505": {
+			"postcode": "9670505",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Miyazawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "宮沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670504": {
+			"postcode": "9670504",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Hamano",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "浜野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670503": {
+			"postcode": "9670503",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Shirasawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "白沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670502": {
+			"postcode": "9670502",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Tadaishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "多々石",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670501": {
+			"postcode": "9670501",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Furumachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "古町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670500": {
+			"postcode": "9670500",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Hinoemata-mura",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "檜枝岐村",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670347": {
+			"postcode": "9670347",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Miyazato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "宮里",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670346": {
+			"postcode": "9670346",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Kawaginu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "川衣",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670345": {
+			"postcode": "9670345",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Tokusa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "木賊",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670344": {
+			"postcode": "9670344",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Kaminohara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "上ミノ原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670343": {
+			"postcode": "9670343",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Kotakabayashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "小高林",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670342": {
+			"postcode": "9670342",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Sukegyu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "助木生",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670341": {
+			"postcode": "9670341",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Anabara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "穴原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670336": {
+			"postcode": "9670336",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Yoshitaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "吉高",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670335": {
+			"postcode": "9670335",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Kaibara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "貝原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670334": {
+			"postcode": "9670334",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Mizuhiki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "水引",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670333": {
+			"postcode": "9670333",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Yunohana",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "湯ノ花",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670332": {
+			"postcode": "9670332",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Tsuno",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "角生",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670331": {
+			"postcode": "9670331",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Oshido",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "押戸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670324": {
+			"postcode": "9670324",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Banya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "番屋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670323": {
+			"postcode": "9670323",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Iwashita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "岩下",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670322": {
+			"postcode": "9670322",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Shoja",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "精舎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670321": {
+			"postcode": "9670321",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Igeta",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "井桁",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670319": {
+			"postcode": "9670319",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Okubo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "大久保",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670318": {
+			"postcode": "9670318",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Yaginosawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "八木ノ沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670317": {
+			"postcode": "9670317",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Iyoto",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "伊与戸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670315": {
+			"postcode": "9670315",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Takatsuehara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "高杖原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670314": {
+			"postcode": "9670314",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Yaso",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "八総",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670313": {
+			"postcode": "9670313",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Morito",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "森戸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670312": {
+			"postcode": "9670312",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Noshito",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "熨斗戸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670311": {
+			"postcode": "9670311",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Shindenhara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "新田原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670307": {
+			"postcode": "9670307",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Suishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "水石",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670306": {
+			"postcode": "9670306",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Maezawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "前沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670305": {
+			"postcode": "9670305",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Tochu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "戸中",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670304": {
+			"postcode": "9670304",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Matsutohara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "松戸原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670303": {
+			"postcode": "9670303",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Fukuwata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "福渡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670302": {
+			"postcode": "9670302",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Shionohara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "塩ノ原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670301": {
+			"postcode": "9670301",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Tanose",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "たのせ",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670026": {
+			"postcode": "9670026",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Haryu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "針生",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670025": {
+			"postcode": "9670025",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Shizukawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "静川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670024": {
+			"postcode": "9670024",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Kanaizawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "金井沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670023": {
+			"postcode": "9670023",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Fukumezawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "福米沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670022": {
+			"postcode": "9670022",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Shioe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "塩江",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670021": {
+			"postcode": "9670021",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Koya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "高野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670016": {
+			"postcode": "9670016",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Tonyu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "藤生",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670015": {
+			"postcode": "9670015",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Takinohara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "滝原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670014": {
+			"postcode": "9670014",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Itozawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "糸沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670013": {
+			"postcode": "9670013",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Sekimoto",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "関本",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670012": {
+			"postcode": "9670012",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Kawashima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "川島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670011": {
+			"postcode": "9670011",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Kuryuzawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "栗生沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670007": {
+			"postcode": "9670007",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Tando",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "丹藤",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670006": {
+			"postcode": "9670006",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Nagata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "永田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670005": {
+			"postcode": "9670005",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Nakaarai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "中荒井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670004": {
+			"postcode": "9670004",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Tajima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "田島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670003": {
+			"postcode": "9670003",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Mizunashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "水無",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670002": {
+			"postcode": "9670002",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Tabe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "田部",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670001": {
+			"postcode": "9670001",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "Nagano",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "長野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		},
+		"9670000": {
+			"postcode": "9670000",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Minamiaizu-gun",
+			"ward_name": "Minamiaizu-machi",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "南会津郡",
+					"ward_name": "南会津町",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "南会津郡"
+		}
+	}
+}

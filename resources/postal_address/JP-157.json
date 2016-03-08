@@ -1,0 +1,755 @@
+{
+	"country_code": "JP",
+	"parent_id": "157",
+	"locale": "ja-Latn",
+	"address": {
+		"1578575": {
+			"postcode": "1578575",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Setagaya-ku",
+			"ward_name": "",
+			"town_name": "砧",
+			"building_name": "３丁目９−１１",
+			"organization_name": "（社）　友愛十字会",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "世田谷区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "世田谷区",
+					"ward_name": "",
+					"town_name": "砧",
+					"building_name": "３丁目９−１１",
+					"organization_name": "（社）　友愛十字会"
+				}
+			}
+		},
+		"1578573": {
+			"postcode": "1578573",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Setagaya-ku",
+			"ward_name": "",
+			"town_name": "砧",
+			"building_name": "１丁目２１−２５",
+			"organization_name": "財団法人　日本品質保証機構",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "世田谷区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "世田谷区",
+					"ward_name": "",
+					"town_name": "砧",
+					"building_name": "１丁目２１−２５",
+					"organization_name": "財団法人　日本品質保証機構"
+				}
+			}
+		},
+		"1578570": {
+			"postcode": "1578570",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Setagaya-ku",
+			"ward_name": "",
+			"town_name": "砧",
+			"building_name": "５丁目２−１",
+			"organization_name": "日本大学　商学部",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "世田谷区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "世田谷区",
+					"ward_name": "",
+					"town_name": "砧",
+					"building_name": "５丁目２−１",
+					"organization_name": "日本大学　商学部"
+				}
+			}
+		},
+		"1578567": {
+			"postcode": "1578567",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Setagaya-ku",
+			"ward_name": "",
+			"town_name": "南烏山",
+			"building_name": "１丁目１０−２２",
+			"organization_name": "（株）　ウテナ",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "世田谷区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "世田谷区",
+					"ward_name": "",
+					"town_name": "南烏山",
+					"building_name": "１丁目１０−２２",
+					"organization_name": "（株）　ウテナ"
+				}
+			}
+		},
+		"1578566": {
+			"postcode": "1578566",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Setagaya-ku",
+			"ward_name": "",
+			"town_name": "成城",
+			"building_name": "８丁目２２−１",
+			"organization_name": "サクラビア成城　（株）　プライムステージ",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "世田谷区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "世田谷区",
+					"ward_name": "",
+					"town_name": "成城",
+					"building_name": "８丁目２２−１",
+					"organization_name": "サクラビア成城　（株）　プライムステージ"
+				}
+			}
+		},
+		"1578565": {
+			"postcode": "1578565",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Setagaya-ku",
+			"ward_name": "",
+			"town_name": "北烏山",
+			"building_name": "８丁目１９−１",
+			"organization_name": "学校法人　二階堂学園",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "世田谷区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "世田谷区",
+					"ward_name": "",
+					"town_name": "北烏山",
+					"building_name": "８丁目１９−１",
+					"organization_name": "学校法人　二階堂学園"
+				}
+			}
+		},
+		"1578563": {
+			"postcode": "1578563",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Setagaya-ku",
+			"ward_name": "",
+			"town_name": "粕谷",
+			"building_name": "１丁目１２−１２",
+			"organization_name": "株式会社　ジャパンハウス",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "世田谷区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "世田谷区",
+					"ward_name": "",
+					"town_name": "粕谷",
+					"building_name": "１丁目１２−１２",
+					"organization_name": "株式会社　ジャパンハウス"
+				}
+			}
+		},
+		"1578562": {
+			"postcode": "1578562",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Setagaya-ku",
+			"ward_name": "",
+			"town_name": "成城",
+			"building_name": "１丁目１１−１",
+			"organization_name": "学校法人　科学技術学園",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "世田谷区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "世田谷区",
+					"ward_name": "",
+					"town_name": "成城",
+					"building_name": "１丁目１１−１",
+					"organization_name": "学校法人　科学技術学園"
+				}
+			}
+		},
+		"1578561": {
+			"postcode": "1578561",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Setagaya-ku",
+			"ward_name": "",
+			"town_name": "成城",
+			"building_name": "１丁目４−１",
+			"organization_name": "東宝　（株）　東宝スタジオ",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "世田谷区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "世田谷区",
+					"ward_name": "",
+					"town_name": "成城",
+					"building_name": "１丁目４−１",
+					"organization_name": "東宝　（株）　東宝スタジオ"
+				}
+			}
+		},
+		"1578550": {
+			"postcode": "1578550",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Setagaya-ku",
+			"ward_name": "",
+			"town_name": "上祖師谷",
+			"building_name": "５丁目１９−１",
+			"organization_name": "（社）　至誠会　第二病院",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "世田谷区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "世田谷区",
+					"ward_name": "",
+					"town_name": "上祖師谷",
+					"building_name": "５丁目１９−１",
+					"organization_name": "（社）　至誠会　第二病院"
+				}
+			}
+		},
+		"1578543": {
+			"postcode": "1578543",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Setagaya-ku",
+			"ward_name": "",
+			"town_name": "成城",
+			"building_name": "５−１６−２１",
+			"organization_name": "株式会社　ティ・ヴイクラブ",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "世田谷区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "世田谷区",
+					"ward_name": "",
+					"town_name": "成城",
+					"building_name": "５−１６−２１",
+					"organization_name": "株式会社　ティ・ヴイクラブ"
+				}
+			}
+		},
+		"1578535": {
+			"postcode": "1578535",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Setagaya-ku",
+			"ward_name": "",
+			"town_name": "大蔵",
+			"building_name": "２丁目１０−１",
+			"organization_name": "国立　成育医療センター",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "世田谷区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "世田谷区",
+					"ward_name": "",
+					"town_name": "大蔵",
+					"building_name": "２丁目１０−１",
+					"organization_name": "国立　成育医療センター"
+				}
+			}
+		},
+		"1578530": {
+			"postcode": "1578530",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Setagaya-ku",
+			"ward_name": "",
+			"town_name": "砧",
+			"building_name": "１丁目１０−１１",
+			"organization_name": "ＮＨＫ　首都圏事務センター",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "世田谷区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "世田谷区",
+					"ward_name": "",
+					"town_name": "砧",
+					"building_name": "１丁目１０−１１",
+					"organization_name": "ＮＨＫ　首都圏事務センター"
+				}
+			}
+		},
+		"1578522": {
+			"postcode": "1578522",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Setagaya-ku",
+			"ward_name": "",
+			"town_name": "祖師谷",
+			"building_name": "３丁目５２−３８",
+			"organization_name": "学校法人　成城学園　初等学校",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "世田谷区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "世田谷区",
+					"ward_name": "",
+					"town_name": "祖師谷",
+					"building_name": "３丁目５２−３８",
+					"organization_name": "学校法人　成城学園　初等学校"
+				}
+			}
+		},
+		"1578521": {
+			"postcode": "1578521",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Setagaya-ku",
+			"ward_name": "",
+			"town_name": "砧",
+			"building_name": "４丁目８−６",
+			"organization_name": "日本書学舘",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "世田谷区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "世田谷区",
+					"ward_name": "",
+					"town_name": "砧",
+					"building_name": "４丁目８−６",
+					"organization_name": "日本書学舘"
+				}
+			}
+		},
+		"1578520": {
+			"postcode": "1578520",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Setagaya-ku",
+			"ward_name": "",
+			"town_name": "砧",
+			"building_name": "１丁目１０−１１",
+			"organization_name": "財団法人　ＮＨＫ放送研修センター",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "世田谷区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "世田谷区",
+					"ward_name": "",
+					"town_name": "砧",
+					"building_name": "１丁目１０−１１",
+					"organization_name": "財団法人　ＮＨＫ放送研修センター"
+				}
+			}
+		},
+		"1578511": {
+			"postcode": "1578511",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Setagaya-ku",
+			"ward_name": "",
+			"town_name": "成城",
+			"building_name": "６丁目１−２０",
+			"organization_name": "学校法人　成城学園",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "世田谷区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "世田谷区",
+					"ward_name": "",
+					"town_name": "成城",
+					"building_name": "６丁目１−２０",
+					"organization_name": "学校法人　成城学園"
+				}
+			}
+		},
+		"1578510": {
+			"postcode": "1578510",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Setagaya-ku",
+			"ward_name": "",
+			"town_name": "砧",
+			"building_name": "１丁目１０−１１",
+			"organization_name": "日本放送協会　放送技術研究所",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "世田谷区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "世田谷区",
+					"ward_name": "",
+					"town_name": "砧",
+					"building_name": "１丁目１０−１１",
+					"organization_name": "日本放送協会　放送技術研究所"
+				}
+			}
+		},
+		"1578501": {
+			"postcode": "1578501",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Setagaya-ku",
+			"ward_name": "",
+			"town_name": "成城",
+			"building_name": "６丁目２−１",
+			"organization_name": "世田谷区　砧総合支所",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "世田谷区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "世田谷区",
+					"ward_name": "",
+					"town_name": "成城",
+					"building_name": "６丁目２−１",
+					"organization_name": "世田谷区　砧総合支所"
+				}
+			}
+		},
+		"1570077": {
+			"postcode": "1570077",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Setagaya-ku",
+			"ward_name": "",
+			"town_name": "Kamata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "世田谷区",
+					"ward_name": "",
+					"town_name": "鎌田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "世田谷区"
+		},
+		"1570076": {
+			"postcode": "1570076",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Setagaya-ku",
+			"ward_name": "",
+			"town_name": "Okamoto",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "世田谷区",
+					"ward_name": "",
+					"town_name": "岡本",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "世田谷区"
+		},
+		"1570075": {
+			"postcode": "1570075",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Setagaya-ku",
+			"ward_name": "",
+			"town_name": "Kinutakoen",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "世田谷区",
+					"ward_name": "",
+					"town_name": "砧公園",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "世田谷区"
+		},
+		"1570074": {
+			"postcode": "1570074",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Setagaya-ku",
+			"ward_name": "",
+			"town_name": "Okura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "世田谷区",
+					"ward_name": "",
+					"town_name": "大蔵",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "世田谷区"
+		},
+		"1570073": {
+			"postcode": "1570073",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Setagaya-ku",
+			"ward_name": "",
+			"town_name": "Kinuta",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "世田谷区",
+					"ward_name": "",
+					"town_name": "砧",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "世田谷区"
+		},
+		"1570072": {
+			"postcode": "1570072",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Setagaya-ku",
+			"ward_name": "",
+			"town_name": "Soshigaya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "世田谷区",
+					"ward_name": "",
+					"town_name": "祖師谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "世田谷区"
+		},
+		"1570071": {
+			"postcode": "1570071",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Setagaya-ku",
+			"ward_name": "",
+			"town_name": "Chitosedai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "世田谷区",
+					"ward_name": "",
+					"town_name": "千歳台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "世田谷区"
+		},
+		"1570068": {
+			"postcode": "1570068",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Setagaya-ku",
+			"ward_name": "",
+			"town_name": "Unane",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "世田谷区",
+					"ward_name": "",
+					"town_name": "宇奈根",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "世田谷区"
+		},
+		"1570067": {
+			"postcode": "1570067",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Setagaya-ku",
+			"ward_name": "",
+			"town_name": "Kitami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "世田谷区",
+					"ward_name": "",
+					"town_name": "喜多見",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "世田谷区"
+		},
+		"1570066": {
+			"postcode": "1570066",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Setagaya-ku",
+			"ward_name": "",
+			"town_name": "Seijo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "世田谷区",
+					"ward_name": "",
+					"town_name": "成城",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "世田谷区"
+		},
+		"1570065": {
+			"postcode": "1570065",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Setagaya-ku",
+			"ward_name": "",
+			"town_name": "Kamisoshigaya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "世田谷区",
+					"ward_name": "",
+					"town_name": "上祖師谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "世田谷区"
+		},
+		"1570064": {
+			"postcode": "1570064",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Setagaya-ku",
+			"ward_name": "",
+			"town_name": "Kyuden",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "世田谷区",
+					"ward_name": "",
+					"town_name": "給田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "世田谷区"
+		},
+		"1570063": {
+			"postcode": "1570063",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Setagaya-ku",
+			"ward_name": "",
+			"town_name": "Kasuya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "世田谷区",
+					"ward_name": "",
+					"town_name": "粕谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "世田谷区"
+		},
+		"1570062": {
+			"postcode": "1570062",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Setagaya-ku",
+			"ward_name": "",
+			"town_name": "Minamikarasuyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "世田谷区",
+					"ward_name": "",
+					"town_name": "南烏山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "世田谷区"
+		},
+		"1570061": {
+			"postcode": "1570061",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Setagaya-ku",
+			"ward_name": "",
+			"town_name": "Kitakarasuyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "世田谷区",
+					"ward_name": "",
+					"town_name": "北烏山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "世田谷区"
+		}
+	}
+}

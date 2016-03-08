@@ -1,0 +1,1327 @@
+{
+	"country_code": "JP",
+	"parent_id": "174",
+	"locale": "ja-Latn",
+	"address": {
+		"1748903": {
+			"postcode": "1748903",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "蓮沼町",
+			"building_name": "４−１",
+			"organization_name": "清水産業　（株）",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "蓮沼町",
+					"building_name": "４−１",
+					"organization_name": "清水産業　（株）"
+				}
+			}
+		},
+		"1748860": {
+			"postcode": "1748860",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "清水町",
+			"building_name": "３６−１",
+			"organization_name": "共立印刷　（株）",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "清水町",
+					"building_name": "３６−１",
+					"organization_name": "共立印刷　（株）"
+				}
+			}
+		},
+		"1748744": {
+			"postcode": "1748744",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "小豆沢",
+			"building_name": "２丁目７−６（板橋北郵便局私書箱第２５号）",
+			"organization_name": "理研計器　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "小豆沢",
+					"building_name": "２丁目７−６（板橋北郵便局私書箱第２５号）",
+					"organization_name": "理研計器　株式会社"
+				}
+			}
+		},
+		"1748743": {
+			"postcode": "1748743",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Saitama-shi",
+			"ward_name": "Sakura-ku",
+			"town_name": "田島",
+			"building_name": "８丁目３−２９（板橋北郵便局私書箱第１５号）",
+			"organization_name": "（株）　ディーエムエス",
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "さいたま市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "さいたま市",
+					"ward_name": "桜区",
+					"town_name": "田島",
+					"building_name": "８丁目３−２９（板橋北郵便局私書箱第１５号）",
+					"organization_name": "（株）　ディーエムエス"
+				}
+			}
+		},
+		"1748741": {
+			"postcode": "1748741",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Saitama-shi",
+			"ward_name": "Sakura-ku",
+			"town_name": "田島",
+			"building_name": "８丁目３−２９（板橋北郵便局私書箱第６１号）",
+			"organization_name": "（株）　ディーエムエス",
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "さいたま市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "さいたま市",
+					"ward_name": "桜区",
+					"town_name": "田島",
+					"building_name": "８丁目３−２９（板橋北郵便局私書箱第６１号）",
+					"organization_name": "（株）　ディーエムエス"
+				}
+			}
+		},
+		"1748740": {
+			"postcode": "1748740",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "神田小川町",
+			"building_name": "１丁目１１（板橋北郵便局私書箱第３９号）",
+			"organization_name": "東京セールスプロデュース　（株）",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "神田小川町",
+					"building_name": "１丁目１１（板橋北郵便局私書箱第３９号）",
+					"organization_name": "東京セールスプロデュース　（株）"
+				}
+			}
+		},
+		"1748739": {
+			"postcode": "1748739",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "東坂下",
+			"building_name": "１丁目３−１（板橋北郵便局私書箱第６０号）",
+			"organization_name": "栗田出版販売",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "東坂下",
+					"building_name": "１丁目３−１（板橋北郵便局私書箱第６０号）",
+					"organization_name": "栗田出版販売"
+				}
+			}
+		},
+		"1748737": {
+			"postcode": "1748737",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "東坂下",
+			"building_name": "１丁目１８−１５（板橋北郵便局私書箱第６号）",
+			"organization_name": "株式会社　中央社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "東坂下",
+					"building_name": "１丁目１８−１５（板橋北郵便局私書箱第６号）",
+					"organization_name": "株式会社　中央社"
+				}
+			}
+		},
+		"1748730": {
+			"postcode": "1748730",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "大原町",
+			"building_name": "１３−１",
+			"organization_name": "金門製作所",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "大原町",
+					"building_name": "１３−１",
+					"organization_name": "金門製作所"
+				}
+			}
+		},
+		"1748711": {
+			"postcode": "1748711",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "東新町",
+			"building_name": "２丁目２８−１",
+			"organization_name": "城北学園",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "東新町",
+					"building_name": "２丁目２８−１",
+					"organization_name": "城北学園"
+				}
+			}
+		},
+		"1748701": {
+			"postcode": "1748701",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "富士見町",
+			"building_name": "５−４",
+			"organization_name": "株式会社　昭和コーポレーション",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "富士見町",
+					"building_name": "５−４",
+					"organization_name": "株式会社　昭和コーポレーション"
+				}
+			}
+		},
+		"1748688": {
+			"postcode": "1748688",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "常盤台",
+			"building_name": "１丁目３−１",
+			"organization_name": "日本教育書道連盟、財団法人　日本書道美術館",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "常盤台",
+					"building_name": "１丁目３−１",
+					"organization_name": "日本教育書道連盟、財団法人　日本書道美術館"
+				}
+			}
+		},
+		"1748686": {
+			"postcode": "1748686",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "常盤台",
+			"building_name": "４丁目３６−９",
+			"organization_name": "医療法人　慈誠会　上板橋病院",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "常盤台",
+					"building_name": "４丁目３６−９",
+					"organization_name": "医療法人　慈誠会　上板橋病院"
+				}
+			}
+		},
+		"1748680": {
+			"postcode": "1748680",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "常盤台",
+			"building_name": "２丁目３３−１５",
+			"organization_name": "飯沼病院",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "常盤台",
+					"building_name": "２丁目３３−１５",
+					"organization_name": "飯沼病院"
+				}
+			}
+		},
+		"1748646": {
+			"postcode": "1748646",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "前野町",
+			"building_name": "５丁目５−３",
+			"organization_name": "淑徳幼児教育専門学校",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "前野町",
+					"building_name": "５丁目５−３",
+					"organization_name": "淑徳幼児教育専門学校"
+				}
+			}
+		},
+		"1748639": {
+			"postcode": "1748639",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "前野町",
+			"building_name": "２丁目３６−９",
+			"organization_name": "ペンタックス　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "前野町",
+					"building_name": "２丁目３６−９",
+					"organization_name": "ペンタックス　株式会社"
+				}
+			}
+		},
+		"1748636": {
+			"postcode": "1748636",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "前野町",
+			"building_name": "６丁目８−１０",
+			"organization_name": "千葉金属工業　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "前野町",
+					"building_name": "６丁目８−１０",
+					"organization_name": "千葉金属工業　株式会社"
+				}
+			}
+		},
+		"1748633": {
+			"postcode": "1748633",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "前野町",
+			"building_name": "１丁目４７−４",
+			"organization_name": "（株）　ライト製作所",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "前野町",
+					"building_name": "１丁目４７−４",
+					"organization_name": "（株）　ライト製作所"
+				}
+			}
+		},
+		"1748612": {
+			"postcode": "1748612",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "蓮根",
+			"building_name": "３丁目１７−１",
+			"organization_name": "アステラス製薬　株式会社　総務室",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "蓮根",
+					"building_name": "３丁目１７−１",
+					"organization_name": "アステラス製薬　株式会社　総務室"
+				}
+			}
+		},
+		"1748601": {
+			"postcode": "1748601",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "東坂下",
+			"building_name": "２丁目８−１",
+			"organization_name": "（株）　タニタハウジングウェア",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "東坂下",
+					"building_name": "２丁目８−１",
+					"organization_name": "（株）　タニタハウジングウェア"
+				}
+			}
+		},
+		"1748588": {
+			"postcode": "1748588",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "前野町",
+			"building_name": "５丁目３−７",
+			"organization_name": "淑徳小学校",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "前野町",
+					"building_name": "５丁目３−７",
+					"organization_name": "淑徳小学校"
+				}
+			}
+		},
+		"1748580": {
+			"postcode": "1748580",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "蓮沼町",
+			"building_name": "７５−１",
+			"organization_name": "株式会社　トプコン",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "蓮沼町",
+					"building_name": "７５−１",
+					"organization_name": "株式会社　トプコン"
+				}
+			}
+		},
+		"1748567": {
+			"postcode": "1748567",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "舟渡",
+			"building_name": "１丁目１２−１１",
+			"organization_name": "（株）　鈴木商館",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "舟渡",
+					"building_name": "１丁目１２−１１",
+					"organization_name": "（株）　鈴木商館"
+				}
+			}
+		},
+		"1748562": {
+			"postcode": "1748562",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "舟渡",
+			"building_name": "４−８−１ランドポート板橋",
+			"organization_name": "アスクルＤＣＭ　第２物流センター",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "舟渡",
+					"building_name": "４−８−１ランドポート板橋",
+					"organization_name": "アスクルＤＣＭ　第２物流センター"
+				}
+			}
+		},
+		"1748560": {
+			"postcode": "1748560",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "舟渡",
+			"building_name": "４丁目１０−１",
+			"organization_name": "日本金属　株式会社　板橋工場",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "舟渡",
+					"building_name": "４丁目１０−１",
+					"organization_name": "日本金属　株式会社　板橋工場"
+				}
+			}
+		},
+		"1748558": {
+			"postcode": "1748558",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "志村",
+			"building_name": "１丁目１１−１",
+			"organization_name": "凸版印刷　株式会社　情報コミュニケーション事業本部",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "志村",
+					"building_name": "１丁目１１−１",
+					"organization_name": "凸版印刷　株式会社　情報コミュニケーション事業本部"
+				}
+			}
+		},
+		"1748555": {
+			"postcode": "1748555",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "志村",
+			"building_name": "３−３０−１",
+			"organization_name": "株式会社　ＬＳＩメディエンス",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "志村",
+					"building_name": "３−３０−１",
+					"organization_name": "株式会社　ＬＳＩメディエンス"
+				}
+			}
+		},
+		"1748550": {
+			"postcode": "1748550",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "志村",
+			"building_name": "２丁目１８−１０",
+			"organization_name": "日本電産コパル　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "志村",
+					"building_name": "２丁目１８−１０",
+					"organization_name": "日本電産コパル　株式会社"
+				}
+			}
+		},
+		"1748530": {
+			"postcode": "1748530",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "坂下",
+			"building_name": "１丁目３５−３",
+			"organization_name": "群峰工業　（株）",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "坂下",
+					"building_name": "１丁目３５−３",
+					"organization_name": "群峰工業　（株）"
+				}
+			}
+		},
+		"1748526": {
+			"postcode": "1748526",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "坂下",
+			"building_name": "１丁目３３−１２",
+			"organization_name": "電設健保総合健康管理センター",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "坂下",
+					"building_name": "１丁目３３−１２",
+					"organization_name": "電設健保総合健康管理センター"
+				}
+			}
+		},
+		"1748524": {
+			"postcode": "1748524",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "坂下",
+			"building_name": "２丁目２−１",
+			"organization_name": "芝浦工業大学中学高等学校",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "坂下",
+					"building_name": "２丁目２−１",
+					"organization_name": "芝浦工業大学中学高等学校"
+				}
+			}
+		},
+		"1748521": {
+			"postcode": "1748521",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "坂下",
+			"building_name": "１丁目３２−１７",
+			"organization_name": "東京日野自動車　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "坂下",
+					"building_name": "１丁目３２−１７",
+					"organization_name": "東京日野自動車　株式会社"
+				}
+			}
+		},
+		"1748520": {
+			"postcode": "1748520",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "坂下",
+			"building_name": "３−３５−５８",
+			"organization_name": "ＤＩＣグラフィックス　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "坂下",
+					"building_name": "３−３５−５８",
+					"organization_name": "ＤＩＣグラフィックス　株式会社"
+				}
+			}
+		},
+		"1748510": {
+			"postcode": "1748510",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "小豆沢",
+			"building_name": "１丁目１６番５号",
+			"organization_name": "凸版物流　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "小豆沢",
+					"building_name": "１丁目１６番５号",
+					"organization_name": "凸版物流　株式会社"
+				}
+			}
+		},
+		"1748505": {
+			"postcode": "1748505",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "小豆沢",
+			"building_name": "３丁目６−１０",
+			"organization_name": "オリエンタル酵母工業　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "小豆沢",
+					"building_name": "３丁目６−１０",
+					"organization_name": "オリエンタル酵母工業　株式会社"
+				}
+			}
+		},
+		"1748501": {
+			"postcode": "1748501",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "小豆沢",
+			"building_name": "２丁目２１−４",
+			"organization_name": "トックベアリング　（株）",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "小豆沢",
+					"building_name": "２丁目２１−４",
+					"organization_name": "トックベアリング　（株）"
+				}
+			}
+		},
+		"1740076": {
+			"postcode": "1740076",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "Kamiitabashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "上板橋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区"
+		},
+		"1740075": {
+			"postcode": "1740075",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "Sakuragawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "桜川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区"
+		},
+		"1740074": {
+			"postcode": "1740074",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "Toshincho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "東新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区"
+		},
+		"1740073": {
+			"postcode": "1740073",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "Higashiyamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "東山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区"
+		},
+		"1740072": {
+			"postcode": "1740072",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "Minamitokiwadai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "南常盤台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区"
+		},
+		"1740071": {
+			"postcode": "1740071",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "Tokiwadai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "常盤台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区"
+		},
+		"1740065": {
+			"postcode": "1740065",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "Wakagi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "若木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区"
+		},
+		"1740064": {
+			"postcode": "1740064",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "Nakadai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "中台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区"
+		},
+		"1740063": {
+			"postcode": "1740063",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "Maenocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "前野町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区"
+		},
+		"1740062": {
+			"postcode": "1740062",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "Fujimicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "富士見町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区"
+		},
+		"1740061": {
+			"postcode": "1740061",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "Oharacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "大原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区"
+		},
+		"1740056": {
+			"postcode": "1740056",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "Shimura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "志村",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区"
+		},
+		"1740055": {
+			"postcode": "1740055",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "Izumicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "泉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区"
+		},
+		"1740054": {
+			"postcode": "1740054",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "Miyamotocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "宮本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区"
+		},
+		"1740053": {
+			"postcode": "1740053",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "Shimizucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "清水町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区"
+		},
+		"1740052": {
+			"postcode": "1740052",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "Hasunumacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "蓮沼町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区"
+		},
+		"1740051": {
+			"postcode": "1740051",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "Azusawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "小豆沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区"
+		},
+		"1740046": {
+			"postcode": "1740046",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "Hasune",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "蓮根",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区"
+		},
+		"1740045": {
+			"postcode": "1740045",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "Nishidai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "西台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区"
+		},
+		"1740044": {
+			"postcode": "1740044",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "Aioicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "相生町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区"
+		},
+		"1740043": {
+			"postcode": "1740043",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "Sakashita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "坂下",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区"
+		},
+		"1740042": {
+			"postcode": "1740042",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "Higashisakashita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "東坂下",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区"
+		},
+		"1740041": {
+			"postcode": "1740041",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "Funado",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "舟渡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区"
+		},
+		"1740000": {
+			"postcode": "1740000",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Itabashi-ku",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "板橋区",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "板橋区"
+		}
+	}
+}

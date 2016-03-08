@@ -1,0 +1,689 @@
+{
+	"country_code": "JP",
+	"parent_id": "248",
+	"locale": "ja-Latn",
+	"address": {
+		"2488686": {
+			"postcode": "2488686",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kamakura-shi",
+			"ward_name": "",
+			"town_name": "御成町",
+			"building_name": "１８−１０（鎌倉郵便局私書箱第１５号）",
+			"organization_name": "鎌倉市役所",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "鎌倉市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "鎌倉市",
+					"ward_name": "",
+					"town_name": "御成町",
+					"building_name": "１８−１０（鎌倉郵便局私書箱第１５号）",
+					"organization_name": "鎌倉市役所"
+				}
+			}
+		},
+		"2488558": {
+			"postcode": "2488558",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kamakura-shi",
+			"ward_name": "",
+			"town_name": "御成町",
+			"building_name": "１２番１８号",
+			"organization_name": "鎌倉県税事務所",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "鎌倉市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "鎌倉市",
+					"ward_name": "",
+					"town_name": "御成町",
+					"building_name": "１２番１８号",
+					"organization_name": "鎌倉県税事務所"
+				}
+			}
+		},
+		"2488555": {
+			"postcode": "2488555",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kamakura-shi",
+			"ward_name": "",
+			"town_name": "手広",
+			"building_name": "六丁目１０番１号",
+			"organization_name": "東レ　株式会社　基礎研究センター",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "鎌倉市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "鎌倉市",
+					"ward_name": "",
+					"town_name": "手広",
+					"building_name": "六丁目１０番１号",
+					"organization_name": "東レ　株式会社　基礎研究センター"
+				}
+			}
+		},
+		"2480036": {
+			"postcode": "2480036",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kamakura-shi",
+			"ward_name": "",
+			"town_name": "Tebiro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "鎌倉市",
+					"ward_name": "",
+					"town_name": "手広",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "鎌倉市"
+		},
+		"2480035": {
+			"postcode": "2480035",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kamakura-shi",
+			"ward_name": "",
+			"town_name": "Nishikamakura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "鎌倉市",
+					"ward_name": "",
+					"town_name": "西鎌倉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "鎌倉市"
+		},
+		"2480034": {
+			"postcode": "2480034",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kamakura-shi",
+			"ward_name": "",
+			"town_name": "Tsunishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "鎌倉市",
+					"ward_name": "",
+					"town_name": "津西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "鎌倉市"
+		},
+		"2480033": {
+			"postcode": "2480033",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kamakura-shi",
+			"ward_name": "",
+			"town_name": "Koshigoe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "鎌倉市",
+					"ward_name": "",
+					"town_name": "腰越",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "鎌倉市"
+		},
+		"2480032": {
+			"postcode": "2480032",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kamakura-shi",
+			"ward_name": "",
+			"town_name": "Tsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "鎌倉市",
+					"ward_name": "",
+					"town_name": "津",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "鎌倉市"
+		},
+		"2480031": {
+			"postcode": "2480031",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kamakura-shi",
+			"ward_name": "",
+			"town_name": "Kamakurayama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "鎌倉市",
+					"ward_name": "",
+					"town_name": "鎌倉山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "鎌倉市"
+		},
+		"2480027": {
+			"postcode": "2480027",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kamakura-shi",
+			"ward_name": "",
+			"town_name": "Fueda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "鎌倉市",
+					"ward_name": "",
+					"town_name": "笛田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "鎌倉市"
+		},
+		"2480026": {
+			"postcode": "2480026",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kamakura-shi",
+			"ward_name": "",
+			"town_name": "Shichirigahama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "鎌倉市",
+					"ward_name": "",
+					"town_name": "七里ガ浜",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "鎌倉市"
+		},
+		"2480025": {
+			"postcode": "2480025",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kamakura-shi",
+			"ward_name": "",
+			"town_name": "Shichirigahamahigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "鎌倉市",
+					"ward_name": "",
+					"town_name": "七里ガ浜東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "鎌倉市"
+		},
+		"2480024": {
+			"postcode": "2480024",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kamakura-shi",
+			"ward_name": "",
+			"town_name": "Inamuragasaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "鎌倉市",
+					"ward_name": "",
+					"town_name": "稲村ガ崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "鎌倉市"
+		},
+		"2480023": {
+			"postcode": "2480023",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kamakura-shi",
+			"ward_name": "",
+			"town_name": "Gokurakuji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "鎌倉市",
+					"ward_name": "",
+					"town_name": "極楽寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "鎌倉市"
+		},
+		"2480022": {
+			"postcode": "2480022",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kamakura-shi",
+			"ward_name": "",
+			"town_name": "Tokiwa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "鎌倉市",
+					"ward_name": "",
+					"town_name": "常盤",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "鎌倉市"
+		},
+		"2480021": {
+			"postcode": "2480021",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kamakura-shi",
+			"ward_name": "",
+			"town_name": "Sakanoshita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "鎌倉市",
+					"ward_name": "",
+					"town_name": "坂ノ下",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "鎌倉市"
+		},
+		"2480017": {
+			"postcode": "2480017",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kamakura-shi",
+			"ward_name": "",
+			"town_name": "Sasuke",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "鎌倉市",
+					"ward_name": "",
+					"town_name": "佐助",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "鎌倉市"
+		},
+		"2480016": {
+			"postcode": "2480016",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kamakura-shi",
+			"ward_name": "",
+			"town_name": "Hase",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "鎌倉市",
+					"ward_name": "",
+					"town_name": "長谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "鎌倉市"
+		},
+		"2480015": {
+			"postcode": "2480015",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kamakura-shi",
+			"ward_name": "",
+			"town_name": "Sasamemachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "鎌倉市",
+					"ward_name": "",
+					"town_name": "笹目町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "鎌倉市"
+		},
+		"2480014": {
+			"postcode": "2480014",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kamakura-shi",
+			"ward_name": "",
+			"town_name": "Yuigahama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "鎌倉市",
+					"ward_name": "",
+					"town_name": "由比ガ浜",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "鎌倉市"
+		},
+		"2480013": {
+			"postcode": "2480013",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kamakura-shi",
+			"ward_name": "",
+			"town_name": "Zaimokuza",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "鎌倉市",
+					"ward_name": "",
+					"town_name": "材木座",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "鎌倉市"
+		},
+		"2480012": {
+			"postcode": "2480012",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kamakura-shi",
+			"ward_name": "",
+			"town_name": "Onarimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "鎌倉市",
+					"ward_name": "",
+					"town_name": "御成町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "鎌倉市"
+		},
+		"2480011": {
+			"postcode": "2480011",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kamakura-shi",
+			"ward_name": "",
+			"town_name": "Ogigayatsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "鎌倉市",
+					"ward_name": "",
+					"town_name": "扇ガ谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "鎌倉市"
+		},
+		"2480007": {
+			"postcode": "2480007",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kamakura-shi",
+			"ward_name": "",
+			"town_name": "Omachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "鎌倉市",
+					"ward_name": "",
+					"town_name": "大町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "鎌倉市"
+		},
+		"2480006": {
+			"postcode": "2480006",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kamakura-shi",
+			"ward_name": "",
+			"town_name": "Komachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "鎌倉市",
+					"ward_name": "",
+					"town_name": "小町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "鎌倉市"
+		},
+		"2480005": {
+			"postcode": "2480005",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kamakura-shi",
+			"ward_name": "",
+			"town_name": "Yukinoshita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "鎌倉市",
+					"ward_name": "",
+					"town_name": "雪ノ下",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "鎌倉市"
+		},
+		"2480004": {
+			"postcode": "2480004",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kamakura-shi",
+			"ward_name": "",
+			"town_name": "Nishimikado",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "鎌倉市",
+					"ward_name": "",
+					"town_name": "西御門",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "鎌倉市"
+		},
+		"2480003": {
+			"postcode": "2480003",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kamakura-shi",
+			"ward_name": "",
+			"town_name": "Jomyoji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "鎌倉市",
+					"ward_name": "",
+					"town_name": "浄明寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "鎌倉市"
+		},
+		"2480002": {
+			"postcode": "2480002",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kamakura-shi",
+			"ward_name": "",
+			"town_name": "Nikaido",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "鎌倉市",
+					"ward_name": "",
+					"town_name": "二階堂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "鎌倉市"
+		},
+		"2480001": {
+			"postcode": "2480001",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kamakura-shi",
+			"ward_name": "",
+			"town_name": "Juniso",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "鎌倉市",
+					"ward_name": "",
+					"town_name": "十二所",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "鎌倉市"
+		},
+		"2480000": {
+			"postcode": "2480000",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Kamakura-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "鎌倉市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "鎌倉市"
+		}
+	}
+}

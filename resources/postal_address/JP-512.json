@@ -1,0 +1,1701 @@
+{
+	"country_code": "JP",
+	"parent_id": "512",
+	"locale": "ja-Latn",
+	"address": {
+		"5128550": {
+			"postcode": "5128550",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "山之一色町",
+			"building_name": "８００",
+			"organization_name": "株式会社　東芝　四日市工場",
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "山之一色町",
+					"building_name": "８００",
+					"organization_name": "株式会社　東芝　四日市工場"
+				}
+			}
+		},
+		"5128538": {
+			"postcode": "5128538",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "萱生町",
+			"building_name": "２３８番地",
+			"organization_name": "暁学園",
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "萱生町",
+					"building_name": "２３８番地",
+					"organization_name": "暁学園"
+				}
+			}
+		},
+		"5128512": {
+			"postcode": "5128512",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "萱生町",
+			"building_name": "１２００番地",
+			"organization_name": "四日市大学",
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "萱生町",
+					"building_name": "１２００番地",
+					"organization_name": "四日市大学"
+				}
+			}
+		},
+		"5128066": {
+			"postcode": "5128066",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Isakadai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "伊坂台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5128065": {
+			"postcode": "5128065",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Chiyodacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "千代田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5128064": {
+			"postcode": "5128064",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Isakacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "伊坂町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5128063": {
+			"postcode": "5128063",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Yamamuracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "山村町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5128062": {
+			"postcode": "5128062",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Koganecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "黄金町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5128061": {
+			"postcode": "5128061",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Hironagacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "広永町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5128056": {
+			"postcode": "5128056",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Satsubacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "札場町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5128055": {
+			"postcode": "5128055",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Asakegaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "あさけが丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5128054": {
+			"postcode": "5128054",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Asakecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "朝明町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5128053": {
+			"postcode": "5128053",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Oganecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "大鐘町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5128052": {
+			"postcode": "5128052",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Nishioganecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "西大鐘町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5128051": {
+			"postcode": "5128051",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Kitayamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "北山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5128048": {
+			"postcode": "5128048",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Yamajocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "山城町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5128047": {
+			"postcode": "5128047",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Yachiyodai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "八千代台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5128046": {
+			"postcode": "5128046",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Akatsukidai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "あかつき台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5128045": {
+			"postcode": "5128045",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Kayocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "萱生町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5128044": {
+			"postcode": "5128044",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Nakamuracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "中村町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5128043": {
+			"postcode": "5128043",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Heizushimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "平津新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5128042": {
+			"postcode": "5128042",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Heizucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "平津町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5128041": {
+			"postcode": "5128041",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Yamakecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "山分町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5121306": {
+			"postcode": "5121306",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Makinokidai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "まきの木台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5121305": {
+			"postcode": "5121305",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Nishimuracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "西村町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5121304": {
+			"postcode": "5121304",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Nakanocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "中野町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5121303": {
+			"postcode": "5121303",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Komakicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "小牧町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5121302": {
+			"postcode": "5121302",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Ichibacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "市場町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5121301": {
+			"postcode": "5121301",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Takamidai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "高見台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5121216": {
+			"postcode": "5121216",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Okadai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "桜花台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5121215": {
+			"postcode": "5121215",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Sakurashimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "桜新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5121214": {
+			"postcode": "5121214",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Sakuradai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "桜台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5121213": {
+			"postcode": "5121213",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Sakuradaihommachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "桜台本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5121212": {
+			"postcode": "5121212",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Chishakucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "智積町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5121211": {
+			"postcode": "5121211",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Sakuracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "桜町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5121208": {
+			"postcode": "5121208",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Kitanocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "北野町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5121207": {
+			"postcode": "5121207",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Kurodacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "黒田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5121206": {
+			"postcode": "5121206",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Emuracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "江村町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5121205": {
+			"postcode": "5121205",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Hiraocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "平尾町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5121204": {
+			"postcode": "5121204",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Akozucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "赤水町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5121203": {
+			"postcode": "5121203",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Shimoebicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "下海老町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5121202": {
+			"postcode": "5121202",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Agatagaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "あがたが丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5121201": {
+			"postcode": "5121201",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Kamiebicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "上海老町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5121116": {
+			"postcode": "5121116",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Rokumyocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "六名町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5121115": {
+			"postcode": "5121115",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Dogayamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "堂ケ山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5121114": {
+			"postcode": "5121114",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Wandacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "和無田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5121113": {
+			"postcode": "5121113",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Shikamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "鹿間町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5121111": {
+			"postcode": "5121111",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Yamadacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5121105": {
+			"postcode": "5121105",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Suizawacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "水沢町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5121104": {
+			"postcode": "5121104",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Misatocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "美里町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5121103": {
+			"postcode": "5121103",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Nishiyamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "西山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5121102": {
+			"postcode": "5121102",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Oyamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "小山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5121101": {
+			"postcode": "5121101",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Uchiyamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "内山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5120936": {
+			"postcode": "5120936",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Betsuyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "別山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5120935": {
+			"postcode": "5120935",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Kawashimashimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "川島新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5120934": {
+			"postcode": "5120934",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Kawashimacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "川島町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5120933": {
+			"postcode": "5120933",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Mitakidai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "三滝台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5120932": {
+			"postcode": "5120932",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Komocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "小生町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5120931": {
+			"postcode": "5120931",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Ukihashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "浮橋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5120925": {
+			"postcode": "5120925",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Sugaharacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "菅原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5120924": {
+			"postcode": "5120924",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Teragatacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "寺方町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5120923": {
+			"postcode": "5120923",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Takatsunocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "高角町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5120922": {
+			"postcode": "5120922",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Soicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "曽井町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5120921": {
+			"postcode": "5120921",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Obiracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "尾平町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5120914": {
+			"postcode": "5120914",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Minamisakabecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "南坂部町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5120913": {
+			"postcode": "5120913",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Nishisakabecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "西坂部町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5120912": {
+			"postcode": "5120912",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Mie",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "三重",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5120911": {
+			"postcode": "5120911",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Ikuwacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "生桑町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5120908": {
+			"postcode": "5120908",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Sakabedai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "坂部台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5120907": {
+			"postcode": "5120907",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Higashigatani",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "東ケ谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5120906": {
+			"postcode": "5120906",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Yamanoisshikicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "山之一色町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5120905": {
+			"postcode": "5120905",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Sakabegaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "坂部が丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5120904": {
+			"postcode": "5120904",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Higashisakabecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "東坂部町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5120903": {
+			"postcode": "5120903",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Kosugishimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "小杉新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5120902": {
+			"postcode": "5120902",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Kosugicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "小杉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5120901": {
+			"postcode": "5120901",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Otanidai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "大谷台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		},
+		"5120301": {
+			"postcode": "5120301",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Yokkaichi-shi",
+			"ward_name": "",
+			"town_name": "Suizawanodacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "四日市市",
+					"ward_name": "",
+					"town_name": "水沢野田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "四日市市"
+		}
+	}
+}

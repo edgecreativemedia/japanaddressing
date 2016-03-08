@@ -1,0 +1,799 @@
+{
+	"country_code": "JP",
+	"parent_id": "293",
+	"locale": "ja-Latn",
+	"address": {
+		"2938511": {
+			"postcode": "2938511",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Futtsu-shi",
+			"ward_name": "",
+			"town_name": "新富",
+			"building_name": "２０−１",
+			"organization_name": "新日鐡住金　株式会社　技術開発本部",
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "富津市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "富津市",
+					"ward_name": "",
+					"town_name": "新富",
+					"building_name": "２０−１",
+					"organization_name": "新日鐡住金　株式会社　技術開発本部"
+				}
+			}
+		},
+		"2938506": {
+			"postcode": "2938506",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Futtsu-shi",
+			"ward_name": "",
+			"town_name": "下飯野",
+			"building_name": "２４４３",
+			"organization_name": "富津市役所",
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "富津市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "富津市",
+					"ward_name": "",
+					"town_name": "下飯野",
+					"building_name": "２４４３",
+					"organization_name": "富津市役所"
+				}
+			}
+		},
+		"2930058": {
+			"postcode": "2930058",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Futtsu-shi",
+			"ward_name": "",
+			"town_name": "Sanuki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "富津市",
+					"ward_name": "",
+					"town_name": "佐貫",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "富津市"
+		},
+		"2930057": {
+			"postcode": "2930057",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Futtsu-shi",
+			"ward_name": "",
+			"town_name": "Kameda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "富津市",
+					"ward_name": "",
+					"town_name": "亀田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "富津市"
+		},
+		"2930056": {
+			"postcode": "2930056",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Futtsu-shi",
+			"ward_name": "",
+			"town_name": "Yawata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "富津市",
+					"ward_name": "",
+					"town_name": "八幡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "富津市"
+		},
+		"2930055": {
+			"postcode": "2930055",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Futtsu-shi",
+			"ward_name": "",
+			"town_name": "Sasage",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "富津市",
+					"ward_name": "",
+					"town_name": "笹毛",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "富津市"
+		},
+		"2930054": {
+			"postcode": "2930054",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Futtsu-shi",
+			"ward_name": "",
+			"town_name": "Tsuruoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "富津市",
+					"ward_name": "",
+					"town_name": "鶴岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "富津市"
+		},
+		"2930053": {
+			"postcode": "2930053",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Futtsu-shi",
+			"ward_name": "",
+			"town_name": "Hanagayatsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "富津市",
+					"ward_name": "",
+					"town_name": "花香谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "富津市"
+		},
+		"2930052": {
+			"postcode": "2930052",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Futtsu-shi",
+			"ward_name": "",
+			"town_name": "Horyuji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "富津市",
+					"ward_name": "",
+					"town_name": "宝竜寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "富津市"
+		},
+		"2930051": {
+			"postcode": "2930051",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Futtsu-shi",
+			"ward_name": "",
+			"town_name": "Kamezawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "富津市",
+					"ward_name": "",
+					"town_name": "亀沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "富津市"
+		},
+		"2930046": {
+			"postcode": "2930046",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Futtsu-shi",
+			"ward_name": "",
+			"town_name": "Kondo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "富津市",
+					"ward_name": "",
+					"town_name": "近藤",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "富津市"
+		},
+		"2930045": {
+			"postcode": "2930045",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Futtsu-shi",
+			"ward_name": "",
+			"town_name": "Yatanuma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "富津市",
+					"ward_name": "",
+					"town_name": "八田沼",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "富津市"
+		},
+		"2930044": {
+			"postcode": "2930044",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Futtsu-shi",
+			"ward_name": "",
+			"town_name": "Naka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "富津市",
+					"ward_name": "",
+					"town_name": "中",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "富津市"
+		},
+		"2930043": {
+			"postcode": "2930043",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Futtsu-shi",
+			"ward_name": "",
+			"town_name": "Iwase",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "富津市",
+					"ward_name": "",
+					"town_name": "岩瀬",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "富津市"
+		},
+		"2930042": {
+			"postcode": "2930042",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Futtsu-shi",
+			"ward_name": "",
+			"town_name": "Kokubo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "富津市",
+					"ward_name": "",
+					"town_name": "小久保",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "富津市"
+		},
+		"2930041": {
+			"postcode": "2930041",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Futtsu-shi",
+			"ward_name": "",
+			"town_name": "Kami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "富津市",
+					"ward_name": "",
+					"town_name": "上",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "富津市"
+		},
+		"2930036": {
+			"postcode": "2930036",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Futtsu-shi",
+			"ward_name": "",
+			"town_name": "Chigusashinden",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "富津市",
+					"ward_name": "",
+					"town_name": "千種新田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "富津市"
+		},
+		"2930035": {
+			"postcode": "2930035",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Futtsu-shi",
+			"ward_name": "",
+			"town_name": "Nishiowada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "富津市",
+					"ward_name": "",
+					"town_name": "西大和田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "富津市"
+		},
+		"2930034": {
+			"postcode": "2930034",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Futtsu-shi",
+			"ward_name": "",
+			"town_name": "Kinu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "富津市",
+					"ward_name": "",
+					"town_name": "絹",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "富津市"
+		},
+		"2930033": {
+			"postcode": "2930033",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Futtsu-shi",
+			"ward_name": "",
+			"town_name": "Isshiki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "富津市",
+					"ward_name": "",
+					"town_name": "一色",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "富津市"
+		},
+		"2930032": {
+			"postcode": "2930032",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Futtsu-shi",
+			"ward_name": "",
+			"town_name": "Shojiyatsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "富津市",
+					"ward_name": "",
+					"town_name": "障子谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "富津市"
+		},
+		"2930031": {
+			"postcode": "2930031",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Futtsu-shi",
+			"ward_name": "",
+			"town_name": "Ainoyatsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "富津市",
+					"ward_name": "",
+					"town_name": "相野谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "富津市"
+		},
+		"2930024": {
+			"postcode": "2930024",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Futtsu-shi",
+			"ward_name": "",
+			"town_name": "Shinobe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "富津市",
+					"ward_name": "",
+					"town_name": "篠部",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "富津市"
+		},
+		"2930023": {
+			"postcode": "2930023",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Futtsu-shi",
+			"ward_name": "",
+			"town_name": "Kawana",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "富津市",
+					"ward_name": "",
+					"town_name": "川名",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "富津市"
+		},
+		"2930022": {
+			"postcode": "2930022",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Futtsu-shi",
+			"ward_name": "",
+			"town_name": "Arai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "富津市",
+					"ward_name": "",
+					"town_name": "新井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "富津市"
+		},
+		"2930021": {
+			"postcode": "2930021",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Futtsu-shi",
+			"ward_name": "",
+			"town_name": "Futtsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "富津市",
+					"ward_name": "",
+					"town_name": "富津",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "富津市"
+		},
+		"2930013": {
+			"postcode": "2930013",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Futtsu-shi",
+			"ward_name": "",
+			"town_name": "Nishikawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "富津市",
+					"ward_name": "",
+					"town_name": "西川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "富津市"
+		},
+		"2930012": {
+			"postcode": "2930012",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Futtsu-shi",
+			"ward_name": "",
+			"town_name": "Aoki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "富津市",
+					"ward_name": "",
+					"town_name": "青木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "富津市"
+		},
+		"2930011": {
+			"postcode": "2930011",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Futtsu-shi",
+			"ward_name": "",
+			"town_name": "Shintomi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "富津市",
+					"ward_name": "",
+					"town_name": "新富",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "富津市"
+		},
+		"2930006": {
+			"postcode": "2930006",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Futtsu-shi",
+			"ward_name": "",
+			"town_name": "Shimoiino",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "富津市",
+					"ward_name": "",
+					"town_name": "下飯野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "富津市"
+		},
+		"2930005": {
+			"postcode": "2930005",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Futtsu-shi",
+			"ward_name": "",
+			"town_name": "Kamiiino",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "富津市",
+					"ward_name": "",
+					"town_name": "上飯野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "富津市"
+		},
+		"2930004": {
+			"postcode": "2930004",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Futtsu-shi",
+			"ward_name": "",
+			"town_name": "Maekubo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "富津市",
+					"ward_name": "",
+					"town_name": "前久保",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "富津市"
+		},
+		"2930003": {
+			"postcode": "2930003",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Futtsu-shi",
+			"ward_name": "",
+			"town_name": "Hongo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "富津市",
+					"ward_name": "",
+					"town_name": "本郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "富津市"
+		},
+		"2930002": {
+			"postcode": "2930002",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Futtsu-shi",
+			"ward_name": "",
+			"town_name": "Futamazuka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "富津市",
+					"ward_name": "",
+					"town_name": "二間塚",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "富津市"
+		},
+		"2930001": {
+			"postcode": "2930001",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Futtsu-shi",
+			"ward_name": "",
+			"town_name": "Ohori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "富津市",
+					"ward_name": "",
+					"town_name": "大堀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "富津市"
+		},
+		"2930000": {
+			"postcode": "2930000",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Futtsu-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "富津市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "富津市"
+		}
+	}
+}

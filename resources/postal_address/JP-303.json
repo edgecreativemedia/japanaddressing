@@ -1,0 +1,733 @@
+{
+	"country_code": "JP",
+	"parent_id": "303",
+	"locale": "ja-Latn",
+	"address": {
+		"3038503": {
+			"postcode": "3038503",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Joso-shi",
+			"ward_name": "",
+			"town_name": "坂手町",
+			"building_name": "５５４０−１１",
+			"organization_name": "キヤノンファインテック　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "常総市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "常総市",
+					"ward_name": "",
+					"town_name": "坂手町",
+					"building_name": "５５４０−１１",
+					"organization_name": "キヤノンファインテック　株式会社"
+				}
+			}
+		},
+		"3038501": {
+			"postcode": "3038501",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Joso-shi",
+			"ward_name": "",
+			"town_name": "水海道諏訪町",
+			"building_name": "３２２２−３",
+			"organization_name": "常総市役所",
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "常総市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "常総市",
+					"ward_name": "",
+					"town_name": "水海道諏訪町",
+					"building_name": "３２２２−３",
+					"organization_name": "常総市役所"
+				}
+			}
+		},
+		"3030046": {
+			"postcode": "3030046",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Joso-shi",
+			"ward_name": "",
+			"town_name": "Uchimoriyamachikinunosato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "常総市",
+					"ward_name": "",
+					"town_name": "内守谷町きぬの里",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "常総市"
+		},
+		"3030045": {
+			"postcode": "3030045",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Joso-shi",
+			"ward_name": "",
+			"town_name": "Otsukadomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "常総市",
+					"ward_name": "",
+					"town_name": "大塚戸町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "常総市"
+		},
+		"3030044": {
+			"postcode": "3030044",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Joso-shi",
+			"ward_name": "",
+			"town_name": "Sugaomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "常総市",
+					"ward_name": "",
+					"town_name": "菅生町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "常総市"
+		},
+		"3030043": {
+			"postcode": "3030043",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Joso-shi",
+			"ward_name": "",
+			"town_name": "Uchimoriyamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "常総市",
+					"ward_name": "",
+					"town_name": "内守谷町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "常総市"
+		},
+		"3030042": {
+			"postcode": "3030042",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Joso-shi",
+			"ward_name": "",
+			"town_name": "Sakatemachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "常総市",
+					"ward_name": "",
+					"town_name": "坂手町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "常総市"
+		},
+		"3030041": {
+			"postcode": "3030041",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Joso-shi",
+			"ward_name": "",
+			"town_name": "Toyokamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "常総市",
+					"ward_name": "",
+					"town_name": "豊岡町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "常総市"
+		},
+		"3030034": {
+			"postcode": "3030034",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Joso-shi",
+			"ward_name": "",
+			"town_name": "Mitsukaido",
+			"building_name": "Temmancho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "常総市",
+					"ward_name": "",
+					"town_name": "水海道",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "常総市"
+		},
+		"3030033": {
+			"postcode": "3030033",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Joso-shi",
+			"ward_name": "",
+			"town_name": "Mitsukaido",
+			"building_name": "Koyamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "常総市",
+					"ward_name": "",
+					"town_name": "水海道",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "常総市"
+		},
+		"3030032": {
+			"postcode": "3030032",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Joso-shi",
+			"ward_name": "",
+			"town_name": "Mitsukaido",
+			"building_name": "Kawamatacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "常総市",
+					"ward_name": "",
+					"town_name": "水海道",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "常総市"
+		},
+		"3030031": {
+			"postcode": "3030031",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Joso-shi",
+			"ward_name": "",
+			"town_name": "Mitsukaido",
+			"building_name": "Yamadamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "常総市",
+					"ward_name": "",
+					"town_name": "水海道",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "常総市"
+		},
+		"3030026": {
+			"postcode": "3030026",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Joso-shi",
+			"ward_name": "",
+			"town_name": "Mitsukaido",
+			"building_name": "Honcho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "常総市",
+					"ward_name": "",
+					"town_name": "水海道",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "常総市"
+		},
+		"3030025": {
+			"postcode": "3030025",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Joso-shi",
+			"ward_name": "",
+			"town_name": "Mitsukaido",
+			"building_name": "Kameokacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "常総市",
+					"ward_name": "",
+					"town_name": "水海道",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "常総市"
+		},
+		"3030024": {
+			"postcode": "3030024",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Joso-shi",
+			"ward_name": "",
+			"town_name": "Mitsukaido",
+			"building_name": "Sakaecho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "常総市",
+					"ward_name": "",
+					"town_name": "水海道",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "常総市"
+		},
+		"3030023": {
+			"postcode": "3030023",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Joso-shi",
+			"ward_name": "",
+			"town_name": "Mitsukaido",
+			"building_name": "Takaramachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "常総市",
+					"ward_name": "",
+					"town_name": "水海道",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "常総市"
+		},
+		"3030022": {
+			"postcode": "3030022",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Joso-shi",
+			"ward_name": "",
+			"town_name": "Mitsukaido",
+			"building_name": "Fuchigashiramachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "常総市",
+					"ward_name": "",
+					"town_name": "水海道",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "常総市"
+		},
+		"3030021": {
+			"postcode": "3030021",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Joso-shi",
+			"ward_name": "",
+			"town_name": "Mitsukaido",
+			"building_name": "Suwamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "常総市",
+					"ward_name": "",
+					"town_name": "水海道",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "常総市"
+		},
+		"3030018": {
+			"postcode": "3030018",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Joso-shi",
+			"ward_name": "",
+			"town_name": "Jukkamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "常総市",
+					"ward_name": "",
+					"town_name": "十花町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "常総市"
+		},
+		"3030017": {
+			"postcode": "3030017",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Joso-shi",
+			"ward_name": "",
+			"town_name": "Heimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "常総市",
+					"ward_name": "",
+					"town_name": "平町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "常総市"
+		},
+		"3030016": {
+			"postcode": "3030016",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Joso-shi",
+			"ward_name": "",
+			"town_name": "Araigimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "常総市",
+					"ward_name": "",
+					"town_name": "新井木町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "常総市"
+		},
+		"3030015": {
+			"postcode": "3030015",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Joso-shi",
+			"ward_name": "",
+			"town_name": "Chosukemachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "常総市",
+					"ward_name": "",
+					"town_name": "長助町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "常総市"
+		},
+		"3030014": {
+			"postcode": "3030014",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Joso-shi",
+			"ward_name": "",
+			"town_name": "Hyomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "常総市",
+					"ward_name": "",
+					"town_name": "兵町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "常総市"
+		},
+		"3030013": {
+			"postcode": "3030013",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Joso-shi",
+			"ward_name": "",
+			"town_name": "Minowamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "常総市",
+					"ward_name": "",
+					"town_name": "箕輪町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "常総市"
+		},
+		"3030012": {
+			"postcode": "3030012",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Joso-shi",
+			"ward_name": "",
+			"town_name": "Osakimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "常総市",
+					"ward_name": "",
+					"town_name": "大崎町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "常総市"
+		},
+		"3030011": {
+			"postcode": "3030011",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Joso-shi",
+			"ward_name": "",
+			"town_name": "Azumacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "常総市",
+					"ward_name": "",
+					"town_name": "東町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "常総市"
+		},
+		"3030006": {
+			"postcode": "3030006",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Joso-shi",
+			"ward_name": "",
+			"town_name": "Koyamadomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "常総市",
+					"ward_name": "",
+					"town_name": "小山戸町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "常総市"
+		},
+		"3030005": {
+			"postcode": "3030005",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Joso-shi",
+			"ward_name": "",
+			"town_name": "Mitsukaido",
+			"building_name": "Morishitamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "常総市",
+					"ward_name": "",
+					"town_name": "水海道",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "常総市"
+		},
+		"3030004": {
+			"postcode": "3030004",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Joso-shi",
+			"ward_name": "",
+			"town_name": "Mitsukaido",
+			"building_name": "Motomachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "常総市",
+					"ward_name": "",
+					"town_name": "水海道",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "常総市"
+		},
+		"3030003": {
+			"postcode": "3030003",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Joso-shi",
+			"ward_name": "",
+			"town_name": "Mitsukaido",
+			"building_name": "Hashimotocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "常総市",
+					"ward_name": "",
+					"town_name": "水海道",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "常総市"
+		},
+		"3030002": {
+			"postcode": "3030002",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Joso-shi",
+			"ward_name": "",
+			"town_name": "Ainoyamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "常総市",
+					"ward_name": "",
+					"town_name": "相野谷町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "常総市"
+		},
+		"3030001": {
+			"postcode": "3030001",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Joso-shi",
+			"ward_name": "",
+			"town_name": "Nakayamamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "常総市",
+					"ward_name": "",
+					"town_name": "中山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "常総市"
+		},
+		"3030000": {
+			"postcode": "3030000",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Joso-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "常総市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "常総市"
+		}
+	}
+}

@@ -1,0 +1,491 @@
+{
+	"country_code": "JP",
+	"parent_id": "115",
+	"locale": "ja-Latn",
+	"address": {
+		"1158711": {
+			"postcode": "1158711",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "赤羽",
+			"building_name": "１丁目９−５",
+			"organization_name": "大和証券　株式会社　赤羽支店",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "赤羽",
+					"building_name": "１丁目９−５",
+					"organization_name": "大和証券　株式会社　赤羽支店"
+				}
+			}
+		},
+		"1158622": {
+			"postcode": "1158622",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "浮間",
+			"building_name": "１−４−３",
+			"organization_name": "浮間合成　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "浮間",
+					"building_name": "１−４−３",
+					"organization_name": "浮間合成　株式会社"
+				}
+			}
+		},
+		"1158588": {
+			"postcode": "1158588",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "志茂",
+			"building_name": "３丁目３１−１２",
+			"organization_name": "日本化薬　株式会社　東京工場",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "志茂",
+					"building_name": "３丁目３１−１２",
+					"organization_name": "日本化薬　株式会社　東京工場"
+				}
+			}
+		},
+		"1158586": {
+			"postcode": "1158586",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "西が丘",
+			"building_name": "３丁目１３−１０",
+			"organization_name": "東京都立産業技術研究所",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "西が丘",
+					"building_name": "３丁目１３−１０",
+					"organization_name": "東京都立産業技術研究所"
+				}
+			}
+		},
+		"1158585": {
+			"postcode": "1158585",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "赤羽南",
+			"building_name": "２丁目２０−７",
+			"organization_name": "株式会社　ＤＮＰロジスティクス",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "赤羽南",
+					"building_name": "２丁目２０−７",
+					"organization_name": "株式会社　ＤＮＰロジスティクス"
+				}
+			}
+		},
+		"1158555": {
+			"postcode": "1158555",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "赤羽南",
+			"building_name": "２丁目５−１",
+			"organization_name": "三恵技研工業　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "赤羽南",
+					"building_name": "２丁目５−１",
+					"organization_name": "三恵技研工業　株式会社"
+				}
+			}
+		},
+		"1158529": {
+			"postcode": "1158529",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "赤羽南",
+			"building_name": "１丁目２０番１号",
+			"organization_name": "株式会社　吉野家",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "赤羽南",
+					"building_name": "１丁目２０番１号",
+					"organization_name": "株式会社　吉野家"
+				}
+			}
+		},
+		"1158524": {
+			"postcode": "1158524",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "赤羽台",
+			"building_name": "４丁目２−１４",
+			"organization_name": "学校法人　星美学園　短期大学、高等学校、中学校、小学校、幼稚園",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "赤羽台",
+					"building_name": "４丁目２−１４",
+					"organization_name": "学校法人　星美学園　短期大学、高等学校、中学校、小学校、幼稚園"
+				}
+			}
+		},
+		"1158511": {
+			"postcode": "1158511",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "赤羽西",
+			"building_name": "６丁目３７−２",
+			"organization_name": "株式会社　ディー・エヌ・ケー",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "赤羽西",
+					"building_name": "６丁目３７−２",
+					"organization_name": "株式会社　ディー・エヌ・ケー"
+				}
+			}
+		},
+		"1158510": {
+			"postcode": "1158510",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "浮間",
+			"building_name": "５−４−５１",
+			"organization_name": "日本交通　株式会社　本社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "浮間",
+					"building_name": "５−４−５１",
+					"organization_name": "日本交通　株式会社　本社"
+				}
+			}
+		},
+		"1158001": {
+			"postcode": "1158001",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "神谷",
+			"building_name": "３丁目８番地",
+			"organization_name": "大日本印刷　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "神谷",
+					"building_name": "３丁目８番地",
+					"organization_name": "大日本印刷　株式会社"
+				}
+			}
+		},
+		"1150056": {
+			"postcode": "1150056",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "Nishigaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "西が丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区"
+		},
+		"1150055": {
+			"postcode": "1150055",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "Akabanenishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "赤羽西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区"
+		},
+		"1150054": {
+			"postcode": "1150054",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "Kirigaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "桐ケ丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区"
+		},
+		"1150053": {
+			"postcode": "1150053",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "Akabanedai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "赤羽台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区"
+		},
+		"1150052": {
+			"postcode": "1150052",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "Akabanekita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "赤羽北",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区"
+		},
+		"1150051": {
+			"postcode": "1150051",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "Ukima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "浮間",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区"
+		},
+		"1150045": {
+			"postcode": "1150045",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "Akabane",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "赤羽",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区"
+		},
+		"1150044": {
+			"postcode": "1150044",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "Akabaneminami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "赤羽南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区"
+		},
+		"1150043": {
+			"postcode": "1150043",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "Kamiya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "神谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区"
+		},
+		"1150042": {
+			"postcode": "1150042",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "Shimo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "志茂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区"
+		},
+		"1150041": {
+			"postcode": "1150041",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "Iwabuchimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "岩淵町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区"
+		}
+	}
+}

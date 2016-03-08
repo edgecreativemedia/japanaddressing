@@ -1,0 +1,447 @@
+{
+	"country_code": "JP",
+	"parent_id": "846",
+	"locale": "ja-Latn",
+	"address": {
+		"8468501": {
+			"postcode": "8468501",
+			"prefecture_name": "Saga-ken",
+			"city_name": "Taku-shi",
+			"ward_name": "",
+			"town_name": "北多久町大字小侍",
+			"building_name": "７−１",
+			"organization_name": "多久市役所",
+			"region_code": "九州",
+			"prefecture_code": "佐賀県",
+			"city_code": "多久市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "佐賀県",
+					"city_name": "多久市",
+					"ward_name": "",
+					"town_name": "北多久町大字小侍",
+					"building_name": "７−１",
+					"organization_name": "多久市役所"
+				}
+			}
+		},
+		"8460041": {
+			"postcode": "8460041",
+			"prefecture_name": "Saga-ken",
+			"city_name": "Taku-shi",
+			"ward_name": "",
+			"town_name": "Nishitakumachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "佐賀県",
+					"city_name": "多久市",
+					"ward_name": "",
+					"town_name": "西多久町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "佐賀県",
+			"city_code": "多久市"
+		},
+		"8460031": {
+			"postcode": "8460031",
+			"prefecture_name": "Saga-ken",
+			"city_name": "Taku-shi",
+			"ward_name": "",
+			"town_name": "Takumachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "佐賀県",
+					"city_name": "多久市",
+					"ward_name": "",
+					"town_name": "多久町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "佐賀県",
+			"city_code": "多久市"
+		},
+		"8460025": {
+			"postcode": "8460025",
+			"prefecture_name": "Saga-ken",
+			"city_name": "Taku-shi",
+			"ward_name": "",
+			"town_name": "Minamitakumachi",
+			"building_name": "Hanamatsuri",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "佐賀県",
+					"city_name": "多久市",
+					"ward_name": "",
+					"town_name": "南多久町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "佐賀県",
+			"city_code": "多久市"
+		},
+		"8460024": {
+			"postcode": "8460024",
+			"prefecture_name": "Saga-ken",
+			"city_name": "Taku-shi",
+			"ward_name": "",
+			"town_name": "Minamitakumachi",
+			"building_name": "Shimotaku",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "佐賀県",
+					"city_name": "多久市",
+					"ward_name": "",
+					"town_name": "南多久町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "佐賀県",
+			"city_code": "多久市"
+		},
+		"8460023": {
+			"postcode": "8460023",
+			"prefecture_name": "Saga-ken",
+			"city_name": "Taku-shi",
+			"ward_name": "",
+			"town_name": "Minamitakumachi",
+			"building_name": "Nagao",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "佐賀県",
+					"city_name": "多久市",
+					"ward_name": "",
+					"town_name": "南多久町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "佐賀県",
+			"city_code": "多久市"
+		},
+		"8460022": {
+			"postcode": "8460022",
+			"prefecture_name": "Saga-ken",
+			"city_name": "Taku-shi",
+			"ward_name": "",
+			"town_name": "Minamitakumachi",
+			"building_name": "Izumimachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "佐賀県",
+					"city_name": "多久市",
+					"ward_name": "",
+					"town_name": "南多久町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "佐賀県",
+			"city_code": "多久市"
+		},
+		"8460021": {
+			"postcode": "8460021",
+			"prefecture_name": "Saga-ken",
+			"city_name": "Taku-shi",
+			"ward_name": "",
+			"town_name": "Minamitakumachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "佐賀県",
+					"city_name": "多久市",
+					"ward_name": "",
+					"town_name": "南多久町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "佐賀県",
+			"city_code": "多久市"
+		},
+		"8460014": {
+			"postcode": "8460014",
+			"prefecture_name": "Saga-ken",
+			"city_name": "Taku-shi",
+			"ward_name": "",
+			"town_name": "Higashitakumachi",
+			"building_name": "Noso",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "佐賀県",
+					"city_name": "多久市",
+					"ward_name": "",
+					"town_name": "東多久町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "佐賀県",
+			"city_code": "多久市"
+		},
+		"8460013": {
+			"postcode": "8460013",
+			"prefecture_name": "Saga-ken",
+			"city_name": "Taku-shi",
+			"ward_name": "",
+			"town_name": "Higashitakumachi",
+			"building_name": "Koga",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "佐賀県",
+					"city_name": "多久市",
+					"ward_name": "",
+					"town_name": "東多久町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "佐賀県",
+			"city_code": "多久市"
+		},
+		"8460012": {
+			"postcode": "8460012",
+			"prefecture_name": "Saga-ken",
+			"city_name": "Taku-shi",
+			"ward_name": "",
+			"town_name": "Higashitakumachi",
+			"building_name": "Befu",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "佐賀県",
+					"city_name": "多久市",
+					"ward_name": "",
+					"town_name": "東多久町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "佐賀県",
+			"city_code": "多久市"
+		},
+		"8460011": {
+			"postcode": "8460011",
+			"prefecture_name": "Saga-ken",
+			"city_name": "Taku-shi",
+			"ward_name": "",
+			"town_name": "Higashitakumachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "佐賀県",
+					"city_name": "多久市",
+					"ward_name": "",
+					"town_name": "東多久町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "佐賀県",
+			"city_code": "多久市"
+		},
+		"8460007": {
+			"postcode": "8460007",
+			"prefecture_name": "Saga-ken",
+			"city_name": "Taku-shi",
+			"ward_name": "",
+			"town_name": "Kitatakumachi",
+			"building_name": "Meipurutaun",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "佐賀県",
+					"city_name": "多久市",
+					"ward_name": "",
+					"town_name": "北多久町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "佐賀県",
+			"city_code": "多久市"
+		},
+		"8460006": {
+			"postcode": "8460006",
+			"prefecture_name": "Saga-ken",
+			"city_name": "Taku-shi",
+			"ward_name": "",
+			"town_name": "Kitatakumachi",
+			"building_name": "Azamibaru",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "佐賀県",
+					"city_name": "多久市",
+					"ward_name": "",
+					"town_name": "北多久町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "佐賀県",
+			"city_code": "多久市"
+		},
+		"8460005": {
+			"postcode": "8460005",
+			"prefecture_name": "Saga-ken",
+			"city_name": "Taku-shi",
+			"ward_name": "",
+			"town_name": "Kitatakumachi",
+			"building_name": "Sunahara",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "佐賀県",
+					"city_name": "多久市",
+					"ward_name": "",
+					"town_name": "北多久町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "佐賀県",
+			"city_code": "多久市"
+		},
+		"8460004": {
+			"postcode": "8460004",
+			"prefecture_name": "Saga-ken",
+			"city_name": "Taku-shi",
+			"ward_name": "",
+			"town_name": "Kitatakumachi",
+			"building_name": "Nakataku",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "佐賀県",
+					"city_name": "多久市",
+					"ward_name": "",
+					"town_name": "北多久町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "佐賀県",
+			"city_code": "多久市"
+		},
+		"8460003": {
+			"postcode": "8460003",
+			"prefecture_name": "Saga-ken",
+			"city_name": "Taku-shi",
+			"ward_name": "",
+			"town_name": "Kitatakumachi",
+			"building_name": "Takubaru",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "佐賀県",
+					"city_name": "多久市",
+					"ward_name": "",
+					"town_name": "北多久町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "佐賀県",
+			"city_code": "多久市"
+		},
+		"8460002": {
+			"postcode": "8460002",
+			"prefecture_name": "Saga-ken",
+			"city_name": "Taku-shi",
+			"ward_name": "",
+			"town_name": "Kitatakumachi",
+			"building_name": "Kosamurai",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "佐賀県",
+					"city_name": "多久市",
+					"ward_name": "",
+					"town_name": "北多久町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "佐賀県",
+			"city_code": "多久市"
+		},
+		"8460001": {
+			"postcode": "8460001",
+			"prefecture_name": "Saga-ken",
+			"city_name": "Taku-shi",
+			"ward_name": "",
+			"town_name": "Kitatakumachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "佐賀県",
+					"city_name": "多久市",
+					"ward_name": "",
+					"town_name": "北多久町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "佐賀県",
+			"city_code": "多久市"
+		},
+		"8460000": {
+			"postcode": "8460000",
+			"prefecture_name": "Saga-ken",
+			"city_name": "Taku-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "佐賀県",
+					"city_name": "多久市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "佐賀県",
+			"city_code": "多久市"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+    "name": "edgecreativemedia/japanaddressing",
+    "type": "library",
+    "description": "Japan’s regions, prefectures and cities library.",
+    "keywords": ["japan", "region", "prefecture", "city", "postal", "address", "internationalization", "localization"],
+    "license": "MIT",
+     "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    },
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.0"
+    },
+    "autoload": {
+        "psr-4": { "EdgeCreativeMedia\\JapanAddressing\\": "src" }
+    },
+    "autoload-dev": {
+        "psr-4": { "EdgeCreativeMedia\\JapanAddressing\\": "tests" }
+    }
+}

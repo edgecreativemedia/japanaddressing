@@ -1,0 +1,887 @@
+{
+	"country_code": "JP",
+	"parent_id": "262",
+	"locale": "ja-Latn",
+	"address": {
+		"2628733": {
+			"postcode": "2628733",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Chiba-shi",
+			"ward_name": "Hanamigawa-ku",
+			"town_name": "瑞穂",
+			"building_name": "１丁目１番地",
+			"organization_name": "花見川区役所",
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "千葉市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "千葉市",
+					"ward_name": "花見川区",
+					"town_name": "瑞穂",
+					"building_name": "１丁目１番地",
+					"organization_name": "花見川区役所"
+				}
+			}
+		},
+		"2628512": {
+			"postcode": "2628512",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Chiba-shi",
+			"ward_name": "Hanamigawa-ku",
+			"town_name": "幕張町",
+			"building_name": "５丁目４１７−２４",
+			"organization_name": "千葉県　水道局",
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "千葉市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "千葉市",
+					"ward_name": "花見川区",
+					"town_name": "幕張町",
+					"building_name": "５丁目４１７−２４",
+					"organization_name": "千葉県　水道局"
+				}
+			}
+		},
+		"2628511": {
+			"postcode": "2628511",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Chiba-shi",
+			"ward_name": "Hanamigawa-ku",
+			"town_name": "柏井町",
+			"building_name": "１１３２−１",
+			"organization_name": "医療法人　社団有相会　介護老人保健施設　ゆうあい苑",
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "千葉市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "千葉市",
+					"ward_name": "花見川区",
+					"town_name": "柏井町",
+					"building_name": "１１３２−１",
+					"organization_name": "医療法人　社団有相会　介護老人保健施設　ゆうあい苑"
+				}
+			}
+		},
+		"2628510": {
+			"postcode": "2628510",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Chiba-shi",
+			"ward_name": "Hanamigawa-ku",
+			"town_name": "瑞穂",
+			"building_name": "１丁目１番地",
+			"organization_name": "千葉市花見川保健福祉センター",
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "千葉市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "千葉市",
+					"ward_name": "花見川区",
+					"town_name": "瑞穂",
+					"building_name": "１丁目１番地",
+					"organization_name": "千葉市花見川保健福祉センター"
+				}
+			}
+		},
+		"2628506": {
+			"postcode": "2628506",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Chiba-shi",
+			"ward_name": "Hanamigawa-ku",
+			"town_name": "柏井町",
+			"building_name": "８００−１",
+			"organization_name": "医療法人社団　有相会　最成病院",
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "千葉市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "千葉市",
+					"ward_name": "花見川区",
+					"town_name": "柏井町",
+					"building_name": "８００−１",
+					"organization_name": "医療法人社団　有相会　最成病院"
+				}
+			}
+		},
+		"2628502": {
+			"postcode": "2628502",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Chiba-shi",
+			"ward_name": "Hanamigawa-ku",
+			"town_name": "武石町",
+			"building_name": "１丁目５２０",
+			"organization_name": "千葉西税務署",
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "千葉市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "千葉市",
+					"ward_name": "花見川区",
+					"town_name": "武石町",
+					"building_name": "１丁目５２０",
+					"organization_name": "千葉西税務署"
+				}
+			}
+		},
+		"2620048": {
+			"postcode": "2620048",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Chiba-shi",
+			"ward_name": "Hanamigawa-ku",
+			"town_name": "Kashiwai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "千葉市",
+					"ward_name": "花見川区",
+					"town_name": "柏井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "千葉市"
+		},
+		"2620047": {
+			"postcode": "2620047",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Chiba-shi",
+			"ward_name": "Hanamigawa-ku",
+			"town_name": "Nagasakudai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "千葉市",
+					"ward_name": "花見川区",
+					"town_name": "長作台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "千葉市"
+		},
+		"2620046": {
+			"postcode": "2620046",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Chiba-shi",
+			"ward_name": "Hanamigawa-ku",
+			"town_name": "Hanamigawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "千葉市",
+					"ward_name": "花見川区",
+					"town_name": "花見川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "千葉市"
+		},
+		"2620045": {
+			"postcode": "2620045",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Chiba-shi",
+			"ward_name": "Hanamigawa-ku",
+			"town_name": "Sakushindai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "千葉市",
+					"ward_name": "花見川区",
+					"town_name": "作新台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "千葉市"
+		},
+		"2620044": {
+			"postcode": "2620044",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Chiba-shi",
+			"ward_name": "Hanamigawa-ku",
+			"town_name": "Nagasakucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "千葉市",
+					"ward_name": "花見川区",
+					"town_name": "長作町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "千葉市"
+		},
+		"2620043": {
+			"postcode": "2620043",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Chiba-shi",
+			"ward_name": "Hanamigawa-ku",
+			"town_name": "Amadocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "千葉市",
+					"ward_name": "花見川区",
+					"town_name": "天戸町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "千葉市"
+		},
+		"2620042": {
+			"postcode": "2620042",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Chiba-shi",
+			"ward_name": "Hanamigawa-ku",
+			"town_name": "Hanashimacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "千葉市",
+					"ward_name": "花見川区",
+					"town_name": "花島町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "千葉市"
+		},
+		"2620041": {
+			"postcode": "2620041",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Chiba-shi",
+			"ward_name": "Hanamigawa-ku",
+			"town_name": "Kashiwaicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "千葉市",
+					"ward_name": "花見川区",
+					"town_name": "柏井町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "千葉市"
+		},
+		"2620033": {
+			"postcode": "2620033",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Chiba-shi",
+			"ward_name": "Hanamigawa-ku",
+			"town_name": "Makuharihongo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "千葉市",
+					"ward_name": "花見川区",
+					"town_name": "幕張本郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "千葉市"
+		},
+		"2620032": {
+			"postcode": "2620032",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Chiba-shi",
+			"ward_name": "Hanamigawa-ku",
+			"town_name": "Makuharicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "千葉市",
+					"ward_name": "花見川区",
+					"town_name": "幕張町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "千葉市"
+		},
+		"2620031": {
+			"postcode": "2620031",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Chiba-shi",
+			"ward_name": "Hanamigawa-ku",
+			"town_name": "Takeishicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "千葉市",
+					"ward_name": "花見川区",
+					"town_name": "武石町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "千葉市"
+		},
+		"2620026": {
+			"postcode": "2620026",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Chiba-shi",
+			"ward_name": "Hanamigawa-ku",
+			"town_name": "Mizuho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "千葉市",
+					"ward_name": "花見川区",
+					"town_name": "瑞穂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "千葉市"
+		},
+		"2620025": {
+			"postcode": "2620025",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Chiba-shi",
+			"ward_name": "Hanamigawa-ku",
+			"town_name": "Hanazono",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "千葉市",
+					"ward_name": "花見川区",
+					"town_name": "花園",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "千葉市"
+		},
+		"2620024": {
+			"postcode": "2620024",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Chiba-shi",
+			"ward_name": "Hanamigawa-ku",
+			"town_name": "Naniwacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "千葉市",
+					"ward_name": "花見川区",
+					"town_name": "浪花町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "千葉市"
+		},
+		"2620023": {
+			"postcode": "2620023",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Chiba-shi",
+			"ward_name": "Hanamigawa-ku",
+			"town_name": "Kemigawacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "千葉市",
+					"ward_name": "花見川区",
+					"town_name": "検見川町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "千葉市"
+		},
+		"2620022": {
+			"postcode": "2620022",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Chiba-shi",
+			"ward_name": "Hanamigawa-ku",
+			"town_name": "Minamihanazono",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "千葉市",
+					"ward_name": "花見川区",
+					"town_name": "南花園",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "千葉市"
+		},
+		"2620021": {
+			"postcode": "2620021",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Chiba-shi",
+			"ward_name": "Hanamigawa-ku",
+			"town_name": "Hanazonocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "千葉市",
+					"ward_name": "花見川区",
+					"town_name": "花園町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "千葉市"
+		},
+		"2620019": {
+			"postcode": "2620019",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Chiba-shi",
+			"ward_name": "Hanamigawa-ku",
+			"town_name": "Asahigaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "千葉市",
+					"ward_name": "花見川区",
+					"town_name": "朝日ケ丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "千葉市"
+		},
+		"2620018": {
+			"postcode": "2620018",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Chiba-shi",
+			"ward_name": "Hanamigawa-ku",
+			"town_name": "Hatamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "千葉市",
+					"ward_name": "花見川区",
+					"town_name": "畑町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "千葉市"
+		},
+		"2620017": {
+			"postcode": "2620017",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Chiba-shi",
+			"ward_name": "Hanamigawa-ku",
+			"town_name": "Asahigaokacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "千葉市",
+					"ward_name": "花見川区",
+					"town_name": "朝日ケ丘町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "千葉市"
+		},
+		"2620016": {
+			"postcode": "2620016",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Chiba-shi",
+			"ward_name": "Hanamigawa-ku",
+			"town_name": "Nishikonakadai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "千葉市",
+					"ward_name": "花見川区",
+					"town_name": "西小中台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "千葉市"
+		},
+		"2620015": {
+			"postcode": "2620015",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Chiba-shi",
+			"ward_name": "Hanamigawa-ku",
+			"town_name": "Miyanogidai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "千葉市",
+					"ward_name": "花見川区",
+					"town_name": "宮野木台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "千葉市"
+		},
+		"2620014": {
+			"postcode": "2620014",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Chiba-shi",
+			"ward_name": "Hanamigawa-ku",
+			"town_name": "Satsukigaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "千葉市",
+					"ward_name": "花見川区",
+					"town_name": "さつきが丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "千葉市"
+		},
+		"2620013": {
+			"postcode": "2620013",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Chiba-shi",
+			"ward_name": "Hanamigawa-ku",
+			"town_name": "Kotehashicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "千葉市",
+					"ward_name": "花見川区",
+					"town_name": "犢橋町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "千葉市"
+		},
+		"2620012": {
+			"postcode": "2620012",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Chiba-shi",
+			"ward_name": "Hanamigawa-ku",
+			"town_name": "Chigusacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "千葉市",
+					"ward_name": "花見川区",
+					"town_name": "千種町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "千葉市"
+		},
+		"2620011": {
+			"postcode": "2620011",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Chiba-shi",
+			"ward_name": "Hanamigawa-ku",
+			"town_name": "Sankakucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "千葉市",
+					"ward_name": "花見川区",
+					"town_name": "三角町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "千葉市"
+		},
+		"2620007": {
+			"postcode": "2620007",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Chiba-shi",
+			"ward_name": "Hanamigawa-ku",
+			"town_name": "Miharuno",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "千葉市",
+					"ward_name": "花見川区",
+					"town_name": "み春野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "千葉市"
+		},
+		"2620006": {
+			"postcode": "2620006",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Chiba-shi",
+			"ward_name": "Hanamigawa-ku",
+			"town_name": "Yokododai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "千葉市",
+					"ward_name": "花見川区",
+					"town_name": "横戸台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "千葉市"
+		},
+		"2620005": {
+			"postcode": "2620005",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Chiba-shi",
+			"ward_name": "Hanamigawa-ku",
+			"town_name": "Kotehashidai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "千葉市",
+					"ward_name": "花見川区",
+					"town_name": "こてはし台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "千葉市"
+		},
+		"2620004": {
+			"postcode": "2620004",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Chiba-shi",
+			"ward_name": "Hanamigawa-ku",
+			"town_name": "Dainichicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "千葉市",
+					"ward_name": "花見川区",
+					"town_name": "大日町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "千葉市"
+		},
+		"2620003": {
+			"postcode": "2620003",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Chiba-shi",
+			"ward_name": "Hanamigawa-ku",
+			"town_name": "Unayacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "千葉市",
+					"ward_name": "花見川区",
+					"town_name": "宇那谷町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "千葉市"
+		},
+		"2620002": {
+			"postcode": "2620002",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Chiba-shi",
+			"ward_name": "Hanamigawa-ku",
+			"town_name": "Uchiyamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "千葉市",
+					"ward_name": "花見川区",
+					"town_name": "内山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "千葉市"
+		},
+		"2620001": {
+			"postcode": "2620001",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Chiba-shi",
+			"ward_name": "Hanamigawa-ku",
+			"town_name": "Yokodocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "千葉市",
+					"ward_name": "花見川区",
+					"town_name": "横戸町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "千葉市"
+		},
+		"2620000": {
+			"postcode": "2620000",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Chiba-shi",
+			"ward_name": "Hanamigawa-ku",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "千葉市",
+					"ward_name": "花見川区",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "千葉市"
+		}
+	}
+}

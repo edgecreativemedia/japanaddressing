@@ -1,0 +1,5661 @@
+{
+	"country_code": "JP",
+	"parent_id": "633",
+	"locale": "ja-Latn",
+	"address": {
+		"6338686": {
+			"postcode": "6338686",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "大字桜井",
+			"building_name": "２８１−１１（桜井郵便局私書箱第５号）",
+			"organization_name": "大和信用金庫",
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "大字桜井",
+					"building_name": "２８１−１１（桜井郵便局私書箱第５号）",
+					"organization_name": "大和信用金庫"
+				}
+			}
+		},
+		"6338585": {
+			"postcode": "6338585",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "大字粟殿",
+			"building_name": "４３２−１",
+			"organization_name": "桜井市役所",
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "大字粟殿",
+					"building_name": "４３２−１",
+					"organization_name": "桜井市役所"
+				}
+			}
+		},
+		"6338538": {
+			"postcode": "6338538",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "大字三輪",
+			"building_name": "１４２２",
+			"organization_name": "大神神社",
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "大字三輪",
+					"building_name": "１４２２",
+					"organization_name": "大神神社"
+				}
+			}
+		},
+		"6338501": {
+			"postcode": "6338501",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "大字谷",
+			"building_name": "８８−１",
+			"organization_name": "桜井年金事務所",
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "大字谷",
+					"building_name": "８８−１",
+					"organization_name": "桜井年金事務所"
+				}
+			}
+		},
+		"6332492": {
+			"postcode": "6332492",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Yoshino-gun",
+			"ward_name": "Higashiyoshino-mura",
+			"town_name": "大字小川",
+			"building_name": "",
+			"organization_name": "東吉野村役場",
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "吉野郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "吉野郡",
+					"ward_name": "東吉野村",
+					"town_name": "大字小川",
+					"building_name": "",
+					"organization_name": "東吉野村役場"
+				}
+			}
+		},
+		"6332444": {
+			"postcode": "6332444",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Yoshino-gun",
+			"ward_name": "Higashiyoshino-mura",
+			"town_name": "Omata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "吉野郡",
+					"ward_name": "東吉野村",
+					"town_name": "大又",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "吉野郡"
+		},
+		"6332443": {
+			"postcode": "6332443",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Yoshino-gun",
+			"ward_name": "Higashiyoshino-mura",
+			"town_name": "Mugitani",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "吉野郡",
+					"ward_name": "東吉野村",
+					"town_name": "麦谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "吉野郡"
+		},
+		"6332442": {
+			"postcode": "6332442",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Yoshino-gun",
+			"ward_name": "Higashiyoshino-mura",
+			"town_name": "Mameo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "吉野郡",
+					"ward_name": "東吉野村",
+					"town_name": "大豆生",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "吉野郡"
+		},
+		"6332441": {
+			"postcode": "6332441",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Yoshino-gun",
+			"ward_name": "Higashiyoshino-mura",
+			"town_name": "Sebato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "吉野郡",
+					"ward_name": "東吉野村",
+					"town_name": "狭戸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "吉野郡"
+		},
+		"6332433": {
+			"postcode": "6332433",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Yoshino-gun",
+			"ward_name": "Higashiyoshino-mura",
+			"town_name": "Mio",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "吉野郡",
+					"ward_name": "東吉野村",
+					"town_name": "三尾",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "吉野郡"
+		},
+		"6332432": {
+			"postcode": "6332432",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Yoshino-gun",
+			"ward_name": "Higashiyoshino-mura",
+			"town_name": "Kotsugawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "吉野郡",
+					"ward_name": "東吉野村",
+					"town_name": "木津川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "吉野郡"
+		},
+		"6332431": {
+			"postcode": "6332431",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Yoshino-gun",
+			"ward_name": "Higashiyoshino-mura",
+			"town_name": "Omura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "吉野郡",
+					"ward_name": "東吉野村",
+					"town_name": "小",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "吉野郡"
+		},
+		"6332424": {
+			"postcode": "6332424",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Yoshino-gun",
+			"ward_name": "Higashiyoshino-mura",
+			"town_name": "Nakaguro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "吉野郡",
+					"ward_name": "東吉野村",
+					"town_name": "中黒",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "吉野郡"
+		},
+		"6332423": {
+			"postcode": "6332423",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Yoshino-gun",
+			"ward_name": "Higashiyoshino-mura",
+			"town_name": "Kogurisu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "吉野郡",
+					"ward_name": "東吉野村",
+					"town_name": "小栗栖",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "吉野郡"
+		},
+		"6332422": {
+			"postcode": "6332422",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Yoshino-gun",
+			"ward_name": "Higashiyoshino-mura",
+			"town_name": "Washika",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "吉野郡",
+					"ward_name": "東吉野村",
+					"town_name": "鷲家",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "吉野郡"
+		},
+		"6332421": {
+			"postcode": "6332421",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Yoshino-gun",
+			"ward_name": "Higashiyoshino-mura",
+			"town_name": "Ogawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "吉野郡",
+					"ward_name": "東吉野村",
+					"town_name": "小川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "吉野郡"
+		},
+		"6332400": {
+			"postcode": "6332400",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Yoshino-gun",
+			"ward_name": "Higashiyoshino-mura",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "吉野郡",
+					"ward_name": "東吉野村",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "吉野郡"
+		},
+		"6332314": {
+			"postcode": "6332314",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Yoshino-gun",
+			"ward_name": "Higashiyoshino-mura",
+			"town_name": "Hagiwara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "吉野郡",
+					"ward_name": "東吉野村",
+					"town_name": "萩原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "吉野郡"
+		},
+		"6332313": {
+			"postcode": "6332313",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Yoshino-gun",
+			"ward_name": "Higashiyoshino-mura",
+			"town_name": "Hiura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "吉野郡",
+					"ward_name": "東吉野村",
+					"town_name": "日裏",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "吉野郡"
+		},
+		"6332312": {
+			"postcode": "6332312",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Yoshino-gun",
+			"ward_name": "Higashiyoshino-mura",
+			"town_name": "Izuo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "吉野郡",
+					"ward_name": "東吉野村",
+					"town_name": "伊豆尾",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "吉野郡"
+		},
+		"6332311": {
+			"postcode": "6332311",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Yoshino-gun",
+			"ward_name": "Higashiyoshino-mura",
+			"town_name": "Kotsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "吉野郡",
+					"ward_name": "東吉野村",
+					"town_name": "木津",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "吉野郡"
+		},
+		"6332304": {
+			"postcode": "6332304",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Yoshino-gun",
+			"ward_name": "Higashiyoshino-mura",
+			"town_name": "Sugitani",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "吉野郡",
+					"ward_name": "東吉野村",
+					"town_name": "杉谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "吉野郡"
+		},
+		"6332303": {
+			"postcode": "6332303",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Yoshino-gun",
+			"ward_name": "Higashiyoshino-mura",
+			"town_name": "Hirano",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "吉野郡",
+					"ward_name": "東吉野村",
+					"town_name": "平野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "吉野郡"
+		},
+		"6332302": {
+			"postcode": "6332302",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Yoshino-gun",
+			"ward_name": "Higashiyoshino-mura",
+			"town_name": "Tanijiri",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "吉野郡",
+					"ward_name": "東吉野村",
+					"town_name": "谷尻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "吉野郡"
+		},
+		"6332301": {
+			"postcode": "6332301",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Yoshino-gun",
+			"ward_name": "Higashiyoshino-mura",
+			"town_name": "Takino",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "吉野郡",
+					"ward_name": "東吉野村",
+					"town_name": "滝野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "吉野郡"
+		},
+		"6332227": {
+			"postcode": "6332227",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Utano",
+			"building_name": "Iwasaki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "菟田野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332226": {
+			"postcode": "6332226",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Utano",
+			"building_name": "Furuichiba",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "菟田野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332225": {
+			"postcode": "6332225",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Utano",
+			"building_name": "Inado",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "菟田野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332224": {
+			"postcode": "6332224",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Utano",
+			"building_name": "Sakura",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "菟田野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332223": {
+			"postcode": "6332223",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Utano",
+			"building_name": "Ukashi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "菟田野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332222": {
+			"postcode": "6332222",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Utano",
+			"building_name": "Komagaeri",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "菟田野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332221": {
+			"postcode": "6332221",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Utano",
+			"building_name": "Matsui",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "菟田野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332215": {
+			"postcode": "6332215",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Utano",
+			"building_name": "Togo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "菟田野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332214": {
+			"postcode": "6332214",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Utano",
+			"building_name": "Iwahashi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "菟田野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332213": {
+			"postcode": "6332213",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Utano",
+			"building_name": "Kamihono",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "菟田野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332212": {
+			"postcode": "6332212",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Utano",
+			"building_name": "Shimohono",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "菟田野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332211": {
+			"postcode": "6332211",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Utano",
+			"building_name": "Nyudani",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "菟田野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332205": {
+			"postcode": "6332205",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Utano",
+			"building_name": "Bessho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "菟田野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332204": {
+			"postcode": "6332204",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Utano",
+			"building_name": "Osawa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "菟田野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332203": {
+			"postcode": "6332203",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Utano",
+			"building_name": "Mita",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "菟田野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332202": {
+			"postcode": "6332202",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Utano",
+			"building_name": "Ogami",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "菟田野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332201": {
+			"postcode": "6332201",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Utano",
+			"building_name": "Hirai",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "菟田野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332192": {
+			"postcode": "6332192",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "大宇陀区迫間",
+			"building_name": "２５番地",
+			"organization_name": "宇陀市大宇陀地域事務所",
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀区迫間",
+					"building_name": "２５番地",
+					"organization_name": "宇陀市大宇陀地域事務所"
+				}
+			}
+		},
+		"6332179": {
+			"postcode": "6332179",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Shimohon",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332178": {
+			"postcode": "6332178",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Shimonaka",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332177": {
+			"postcode": "6332177",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Shimodeguchi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332176": {
+			"postcode": "6332176",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Koideguchi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332175": {
+			"postcode": "6332175",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Nakashin",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332174": {
+			"postcode": "6332174",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Kami",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332173": {
+			"postcode": "6332173",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Kaminaka",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332172": {
+			"postcode": "6332172",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Kamihon",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332171": {
+			"postcode": "6332171",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Kamicha",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332170": {
+			"postcode": "6332170",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Shimocha",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332166": {
+			"postcode": "6332166",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Hasama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332165": {
+			"postcode": "6332165",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Nakanosho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332164": {
+			"postcode": "6332164",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Hiro",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332163": {
+			"postcode": "6332163",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Manroku",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332162": {
+			"postcode": "6332162",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Ideshin",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332161": {
+			"postcode": "6332161",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Kamishin",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332156": {
+			"postcode": "6332156",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Hongo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332155": {
+			"postcode": "6332155",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Kurogi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332154": {
+			"postcode": "6332154",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Miyanoku",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332153": {
+			"postcode": "6332153",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Shimomiyanoku",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332152": {
+			"postcode": "6332152",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Sekido",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332151": {
+			"postcode": "6332151",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Daito",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332144": {
+			"postcode": "6332144",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Kurino",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332143": {
+			"postcode": "6332143",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Maki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332142": {
+			"postcode": "6332142",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Tawara",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332141": {
+			"postcode": "6332141",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Kamikataoka",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332139": {
+			"postcode": "6332139",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Yamaguchi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332138": {
+			"postcode": "6332138",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Shiratorii",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332137": {
+			"postcode": "6332137",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Shimokataoka",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332136": {
+			"postcode": "6332136",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Okuma",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332135": {
+			"postcode": "6332135",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Higashihirao",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332134": {
+			"postcode": "6332134",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Kowada",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332133": {
+			"postcode": "6332133",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Kamishina",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332132": {
+			"postcode": "6332132",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Shimoshina",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332131": {
+			"postcode": "6332131",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Wada",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332126": {
+			"postcode": "6332126",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Iwashimizu",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332125": {
+			"postcode": "6332125",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Mochi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332124": {
+			"postcode": "6332124",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Saigatsuji",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332123": {
+			"postcode": "6332123",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Fujii",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332122": {
+			"postcode": "6332122",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Choshi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332121": {
+			"postcode": "6332121",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Tsukawaki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332117": {
+			"postcode": "6332117",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Shibo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332116": {
+			"postcode": "6332116",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Iwamuro",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332115": {
+			"postcode": "6332115",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Nishiyama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332114": {
+			"postcode": "6332114",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Kasuga",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332113": {
+			"postcode": "6332113",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Shimotake",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332112": {
+			"postcode": "6332112",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Kotsuke",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332111": {
+			"postcode": "6332111",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Uchihara",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332108": {
+			"postcode": "6332108",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Hansaka",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332107": {
+			"postcode": "6332107",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Ureshigawara",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332106": {
+			"postcode": "6332106",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Matorigaki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332105": {
+			"postcode": "6332105",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Asoda",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332104": {
+			"postcode": "6332104",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Kuchiimai",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332103": {
+			"postcode": "6332103",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Noyori",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332102": {
+			"postcode": "6332102",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Hirao",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6332101": {
+			"postcode": "6332101",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Ouda",
+			"building_name": "Itsutsu",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "大宇陀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6331304": {
+			"postcode": "6331304",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-gun",
+			"ward_name": "Mitsue-mura",
+			"town_name": "Momonomata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀郡",
+					"ward_name": "御杖村",
+					"town_name": "桃俣",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀郡"
+		},
+		"6331303": {
+			"postcode": "6331303",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-gun",
+			"ward_name": "Mitsue-mura",
+			"town_name": "Tsuchiyahara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀郡",
+					"ward_name": "御杖村",
+					"town_name": "土屋原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀郡"
+		},
+		"6331302": {
+			"postcode": "6331302",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-gun",
+			"ward_name": "Mitsue-mura",
+			"town_name": "Sugano",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀郡",
+					"ward_name": "御杖村",
+					"town_name": "菅野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀郡"
+		},
+		"6331301": {
+			"postcode": "6331301",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-gun",
+			"ward_name": "Mitsue-mura",
+			"town_name": "Kozue",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀郡",
+					"ward_name": "御杖村",
+					"town_name": "神末",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀郡"
+		},
+		"6331300": {
+			"postcode": "6331300",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-gun",
+			"ward_name": "Mitsue-mura",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀郡",
+					"ward_name": "御杖村",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀郡"
+		},
+		"6331216": {
+			"postcode": "6331216",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-gun",
+			"ward_name": "Soni-mura",
+			"town_name": "Yamagasu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀郡",
+					"ward_name": "曽爾村",
+					"town_name": "山粕",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀郡"
+		},
+		"6331215": {
+			"postcode": "6331215",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-gun",
+			"ward_name": "Soni-mura",
+			"town_name": "Kake",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀郡",
+					"ward_name": "曽爾村",
+					"town_name": "掛",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀郡"
+		},
+		"6331214": {
+			"postcode": "6331214",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-gun",
+			"ward_name": "Soni-mura",
+			"town_name": "Nagano",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀郡",
+					"ward_name": "曽爾村",
+					"town_name": "長野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀郡"
+		},
+		"6331213": {
+			"postcode": "6331213",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-gun",
+			"ward_name": "Soni-mura",
+			"town_name": "Konagao",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀郡",
+					"ward_name": "曽爾村",
+					"town_name": "小長尾",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀郡"
+		},
+		"6331212": {
+			"postcode": "6331212",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-gun",
+			"ward_name": "Soni-mura",
+			"town_name": "Imai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀郡",
+					"ward_name": "曽爾村",
+					"town_name": "今井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀郡"
+		},
+		"6331211": {
+			"postcode": "6331211",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-gun",
+			"ward_name": "Soni-mura",
+			"town_name": "Shioi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀郡",
+					"ward_name": "曽爾村",
+					"town_name": "塩井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀郡"
+		},
+		"6331203": {
+			"postcode": "6331203",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-gun",
+			"ward_name": "Soni-mura",
+			"town_name": "Kazura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀郡",
+					"ward_name": "曽爾村",
+					"town_name": "葛",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀郡"
+		},
+		"6331202": {
+			"postcode": "6331202",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-gun",
+			"ward_name": "Soni-mura",
+			"town_name": "Taroji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀郡",
+					"ward_name": "曽爾村",
+					"town_name": "太良路",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀郡"
+		},
+		"6331201": {
+			"postcode": "6331201",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-gun",
+			"ward_name": "Soni-mura",
+			"town_name": "Igami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀郡",
+					"ward_name": "曽爾村",
+					"town_name": "伊賀見",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀郡"
+		},
+		"6331200": {
+			"postcode": "6331200",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-gun",
+			"ward_name": "Soni-mura",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀郡",
+					"ward_name": "曽爾村",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀郡"
+		},
+		"6330425": {
+			"postcode": "6330425",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Muro",
+			"building_name": "Kuroiwa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "室生",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330424": {
+			"postcode": "6330424",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Muro",
+			"building_name": "Taguchimotokamitaguchi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "室生",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330423": {
+			"postcode": "6330423",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Muro",
+			"building_name": "Taguchimototsunogawa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "室生",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330422": {
+			"postcode": "6330422",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Muro",
+			"building_name": "Shimotaguchi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "室生",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330421": {
+			"postcode": "6330421",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Muro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "室生",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330398": {
+			"postcode": "6330398",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "室生区向渕",
+			"building_name": "２２４８",
+			"organization_name": "株式会社　室生ロイヤルカントリークラブ",
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "室生区向渕",
+					"building_name": "２２４８",
+					"organization_name": "株式会社　室生ロイヤルカントリークラブ"
+				}
+			}
+		},
+		"6330392": {
+			"postcode": "6330392",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "室生区大野",
+			"building_name": "１６４１番地",
+			"organization_name": "室生地域事務所",
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "室生区大野",
+					"building_name": "１６４１番地",
+					"organization_name": "室生地域事務所"
+				}
+			}
+		},
+		"6330317": {
+			"postcode": "6330317",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Muro",
+			"building_name": "Sambommatsu",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "室生",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330316": {
+			"postcode": "6330316",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Muro",
+			"building_name": "Mukoji",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "室生",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330315": {
+			"postcode": "6330315",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Muro",
+			"building_name": "Ono",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "室生",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330314": {
+			"postcode": "6330314",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Muro",
+			"building_name": "Totori",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "室生",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330313": {
+			"postcode": "6330313",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Muro",
+			"building_name": "Takidani",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "室生",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330312": {
+			"postcode": "6330312",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Muro",
+			"building_name": "Nishitani",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "室生",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330311": {
+			"postcode": "6330311",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Muro",
+			"building_name": "Ryuguchi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "室生",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330298": {
+			"postcode": "6330298",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "榛原区萩原",
+			"building_name": "８１５",
+			"organization_name": "宇陀市立病院",
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原区萩原",
+					"building_name": "８１５",
+					"organization_name": "宇陀市立病院"
+				}
+			}
+		},
+		"6330292": {
+			"postcode": "6330292",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "榛原区下井足",
+			"building_name": "１７−３",
+			"organization_name": "宇陀市役所",
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原区下井足",
+					"building_name": "１７−３",
+					"organization_name": "宇陀市役所"
+				}
+			}
+		},
+		"6330257": {
+			"postcode": "6330257",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Haibara",
+			"building_name": "Harumigaoka",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330256": {
+			"postcode": "6330256",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Haibara",
+			"building_name": "Akanedai",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330255": {
+			"postcode": "6330255",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Haibara",
+			"building_name": "Tsunogawara",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330254": {
+			"postcode": "6330254",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Haibara",
+			"building_name": "Takahagidai",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330253": {
+			"postcode": "6330253",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Haibara",
+			"building_name": "Hagihara",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330252": {
+			"postcode": "6330252",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Haibara",
+			"building_name": "Sakuragaoka",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330251": {
+			"postcode": "6330251",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Haibara",
+			"building_name": "Hinokizaka",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330246": {
+			"postcode": "6330246",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Haibara",
+			"building_name": "Yanagi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330245": {
+			"postcode": "6330245",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Haibara",
+			"building_name": "Kasama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330244": {
+			"postcode": "6330244",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Haibara",
+			"building_name": "Yasuda",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330243": {
+			"postcode": "6330243",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Haibara",
+			"building_name": "Ameshi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330242": {
+			"postcode": "6330242",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Haibara",
+			"building_name": "Sasagaku",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330241": {
+			"postcode": "6330241",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Haibara",
+			"building_name": "Shimoidani",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330236": {
+			"postcode": "6330236",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Haibara",
+			"building_name": "Mori",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330235": {
+			"postcode": "6330235",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Haibara",
+			"building_name": "Hifu",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330234": {
+			"postcode": "6330234",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Haibara",
+			"building_name": "Takatsuka",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330233": {
+			"postcode": "6330233",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Haibara",
+			"building_name": "Fukunishi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330232": {
+			"postcode": "6330232",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Haibara",
+			"building_name": "Ikegami",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330231": {
+			"postcode": "6330231",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Haibara",
+			"building_name": "Adachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330228": {
+			"postcode": "6330228",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Haibara",
+			"building_name": "Kuridani",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330227": {
+			"postcode": "6330227",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Haibara",
+			"building_name": "Sanguji",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330226": {
+			"postcode": "6330226",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Haibara",
+			"building_name": "Sawa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330225": {
+			"postcode": "6330225",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Haibara",
+			"building_name": "Ogai",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330224": {
+			"postcode": "6330224",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Haibara",
+			"building_name": "Yamaji",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330223": {
+			"postcode": "6330223",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Haibara",
+			"building_name": "Ishida",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330222": {
+			"postcode": "6330222",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Haibara",
+			"building_name": "Kamiidani",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330221": {
+			"postcode": "6330221",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Haibara",
+			"building_name": "Haginosato",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330218": {
+			"postcode": "6330218",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Haibara",
+			"building_name": "Hinomaki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330217": {
+			"postcode": "6330217",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Haibara",
+			"building_name": "Jimyo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330216": {
+			"postcode": "6330216",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Haibara",
+			"building_name": "Yataki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330215": {
+			"postcode": "6330215",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Haibara",
+			"building_name": "Uchimaki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330214": {
+			"postcode": "6330214",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Haibara",
+			"building_name": "Morokino",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330213": {
+			"postcode": "6330213",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Haibara",
+			"building_name": "Akabane",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330212": {
+			"postcode": "6330212",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Haibara",
+			"building_name": "Takai",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330211": {
+			"postcode": "6330211",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Haibara",
+			"building_name": "Nizaka",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330208": {
+			"postcode": "6330208",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Haibara",
+			"building_name": "Nukai",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330207": {
+			"postcode": "6330207",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Haibara",
+			"building_name": "Akaze",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330206": {
+			"postcode": "6330206",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Haibara",
+			"building_name": "Temmadainishi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330205": {
+			"postcode": "6330205",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Haibara",
+			"building_name": "Temmadaihigashi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330204": {
+			"postcode": "6330204",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Haibara",
+			"building_name": "Fukuchi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330203": {
+			"postcode": "6330203",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Haibara",
+			"building_name": "Nagamine",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330202": {
+			"postcode": "6330202",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Haibara",
+			"building_name": "Yamabesan",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330201": {
+			"postcode": "6330201",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "Haibara",
+			"building_name": "Kaiba",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "榛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330200": {
+			"postcode": "6330200",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Uda-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "宇陀市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "宇陀市"
+		},
+		"6330133": {
+			"postcode": "6330133",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Kasa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "笠",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330132": {
+			"postcode": "6330132",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Wada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "和田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330131": {
+			"postcode": "6330131",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Shurieda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "修理枝",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330122": {
+			"postcode": "6330122",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Izumo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "出雲",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330121": {
+			"postcode": "6330121",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Shiraga",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "白河",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330112": {
+			"postcode": "6330112",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Hase",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "初瀬",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330111": {
+			"postcode": "6330111",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Yonabari",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "吉隠",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330108": {
+			"postcode": "6330108",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Takinokura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "滝倉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330107": {
+			"postcode": "6330107",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Nakatani",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "中谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330106": {
+			"postcode": "6330106",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Kayamori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "萱森",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330105": {
+			"postcode": "6330105",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Shiraki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "白木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330104": {
+			"postcode": "6330104",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Serii",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "芹井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330103": {
+			"postcode": "6330103",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Obudakeho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "小夫嵩方",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330102": {
+			"postcode": "6330102",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Mitani",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "三谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330101": {
+			"postcode": "6330101",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Obu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "小夫",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330091": {
+			"postcode": "6330091",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Sakurai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "桜井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330087": {
+			"postcode": "6330087",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Mamegoshi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "大豆越",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330086": {
+			"postcode": "6330086",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Etsutsumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "江包",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330085": {
+			"postcode": "6330085",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Higashida",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "東田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330084": {
+			"postcode": "6330084",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Ota",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "太田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330083": {
+			"postcode": "6330083",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Tsuji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "辻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330082": {
+			"postcode": "6330082",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Makinochi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "巻野内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330081": {
+			"postcode": "6330081",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Kusakawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "草川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330079": {
+			"postcode": "6330079",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Toyoda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "豊田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330078": {
+			"postcode": "6330078",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Bunze",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "豊前",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330077": {
+			"postcode": "6330077",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Onishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "大西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330076": {
+			"postcode": "6330076",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Oizumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "大泉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330075": {
+			"postcode": "6330075",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Shinyashiki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "新屋敷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330074": {
+			"postcode": "6330074",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Shiba",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "芝",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330073": {
+			"postcode": "6330073",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Chiwara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "茅原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330072": {
+			"postcode": "6330072",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Hashinaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "箸中",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330071": {
+			"postcode": "6330071",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Anashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "穴師",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330068": {
+			"postcode": "6330068",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Higashishindo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "東新堂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330067": {
+			"postcode": "6330067",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Daifuku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "大福",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330066": {
+			"postcode": "6330066",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Nishinomiya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "西之宮",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330065": {
+			"postcode": "6330065",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Kibi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "吉備",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330064": {
+			"postcode": "6330064",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Kaiju",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "戒重",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330063": {
+			"postcode": "6330063",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Kawai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "川合",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330062": {
+			"postcode": "6330062",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Odono",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "粟殿",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330061": {
+			"postcode": "6330061",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Kaminosho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "上之庄",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330055": {
+			"postcode": "6330055",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Abemokuzaidanchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "安倍木材団地",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330054": {
+			"postcode": "6330054",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Abe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "阿部",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330053": {
+			"postcode": "6330053",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Tani",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330052": {
+			"postcode": "6330052",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Asago",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "浅古",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330051": {
+			"postcode": "6330051",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Kawanishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "河西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330048": {
+			"postcode": "6330048",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Oida",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "生田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330047": {
+			"postcode": "6330047",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Hashimoto",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "橋本",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330046": {
+			"postcode": "6330046",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Ikenochi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "池之内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330045": {
+			"postcode": "6330045",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Yamada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "山田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330044": {
+			"postcode": "6330044",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Taie",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "高家",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330043": {
+			"postcode": "6330043",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Takata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "高田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330042": {
+			"postcode": "6330042",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Shimo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "下",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330041": {
+			"postcode": "6330041",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Uenomiya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "上之宮",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330036": {
+			"postcode": "6330036",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Yokogaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "横柿",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330035": {
+			"postcode": "6330035",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Imaidani",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "今井谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330034": {
+			"postcode": "6330034",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Kitayama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "北山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330033": {
+			"postcode": "6330033",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Nishiguchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "西口",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330032": {
+			"postcode": "6330032",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Tonomine",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "多武峰",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330031": {
+			"postcode": "6330031",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Orii",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "下居",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330028": {
+			"postcode": "6330028",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Momonoichi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "百市",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330027": {
+			"postcode": "6330027",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Rokuro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "鹿路",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330026": {
+			"postcode": "6330026",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Iimorizuka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "飯盛塚",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330025": {
+			"postcode": "6330025",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Yainai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "八井内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330024": {
+			"postcode": "6330024",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Harimichi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "針道",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330023": {
+			"postcode": "6330023",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Minamiotowa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "南音羽",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330022": {
+			"postcode": "6330022",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Kitaotowa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "北音羽",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330021": {
+			"postcode": "6330021",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Kurahashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "倉橋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330018": {
+			"postcode": "6330018",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Wakimoto",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "脇本",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330017": {
+			"postcode": "6330017",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Jionji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "慈恩寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330016": {
+			"postcode": "6330016",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Ryutani",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "竜谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330015": {
+			"postcode": "6330015",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Sagario",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "下り尾",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330014": {
+			"postcode": "6330014",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Obara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "粟原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330013": {
+			"postcode": "6330013",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Iwasaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "岩坂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330012": {
+			"postcode": "6330012",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Koma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "狛",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330011": {
+			"postcode": "6330011",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Kurozaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "黒崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330007": {
+			"postcode": "6330007",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Tobi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "外山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330006": {
+			"postcode": "6330006",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Akao",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "赤尾",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330005": {
+			"postcode": "6330005",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Ossaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "忍阪",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330004": {
+			"postcode": "6330004",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Asakuradai",
+			"building_name": "Nishi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "朝倉台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330003": {
+			"postcode": "6330003",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Asakuradai",
+			"building_name": "Higashi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "朝倉台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330002": {
+			"postcode": "6330002",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Kanaya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "金屋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330001": {
+			"postcode": "6330001",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "Miwa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "三輪",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		},
+		"6330000": {
+			"postcode": "6330000",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Sakurai-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "桜井市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "桜井市"
+		}
+	}
+}

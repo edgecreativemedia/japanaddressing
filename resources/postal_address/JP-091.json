@@ -1,0 +1,1041 @@
+{
+	"country_code": "JP",
+	"parent_id": "091",
+	"locale": "ja-Latn",
+	"address": {
+		"0918666": {
+			"postcode": "0918666",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kitami-shi",
+			"ward_name": "",
+			"town_name": "留辺蘂町上町",
+			"building_name": "６１番地（留辺蘂郵便局私書箱第１３号）",
+			"organization_name": "北見市役所　留辺蘂総合支所",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北見市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北見市",
+					"ward_name": "",
+					"town_name": "留辺蘂町上町",
+					"building_name": "６１番地（留辺蘂郵便局私書箱第１３号）",
+					"organization_name": "北見市役所　留辺蘂総合支所"
+				}
+			}
+		},
+		"0910558": {
+			"postcode": "0910558",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Tokoro-gun",
+			"ward_name": "Saroma-cho",
+			"town_name": "Tochigi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "常呂郡",
+					"ward_name": "佐呂間町",
+					"town_name": "栃木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "常呂郡"
+		},
+		"0910557": {
+			"postcode": "0910557",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Tokoro-gun",
+			"ward_name": "Saroma-cho",
+			"town_name": "Kawanishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "常呂郡",
+					"ward_name": "佐呂間町",
+					"town_name": "川西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "常呂郡"
+		},
+		"0910556": {
+			"postcode": "0910556",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Tokoro-gun",
+			"ward_name": "Saroma-cho",
+			"town_name": "Keisei",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "常呂郡",
+					"ward_name": "佐呂間町",
+					"town_name": "啓生",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "常呂郡"
+		},
+		"0910555": {
+			"postcode": "0910555",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Tokoro-gun",
+			"ward_name": "Saroma-cho",
+			"town_name": "Nakazono",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "常呂郡",
+					"ward_name": "佐呂間町",
+					"town_name": "中園",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "常呂郡"
+		},
+		"0910554": {
+			"postcode": "0910554",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Tokoro-gun",
+			"ward_name": "Saroma-cho",
+			"town_name": "Bushi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "常呂郡",
+					"ward_name": "佐呂間町",
+					"town_name": "武士",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "常呂郡"
+		},
+		"0910553": {
+			"postcode": "0910553",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Tokoro-gun",
+			"ward_name": "Saroma-cho",
+			"town_name": "Asahi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "常呂郡",
+					"ward_name": "佐呂間町",
+					"town_name": "朝日",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "常呂郡"
+		},
+		"0910552": {
+			"postcode": "0910552",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Tokoro-gun",
+			"ward_name": "Saroma-cho",
+			"town_name": "Tomioka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "常呂郡",
+					"ward_name": "佐呂間町",
+					"town_name": "富丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "常呂郡"
+		},
+		"0910551": {
+			"postcode": "0910551",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Tokoro-gun",
+			"ward_name": "Saroma-cho",
+			"town_name": "Wakasa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "常呂郡",
+					"ward_name": "佐呂間町",
+					"town_name": "若佐",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "常呂郡"
+		},
+		"0910473": {
+			"postcode": "0910473",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Tokoro-gun",
+			"ward_name": "Saroma-cho",
+			"town_name": "Kyoritsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "常呂郡",
+					"ward_name": "佐呂間町",
+					"town_name": "共立",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "常呂郡"
+		},
+		"0910472": {
+			"postcode": "0910472",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Tokoro-gun",
+			"ward_name": "Saroma-cho",
+			"town_name": "Sakae",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "常呂郡",
+					"ward_name": "佐呂間町",
+					"town_name": "栄",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "常呂郡"
+		},
+		"0910471": {
+			"postcode": "0910471",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Tokoro-gun",
+			"ward_name": "Saroma-cho",
+			"town_name": "Taisei",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "常呂郡",
+					"ward_name": "佐呂間町",
+					"town_name": "大成",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "常呂郡"
+		},
+		"0910194": {
+			"postcode": "0910194",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kitami-shi",
+			"ward_name": "",
+			"town_name": "留辺蘂町温根湯温泉",
+			"building_name": "４９２番地",
+			"organization_name": "オホーツク観光　（株）　温根湯ホテル",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北見市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北見市",
+					"ward_name": "",
+					"town_name": "留辺蘂町温根湯温泉",
+					"building_name": "４９２番地",
+					"organization_name": "オホーツク観光　（株）　温根湯ホテル"
+				}
+			}
+		},
+		"0910193": {
+			"postcode": "0910193",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kitami-shi",
+			"ward_name": "",
+			"town_name": "留辺蘂町温根湯温泉",
+			"building_name": "番外地",
+			"organization_name": "（株）　大江本家",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北見市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北見市",
+					"ward_name": "",
+					"town_name": "留辺蘂町温根湯温泉",
+					"building_name": "番外地",
+					"organization_name": "（株）　大江本家"
+				}
+			}
+		},
+		"0910192": {
+			"postcode": "0910192",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kitami-shi",
+			"ward_name": "",
+			"town_name": "留辺蘂町温根湯温泉",
+			"building_name": "１５７番地",
+			"organization_name": "きたみらい農業協同組合　温根湯支所",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北見市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北見市",
+					"ward_name": "",
+					"town_name": "留辺蘂町温根湯温泉",
+					"building_name": "１５７番地",
+					"organization_name": "きたみらい農業協同組合　温根湯支所"
+				}
+			}
+		},
+		"0910170": {
+			"postcode": "0910170",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kitami-shi",
+			"ward_name": "",
+			"town_name": "Rubeshibecho",
+			"building_name": "Onneyuonsen",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北見市",
+					"ward_name": "",
+					"town_name": "留辺蘂町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北見市"
+		},
+		"0910163": {
+			"postcode": "0910163",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kitami-shi",
+			"ward_name": "",
+			"town_name": "Rubeshibecho",
+			"building_name": "Takinoyu",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北見市",
+					"ward_name": "",
+					"town_name": "留辺蘂町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北見市"
+		},
+		"0910162": {
+			"postcode": "0910162",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kitami-shi",
+			"ward_name": "",
+			"town_name": "Rubeshibecho",
+			"building_name": "Fujimi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北見市",
+					"ward_name": "",
+					"town_name": "留辺蘂町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北見市"
+		},
+		"0910161": {
+			"postcode": "0910161",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kitami-shi",
+			"ward_name": "",
+			"town_name": "Rubeshibecho",
+			"building_name": "Kowa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北見市",
+					"ward_name": "",
+					"town_name": "留辺蘂町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北見市"
+		},
+		"0910157": {
+			"postcode": "0910157",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kitami-shi",
+			"ward_name": "",
+			"town_name": "Rubeshibecho",
+			"building_name": "Hanaoka",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北見市",
+					"ward_name": "",
+					"town_name": "留辺蘂町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北見市"
+		},
+		"0910156": {
+			"postcode": "0910156",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kitami-shi",
+			"ward_name": "",
+			"town_name": "Rubeshibecho",
+			"building_name": "Kawakita",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北見市",
+					"ward_name": "",
+					"town_name": "留辺蘂町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北見市"
+		},
+		"0910155": {
+			"postcode": "0910155",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kitami-shi",
+			"ward_name": "",
+			"town_name": "Rubeshibecho",
+			"building_name": "Yamato",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北見市",
+					"ward_name": "",
+					"town_name": "留辺蘂町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北見市"
+		},
+		"0910154": {
+			"postcode": "0910154",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kitami-shi",
+			"ward_name": "",
+			"town_name": "Rubeshibecho",
+			"building_name": "Hirasato",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北見市",
+					"ward_name": "",
+					"town_name": "留辺蘂町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北見市"
+		},
+		"0910153": {
+			"postcode": "0910153",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kitami-shi",
+			"ward_name": "",
+			"town_name": "Rubeshibecho",
+			"building_name": "Matsuyama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北見市",
+					"ward_name": "",
+					"town_name": "留辺蘂町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北見市"
+		},
+		"0910151": {
+			"postcode": "0910151",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kitami-shi",
+			"ward_name": "",
+			"town_name": "Rubeshibecho",
+			"building_name": "Shoei",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北見市",
+					"ward_name": "",
+					"town_name": "留辺蘂町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北見市"
+		},
+		"0910033": {
+			"postcode": "0910033",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kitami-shi",
+			"ward_name": "",
+			"town_name": "Rubeshibecho",
+			"building_name": "Sakaemachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北見市",
+					"ward_name": "",
+					"town_name": "留辺蘂町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北見市"
+		},
+		"0910032": {
+			"postcode": "0910032",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kitami-shi",
+			"ward_name": "",
+			"town_name": "Rubeshibecho",
+			"building_name": "Toyogane",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北見市",
+					"ward_name": "",
+					"town_name": "留辺蘂町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北見市"
+		},
+		"0910031": {
+			"postcode": "0910031",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kitami-shi",
+			"ward_name": "",
+			"town_name": "Rubeshibecho",
+			"building_name": "Otomi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北見市",
+					"ward_name": "",
+					"town_name": "留辺蘂町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北見市"
+		},
+		"0910029": {
+			"postcode": "0910029",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kitami-shi",
+			"ward_name": "",
+			"town_name": "Rubeshibecho",
+			"building_name": "Asahi1-ku",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北見市",
+					"ward_name": "",
+					"town_name": "留辺蘂町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北見市"
+		},
+		"0910028": {
+			"postcode": "0910028",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kitami-shi",
+			"ward_name": "",
+			"town_name": "Rubeshibecho",
+			"building_name": "Asahi3-ku",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北見市",
+					"ward_name": "",
+					"town_name": "留辺蘂町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北見市"
+		},
+		"0910027": {
+			"postcode": "0910027",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kitami-shi",
+			"ward_name": "",
+			"town_name": "Rubeshibecho",
+			"building_name": "Asahinishi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北見市",
+					"ward_name": "",
+					"town_name": "留辺蘂町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北見市"
+		},
+		"0910026": {
+			"postcode": "0910026",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kitami-shi",
+			"ward_name": "",
+			"town_name": "Rubeshibecho",
+			"building_name": "Asahikoen",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北見市",
+					"ward_name": "",
+					"town_name": "留辺蘂町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北見市"
+		},
+		"0910025": {
+			"postcode": "0910025",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kitami-shi",
+			"ward_name": "",
+			"town_name": "Rubeshibecho",
+			"building_name": "Asahikita",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北見市",
+					"ward_name": "",
+					"town_name": "留辺蘂町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北見市"
+		},
+		"0910024": {
+			"postcode": "0910024",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kitami-shi",
+			"ward_name": "",
+			"town_name": "Rubeshibecho",
+			"building_name": "Asahiminami",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北見市",
+					"ward_name": "",
+					"town_name": "留辺蘂町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北見市"
+		},
+		"0910023": {
+			"postcode": "0910023",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kitami-shi",
+			"ward_name": "",
+			"town_name": "Rubeshibecho",
+			"building_name": "Asahichuo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北見市",
+					"ward_name": "",
+					"town_name": "留辺蘂町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北見市"
+		},
+		"0910022": {
+			"postcode": "0910022",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kitami-shi",
+			"ward_name": "",
+			"town_name": "Rubeshibecho",
+			"building_name": "Asahihigashi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北見市",
+					"ward_name": "",
+					"town_name": "留辺蘂町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北見市"
+		},
+		"0910021": {
+			"postcode": "0910021",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kitami-shi",
+			"ward_name": "",
+			"town_name": "Rubeshibecho",
+			"building_name": "Kanehana",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北見市",
+					"ward_name": "",
+					"town_name": "留辺蘂町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北見市"
+		},
+		"0910018": {
+			"postcode": "0910018",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kitami-shi",
+			"ward_name": "",
+			"town_name": "Rubeshibecho",
+			"building_name": "Hanazono",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北見市",
+					"ward_name": "",
+					"town_name": "留辺蘂町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北見市"
+		},
+		"0910017": {
+			"postcode": "0910017",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kitami-shi",
+			"ward_name": "",
+			"town_name": "Rubeshibecho",
+			"building_name": "Mizuho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北見市",
+					"ward_name": "",
+					"town_name": "留辺蘂町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北見市"
+		},
+		"0910016": {
+			"postcode": "0910016",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kitami-shi",
+			"ward_name": "",
+			"town_name": "Rubeshibecho",
+			"building_name": "Maruyama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北見市",
+					"ward_name": "",
+					"town_name": "留辺蘂町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北見市"
+		},
+		"0910011": {
+			"postcode": "0910011",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kitami-shi",
+			"ward_name": "",
+			"town_name": "Rubeshibecho",
+			"building_name": "Izumi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北見市",
+					"ward_name": "",
+					"town_name": "留辺蘂町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北見市"
+		},
+		"0910008": {
+			"postcode": "0910008",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kitami-shi",
+			"ward_name": "",
+			"town_name": "Rubeshibecho",
+			"building_name": "Miyashitacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北見市",
+					"ward_name": "",
+					"town_name": "留辺蘂町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北見市"
+		},
+		"0910007": {
+			"postcode": "0910007",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kitami-shi",
+			"ward_name": "",
+			"town_name": "Rubeshibecho",
+			"building_name": "Tomioka",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北見市",
+					"ward_name": "",
+					"town_name": "留辺蘂町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北見市"
+		},
+		"0910004": {
+			"postcode": "0910004",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kitami-shi",
+			"ward_name": "",
+			"town_name": "Rubeshibecho",
+			"building_name": "Kamimachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北見市",
+					"ward_name": "",
+					"town_name": "留辺蘂町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北見市"
+		},
+		"0910003": {
+			"postcode": "0910003",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kitami-shi",
+			"ward_name": "",
+			"town_name": "Rubeshibecho",
+			"building_name": "Nakamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北見市",
+					"ward_name": "",
+					"town_name": "留辺蘂町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北見市"
+		},
+		"0910002": {
+			"postcode": "0910002",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kitami-shi",
+			"ward_name": "",
+			"town_name": "Rubeshibecho",
+			"building_name": "Azumamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北見市",
+					"ward_name": "",
+					"town_name": "留辺蘂町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北見市"
+		},
+		"0910001": {
+			"postcode": "0910001",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kitami-shi",
+			"ward_name": "",
+			"town_name": "Rubeshibecho",
+			"building_name": "Motomachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北見市",
+					"ward_name": "",
+					"town_name": "留辺蘂町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北見市"
+		}
+	}
+}

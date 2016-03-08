@@ -1,0 +1,131 @@
+{
+	"country_code": "JP",
+	"parent_id": null,
+	"locale": "ja-Latn",
+	"regions": {
+		"JP-R1": {
+			"code": "北海道",
+			"name": "Hokkaidō",
+			"name_suffix": " Region",
+			"kanji": "北海道",
+			"hiragana": "ほっかいどう",
+			"romaji": "Hokkaidō",
+			"translations": {
+				"ja": {
+					"name": "北海道",
+					"name_suffix": null
+				},
+				"kr": {
+					"name": "홋카이도",
+					"name_suffix": null
+				},
+				"cn": {
+					"name": "北海道",
+					"name_suffix": null
+				},
+				"th": {
+					"name": "ฮอกไกโด",
+					"name_suffix": null
+				}
+			}
+		},
+		"JP-R2": {
+			"code": "東北",
+			"name": "Tōhoku",
+			"name_suffix": " Region",
+			"kanji": "東北",
+			"hiragana": "とうほく",
+			"romaji": "Tōhoku",
+			"translations": {
+				"ja": {
+					"name": "東北",
+					"name_suffix": null
+				}
+			}
+		},
+		"JP-R3": {
+			"code": "関東",
+			"name": "Kantō",
+			"name_suffix": " Region",
+			"kanji": "関東",
+			"hiragana": "かんとう",
+			"romaji": "Kantō",
+			"translations": {
+				"ja": {
+					"name": "関東",
+					"name_suffix": null
+				}
+			}
+		},
+		"JP-R4": {
+			"code": "中部",
+			"name": "Chūbu",
+			"name_suffix": " Region",
+			"kanji": "中部",
+			"hiragana": "ちゅうぶ",
+			"romaji": "Chūbu",
+			"translations": {
+				"ja": {
+					"name": "中部",
+					"name_suffix": null
+				}
+			}
+		},
+		"JP-R5": {
+			"code": "関西",
+			"name": "Kansai",
+			"name_suffix": " Region",
+			"kanji": "関西",
+			"hiragana": "かんさい",
+			"romaji": "Kansai",
+			"translations": {
+				"ja": {
+					"name": "関西",
+					"name_suffix": null
+				}
+			}
+		},
+		"JP-R6": {
+			"code": "中国",
+			"name": "Chūgoku",
+			"name_suffix": " Region",
+			"kanji": "中国",
+			"hiragana": "ちゅうごく",
+			"romaji": "Chūgoku",
+			"translations": {
+				"ja": {
+					"name": "中国",
+					"name_suffix": null
+				}
+			}
+		},
+		"JP-R7": {
+			"code": "四国",
+			"name": "Shikoku",
+			"name_suffix": " Region",
+			"kanji": "四国",
+			"hiragana": "しこく",
+			"romaji": "Shikoku",
+			"translations": {
+				"ja": {
+					"name": "四国",
+					"name_suffix": null
+				}
+			}
+		},
+		"JP-R8": {
+			"code": "九州",
+			"name": "Kyūshū",
+			"name_suffix": " Region",
+			"kanji": "九州",
+			"hiragana": "きゅうしゅう",
+			"romaji": "Kyūshū",
+			"translations": {
+				"ja": {
+					"name": "九州",
+					"name_suffix": null
+				}
+			}
+		}
+	}
+}

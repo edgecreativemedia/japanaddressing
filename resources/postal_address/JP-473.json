@@ -1,0 +1,777 @@
+{
+	"country_code": "JP",
+	"parent_id": "473",
+	"locale": "ja-Latn",
+	"address": {
+		"4738511": {
+			"postcode": "4738511",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Toyota-shi",
+			"ward_name": "",
+			"town_name": "吉原町",
+			"building_name": "平子２６",
+			"organization_name": "富士精工　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "豊田市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "豊田市",
+					"ward_name": "",
+					"town_name": "吉原町",
+					"building_name": "平子２６",
+					"organization_name": "富士精工　株式会社"
+				}
+			}
+		},
+		"4738501": {
+			"postcode": "4738501",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Toyota-shi",
+			"ward_name": "",
+			"town_name": "高丘新町",
+			"building_name": "天王１",
+			"organization_name": "アイシン高丘　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "豊田市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "豊田市",
+					"ward_name": "",
+					"town_name": "高丘新町",
+					"building_name": "天王１",
+					"organization_name": "アイシン高丘　株式会社"
+				}
+			}
+		},
+		"4730939": {
+			"postcode": "4730939",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Toyota-shi",
+			"ward_name": "",
+			"town_name": "Tsutsumihommachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "豊田市",
+					"ward_name": "",
+					"town_name": "堤本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "豊田市"
+		},
+		"4730938": {
+			"postcode": "4730938",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Toyota-shi",
+			"ward_name": "",
+			"town_name": "Hondacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "豊田市",
+					"ward_name": "",
+					"town_name": "本田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "豊田市"
+		},
+		"4730937": {
+			"postcode": "4730937",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Toyota-shi",
+			"ward_name": "",
+			"town_name": "Nishiokachohoshigaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "豊田市",
+					"ward_name": "",
+					"town_name": "西岡町星ケ丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "豊田市"
+		},
+		"4730936": {
+			"postcode": "4730936",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Toyota-shi",
+			"ward_name": "",
+			"town_name": "Nishiokacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "豊田市",
+					"ward_name": "",
+					"town_name": "西岡町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "豊田市"
+		},
+		"4730935": {
+			"postcode": "4730935",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Toyota-shi",
+			"ward_name": "",
+			"town_name": "Oshimacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "豊田市",
+					"ward_name": "",
+					"town_name": "大島町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "豊田市"
+		},
+		"4730934": {
+			"postcode": "4730934",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Toyota-shi",
+			"ward_name": "",
+			"town_name": "Maebayashicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "豊田市",
+					"ward_name": "",
+					"town_name": "前林町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "豊田市"
+		},
+		"4730933": {
+			"postcode": "4730933",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Toyota-shi",
+			"ward_name": "",
+			"town_name": "Takaokacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "豊田市",
+					"ward_name": "",
+					"town_name": "高岡町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "豊田市"
+		},
+		"4730932": {
+			"postcode": "4730932",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Toyota-shi",
+			"ward_name": "",
+			"town_name": "Tsutsumicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "豊田市",
+					"ward_name": "",
+					"town_name": "堤町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "豊田市"
+		},
+		"4730931": {
+			"postcode": "4730931",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Toyota-shi",
+			"ward_name": "",
+			"town_name": "Kamiokacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "豊田市",
+					"ward_name": "",
+					"town_name": "上丘町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "豊田市"
+		},
+		"4730928": {
+			"postcode": "4730928",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Toyota-shi",
+			"ward_name": "",
+			"town_name": "Ikomacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "豊田市",
+					"ward_name": "",
+					"town_name": "生駒町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "豊田市"
+		},
+		"4730927": {
+			"postcode": "4730927",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Toyota-shi",
+			"ward_name": "",
+			"town_name": "Nakadacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "豊田市",
+					"ward_name": "",
+					"town_name": "中田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "豊田市"
+		},
+		"4730926": {
+			"postcode": "4730926",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Toyota-shi",
+			"ward_name": "",
+			"town_name": "Komashincho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "豊田市",
+					"ward_name": "",
+					"town_name": "駒新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "豊田市"
+		},
+		"4730925": {
+			"postcode": "4730925",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Toyota-shi",
+			"ward_name": "",
+			"town_name": "Komabacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "豊田市",
+					"ward_name": "",
+					"town_name": "駒場町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "豊田市"
+		},
+		"4730924": {
+			"postcode": "4730924",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Toyota-shi",
+			"ward_name": "",
+			"town_name": "Hanazonocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "豊田市",
+					"ward_name": "",
+					"town_name": "花園町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "豊田市"
+		},
+		"4730923": {
+			"postcode": "4730923",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Toyota-shi",
+			"ward_name": "",
+			"town_name": "Nakanecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "豊田市",
+					"ward_name": "",
+					"town_name": "中根町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "豊田市"
+		},
+		"4730922": {
+			"postcode": "4730922",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Toyota-shi",
+			"ward_name": "",
+			"town_name": "Takaokahommachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "豊田市",
+					"ward_name": "",
+					"town_name": "高岡本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "豊田市"
+		},
+		"4730921": {
+			"postcode": "4730921",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Toyota-shi",
+			"ward_name": "",
+			"town_name": "Takaokashimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "豊田市",
+					"ward_name": "",
+					"town_name": "高丘新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "豊田市"
+		},
+		"4730918": {
+			"postcode": "4730918",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Toyota-shi",
+			"ward_name": "",
+			"town_name": "Takamicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "豊田市",
+					"ward_name": "",
+					"town_name": "高美町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "豊田市"
+		},
+		"4730917": {
+			"postcode": "4730917",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Toyota-shi",
+			"ward_name": "",
+			"town_name": "Wakabayashi",
+			"building_name": "Nishimachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "豊田市",
+					"ward_name": "",
+					"town_name": "若林",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "豊田市"
+		},
+		"4730916": {
+			"postcode": "4730916",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Toyota-shi",
+			"ward_name": "",
+			"town_name": "Yoshiwaracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "豊田市",
+					"ward_name": "",
+					"town_name": "吉原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "豊田市"
+		},
+		"4730915": {
+			"postcode": "4730915",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Toyota-shi",
+			"ward_name": "",
+			"town_name": "Wakabayashihigashimachinakasotone",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "豊田市",
+					"ward_name": "",
+					"town_name": "若林東町中外根",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "豊田市"
+		},
+		"4730914": {
+			"postcode": "4730914",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Toyota-shi",
+			"ward_name": "",
+			"town_name": "Wakabayashi",
+			"building_name": "Higashimachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "豊田市",
+					"ward_name": "",
+					"town_name": "若林",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "豊田市"
+		},
+		"4730913": {
+			"postcode": "4730913",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Toyota-shi",
+			"ward_name": "",
+			"town_name": "Takemotocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "豊田市",
+					"ward_name": "",
+					"town_name": "竹元町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "豊田市"
+		},
+		"4730912": {
+			"postcode": "4730912",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Toyota-shi",
+			"ward_name": "",
+			"town_name": "Hirotacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "豊田市",
+					"ward_name": "",
+					"town_name": "広田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "豊田市"
+		},
+		"4730911": {
+			"postcode": "4730911",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Toyota-shi",
+			"ward_name": "",
+			"town_name": "Hommachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "豊田市",
+					"ward_name": "",
+					"town_name": "本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "豊田市"
+		},
+		"4730908": {
+			"postcode": "4730908",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Toyota-shi",
+			"ward_name": "",
+			"town_name": "Takaramachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "豊田市",
+					"ward_name": "",
+					"town_name": "宝町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "豊田市"
+		},
+		"4730907": {
+			"postcode": "4730907",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Toyota-shi",
+			"ward_name": "",
+			"town_name": "Ryujincho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "豊田市",
+					"ward_name": "",
+					"town_name": "竜神町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "豊田市"
+		},
+		"4730906": {
+			"postcode": "4730906",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Toyota-shi",
+			"ward_name": "",
+			"town_name": "Takecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "豊田市",
+					"ward_name": "",
+					"town_name": "竹町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "豊田市"
+		},
+		"4730905": {
+			"postcode": "4730905",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Toyota-shi",
+			"ward_name": "",
+			"town_name": "Sumiyoshicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "豊田市",
+					"ward_name": "",
+					"town_name": "住吉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "豊田市"
+		},
+		"4730904": {
+			"postcode": "4730904",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Toyota-shi",
+			"ward_name": "",
+			"town_name": "Nakamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "豊田市",
+					"ward_name": "",
+					"town_name": "中町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "豊田市"
+		},
+		"4730903": {
+			"postcode": "4730903",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Toyota-shi",
+			"ward_name": "",
+			"town_name": "Nishidacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "豊田市",
+					"ward_name": "",
+					"town_name": "西田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "豊田市"
+		},
+		"4730902": {
+			"postcode": "4730902",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Toyota-shi",
+			"ward_name": "",
+			"town_name": "Obayashicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "豊田市",
+					"ward_name": "",
+					"town_name": "大林町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "豊田市"
+		},
+		"4730901": {
+			"postcode": "4730901",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Toyota-shi",
+			"ward_name": "",
+			"town_name": "Miyukihommachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "豊田市",
+					"ward_name": "",
+					"town_name": "御幸本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "豊田市"
+		}
+	}
+}

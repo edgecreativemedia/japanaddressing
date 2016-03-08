@@ -1,0 +1,3549 @@
+{
+	"country_code": "JP",
+	"parent_id": "390",
+	"locale": "ja-Latn",
+	"address": {
+		"3908714": {
+			"postcode": "3908714",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "石芝",
+			"building_name": "１丁目１−１",
+			"organization_name": "石川島芝浦機械　株式会社　松本工場",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "石芝",
+					"building_name": "１丁目１−１",
+					"organization_name": "石川島芝浦機械　株式会社　松本工場"
+				}
+			}
+		},
+		"3908712": {
+			"postcode": "3908712",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "丸の内",
+			"building_name": "３−１（松本郵便局私書箱第３号）",
+			"organization_name": "日本銀行　松本支店",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "丸の内",
+					"building_name": "３−１（松本郵便局私書箱第３号）",
+					"organization_name": "日本銀行　松本支店"
+				}
+			}
+		},
+		"3908711": {
+			"postcode": "3908711",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "渚",
+			"building_name": "２丁目７−９（松本郵便局私書箱第１０３号）",
+			"organization_name": "松本ガス　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "渚",
+					"building_name": "２丁目７−９（松本郵便局私書箱第１０３号）",
+					"organization_name": "松本ガス　株式会社"
+				}
+			}
+		},
+		"3908710": {
+			"postcode": "3908710",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "城西",
+			"building_name": "２丁目１−２０（松本郵便局私書箱第１７号）",
+			"organization_name": "松本税務署",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "城西",
+					"building_name": "２丁目１−２０（松本郵便局私書箱第１７号）",
+					"organization_name": "松本税務署"
+				}
+			}
+		},
+		"3908707": {
+			"postcode": "3908707",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "深志",
+			"building_name": "２丁目５番２６号（松本郵便局私書箱第１９号）",
+			"organization_name": "第一生命保険　株式会社　松本支社",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "深志",
+					"building_name": "２丁目５番２６号（松本郵便局私書箱第１９号）",
+					"organization_name": "第一生命保険　株式会社　松本支社"
+				}
+			}
+		},
+		"3908703": {
+			"postcode": "3908703",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "大手",
+			"building_name": "３丁目３−９（松本郵便局私書箱第４６号）",
+			"organization_name": "ＮＴＴ　松本営業支店",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "大手",
+					"building_name": "３丁目３−９（松本郵便局私書箱第４６号）",
+					"organization_name": "ＮＴＴ　松本営業支店"
+				}
+			}
+		},
+		"3908702": {
+			"postcode": "3908702",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "白板",
+			"building_name": "２丁目５−１（松本郵便局私書箱第３１号）",
+			"organization_name": "松本社会保険事務所",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "白板",
+					"building_name": "２丁目５−１（松本郵便局私書箱第３１号）",
+					"organization_name": "松本社会保険事務所"
+				}
+			}
+		},
+		"3908686": {
+			"postcode": "3908686",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "筑摩",
+			"building_name": "２丁目２６−１７",
+			"organization_name": "株式会社　中部日本医薬",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "筑摩",
+					"building_name": "２丁目２６−１７",
+					"organization_name": "株式会社　中部日本医薬"
+				}
+			}
+		},
+		"3908648": {
+			"postcode": "3908648",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "城西",
+			"building_name": "１丁目５−１６",
+			"organization_name": "社会医療法人　城西医療財団　城西病院",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "城西",
+					"building_name": "１丁目５−１６",
+					"organization_name": "社会医療法人　城西医療財団　城西病院"
+				}
+			}
+		},
+		"3908639": {
+			"postcode": "3908639",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "宮渕",
+			"building_name": "１丁目３−３０",
+			"organization_name": "株式会社　アスピア",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "宮渕",
+					"building_name": "１丁目３−３０",
+					"organization_name": "株式会社　アスピア"
+				}
+			}
+		},
+		"3908630": {
+			"postcode": "3908630",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "大字島内",
+			"building_name": "３５０３",
+			"organization_name": "株式会社　ニシマ",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "大字島内",
+					"building_name": "３５０３",
+					"organization_name": "株式会社　ニシマ"
+				}
+			}
+		},
+		"3908623": {
+			"postcode": "3908623",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "南松本",
+			"building_name": "１丁目１３−２６",
+			"organization_name": "学校法人　外語学園　信農むつみ高等学校",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "南松本",
+					"building_name": "１丁目１３−２６",
+					"organization_name": "学校法人　外語学園　信農むつみ高等学校"
+				}
+			}
+		},
+		"3908621": {
+			"postcode": "3908621",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "旭",
+			"building_name": "３丁目１−１",
+			"organization_name": "信州大学",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "旭",
+					"building_name": "３丁目１−１",
+					"organization_name": "信州大学"
+				}
+			}
+		},
+		"3908620": {
+			"postcode": "3908620",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "丸の内",
+			"building_name": "３−７",
+			"organization_name": "松本市役所",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "丸の内",
+					"building_name": "３−７",
+					"organization_name": "松本市役所"
+				}
+			}
+		},
+		"3908611": {
+			"postcode": "3908611",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "丸の内",
+			"building_name": "４−１８",
+			"organization_name": "株式会社　テレビ信州",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "丸の内",
+					"building_name": "４−１８",
+					"organization_name": "株式会社　テレビ信州"
+				}
+			}
+		},
+		"3908610": {
+			"postcode": "3908610",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "大字島内",
+			"building_name": "３３１４",
+			"organization_name": "株式会社　エイコー",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "大字島内",
+					"building_name": "３３１４",
+					"organization_name": "株式会社　エイコー"
+				}
+			}
+		},
+		"3908605": {
+			"postcode": "3908605",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "蟻ケ崎",
+			"building_name": "１丁目１−５４",
+			"organization_name": "長野県松本蟻ケ崎高等学校",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "蟻ケ崎",
+					"building_name": "１丁目１−５４",
+					"organization_name": "長野県松本蟻ケ崎高等学校"
+				}
+			}
+		},
+		"3908603": {
+			"postcode": "3908603",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "蟻ケ崎",
+			"building_name": "３丁目８−１",
+			"organization_name": "長野県松本深志高等学校",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "蟻ケ崎",
+					"building_name": "３丁目８−１",
+					"organization_name": "長野県松本深志高等学校"
+				}
+			}
+		},
+		"3908602": {
+			"postcode": "3908602",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "美須々",
+			"building_name": "２−１",
+			"organization_name": "長野県松本美須々ケ丘高等学校",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "美須々",
+					"building_name": "２−１",
+					"organization_name": "長野県松本美須々ケ丘高等学校"
+				}
+			}
+		},
+		"3908601": {
+			"postcode": "3908601",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "渚",
+			"building_name": "１丁目７−４５",
+			"organization_name": "医療法人抱生会　丸の内病院",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "渚",
+					"building_name": "１丁目７−４５",
+					"organization_name": "医療法人抱生会　丸の内病院"
+				}
+			}
+		},
+		"3908555": {
+			"postcode": "3908555",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "南松本",
+			"building_name": "１丁目２−１６",
+			"organization_name": "松本ハイランド農協",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "南松本",
+					"building_name": "１丁目２−１６",
+					"organization_name": "松本ハイランド農協"
+				}
+			}
+		},
+		"3908550": {
+			"postcode": "3908550",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "筑摩",
+			"building_name": "１−１１−３０",
+			"organization_name": "エフエムまつもと　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "筑摩",
+					"building_name": "１−１１−３０",
+					"organization_name": "エフエムまつもと　株式会社"
+				}
+			}
+		},
+		"3908543": {
+			"postcode": "3908543",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "県",
+			"building_name": "２丁目１−１",
+			"organization_name": "長野県松本県ケ丘高等学校",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "県",
+					"building_name": "２丁目１−１",
+					"organization_name": "長野県松本県ケ丘高等学校"
+				}
+			}
+		},
+		"3908541": {
+			"postcode": "3908541",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "県",
+			"building_name": "１丁目８−１",
+			"organization_name": "ハナ信用組合　松本支店",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "県",
+					"building_name": "１丁目８−１",
+					"organization_name": "ハナ信用組合　松本支店"
+				}
+			}
+		},
+		"3908540": {
+			"postcode": "3908540",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "渚",
+			"building_name": "３丁目１０−１２",
+			"organization_name": "ＴＩＳ　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "渚",
+					"building_name": "３丁目１０−１２",
+					"organization_name": "ＴＩＳ　株式会社"
+				}
+			}
+		},
+		"3908539": {
+			"postcode": "3908539",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "大字島立",
+			"building_name": "８００",
+			"organization_name": "（株）　市民タイムス",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "大字島立",
+					"building_name": "８００",
+					"organization_name": "（株）　市民タイムス"
+				}
+			}
+		},
+		"3908535": {
+			"postcode": "3908535",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "中央",
+			"building_name": "１丁目４−２０",
+			"organization_name": "国民生活金融公庫",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "中央",
+					"building_name": "１丁目４−２０",
+					"organization_name": "国民生活金融公庫"
+				}
+			}
+		},
+		"3908533": {
+			"postcode": "3908533",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "鎌田",
+			"building_name": "１丁目１１−２２",
+			"organization_name": "トヨタカローラ南信　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "鎌田",
+					"building_name": "１丁目１１−２２",
+					"organization_name": "トヨタカローラ南信　株式会社"
+				}
+			}
+		},
+		"3908531": {
+			"postcode": "3908531",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "大字島立",
+			"building_name": "２２３７−４",
+			"organization_name": "長野県　松本筑摩高等学校",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "大字島立",
+					"building_name": "２２３７−４",
+					"organization_name": "長野県　松本筑摩高等学校"
+				}
+			}
+		},
+		"3908530": {
+			"postcode": "3908530",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "庄内",
+			"building_name": "３丁目４−３９",
+			"organization_name": "シンケン　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "庄内",
+					"building_name": "３丁目４−３９",
+					"organization_name": "シンケン　株式会社"
+				}
+			}
+		},
+		"3908525": {
+			"postcode": "3908525",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "筑摩",
+			"building_name": "４丁目１１−１",
+			"organization_name": "長野県松本工業高等学校",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "筑摩",
+					"building_name": "４丁目１１−１",
+					"organization_name": "長野県松本工業高等学校"
+				}
+			}
+		},
+		"3908523": {
+			"postcode": "3908523",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "高宮北",
+			"building_name": "３−６",
+			"organization_name": "松本日産自動車　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "高宮北",
+					"building_name": "３−６",
+					"organization_name": "松本日産自動車　株式会社"
+				}
+			}
+		},
+		"3908520": {
+			"postcode": "3908520",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "本庄",
+			"building_name": "１丁目１３−５",
+			"organization_name": "長野エフエム放送　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "本庄",
+					"building_name": "１丁目１３−５",
+					"organization_name": "長野エフエム放送　株式会社"
+				}
+			}
+		},
+		"3908518": {
+			"postcode": "3908518",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "井川城",
+			"building_name": "２丁目１番地１号",
+			"organization_name": "アルピコ交通　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "井川城",
+					"building_name": "２丁目１番地１号",
+					"organization_name": "アルピコ交通　株式会社"
+				}
+			}
+		},
+		"3908515": {
+			"postcode": "3908515",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "県",
+			"building_name": "３丁目６−１",
+			"organization_name": "松商学園高等学校",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "県",
+					"building_name": "３丁目６−１",
+					"organization_name": "松商学園高等学校"
+				}
+			}
+		},
+		"3908511": {
+			"postcode": "3908511",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "深志",
+			"building_name": "３丁目１０−３",
+			"organization_name": "社団法人　才能教育研究会",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "深志",
+					"building_name": "３丁目１０−３",
+					"organization_name": "社団法人　才能教育研究会"
+				}
+			}
+		},
+		"3908510": {
+			"postcode": "3908510",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "本庄",
+			"building_name": "２丁目５−１",
+			"organization_name": "特定医療法人　慈泉会　（財団）　相沢病院",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "本庄",
+					"building_name": "２丁目５−１",
+					"organization_name": "特定医療法人　慈泉会　（財団）　相沢病院"
+				}
+			}
+		},
+		"3908508": {
+			"postcode": "3908508",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "高宮西",
+			"building_name": "１−１",
+			"organization_name": "陸上自衛隊　松本駐屯地",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "高宮西",
+					"building_name": "１−１",
+					"organization_name": "陸上自衛隊　松本駐屯地"
+				}
+			}
+		},
+		"3908507": {
+			"postcode": "3908507",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "深志",
+			"building_name": "２丁目３−１",
+			"organization_name": "株式会社　井上",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "深志",
+					"building_name": "２丁目３−１",
+					"organization_name": "株式会社　井上"
+				}
+			}
+		},
+		"3908506": {
+			"postcode": "3908506",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "埋橋",
+			"building_name": "１丁目５−３",
+			"organization_name": "中部電力　株式会社　松本営業所",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "埋橋",
+					"building_name": "１丁目５−３",
+					"organization_name": "中部電力　株式会社　松本営業所"
+				}
+			}
+		},
+		"3908505": {
+			"postcode": "3908505",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "巾上",
+			"building_name": "９−２６",
+			"organization_name": "松本協立病院",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "巾上",
+					"building_name": "９−２６",
+					"organization_name": "松本協立病院"
+				}
+			}
+		},
+		"3908503": {
+			"postcode": "3908503",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "中央",
+			"building_name": "１丁目２３−１",
+			"organization_name": "松本商工会議所",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "中央",
+					"building_name": "１丁目２３−１",
+					"organization_name": "松本商工会議所"
+				}
+			}
+		},
+		"3908502": {
+			"postcode": "3908502",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "深志",
+			"building_name": "３丁目１０−３",
+			"organization_name": "ＮＨＫ　松本支局",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "深志",
+					"building_name": "３丁目１０−３",
+					"organization_name": "ＮＨＫ　松本支局"
+				}
+			}
+		},
+		"3908501": {
+			"postcode": "3908501",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "本庄",
+			"building_name": "１丁目５−１４",
+			"organization_name": "岡野薬品　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "本庄",
+					"building_name": "１丁目５−１４",
+					"organization_name": "岡野薬品　株式会社"
+				}
+			}
+		},
+		"3901792": {
+			"postcode": "3901792",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "梓川梓",
+			"building_name": "２２８８−３",
+			"organization_name": "松本市役所　梓川支所",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "梓川梓",
+					"building_name": "２２８８−３",
+					"organization_name": "松本市役所　梓川支所"
+				}
+			}
+		},
+		"3901703": {
+			"postcode": "3901703",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Azusagawa",
+			"building_name": "Ueno",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "梓川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3901702": {
+			"postcode": "3901702",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Azusagawa",
+			"building_name": "Azusa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "梓川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3901701": {
+			"postcode": "3901701",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Azusagawa",
+			"building_name": "Yamato",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "梓川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3901611": {
+			"postcode": "3901611",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Nagawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "奈川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3901592": {
+			"postcode": "3901592",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "安曇",
+			"building_name": "１０６１−１",
+			"organization_name": "松本市役所　安曇支所",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "安曇",
+					"building_name": "１０６１−１",
+					"organization_name": "松本市役所　安曇支所"
+				}
+			}
+		},
+		"3901520": {
+			"postcode": "3901520",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Azumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "安曇",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3901516": {
+			"postcode": "3901516",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Azumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "安曇",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3901515": {
+			"postcode": "3901515",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Azumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "安曇",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3901514": {
+			"postcode": "3901514",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Azumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "安曇",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3901513": {
+			"postcode": "3901513",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Azumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "安曇",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3901512": {
+			"postcode": "3901512",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Azumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "安曇",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3901511": {
+			"postcode": "3901511",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Azumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "安曇",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3901507": {
+			"postcode": "3901507",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Azumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "安曇",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3901506": {
+			"postcode": "3901506",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Azumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "安曇",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3901504": {
+			"postcode": "3901504",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Azumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "安曇",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3901503": {
+			"postcode": "3901503",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Azumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "安曇",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3901502": {
+			"postcode": "3901502",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Azumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "安曇",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3901501": {
+			"postcode": "3901501",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Azumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "安曇",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3901492": {
+			"postcode": "3901492",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "波田",
+			"building_name": "４４１７番地１",
+			"organization_name": "松本市役所　波田支所",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "波田",
+					"building_name": "４４１７番地１",
+					"organization_name": "松本市役所　波田支所"
+				}
+			}
+		},
+		"3901401": {
+			"postcode": "3901401",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Hata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "波田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3901394": {
+			"postcode": "3901394",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Higashichikuma-gun",
+			"ward_name": "Yamagata-mura",
+			"town_name": "",
+			"building_name": "字北野尻７９７７",
+			"organization_name": "アイシティー２１　株式会社　井上",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "東筑摩郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "東筑摩郡",
+					"ward_name": "山形村",
+					"town_name": "",
+					"building_name": "字北野尻７９７７",
+					"organization_name": "アイシティー２１　株式会社　井上"
+				}
+			}
+		},
+		"3901393": {
+			"postcode": "3901393",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Higashichikuma-gun",
+			"ward_name": "Yamagata-mura",
+			"town_name": "",
+			"building_name": "４０８２−３",
+			"organization_name": "サンリン　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "東筑摩郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "東筑摩郡",
+					"ward_name": "山形村",
+					"town_name": "",
+					"building_name": "４０８２−３",
+					"organization_name": "サンリン　株式会社"
+				}
+			}
+		},
+		"3901392": {
+			"postcode": "3901392",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Higashichikuma-gun",
+			"ward_name": "Yamagata-mura",
+			"town_name": "",
+			"building_name": "２０３０−１",
+			"organization_name": "山形村役場",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "東筑摩郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "東筑摩郡",
+					"ward_name": "山形村",
+					"town_name": "",
+					"building_name": "２０３０−１",
+					"organization_name": "山形村役場"
+				}
+			}
+		},
+		"3901301": {
+			"postcode": "3901301",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Higashichikuma-gun",
+			"ward_name": "Yamagata-mura",
+			"town_name": "Yamagatamuraichien",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "東筑摩郡",
+					"ward_name": "山形村",
+					"town_name": "山形村一円",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "東筑摩郡"
+		},
+		"3901298": {
+			"postcode": "3901298",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "大字和田",
+			"building_name": "３９６７−１０",
+			"organization_name": "東洋計器　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "大字和田",
+					"building_name": "３９６７−１０",
+					"organization_name": "東洋計器　株式会社"
+				}
+			}
+		},
+		"3901295": {
+			"postcode": "3901295",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "大字新村",
+			"building_name": "２０９５−１",
+			"organization_name": "松本大学",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "大字新村",
+					"building_name": "２０９５−１",
+					"organization_name": "松本大学"
+				}
+			}
+		},
+		"3901293": {
+			"postcode": "3901293",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "大字和田",
+			"building_name": "４０１０−１０",
+			"organization_name": "キッセイコムテック　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "大字和田",
+					"building_name": "４０１０−１０",
+					"organization_name": "キッセイコムテック　株式会社"
+				}
+			}
+		},
+		"3901243": {
+			"postcode": "3901243",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Kambayashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "神林",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3901242": {
+			"postcode": "3901242",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Wada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "和田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3901241": {
+			"postcode": "3901241",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Niimura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "新村",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3901198": {
+			"postcode": "3901198",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "大字今井",
+			"building_name": "７１１０−４５",
+			"organization_name": "株式会社　ワールドインダストリー松本技術研究所",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "大字今井",
+					"building_name": "７１１０−４５",
+					"organization_name": "株式会社　ワールドインダストリー松本技術研究所"
+				}
+			}
+		},
+		"3901197": {
+			"postcode": "3901197",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "大字今井",
+			"building_name": "６９５５",
+			"organization_name": "長野三菱ふそう自動車販売　株式会社　松本支店",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "大字今井",
+					"building_name": "６９５５",
+					"organization_name": "長野三菱ふそう自動車販売　株式会社　松本支店"
+				}
+			}
+		},
+		"3901193": {
+			"postcode": "3901193",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Higashichikuma-gun",
+			"ward_name": "Asahi-mura",
+			"town_name": "大字小野沢",
+			"building_name": "２５０",
+			"organization_name": "信濃朝日農協",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "東筑摩郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "東筑摩郡",
+					"ward_name": "朝日村",
+					"town_name": "大字小野沢",
+					"building_name": "２５０",
+					"organization_name": "信濃朝日農協"
+				}
+			}
+		},
+		"3901189": {
+			"postcode": "3901189",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "大字今井",
+			"building_name": "７１５５−５５",
+			"organization_name": "エヌシーシー　株式会社　松本支店",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "大字今井",
+					"building_name": "７１５５−５５",
+					"organization_name": "エヌシーシー　株式会社　松本支店"
+				}
+			}
+		},
+		"3901188": {
+			"postcode": "3901188",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Higashichikuma-gun",
+			"ward_name": "Asahi-mura",
+			"town_name": "大字小野沢",
+			"building_name": "２９６−５",
+			"organization_name": "朝日村役場",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "東筑摩郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "東筑摩郡",
+					"ward_name": "朝日村",
+					"town_name": "大字小野沢",
+					"building_name": "２９６−５",
+					"organization_name": "朝日村役場"
+				}
+			}
+		},
+		"3901187": {
+			"postcode": "3901187",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "大字今井",
+			"building_name": "７２５０",
+			"organization_name": "株式会社　エフケーケー",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "大字今井",
+					"building_name": "７２５０",
+					"organization_name": "株式会社　エフケーケー"
+				}
+			}
+		},
+		"3901186": {
+			"postcode": "3901186",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "大字今井",
+			"building_name": "松本道７１１０−４８",
+			"organization_name": "株式会社　マルイチ産商　松本支店",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "大字今井",
+					"building_name": "松本道７１１０−４８",
+					"organization_name": "株式会社　マルイチ産商　松本支店"
+				}
+			}
+		},
+		"3901185": {
+			"postcode": "3901185",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "大字今井",
+			"building_name": "７１１０−８０",
+			"organization_name": "松築　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "大字今井",
+					"building_name": "７１１０−８０",
+					"organization_name": "松築　株式会社"
+				}
+			}
+		},
+		"3901183": {
+			"postcode": "3901183",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "大字今井",
+			"building_name": "７１６０",
+			"organization_name": "片倉機器工業　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "大字今井",
+					"building_name": "７１６０",
+					"organization_name": "片倉機器工業　株式会社"
+				}
+			}
+		},
+		"3901182": {
+			"postcode": "3901182",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "大字今井",
+			"building_name": "１５３５",
+			"organization_name": "松本養護学校",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "大字今井",
+					"building_name": "１５３５",
+					"organization_name": "松本養護学校"
+				}
+			}
+		},
+		"3901181": {
+			"postcode": "3901181",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "大字今井",
+			"building_name": "７１５５−２８",
+			"organization_name": "株式会社　アップルランド",
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "大字今井",
+					"building_name": "７１５５−２８",
+					"organization_name": "株式会社　アップルランド"
+				}
+			}
+		},
+		"3901132": {
+			"postcode": "3901132",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Kukohigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "空港東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3901131": {
+			"postcode": "3901131",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Imai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "今井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3901104": {
+			"postcode": "3901104",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Higashichikuma-gun",
+			"ward_name": "Asahi-mura",
+			"town_name": "Komi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "東筑摩郡",
+					"ward_name": "朝日村",
+					"town_name": "古見",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "東筑摩郡"
+		},
+		"3901103": {
+			"postcode": "3901103",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Higashichikuma-gun",
+			"ward_name": "Asahi-mura",
+			"town_name": "Hario",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "東筑摩郡",
+					"ward_name": "朝日村",
+					"town_name": "針尾",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "東筑摩郡"
+		},
+		"3901102": {
+			"postcode": "3901102",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Higashichikuma-gun",
+			"ward_name": "Asahi-mura",
+			"town_name": "Onozawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "東筑摩郡",
+					"ward_name": "朝日村",
+					"town_name": "小野沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "東筑摩郡"
+		},
+		"3901101": {
+			"postcode": "3901101",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Higashichikuma-gun",
+			"ward_name": "Asahi-mura",
+			"town_name": "Nishiseba",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "東筑摩郡",
+					"ward_name": "朝日村",
+					"town_name": "西洗馬",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "東筑摩郡"
+		},
+		"3901100": {
+			"postcode": "3901100",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Higashichikuma-gun",
+			"ward_name": "Asahi-mura",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "東筑摩郡",
+					"ward_name": "朝日村",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "東筑摩郡"
+		},
+		"3900877": {
+			"postcode": "3900877",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Sawamura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "沢村",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900876": {
+			"postcode": "3900876",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Kaichi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "開智",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900875": {
+			"postcode": "3900875",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Josei",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "城西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900874": {
+			"postcode": "3900874",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Ote",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "大手",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900873": {
+			"postcode": "3900873",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Marunochi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "丸の内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900872": {
+			"postcode": "3900872",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Kitafukashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "北深志",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900871": {
+			"postcode": "3900871",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Kiri",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "桐",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900867": {
+			"postcode": "3900867",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Arigasakidai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "蟻ケ崎台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900866": {
+			"postcode": "3900866",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Joyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "城山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900865": {
+			"postcode": "3900865",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Shimbashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "新橋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900864": {
+			"postcode": "3900864",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Miyabuchihommura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "宮渕本村",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900863": {
+			"postcode": "3900863",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Shiraita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "白板",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900862": {
+			"postcode": "3900862",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Miyabuchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "宮渕",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900861": {
+			"postcode": "3900861",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Arigasaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "蟻ケ崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900852": {
+			"postcode": "3900852",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Shimadachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "島立",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900851": {
+			"postcode": "3900851",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Shimauchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "島内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900848": {
+			"postcode": "3900848",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Ryoshima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "両島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900847": {
+			"postcode": "3900847",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Sasabe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "笹部",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900846": {
+			"postcode": "3900846",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Minamihara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "南原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900845": {
+			"postcode": "3900845",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Ishishiba",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "石芝",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900844": {
+			"postcode": "3900844",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Takamiya",
+			"building_name": "Nishi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "高宮西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900843": {
+			"postcode": "3900843",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Takamiya",
+			"building_name": "Minami",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "高宮南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900842": {
+			"postcode": "3900842",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Soyano",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "征矢野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900841": {
+			"postcode": "3900841",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Nagisa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "渚",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900837": {
+			"postcode": "3900837",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Kamada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "鎌田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900836": {
+			"postcode": "3900836",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Takamiya",
+			"building_name": "Kita",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "高宮北",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900835": {
+			"postcode": "3900835",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Takamiya",
+			"building_name": "Higashi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "高宮東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900834": {
+			"postcode": "3900834",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Takamiya",
+			"building_name": "Naka",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "高宮中",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900833": {
+			"postcode": "3900833",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Futaba",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "双葉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900832": {
+			"postcode": "3900832",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Minamimatsumoto",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "南松本",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900831": {
+			"postcode": "3900831",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Igawajo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "井川城",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900828": {
+			"postcode": "3900828",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Shonai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "庄内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900827": {
+			"postcode": "3900827",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Idegawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "出川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900826": {
+			"postcode": "3900826",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Idegawamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "出川町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900825": {
+			"postcode": "3900825",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Namiyanagi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "並柳",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900824": {
+			"postcode": "3900824",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Nakayamadai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "中山台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900823": {
+			"postcode": "3900823",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Nakayama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "中山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900822": {
+			"postcode": "3900822",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Kanda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "神田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900821": {
+			"postcode": "3900821",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Tsukama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "筑摩",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900817": {
+			"postcode": "3900817",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Habaue",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "巾上",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900816": {
+			"postcode": "3900816",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Nakajo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "中条",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900815": {
+			"postcode": "3900815",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Fukashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "深志",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900814": {
+			"postcode": "3900814",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Honjo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "本庄",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900813": {
+			"postcode": "3900813",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Uzuhashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "埋橋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900812": {
+			"postcode": "3900812",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Agata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "県",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900811": {
+			"postcode": "3900811",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Chuo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "中央",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900807": {
+			"postcode": "3900807",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Joto",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "城東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900806": {
+			"postcode": "3900806",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Metoba",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "女鳥羽",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900805": {
+			"postcode": "3900805",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Shimizu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "清水",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900804": {
+			"postcode": "3900804",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Yokota",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "横田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900803": {
+			"postcode": "3900803",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Motomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "元町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900802": {
+			"postcode": "3900802",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Asahi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "旭",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900801": {
+			"postcode": "3900801",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Misuzu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "美須々",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900317": {
+			"postcode": "3900317",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Hora",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "洞",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900316": {
+			"postcode": "3900316",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Hara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900315": {
+			"postcode": "3900315",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Okadamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "岡田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900314": {
+			"postcode": "3900314",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Okadaibuka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "岡田伊深",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900313": {
+			"postcode": "3900313",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Okadashimokada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "岡田下岡田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900312": {
+			"postcode": "3900312",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Okadamatsuoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "岡田松岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900311": {
+			"postcode": "3900311",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Mizukuma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "水汲",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900306": {
+			"postcode": "3900306",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Minamiasama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "南浅間",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900305": {
+			"postcode": "3900305",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Soza",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "惣社",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900304": {
+			"postcode": "3900304",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Omura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "大村",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900303": {
+			"postcode": "3900303",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Asamaonsen",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "浅間温泉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900302": {
+			"postcode": "3900302",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Misayama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "三才山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900301": {
+			"postcode": "3900301",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Shinagura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "稲倉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900222": {
+			"postcode": "3900222",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Iriyamabe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "入山辺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		},
+		"3900221": {
+			"postcode": "3900221",
+			"prefecture_name": "Nagano-ken",
+			"city_name": "Matsumoto-shi",
+			"ward_name": "",
+			"town_name": "Satoyamabe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長野県",
+					"city_name": "松本市",
+					"ward_name": "",
+					"town_name": "里山辺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "長野県",
+			"city_code": "松本市"
+		}
+	}
+}

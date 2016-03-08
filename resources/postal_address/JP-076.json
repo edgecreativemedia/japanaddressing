@@ -1,0 +1,1701 @@
+{
+	"country_code": "JP",
+	"parent_id": "076",
+	"locale": "ja-Latn",
+	"address": {
+		"0768765": {
+			"postcode": "0768765",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "住吉町",
+			"building_name": "１番３０号",
+			"organization_name": "社会福祉法人　北海道社会事業協会　富良野病院",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "住吉町",
+					"building_name": "１番３０号",
+					"organization_name": "社会福祉法人　北海道社会事業協会　富良野病院"
+				}
+			}
+		},
+		"0768666": {
+			"postcode": "0768666",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "朝日町",
+			"building_name": "３番１号",
+			"organization_name": "ふらの農業協同組合",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "朝日町",
+					"building_name": "３番１号",
+					"organization_name": "ふらの農業協同組合"
+				}
+			}
+		},
+		"0768609": {
+			"postcode": "0768609",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "緑町",
+			"building_name": "９番１号",
+			"organization_name": "旭川公共職業安定所　富良野出張所",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "緑町",
+					"building_name": "９番１号",
+					"organization_name": "旭川公共職業安定所　富良野出張所"
+				}
+			}
+		},
+		"0768555": {
+			"postcode": "0768555",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "弥生町",
+			"building_name": "１番１号",
+			"organization_name": "富良野市役所",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "弥生町",
+					"building_name": "１番１号",
+					"organization_name": "富良野市役所"
+				}
+			}
+		},
+		"0768511": {
+			"postcode": "0768511",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "字中御料",
+			"building_name": "",
+			"organization_name": "株式会社　プリンスホテル　新富良野プリンスホテル",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "字中御料",
+					"building_name": "",
+					"organization_name": "株式会社　プリンスホテル　新富良野プリンスホテル"
+				}
+			}
+		},
+		"0760204": {
+			"postcode": "0760204",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Tairazawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "平沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760203": {
+			"postcode": "0760203",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Roseppu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "老節布",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760202": {
+			"postcode": "0760202",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Higashiyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "東山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760201": {
+			"postcode": "0760201",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Nishitappu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "西達布",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760184": {
+			"postcode": "0760184",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Yahataoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "八幡丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760183": {
+			"postcode": "0760183",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Tomiokakosei",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "富丘更生",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760182": {
+			"postcode": "0760182",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Nishitomioka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "西富丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760181": {
+			"postcode": "0760181",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Higashitomioka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "東富丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760176": {
+			"postcode": "0760176",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Nakafurebetsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "中布礼別",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760175": {
+			"postcode": "0760175",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Kitafurebetsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "北布礼別",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760174": {
+			"postcode": "0760174",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Minamifurebetsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "南布礼別",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760173": {
+			"postcode": "0760173",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Nishifurebetsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "西布礼別",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760172": {
+			"postcode": "0760172",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Higashifurebetsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "東布礼別",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760171": {
+			"postcode": "0760171",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Furebetsu",
+			"building_name": "Shigaichi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "布礼別",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760165": {
+			"postcode": "0760165",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Kitarokugo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "北麓郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760164": {
+			"postcode": "0760164",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Minamirokugo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "南麓郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760163": {
+			"postcode": "0760163",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Nishirokugo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "西麓郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760162": {
+			"postcode": "0760162",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Higashirokugo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "東麓郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760161": {
+			"postcode": "0760161",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Rokugo",
+			"building_name": "Shigaichi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "麓郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760081": {
+			"postcode": "0760081",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ashibetsu-shi",
+			"ward_name": "",
+			"town_name": "Izumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "芦別市",
+					"ward_name": "",
+					"town_name": "泉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "芦別市"
+		},
+		"0760059": {
+			"postcode": "0760059",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Kitaasamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "北麻町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760058": {
+			"postcode": "0760058",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Shinkocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "新光町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760057": {
+			"postcode": "0760057",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Sumiyoshicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "住吉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760056": {
+			"postcode": "0760056",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Mizuhocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "瑞穂町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760055": {
+			"postcode": "0760055",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Nishiasamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "西麻町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760054": {
+			"postcode": "0760054",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Kasugacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "春日町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760053": {
+			"postcode": "0760053",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Higashimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "東町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760052": {
+			"postcode": "0760052",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Minamiasamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "南麻町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760051": {
+			"postcode": "0760051",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Higashiasamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "東麻町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760050": {
+			"postcode": "0760050",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Shinonomecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "東雲町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760048": {
+			"postcode": "0760048",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Shimizuyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "清水山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760047": {
+			"postcode": "0760047",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Nishigakudenniku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "西学田二区",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760046": {
+			"postcode": "0760046",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Hokutocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "北斗町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760045": {
+			"postcode": "0760045",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Higashigakudenniku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "東学田二区",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760044": {
+			"postcode": "0760044",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Kitaonuma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "北大沼",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760043": {
+			"postcode": "0760043",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Minamionuma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "南大沼",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760042": {
+			"postcode": "0760042",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Nishitorinuma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "西鳥沼",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760041": {
+			"postcode": "0760041",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Higashitorinuma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "東鳥沼",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760039": {
+			"postcode": "0760039",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Shinanosawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "信濃沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760038": {
+			"postcode": "0760038",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Katsuragicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "桂木町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760037": {
+			"postcode": "0760037",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Nishimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "西町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760036": {
+			"postcode": "0760036",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Shimanoshita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "島ノ下",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760035": {
+			"postcode": "0760035",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Gakudensanku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "学田三区",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760034": {
+			"postcode": "0760034",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Kitanominecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "北の峰町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760033": {
+			"postcode": "0760033",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Shintomicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "新富町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760032": {
+			"postcode": "0760032",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Wakamatsucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "若松町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760031": {
+			"postcode": "0760031",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Motomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760028": {
+			"postcode": "0760028",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Nishikimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "錦町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760027": {
+			"postcode": "0760027",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Hanazonocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "花園町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760026": {
+			"postcode": "0760026",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Asahimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "朝日町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760025": {
+			"postcode": "0760025",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Hinodemachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "日の出町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760024": {
+			"postcode": "0760024",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Saiwaicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "幸町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760023": {
+			"postcode": "0760023",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Sakaemachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "栄町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760022": {
+			"postcode": "0760022",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Wakabacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "若葉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760021": {
+			"postcode": "0760021",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Midorimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "緑町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760018": {
+			"postcode": "0760018",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Yayoicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "弥生町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760017": {
+			"postcode": "0760017",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Shimogoryo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "下御料",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760016": {
+			"postcode": "0760016",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Nakagoryo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "中御料",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760015": {
+			"postcode": "0760015",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Kamigoryo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "上御料",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760014": {
+			"postcode": "0760014",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Kamigoku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "上五区",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760013": {
+			"postcode": "0760013",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Nakagoku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "中五区",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760012": {
+			"postcode": "0760012",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Shimogoku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "下五区",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760011": {
+			"postcode": "0760011",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Suehirocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "末広町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760008": {
+			"postcode": "0760008",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Ogimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "扇町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760007": {
+			"postcode": "0760007",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Minamimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "南町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760006": {
+			"postcode": "0760006",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Nishiogiyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "西扇山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760005": {
+			"postcode": "0760005",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Nunobeichi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "布部一",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760004": {
+			"postcode": "0760004",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Nunobe",
+			"building_name": "Shigaichi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "布部",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760003": {
+			"postcode": "0760003",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Nunobe",
+			"building_name": "Ishiwata",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "布部",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760002": {
+			"postcode": "0760002",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Minamiogiyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "南扇山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760001": {
+			"postcode": "0760001",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "Kitaogiyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "北扇山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		},
+		"0760000": {
+			"postcode": "0760000",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furano-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "富良野市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "富良野市"
+		}
+	}
+}

@@ -1,0 +1,623 @@
+{
+	"country_code": "JP",
+	"parent_id": "766",
+	"locale": "ja-Latn",
+	"address": {
+		"7668502": {
+			"postcode": "7668502",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Nakatado-gun",
+			"ward_name": "Kotohira-cho",
+			"town_name": "榎井",
+			"building_name": "８１７−１０",
+			"organization_name": "琴平町役場",
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "仲多度郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "仲多度郡",
+					"ward_name": "琴平町",
+					"town_name": "榎井",
+					"building_name": "８１７−１０",
+					"organization_name": "琴平町役場"
+				}
+			}
+		},
+		"7668501": {
+			"postcode": "7668501",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Nakatado-gun",
+			"ward_name": "Kotohira-cho",
+			"town_name": "",
+			"building_name": "８９２−１",
+			"organization_name": "金刀比羅宮",
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "仲多度郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "仲多度郡",
+					"ward_name": "琴平町",
+					"town_name": "",
+					"building_name": "８９２−１",
+					"organization_name": "金刀比羅宮"
+				}
+			}
+		},
+		"7660204": {
+			"postcode": "7660204",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Nakatado-gun",
+			"ward_name": "Manno-cho",
+			"town_name": "Katsura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "仲多度郡",
+					"ward_name": "まんのう町",
+					"town_name": "勝浦",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "仲多度郡"
+		},
+		"7660203": {
+			"postcode": "7660203",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Nakatado-gun",
+			"ward_name": "Manno-cho",
+			"town_name": "Kawahigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "仲多度郡",
+					"ward_name": "まんのう町",
+					"town_name": "川東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "仲多度郡"
+		},
+		"7660202": {
+			"postcode": "7660202",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Nakatado-gun",
+			"ward_name": "Manno-cho",
+			"town_name": "Nakato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "仲多度郡",
+					"ward_name": "まんのう町",
+					"town_name": "中通",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "仲多度郡"
+		},
+		"7660201": {
+			"postcode": "7660201",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Nakatado-gun",
+			"ward_name": "Manno-cho",
+			"town_name": "Soda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "仲多度郡",
+					"ward_name": "まんのう町",
+					"town_name": "造田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "仲多度郡"
+		},
+		"7660027": {
+			"postcode": "7660027",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Nakatado-gun",
+			"ward_name": "Manno-cho",
+			"town_name": "Gojo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "仲多度郡",
+					"ward_name": "まんのう町",
+					"town_name": "五條",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "仲多度郡"
+		},
+		"7660026": {
+			"postcode": "7660026",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Nakatado-gun",
+			"ward_name": "Manno-cho",
+			"town_name": "Kishinoe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "仲多度郡",
+					"ward_name": "まんのう町",
+					"town_name": "岸上",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "仲多度郡"
+		},
+		"7660025": {
+			"postcode": "7660025",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Nakatado-gun",
+			"ward_name": "Manno-cho",
+			"town_name": "Mano",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "仲多度郡",
+					"ward_name": "まんのう町",
+					"town_name": "真野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "仲多度郡"
+		},
+		"7660024": {
+			"postcode": "7660024",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Nakatado-gun",
+			"ward_name": "Manno-cho",
+			"town_name": "Kanno",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "仲多度郡",
+					"ward_name": "まんのう町",
+					"town_name": "神野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "仲多度郡"
+		},
+		"7660023": {
+			"postcode": "7660023",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Nakatado-gun",
+			"ward_name": "Manno-cho",
+			"town_name": "Yoshino",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "仲多度郡",
+					"ward_name": "まんのう町",
+					"town_name": "吉野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "仲多度郡"
+		},
+		"7660022": {
+			"postcode": "7660022",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Nakatado-gun",
+			"ward_name": "Manno-cho",
+			"town_name": "Yoshinoshimo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "仲多度郡",
+					"ward_name": "まんのう町",
+					"town_name": "吉野下",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "仲多度郡"
+		},
+		"7660021": {
+			"postcode": "7660021",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Nakatado-gun",
+			"ward_name": "Manno-cho",
+			"town_name": "Shijo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "仲多度郡",
+					"ward_name": "まんのう町",
+					"town_name": "四條",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "仲多度郡"
+		},
+		"7660017": {
+			"postcode": "7660017",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Nakatado-gun",
+			"ward_name": "Manno-cho",
+			"town_name": "Sumishonishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "仲多度郡",
+					"ward_name": "まんのう町",
+					"town_name": "炭所西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "仲多度郡"
+		},
+		"7660016": {
+			"postcode": "7660016",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Nakatado-gun",
+			"ward_name": "Manno-cho",
+			"town_name": "Sumishohigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "仲多度郡",
+					"ward_name": "まんのう町",
+					"town_name": "炭所東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "仲多度郡"
+		},
+		"7660015": {
+			"postcode": "7660015",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Nakatado-gun",
+			"ward_name": "Manno-cho",
+			"town_name": "Nagao",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "仲多度郡",
+					"ward_name": "まんのう町",
+					"town_name": "長尾",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "仲多度郡"
+		},
+		"7660014": {
+			"postcode": "7660014",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Nakatado-gun",
+			"ward_name": "Manno-cho",
+			"town_name": "Hazama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "仲多度郡",
+					"ward_name": "まんのう町",
+					"town_name": "羽間",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "仲多度郡"
+		},
+		"7660013": {
+			"postcode": "7660013",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Nakatado-gun",
+			"ward_name": "Manno-cho",
+			"town_name": "Higashitakashino",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "仲多度郡",
+					"ward_name": "まんのう町",
+					"town_name": "東高篠",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "仲多度郡"
+		},
+		"7660012": {
+			"postcode": "7660012",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Nakatado-gun",
+			"ward_name": "Manno-cho",
+			"town_name": "Nishitakashino",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "仲多度郡",
+					"ward_name": "まんのう町",
+					"town_name": "西高篠",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "仲多度郡"
+		},
+		"7660011": {
+			"postcode": "7660011",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Nakatado-gun",
+			"ward_name": "Manno-cho",
+			"town_name": "Kumon",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "仲多度郡",
+					"ward_name": "まんのう町",
+					"town_name": "公文",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "仲多度郡"
+		},
+		"7660007": {
+			"postcode": "7660007",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Nakatado-gun",
+			"ward_name": "Kotohira-cho",
+			"town_name": "Shimokushinashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "仲多度郡",
+					"ward_name": "琴平町",
+					"town_name": "下櫛梨",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "仲多度郡"
+		},
+		"7660006": {
+			"postcode": "7660006",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Nakatado-gun",
+			"ward_name": "Kotohira-cho",
+			"town_name": "Kamikushinashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "仲多度郡",
+					"ward_name": "琴平町",
+					"town_name": "上櫛梨",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "仲多度郡"
+		},
+		"7660005": {
+			"postcode": "7660005",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Nakatado-gun",
+			"ward_name": "Kotohira-cho",
+			"town_name": "Noda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "仲多度郡",
+					"ward_name": "琴平町",
+					"town_name": "苗田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "仲多度郡"
+		},
+		"7660004": {
+			"postcode": "7660004",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Nakatado-gun",
+			"ward_name": "Kotohira-cho",
+			"town_name": "Enai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "仲多度郡",
+					"ward_name": "琴平町",
+					"town_name": "榎井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "仲多度郡"
+		},
+		"7660003": {
+			"postcode": "7660003",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Nakatado-gun",
+			"ward_name": "Kotohira-cho",
+			"town_name": "Gojo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "仲多度郡",
+					"ward_name": "琴平町",
+					"town_name": "五條",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "仲多度郡"
+		},
+		"7660002": {
+			"postcode": "7660002",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Nakatado-gun",
+			"ward_name": "Kotohira-cho",
+			"town_name": "Kotohiracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "仲多度郡",
+					"ward_name": "琴平町",
+					"town_name": "琴平町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "仲多度郡"
+		},
+		"7660001": {
+			"postcode": "7660001",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Nakatado-gun",
+			"ward_name": "Kotohira-cho",
+			"town_name": "Kotohiracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "仲多度郡",
+					"ward_name": "琴平町",
+					"town_name": "琴平町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "仲多度郡"
+		},
+		"7660000": {
+			"postcode": "7660000",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Nakatado-gun",
+			"ward_name": "Kotohira-cho",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "仲多度郡",
+					"ward_name": "琴平町",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "仲多度郡"
+		}
+	}
+}

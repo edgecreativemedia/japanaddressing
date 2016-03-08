@@ -1,0 +1,601 @@
+{
+	"country_code": "JP",
+	"parent_id": "318",
+	"locale": "ja-Latn",
+	"address": {
+		"3188511": {
+			"postcode": "3188511",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Takahagi-shi",
+			"ward_name": "",
+			"town_name": "本町",
+			"building_name": "１丁目１００番１号",
+			"organization_name": "高萩市役所",
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "高萩市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "高萩市",
+					"ward_name": "",
+					"town_name": "本町",
+					"building_name": "１丁目１００番１号",
+					"organization_name": "高萩市役所"
+				}
+			}
+		},
+		"3188501": {
+			"postcode": "3188501",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Takahagi-shi",
+			"ward_name": "",
+			"town_name": "赤浜",
+			"building_name": "１６０番地の１",
+			"organization_name": "東部大建工業　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "高萩市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "高萩市",
+					"ward_name": "",
+					"town_name": "赤浜",
+					"building_name": "１６０番地の１",
+					"organization_name": "東部大建工業　株式会社"
+				}
+			}
+		},
+		"3180106": {
+			"postcode": "3180106",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Takahagi-shi",
+			"ward_name": "",
+			"town_name": "Shimokimida",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "高萩市",
+					"ward_name": "",
+					"town_name": "下君田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "高萩市"
+		},
+		"3180105": {
+			"postcode": "3180105",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Takahagi-shi",
+			"ward_name": "",
+			"town_name": "Kamikimida",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "高萩市",
+					"ward_name": "",
+					"town_name": "上君田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "高萩市"
+		},
+		"3180104": {
+			"postcode": "3180104",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Takahagi-shi",
+			"ward_name": "",
+			"town_name": "Nakadogawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "高萩市",
+					"ward_name": "",
+					"town_name": "中戸川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "高萩市"
+		},
+		"3180103": {
+			"postcode": "3180103",
+			"prefecture_name": "Takahagi-shi",
+			"city_name": "Ono",
+			"ward_name": "",
+			"town_name": null,
+			"building_name": null,
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "高萩市",
+					"ward_name": "",
+					"town_name": "大能\",IBARAKI KEN\"",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "高萩市"
+		},
+		"3180102": {
+			"postcode": "3180102",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Takahagi-shi",
+			"ward_name": "",
+			"town_name": "Wakaguri",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "高萩市",
+					"ward_name": "",
+					"town_name": "若栗",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "高萩市"
+		},
+		"3180101": {
+			"postcode": "3180101",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Takahagi-shi",
+			"ward_name": "",
+			"town_name": "Yokokawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "高萩市",
+					"ward_name": "",
+					"town_name": "横川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "高萩市"
+		},
+		"3180034": {
+			"postcode": "3180034",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Takahagi-shi",
+			"ward_name": "",
+			"town_name": "Takahagi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "高萩市",
+					"ward_name": "",
+					"town_name": "高萩",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "高萩市"
+		},
+		"3180033": {
+			"postcode": "3180033",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Takahagi-shi",
+			"ward_name": "",
+			"town_name": "Honcho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "高萩市",
+					"ward_name": "",
+					"town_name": "本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "高萩市"
+		},
+		"3180032": {
+			"postcode": "3180032",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Takahagi-shi",
+			"ward_name": "",
+			"town_name": "Yamatocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "高萩市",
+					"ward_name": "",
+					"town_name": "大和町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "高萩市"
+		},
+		"3180031": {
+			"postcode": "3180031",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Takahagi-shi",
+			"ward_name": "",
+			"town_name": "Kasugacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "高萩市",
+					"ward_name": "",
+					"town_name": "春日町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "高萩市"
+		},
+		"3180025": {
+			"postcode": "3180025",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Takahagi-shi",
+			"ward_name": "",
+			"town_name": "Fukudaira",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "高萩市",
+					"ward_name": "",
+					"town_name": "福平",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "高萩市"
+		},
+		"3180024": {
+			"postcode": "3180024",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Takahagi-shi",
+			"ward_name": "",
+			"town_name": "Akiyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "高萩市",
+					"ward_name": "",
+					"town_name": "秋山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "高萩市"
+		},
+		"3180023": {
+			"postcode": "3180023",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Takahagi-shi",
+			"ward_name": "",
+			"town_name": "Shimana",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "高萩市",
+					"ward_name": "",
+					"town_name": "島名",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "高萩市"
+		},
+		"3180022": {
+			"postcode": "3180022",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Takahagi-shi",
+			"ward_name": "",
+			"town_name": "Ishitaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "高萩市",
+					"ward_name": "",
+					"town_name": "石滝",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "高萩市"
+		},
+		"3180021": {
+			"postcode": "3180021",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Takahagi-shi",
+			"ward_name": "",
+			"town_name": "Arakawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "高萩市",
+					"ward_name": "",
+					"town_name": "安良川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "高萩市"
+		},
+		"3180014": {
+			"postcode": "3180014",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Takahagi-shi",
+			"ward_name": "",
+			"town_name": "Higashihoncho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "高萩市",
+					"ward_name": "",
+					"town_name": "東本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "高萩市"
+		},
+		"3180013": {
+			"postcode": "3180013",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Takahagi-shi",
+			"ward_name": "",
+			"town_name": "Takahamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "高萩市",
+					"ward_name": "",
+					"town_name": "高浜町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "高萩市"
+		},
+		"3180012": {
+			"postcode": "3180012",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Takahagi-shi",
+			"ward_name": "",
+			"town_name": "Ariakecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "高萩市",
+					"ward_name": "",
+					"town_name": "有明町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "高萩市"
+		},
+		"3180011": {
+			"postcode": "3180011",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Takahagi-shi",
+			"ward_name": "",
+			"town_name": "Hizencho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "高萩市",
+					"ward_name": "",
+					"town_name": "肥前町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "高萩市"
+		},
+		"3180005": {
+			"postcode": "3180005",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Takahagi-shi",
+			"ward_name": "",
+			"town_name": "Bokai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "高萩市",
+					"ward_name": "",
+					"town_name": "望海",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "高萩市"
+		},
+		"3180004": {
+			"postcode": "3180004",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Takahagi-shi",
+			"ward_name": "",
+			"town_name": "Kamitezuna",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "高萩市",
+					"ward_name": "",
+					"town_name": "上手綱",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "高萩市"
+		},
+		"3180003": {
+			"postcode": "3180003",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Takahagi-shi",
+			"ward_name": "",
+			"town_name": "Shimotezuna",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "高萩市",
+					"ward_name": "",
+					"town_name": "下手綱",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "高萩市"
+		},
+		"3180002": {
+			"postcode": "3180002",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Takahagi-shi",
+			"ward_name": "",
+			"town_name": "Takado",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "高萩市",
+					"ward_name": "",
+					"town_name": "高戸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "高萩市"
+		},
+		"3180001": {
+			"postcode": "3180001",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Takahagi-shi",
+			"ward_name": "",
+			"town_name": "Akahama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "高萩市",
+					"ward_name": "",
+					"town_name": "赤浜",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "高萩市"
+		},
+		"3180000": {
+			"postcode": "3180000",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Takahagi-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "高萩市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "高萩市"
+		}
+	}
+}

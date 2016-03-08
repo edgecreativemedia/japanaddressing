@@ -1,0 +1,645 @@
+{
+	"country_code": "JP",
+	"parent_id": "589",
+	"locale": "ja-Latn",
+	"address": {
+		"5898585": {
+			"postcode": "5898585",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osakasayama-shi",
+			"ward_name": "",
+			"town_name": "今熊",
+			"building_name": "２丁目１８２３",
+			"organization_name": "帝塚山学院大学",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪狭山市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪狭山市",
+					"ward_name": "",
+					"town_name": "今熊",
+					"building_name": "２丁目１８２３",
+					"organization_name": "帝塚山学院大学"
+				}
+			}
+		},
+		"5898511": {
+			"postcode": "5898511",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osakasayama-shi",
+			"ward_name": "",
+			"town_name": "大野東",
+			"building_name": "３７７−２",
+			"organization_name": "近畿大学医学部付属病院",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪狭山市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪狭山市",
+					"ward_name": "",
+					"town_name": "大野東",
+					"building_name": "３７７−２",
+					"organization_name": "近畿大学医学部付属病院"
+				}
+			}
+		},
+		"5898502": {
+			"postcode": "5898502",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osakasayama-shi",
+			"ward_name": "",
+			"town_name": "岩室",
+			"building_name": "２丁目１８０",
+			"organization_name": "象印チェンブロック　株式会社",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪狭山市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪狭山市",
+					"ward_name": "",
+					"town_name": "岩室",
+					"building_name": "２丁目１８０",
+					"organization_name": "象印チェンブロック　株式会社"
+				}
+			}
+		},
+		"5898501": {
+			"postcode": "5898501",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osakasayama-shi",
+			"ward_name": "",
+			"town_name": "狭山",
+			"building_name": "１丁目２３８４−１",
+			"organization_name": "大阪狭山市役所",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪狭山市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪狭山市",
+					"ward_name": "",
+					"town_name": "狭山",
+					"building_name": "１丁目２３８４−１",
+					"organization_name": "大阪狭山市役所"
+				}
+			}
+		},
+		"5890036": {
+			"postcode": "5890036",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osakasayama-shi",
+			"ward_name": "",
+			"town_name": "Yamamotohigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪狭山市",
+					"ward_name": "",
+					"town_name": "山本東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪狭山市"
+		},
+		"5890035": {
+			"postcode": "5890035",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osakasayama-shi",
+			"ward_name": "",
+			"town_name": "Yamamotokita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪狭山市",
+					"ward_name": "",
+					"town_name": "山本北",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪狭山市"
+		},
+		"5890034": {
+			"postcode": "5890034",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osakasayama-shi",
+			"ward_name": "",
+			"town_name": "Yamamotonaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪狭山市",
+					"ward_name": "",
+					"town_name": "山本中",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪狭山市"
+		},
+		"5890033": {
+			"postcode": "5890033",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osakasayama-shi",
+			"ward_name": "",
+			"town_name": "Yamamotominami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪狭山市",
+					"ward_name": "",
+					"town_name": "山本南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪狭山市"
+		},
+		"5890032": {
+			"postcode": "5890032",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osakasayama-shi",
+			"ward_name": "",
+			"town_name": "Iwamuro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪狭山市",
+					"ward_name": "",
+					"town_name": "岩室",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪狭山市"
+		},
+		"5890031": {
+			"postcode": "5890031",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osakasayama-shi",
+			"ward_name": "",
+			"town_name": "Ikenohara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪狭山市",
+					"ward_name": "",
+					"town_name": "池之原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪狭山市"
+		},
+		"5890023": {
+			"postcode": "5890023",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osakasayama-shi",
+			"ward_name": "",
+			"town_name": "Onodai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪狭山市",
+					"ward_name": "",
+					"town_name": "大野台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪狭山市"
+		},
+		"5890022": {
+			"postcode": "5890022",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osakasayama-shi",
+			"ward_name": "",
+			"town_name": "Nishiyamadai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪狭山市",
+					"ward_name": "",
+					"town_name": "西山台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪狭山市"
+		},
+		"5890021": {
+			"postcode": "5890021",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osakasayama-shi",
+			"ward_name": "",
+			"town_name": "Imakuma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪狭山市",
+					"ward_name": "",
+					"town_name": "今熊",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪狭山市"
+		},
+		"5890016": {
+			"postcode": "5890016",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osakasayama-shi",
+			"ward_name": "",
+			"town_name": "Ononishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪狭山市",
+					"ward_name": "",
+					"town_name": "大野西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪狭山市"
+		},
+		"5890015": {
+			"postcode": "5890015",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osakasayama-shi",
+			"ward_name": "",
+			"town_name": "Ononaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪狭山市",
+					"ward_name": "",
+					"town_name": "大野中",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪狭山市"
+		},
+		"5890014": {
+			"postcode": "5890014",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osakasayama-shi",
+			"ward_name": "",
+			"town_name": "Onohigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪狭山市",
+					"ward_name": "",
+					"town_name": "大野東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪狭山市"
+		},
+		"5890013": {
+			"postcode": "5890013",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osakasayama-shi",
+			"ward_name": "",
+			"town_name": "Kuminoki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪狭山市",
+					"ward_name": "",
+					"town_name": "茱萸木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪狭山市"
+		},
+		"5890012": {
+			"postcode": "5890012",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osakasayama-shi",
+			"ward_name": "",
+			"town_name": "Higashikuminoki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪狭山市",
+					"ward_name": "",
+					"town_name": "東茱萸木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪狭山市"
+		},
+		"5890011": {
+			"postcode": "5890011",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osakasayama-shi",
+			"ward_name": "",
+			"town_name": "Handa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪狭山市",
+					"ward_name": "",
+					"town_name": "半田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪狭山市"
+		},
+		"5890009": {
+			"postcode": "5890009",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osakasayama-shi",
+			"ward_name": "",
+			"town_name": "Ikejirikita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪狭山市",
+					"ward_name": "",
+					"town_name": "池尻北",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪狭山市"
+		},
+		"5890008": {
+			"postcode": "5890008",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osakasayama-shi",
+			"ward_name": "",
+			"town_name": "Ikejirijiyugaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪狭山市",
+					"ward_name": "",
+					"town_name": "池尻自由丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪狭山市"
+		},
+		"5890007": {
+			"postcode": "5890007",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osakasayama-shi",
+			"ward_name": "",
+			"town_name": "Ikejirinaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪狭山市",
+					"ward_name": "",
+					"town_name": "池尻中",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪狭山市"
+		},
+		"5890006": {
+			"postcode": "5890006",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osakasayama-shi",
+			"ward_name": "",
+			"town_name": "Kongo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪狭山市",
+					"ward_name": "",
+					"town_name": "金剛",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪狭山市"
+		},
+		"5890005": {
+			"postcode": "5890005",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osakasayama-shi",
+			"ward_name": "",
+			"town_name": "Sayama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪狭山市",
+					"ward_name": "",
+					"town_name": "狭山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪狭山市"
+		},
+		"5890004": {
+			"postcode": "5890004",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osakasayama-shi",
+			"ward_name": "",
+			"town_name": "Higashiikejiri",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪狭山市",
+					"ward_name": "",
+					"town_name": "東池尻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪狭山市"
+		},
+		"5890003": {
+			"postcode": "5890003",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osakasayama-shi",
+			"ward_name": "",
+			"town_name": "Higashinohigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪狭山市",
+					"ward_name": "",
+					"town_name": "東野東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪狭山市"
+		},
+		"5890002": {
+			"postcode": "5890002",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osakasayama-shi",
+			"ward_name": "",
+			"town_name": "Higashinonaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪狭山市",
+					"ward_name": "",
+					"town_name": "東野中",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪狭山市"
+		},
+		"5890001": {
+			"postcode": "5890001",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osakasayama-shi",
+			"ward_name": "",
+			"town_name": "Higashinonishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪狭山市",
+					"ward_name": "",
+					"town_name": "東野西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪狭山市"
+		},
+		"5890000": {
+			"postcode": "5890000",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osakasayama-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪狭山市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪狭山市"
+		}
+	}
+}

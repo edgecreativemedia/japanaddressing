@@ -1,0 +1,2559 @@
+{
+	"country_code": "JP",
+	"parent_id": "853",
+	"locale": "ja-Latn",
+	"address": {
+		"8538601": {
+			"postcode": "8538601",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "福江町",
+			"building_name": "７",
+			"organization_name": "長崎県立　五島高等学校",
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "福江町",
+					"building_name": "７",
+					"organization_name": "長崎県立　五島高等学校"
+				}
+			}
+		},
+		"8538502": {
+			"postcode": "8538502",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "福江町",
+			"building_name": "５０４",
+			"organization_name": "長崎県　五島支庁",
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "福江町",
+					"building_name": "５０４",
+					"organization_name": "長崎県　五島支庁"
+				}
+			}
+		},
+		"8538501": {
+			"postcode": "8538501",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "福江町",
+			"building_name": "４７８",
+			"organization_name": "五島市役所",
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "福江町",
+					"building_name": "４７８",
+					"organization_name": "五島市役所"
+				}
+			}
+		},
+		"8533323": {
+			"postcode": "8533323",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Minamimatsura-gun",
+			"ward_name": "Shinkamigoto-cho",
+			"town_name": "Higashikonorago",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "南松浦郡",
+					"ward_name": "新上五島町",
+					"town_name": "東神ノ浦郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "南松浦郡"
+		},
+		"8533322": {
+			"postcode": "8533322",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Minamimatsura-gun",
+			"ward_name": "Shinkamigoto-cho",
+			"town_name": "Azetsugo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "南松浦郡",
+					"ward_name": "新上五島町",
+					"town_name": "阿瀬津郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "南松浦郡"
+		},
+		"8533321": {
+			"postcode": "8533321",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Minamimatsura-gun",
+			"ward_name": "Shinkamigoto-cho",
+			"town_name": "Tainorago",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "南松浦郡",
+					"ward_name": "新上五島町",
+					"town_name": "鯛ノ浦郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "南松浦郡"
+		},
+		"8533102": {
+			"postcode": "8533102",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Minamimatsura-gun",
+			"ward_name": "Shinkamigoto-cho",
+			"town_name": "Iwaseurago",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "南松浦郡",
+					"ward_name": "新上五島町",
+					"town_name": "岩瀬浦郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "南松浦郡"
+		},
+		"8533101": {
+			"postcode": "8533101",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Minamimatsura-gun",
+			"ward_name": "Shinkamigoto-cho",
+			"town_name": "Naraogo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "南松浦郡",
+					"ward_name": "新上五島町",
+					"town_name": "奈良尾郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "南松浦郡"
+		},
+		"8532482": {
+			"postcode": "8532482",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Motogamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "本窯町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8532481": {
+			"postcode": "8532481",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Ifukicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "伊福貴町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8532392": {
+			"postcode": "8532392",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Minamimatsura-gun",
+			"ward_name": "Shinkamigoto-cho",
+			"town_name": "Wakamatsugo",
+			"building_name": "２７７−７",
+			"organization_name": "新上五島町役場　若松支所",
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "南松浦郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "南松浦郡",
+					"ward_name": "新上五島町",
+					"town_name": "若松郷",
+					"building_name": "２７７−７",
+					"organization_name": "新上五島町役場　若松支所"
+				}
+			}
+		},
+		"8532315": {
+			"postcode": "8532315",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Minamimatsura-gun",
+			"ward_name": "Shinkamigoto-cho",
+			"town_name": "Mabushigo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "南松浦郡",
+					"ward_name": "新上五島町",
+					"town_name": "間伏郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "南松浦郡"
+		},
+		"8532314": {
+			"postcode": "8532314",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Minamimatsura-gun",
+			"ward_name": "Shinkamigoto-cho",
+			"town_name": "Ryoseurago",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "南松浦郡",
+					"ward_name": "新上五島町",
+					"town_name": "漁生浦郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "南松浦郡"
+		},
+		"8532313": {
+			"postcode": "8532313",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Minamimatsura-gun",
+			"ward_name": "Shinkamigoto-cho",
+			"town_name": "Arifukugo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "南松浦郡",
+					"ward_name": "新上五島町",
+					"town_name": "有福郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "南松浦郡"
+		},
+		"8532312": {
+			"postcode": "8532312",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Minamimatsura-gun",
+			"ward_name": "Shinkamigoto-cho",
+			"town_name": "Hinoshimago",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "南松浦郡",
+					"ward_name": "新上五島町",
+					"town_name": "日島郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "南松浦郡"
+		},
+		"8532311": {
+			"postcode": "8532311",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Minamimatsura-gun",
+			"ward_name": "Shinkamigoto-cho",
+			"town_name": "Sakakinorago",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "南松浦郡",
+					"ward_name": "新上五島町",
+					"town_name": "榊ノ浦郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "南松浦郡"
+		},
+		"8532305": {
+			"postcode": "8532305",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Minamimatsura-gun",
+			"ward_name": "Shinkamigoto-cho",
+			"town_name": "Nishikonorago",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "南松浦郡",
+					"ward_name": "新上五島町",
+					"town_name": "西神ノ浦郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "南松浦郡"
+		},
+		"8532304": {
+			"postcode": "8532304",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Minamimatsura-gun",
+			"ward_name": "Shinkamigoto-cho",
+			"town_name": "Arakawago",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "南松浦郡",
+					"ward_name": "新上五島町",
+					"town_name": "荒川郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "南松浦郡"
+		},
+		"8532303": {
+			"postcode": "8532303",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Minamimatsura-gun",
+			"ward_name": "Shinkamigoto-cho",
+			"town_name": "Shukunorago",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "南松浦郡",
+					"ward_name": "新上五島町",
+					"town_name": "宿ノ浦郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "南松浦郡"
+		},
+		"8532302": {
+			"postcode": "8532302",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Minamimatsura-gun",
+			"ward_name": "Shinkamigoto-cho",
+			"town_name": "Kirifurusatogo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "南松浦郡",
+					"ward_name": "新上五島町",
+					"town_name": "桐古里郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "南松浦郡"
+		},
+		"8532301": {
+			"postcode": "8532301",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Minamimatsura-gun",
+			"ward_name": "Shinkamigoto-cho",
+			"town_name": "Wakamatsugo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "南松浦郡",
+					"ward_name": "新上五島町",
+					"town_name": "若松郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "南松浦郡"
+		},
+		"8532292": {
+			"postcode": "8532292",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "奈留町浦",
+			"building_name": "１８１８−１",
+			"organization_name": "五島市　奈留支所",
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "奈留町浦",
+					"building_name": "１８１８−１",
+					"organization_name": "五島市　奈留支所"
+				}
+			}
+		},
+		"8532204": {
+			"postcode": "8532204",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Narumachi",
+			"building_name": "Funamawari",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "奈留町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8532203": {
+			"postcode": "8532203",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Narumachi",
+			"building_name": "Tomari",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "奈留町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8532202": {
+			"postcode": "8532202",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Narumachi",
+			"building_name": "Okushi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "奈留町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8532201": {
+			"postcode": "8532201",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Narumachi",
+			"building_name": "Ura",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "奈留町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8532174": {
+			"postcode": "8532174",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Inokicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "猪之木町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8532173": {
+			"postcode": "8532173",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Tanoracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "田ノ浦町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8532172": {
+			"postcode": "8532172",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Warabicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "蕨町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8532171": {
+			"postcode": "8532171",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Hisakacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "久賀町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530706": {
+			"postcode": "8530706",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Kishikumachi",
+			"building_name": "Tosennora",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "岐宿町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530705": {
+			"postcode": "8530705",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Kishikumachi",
+			"building_name": "Toginokubi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "岐宿町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530704": {
+			"postcode": "8530704",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Kishikumachi",
+			"building_name": "Komu",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "岐宿町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530703": {
+			"postcode": "8530703",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Kishikumachi",
+			"building_name": "Kusuhara",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "岐宿町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530702": {
+			"postcode": "8530702",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Kishikumachi",
+			"building_name": "Kawara",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "岐宿町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530701": {
+			"postcode": "8530701",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Kishikumachi",
+			"building_name": "Kishiku",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "岐宿町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530692": {
+			"postcode": "8530692",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "三井楽町濱ノ畔",
+			"building_name": "１４７３−１",
+			"organization_name": "五島市　三井楽支所",
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "三井楽町濱ノ畔",
+					"building_name": "１４７３−１",
+					"organization_name": "五島市　三井楽支所"
+				}
+			}
+		},
+		"8530613": {
+			"postcode": "8530613",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Miirakumachi",
+			"building_name": "Shiomizu",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "三井楽町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530612": {
+			"postcode": "8530612",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Miirakumachi",
+			"building_name": "Takasaki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "三井楽町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530611": {
+			"postcode": "8530611",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Miirakumachi",
+			"building_name": "Saganoshima",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "三井楽町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530609": {
+			"postcode": "8530609",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Miirakumachi",
+			"building_name": "Fuchinomoto",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "三井楽町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530608": {
+			"postcode": "8530608",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Miirakumachi",
+			"building_name": "Hasama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "三井楽町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530607": {
+			"postcode": "8530607",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Miirakumachi",
+			"building_name": "Take",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "三井楽町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530606": {
+			"postcode": "8530606",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Miirakumachi",
+			"building_name": "Ushinora",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "三井楽町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530605": {
+			"postcode": "8530605",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Miirakumachi",
+			"building_name": "Hamasako",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "三井楽町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530604": {
+			"postcode": "8530604",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Miirakumachi",
+			"building_name": "Kaitsu",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "三井楽町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530603": {
+			"postcode": "8530603",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Miirakumachi",
+			"building_name": "Kashiwa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "三井楽町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530602": {
+			"postcode": "8530602",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Miirakumachi",
+			"building_name": "Okawa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "三井楽町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530601": {
+			"postcode": "8530601",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Miirakumachi",
+			"building_name": "Hamanokuri",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "三井楽町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530508": {
+			"postcode": "8530508",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Tamanoramachi",
+			"building_name": "Nunora",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "玉之浦町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530507": {
+			"postcode": "8530507",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Tamanoramachi",
+			"building_name": "Tontomari",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "玉之浦町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530506": {
+			"postcode": "8530506",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Tamanoramachi",
+			"building_name": "Kaminohira",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "玉之浦町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530505": {
+			"postcode": "8530505",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Tamanoramachi",
+			"building_name": "Nakasu",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "玉之浦町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530504": {
+			"postcode": "8530504",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Tamanoramachi",
+			"building_name": "Tanna",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "玉之浦町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530503": {
+			"postcode": "8530503",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Tamanoramachi",
+			"building_name": "Ogawa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "玉之浦町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530502": {
+			"postcode": "8530502",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Tamanoramachi",
+			"building_name": "Itsukuyama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "玉之浦町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530501": {
+			"postcode": "8530501",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Tamanoramachi",
+			"building_name": "Arakawa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "玉之浦町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530413": {
+			"postcode": "8530413",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Tamanoramachi",
+			"building_name": "Daiho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "玉之浦町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530412": {
+			"postcode": "8530412",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Tamanoramachi",
+			"building_name": "Tachiya",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "玉之浦町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530411": {
+			"postcode": "8530411",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Tamanoramachi",
+			"building_name": "Tamanora",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "玉之浦町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530313": {
+			"postcode": "8530313",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Kishikumachi",
+			"building_name": "Matsuyama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "岐宿町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530312": {
+			"postcode": "8530312",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Kishikumachi",
+			"building_name": "Nakadake",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "岐宿町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530311": {
+			"postcode": "8530311",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Kishikumachi",
+			"building_name": "Nihongusu",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "岐宿町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530215": {
+			"postcode": "8530215",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Tomiemachi",
+			"building_name": "Shokunin",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "富江町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530214": {
+			"postcode": "8530214",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Tomiemachi",
+			"building_name": "Tsuchitori",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "富江町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530213": {
+			"postcode": "8530213",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Tomiemachi",
+			"building_name": "Take",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "富江町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530212": {
+			"postcode": "8530212",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Tomiemachi",
+			"building_name": "Yamashita",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "富江町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530211": {
+			"postcode": "8530211",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Tomiemachi",
+			"building_name": "Kurose",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "富江町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530208": {
+			"postcode": "8530208",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Tomiemachi",
+			"building_name": "Kuroshima",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "富江町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530207": {
+			"postcode": "8530207",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Tomiemachi",
+			"building_name": "Nagamine",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "富江町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530206": {
+			"postcode": "8530206",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Tomiemachi",
+			"building_name": "Yamate",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "富江町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530205": {
+			"postcode": "8530205",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Tomiemachi",
+			"building_name": "Karitate",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "富江町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530204": {
+			"postcode": "8530204",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Tomiemachi",
+			"building_name": "Shigejiki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "富江町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530203": {
+			"postcode": "8530203",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Tomiemachi",
+			"building_name": "Tao",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "富江町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530202": {
+			"postcode": "8530202",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Tomiemachi",
+			"building_name": "Matsuo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "富江町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530201": {
+			"postcode": "8530201",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Tomiemachi",
+			"building_name": "Tomie",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "富江町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530066": {
+			"postcode": "8530066",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Daienjicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "大円寺町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530065": {
+			"postcode": "8530065",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Sakanoe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "坂の上",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530064": {
+			"postcode": "8530064",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Miono",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "三尾野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530063": {
+			"postcode": "8530063",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Shimminatomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "新港町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530062": {
+			"postcode": "8530062",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Akashimacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "赤島町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530061": {
+			"postcode": "8530061",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Oshimacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "黄島町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530054": {
+			"postcode": "8530054",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Togicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "戸岐町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530053": {
+			"postcode": "8530053",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Okuracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "奥浦町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530052": {
+			"postcode": "8530052",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Matsuyamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "松山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530051": {
+			"postcode": "8530051",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Hirazocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "平蔵町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530044": {
+			"postcode": "8530044",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Tsutsumicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "堤町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530043": {
+			"postcode": "8530043",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Kodacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "高田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530042": {
+			"postcode": "8530042",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Yoshidacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "吉田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530041": {
+			"postcode": "8530041",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Komoribuchicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "籠淵町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530033": {
+			"postcode": "8530033",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Kobacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "木場町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530032": {
+			"postcode": "8530032",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Oarecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "大荒町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530031": {
+			"postcode": "8530031",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Yoshikugicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "吉久木町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530027": {
+			"postcode": "8530027",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Masudacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "増田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530026": {
+			"postcode": "8530026",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Hamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "浜町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530025": {
+			"postcode": "8530025",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Odomaricho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "小泊町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530024": {
+			"postcode": "8530024",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Nonokirecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "野々切町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530023": {
+			"postcode": "8530023",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Kamisakiyamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "上崎山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530022": {
+			"postcode": "8530022",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Mukaecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "向町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530021": {
+			"postcode": "8530021",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Shimosakiyamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "下崎山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530018": {
+			"postcode": "8530018",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Ikedamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "池田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530017": {
+			"postcode": "8530017",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Bukeyashiki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "武家屋敷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530016": {
+			"postcode": "8530016",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Konyamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "紺屋町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530015": {
+			"postcode": "8530015",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Higashihamamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "東浜町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530014": {
+			"postcode": "8530014",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Mionocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "三尾野町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530013": {
+			"postcode": "8530013",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Kamiozucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "上大津町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530012": {
+			"postcode": "8530012",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Nagatecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "長手町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530011": {
+			"postcode": "8530011",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Shimoozucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "下大津町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530007": {
+			"postcode": "8530007",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Fukuecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "福江町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530006": {
+			"postcode": "8530006",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Egawamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "江川町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530005": {
+			"postcode": "8530005",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Suehiromachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "末広町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530004": {
+			"postcode": "8530004",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Saiwaimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "幸町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530003": {
+			"postcode": "8530003",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Nishikimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "錦町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530002": {
+			"postcode": "8530002",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Chuomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "中央町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530001": {
+			"postcode": "8530001",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "Sakaemachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "栄町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		},
+		"8530000": {
+			"postcode": "8530000",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Goto-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "五島市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "五島市"
+		}
+	}
+}

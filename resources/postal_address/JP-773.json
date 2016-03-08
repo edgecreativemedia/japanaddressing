@@ -1,0 +1,711 @@
+{
+	"country_code": "JP",
+	"parent_id": "773",
+	"locale": "ja-Latn",
+	"address": {
+		"7738601": {
+			"postcode": "7738601",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Komatsushima-shi",
+			"ward_name": "",
+			"town_name": "和田島町",
+			"building_name": "字洲端４−３（小松島郵便局私書箱第９号）",
+			"organization_name": "海上自衛隊　小松島航空隊",
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "小松島市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "小松島市",
+					"ward_name": "",
+					"town_name": "和田島町",
+					"building_name": "字洲端４−３（小松島郵便局私書箱第９号）",
+					"organization_name": "海上自衛隊　小松島航空隊"
+				}
+			}
+		},
+		"7738504": {
+			"postcode": "7738504",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Komatsushima-shi",
+			"ward_name": "",
+			"town_name": "横須町",
+			"building_name": "５−２６",
+			"organization_name": "ニホンフラッシュ　株式会社",
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "小松島市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "小松島市",
+					"ward_name": "",
+					"town_name": "横須町",
+					"building_name": "５−２６",
+					"organization_name": "ニホンフラッシュ　株式会社"
+				}
+			}
+		},
+		"7738502": {
+			"postcode": "7738502",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Komatsushima-shi",
+			"ward_name": "",
+			"town_name": "中田町",
+			"building_name": "字新開２８−１",
+			"organization_name": "徳島　赤十字病院",
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "小松島市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "小松島市",
+					"ward_name": "",
+					"town_name": "中田町",
+					"building_name": "字新開２８−１",
+					"organization_name": "徳島　赤十字病院"
+				}
+			}
+		},
+		"7738501": {
+			"postcode": "7738501",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Komatsushima-shi",
+			"ward_name": "",
+			"town_name": "横須町",
+			"building_name": "１−１",
+			"organization_name": "小松島市役所",
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "小松島市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "小松島市",
+					"ward_name": "",
+					"town_name": "横須町",
+					"building_name": "１−１",
+					"organization_name": "小松島市役所"
+				}
+			}
+		},
+		"7730070": {
+			"postcode": "7730070",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Tokushima-shi",
+			"ward_name": "",
+			"town_name": "Obaracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "徳島市",
+					"ward_name": "",
+					"town_name": "大原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "徳島市"
+		},
+		"7730031": {
+			"postcode": "7730031",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Komatsushima-shi",
+			"ward_name": "",
+			"town_name": "Wadajimacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "小松島市",
+					"ward_name": "",
+					"town_name": "和田島町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "小松島市"
+		},
+		"7730025": {
+			"postcode": "7730025",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Komatsushima-shi",
+			"ward_name": "",
+			"town_name": "Wadajimacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "小松島市",
+					"ward_name": "",
+					"town_name": "和田島町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "小松島市"
+		},
+		"7730024": {
+			"postcode": "7730024",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Komatsushima-shi",
+			"ward_name": "",
+			"town_name": "Aishindencho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "小松島市",
+					"ward_name": "",
+					"town_name": "間新田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "小松島市"
+		},
+		"7730023": {
+			"postcode": "7730023",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Komatsushima-shi",
+			"ward_name": "",
+			"town_name": "Sakanocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "小松島市",
+					"ward_name": "",
+					"town_name": "坂野町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "小松島市"
+		},
+		"7730022": {
+			"postcode": "7730022",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Komatsushima-shi",
+			"ward_name": "",
+			"town_name": "Ohayashicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "小松島市",
+					"ward_name": "",
+					"town_name": "大林町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "小松島市"
+		},
+		"7730021": {
+			"postcode": "7730021",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Komatsushima-shi",
+			"ward_name": "",
+			"town_name": "Akaishicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "小松島市",
+					"ward_name": "",
+					"town_name": "赤石町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "小松島市"
+		},
+		"7730020": {
+			"postcode": "7730020",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Komatsushima-shi",
+			"ward_name": "",
+			"town_name": "Wadatsubirakicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "小松島市",
+					"ward_name": "",
+					"town_name": "和田津開町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "小松島市"
+		},
+		"7730019": {
+			"postcode": "7730019",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Komatsushima-shi",
+			"ward_name": "",
+			"town_name": "Toyoracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "小松島市",
+					"ward_name": "",
+					"town_name": "豊浦町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "小松島市"
+		},
+		"7730018": {
+			"postcode": "7730018",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Komatsushima-shi",
+			"ward_name": "",
+			"town_name": "Kushibuchicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "小松島市",
+					"ward_name": "",
+					"town_name": "櫛淵町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "小松島市"
+		},
+		"7730017": {
+			"postcode": "7730017",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Komatsushima-shi",
+			"ward_name": "",
+			"town_name": "Tatsuecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "小松島市",
+					"ward_name": "",
+					"town_name": "立江町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "小松島市"
+		},
+		"7730016": {
+			"postcode": "7730016",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Komatsushima-shi",
+			"ward_name": "",
+			"town_name": "Nakanogocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "小松島市",
+					"ward_name": "",
+					"town_name": "中郷町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "小松島市"
+		},
+		"7730015": {
+			"postcode": "7730015",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Komatsushima-shi",
+			"ward_name": "",
+			"town_name": "Chudencho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "小松島市",
+					"ward_name": "",
+					"town_name": "中田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "小松島市"
+		},
+		"7730014": {
+			"postcode": "7730014",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Komatsushima-shi",
+			"ward_name": "",
+			"town_name": "Edacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "小松島市",
+					"ward_name": "",
+					"town_name": "江田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "小松島市"
+		},
+		"7730013": {
+			"postcode": "7730013",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Komatsushima-shi",
+			"ward_name": "",
+			"town_name": "Maebaracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "小松島市",
+					"ward_name": "",
+					"town_name": "前原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "小松島市"
+		},
+		"7730012": {
+			"postcode": "7730012",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Komatsushima-shi",
+			"ward_name": "",
+			"town_name": "Tauracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "小松島市",
+					"ward_name": "",
+					"town_name": "田浦町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "小松島市"
+		},
+		"7730011": {
+			"postcode": "7730011",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Komatsushima-shi",
+			"ward_name": "",
+			"town_name": "Niimicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "小松島市",
+					"ward_name": "",
+					"town_name": "新居見町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "小松島市"
+		},
+		"7730010": {
+			"postcode": "7730010",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Komatsushima-shi",
+			"ward_name": "",
+			"town_name": "Higainocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "小松島市",
+					"ward_name": "",
+					"town_name": "日開野町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "小松島市"
+		},
+		"7730009": {
+			"postcode": "7730009",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Komatsushima-shi",
+			"ward_name": "",
+			"town_name": "Shibocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "小松島市",
+					"ward_name": "",
+					"town_name": "芝生町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "小松島市"
+		},
+		"7730008": {
+			"postcode": "7730008",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Komatsushima-shi",
+			"ward_name": "",
+			"town_name": "Tanocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "小松島市",
+					"ward_name": "",
+					"town_name": "田野町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "小松島市"
+		},
+		"7730007": {
+			"postcode": "7730007",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Komatsushima-shi",
+			"ward_name": "",
+			"town_name": "Kanaisocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "小松島市",
+					"ward_name": "",
+					"town_name": "金磯町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "小松島市"
+		},
+		"7730006": {
+			"postcode": "7730006",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Komatsushima-shi",
+			"ward_name": "",
+			"town_name": "Yokosucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "小松島市",
+					"ward_name": "",
+					"town_name": "横須町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "小松島市"
+		},
+		"7730005": {
+			"postcode": "7730005",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Komatsushima-shi",
+			"ward_name": "",
+			"town_name": "Minamikomatsushimacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "小松島市",
+					"ward_name": "",
+					"town_name": "南小松島町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "小松島市"
+		},
+		"7730004": {
+			"postcode": "7730004",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Komatsushima-shi",
+			"ward_name": "",
+			"town_name": "Horikawacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "小松島市",
+					"ward_name": "",
+					"town_name": "堀川町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "小松島市"
+		},
+		"7730003": {
+			"postcode": "7730003",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Komatsushima-shi",
+			"ward_name": "",
+			"town_name": "Matsushimacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "小松島市",
+					"ward_name": "",
+					"town_name": "松島町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "小松島市"
+		},
+		"7730002": {
+			"postcode": "7730002",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Komatsushima-shi",
+			"ward_name": "",
+			"town_name": "Kandasecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "小松島市",
+					"ward_name": "",
+					"town_name": "神田瀬町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "小松島市"
+		},
+		"7730001": {
+			"postcode": "7730001",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Komatsushima-shi",
+			"ward_name": "",
+			"town_name": "Komatsushimacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "小松島市",
+					"ward_name": "",
+					"town_name": "小松島町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "小松島市"
+		},
+		"7730000": {
+			"postcode": "7730000",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Komatsushima-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "小松島市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "小松島市"
+		}
+	}
+}

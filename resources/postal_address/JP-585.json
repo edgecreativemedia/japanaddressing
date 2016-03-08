@@ -1,0 +1,821 @@
+{
+	"country_code": "JP",
+	"parent_id": "585",
+	"locale": "ja-Latn",
+	"address": {
+		"5858585": {
+			"postcode": "5858585",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Minamikawachi-gun",
+			"ward_name": "Kanan-cho",
+			"town_name": "大字白木",
+			"building_name": "１３５９−６",
+			"organization_name": "河南町役場",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "南河内郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "南河内郡",
+					"ward_name": "河南町",
+					"town_name": "大字白木",
+					"building_name": "１３５９−６",
+					"organization_name": "河南町役場"
+				}
+			}
+		},
+		"5858555": {
+			"postcode": "5858555",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Minamikawachi-gun",
+			"ward_name": "Kanan-cho",
+			"town_name": "大字東山",
+			"building_name": "４６９",
+			"organization_name": "大阪芸術大学",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "南河内郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "南河内郡",
+					"ward_name": "河南町",
+					"town_name": "大字東山",
+					"building_name": "４６９",
+					"organization_name": "大阪芸術大学"
+				}
+			}
+		},
+		"5858550": {
+			"postcode": "5858550",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Minamikawachi-gun",
+			"ward_name": "Kanan-cho",
+			"town_name": "大字東山",
+			"building_name": "４６９",
+			"organization_name": "大阪芸術大学　通信教育部",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "南河内郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "南河内郡",
+					"ward_name": "河南町",
+					"town_name": "大字東山",
+					"building_name": "４６９",
+					"organization_name": "大阪芸術大学　通信教育部"
+				}
+			}
+		},
+		"5858501": {
+			"postcode": "5858501",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Minamikawachi-gun",
+			"ward_name": "Chihayaakasaka-mu",
+			"town_name": "大字水分",
+			"building_name": "１８０",
+			"organization_name": "千早赤阪村役場",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "南河内郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "南河内郡",
+					"ward_name": "千早赤阪村",
+					"town_name": "大字水分",
+					"building_name": "１８０",
+					"organization_name": "千早赤阪村役場"
+				}
+			}
+		},
+		"5850055": {
+			"postcode": "5850055",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Minamikawachi-gun",
+			"ward_name": "Chihayaakasaka-mu",
+			"town_name": "Azumazaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "南河内郡",
+					"ward_name": "千早赤阪村",
+					"town_name": "東阪",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "南河内郡"
+		},
+		"5850054": {
+			"postcode": "5850054",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Minamikawachi-gun",
+			"ward_name": "Chihayaakasaka-mu",
+			"town_name": "Yodoshi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "南河内郡",
+					"ward_name": "千早赤阪村",
+					"town_name": "吉年",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "南河内郡"
+		},
+		"5850053": {
+			"postcode": "5850053",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Minamikawachi-gun",
+			"ward_name": "Chihayaakasaka-mu",
+			"town_name": "Kobuki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "南河内郡",
+					"ward_name": "千早赤阪村",
+					"town_name": "小吹",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "南河内郡"
+		},
+		"5850052": {
+			"postcode": "5850052",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Minamikawachi-gun",
+			"ward_name": "Chihayaakasaka-mu",
+			"town_name": "Nakatsuhara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "南河内郡",
+					"ward_name": "千早赤阪村",
+					"town_name": "中津原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "南河内郡"
+		},
+		"5850051": {
+			"postcode": "5850051",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Minamikawachi-gun",
+			"ward_name": "Chihayaakasaka-mu",
+			"town_name": "Chihaya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "南河内郡",
+					"ward_name": "千早赤阪村",
+					"town_name": "千早",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "南河内郡"
+		},
+		"5850045": {
+			"postcode": "5850045",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Minamikawachi-gun",
+			"ward_name": "Chihayaakasaka-mu",
+			"town_name": "Kawanobe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "南河内郡",
+					"ward_name": "千早赤阪村",
+					"town_name": "川野辺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "南河内郡"
+		},
+		"5850044": {
+			"postcode": "5850044",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Minamikawachi-gun",
+			"ward_name": "Chihayaakasaka-mu",
+			"town_name": "Moriya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "南河内郡",
+					"ward_name": "千早赤阪村",
+					"town_name": "森屋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "南河内郡"
+		},
+		"5850043": {
+			"postcode": "5850043",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Minamikawachi-gun",
+			"ward_name": "Chihayaakasaka-mu",
+			"town_name": "Kiriyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "南河内郡",
+					"ward_name": "千早赤阪村",
+					"town_name": "桐山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "南河内郡"
+		},
+		"5850042": {
+			"postcode": "5850042",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Minamikawachi-gun",
+			"ward_name": "Chihayaakasaka-mu",
+			"town_name": "Nigarabe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "南河内郡",
+					"ward_name": "千早赤阪村",
+					"town_name": "二河原辺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "南河内郡"
+		},
+		"5850041": {
+			"postcode": "5850041",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Minamikawachi-gun",
+			"ward_name": "Chihayaakasaka-mu",
+			"town_name": "Suibun",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "南河内郡",
+					"ward_name": "千早赤阪村",
+					"town_name": "水分",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "南河内郡"
+		},
+		"5850035": {
+			"postcode": "5850035",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Minamikawachi-gun",
+			"ward_name": "Kanan-cho",
+			"town_name": "Kankoji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "南河内郡",
+					"ward_name": "河南町",
+					"town_name": "寛弘寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "南河内郡"
+		},
+		"5850034": {
+			"postcode": "5850034",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Minamikawachi-gun",
+			"ward_name": "Kanan-cho",
+			"town_name": "Koyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "南河内郡",
+					"ward_name": "河南町",
+					"town_name": "神山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "南河内郡"
+		},
+		"5850033": {
+			"postcode": "5850033",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Minamikawachi-gun",
+			"ward_name": "Kanan-cho",
+			"town_name": "Seryutani",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "南河内郡",
+					"ward_name": "河南町",
+					"town_name": "芹生谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "南河内郡"
+		},
+		"5850032": {
+			"postcode": "5850032",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Minamikawachi-gun",
+			"ward_name": "Kanan-cho",
+			"town_name": "Madani",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "南河内郡",
+					"ward_name": "河南町",
+					"town_name": "馬谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "南河内郡"
+		},
+		"5850031": {
+			"postcode": "5850031",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Minamikawachi-gun",
+			"ward_name": "Kanan-cho",
+			"town_name": "Naka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "南河内郡",
+					"ward_name": "河南町",
+					"town_name": "中",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "南河内郡"
+		},
+		"5850027": {
+			"postcode": "5850027",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Minamikawachi-gun",
+			"ward_name": "Kanan-cho",
+			"town_name": "Sakurazakaminami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "南河内郡",
+					"ward_name": "河南町",
+					"town_name": "さくら坂南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "南河内郡"
+		},
+		"5850026": {
+			"postcode": "5850026",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Minamikawachi-gun",
+			"ward_name": "Kanan-cho",
+			"town_name": "Suzumidai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "南河内郡",
+					"ward_name": "河南町",
+					"town_name": "鈴美台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "南河内郡"
+		},
+		"5850025": {
+			"postcode": "5850025",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Minamikawachi-gun",
+			"ward_name": "Kanan-cho",
+			"town_name": "Sakurazaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "南河内郡",
+					"ward_name": "河南町",
+					"town_name": "さくら坂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "南河内郡"
+		},
+		"5850024": {
+			"postcode": "5850024",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Minamikawachi-gun",
+			"ward_name": "Kanan-cho",
+			"town_name": "Kamikawachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "南河内郡",
+					"ward_name": "河南町",
+					"town_name": "上河内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "南河内郡"
+		},
+		"5850023": {
+			"postcode": "5850023",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Minamikawachi-gun",
+			"ward_name": "Kanan-cho",
+			"town_name": "Shimokawachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "南河内郡",
+					"ward_name": "河南町",
+					"town_name": "下河内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "南河内郡"
+		},
+		"5850022": {
+			"postcode": "5850022",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Minamikawachi-gun",
+			"ward_name": "Kanan-cho",
+			"town_name": "Hirokawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "南河内郡",
+					"ward_name": "河南町",
+					"town_name": "弘川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "南河内郡"
+		},
+		"5850021": {
+			"postcode": "5850021",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Minamikawachi-gun",
+			"ward_name": "Kanan-cho",
+			"town_name": "Mochio",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "南河内郡",
+					"ward_name": "河南町",
+					"town_name": "持尾",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "南河内郡"
+		},
+		"5850014": {
+			"postcode": "5850014",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Minamikawachi-gun",
+			"ward_name": "Kanan-cho",
+			"town_name": "Shiraki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "南河内郡",
+					"ward_name": "河南町",
+					"town_name": "白木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "南河内郡"
+		},
+		"5850013": {
+			"postcode": "5850013",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Minamikawachi-gun",
+			"ward_name": "Kanan-cho",
+			"town_name": "Hiraishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "南河内郡",
+					"ward_name": "河南町",
+					"town_name": "平石",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "南河内郡"
+		},
+		"5850012": {
+			"postcode": "5850012",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Minamikawachi-gun",
+			"ward_name": "Kanan-cho",
+			"town_name": "Kano",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "南河内郡",
+					"ward_name": "河南町",
+					"town_name": "加納",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "南河内郡"
+		},
+		"5850011": {
+			"postcode": "5850011",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Minamikawachi-gun",
+			"ward_name": "Kanan-cho",
+			"town_name": "Terada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "南河内郡",
+					"ward_name": "河南町",
+					"town_name": "寺田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "南河内郡"
+		},
+		"5850006": {
+			"postcode": "5850006",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Minamikawachi-gun",
+			"ward_name": "Kanan-cho",
+			"town_name": "Hamuro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "南河内郡",
+					"ward_name": "河南町",
+					"town_name": "葉室",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "南河内郡"
+		},
+		"5850005": {
+			"postcode": "5850005",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Minamikawachi-gun",
+			"ward_name": "Kanan-cho",
+			"town_name": "Daiho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "南河内郡",
+					"ward_name": "河南町",
+					"town_name": "大宝",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "南河内郡"
+		},
+		"5850004": {
+			"postcode": "5850004",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Minamikawachi-gun",
+			"ward_name": "Kanan-cho",
+			"town_name": "Yamashiro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "南河内郡",
+					"ward_name": "河南町",
+					"town_name": "山城",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "南河内郡"
+		},
+		"5850003": {
+			"postcode": "5850003",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Minamikawachi-gun",
+			"ward_name": "Kanan-cho",
+			"town_name": "Daigatsuka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "南河内郡",
+					"ward_name": "河南町",
+					"town_name": "大ケ塚",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "南河内郡"
+		},
+		"5850002": {
+			"postcode": "5850002",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Minamikawachi-gun",
+			"ward_name": "Kanan-cho",
+			"town_name": "Ichisuka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "南河内郡",
+					"ward_name": "河南町",
+					"town_name": "一須賀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "南河内郡"
+		},
+		"5850001": {
+			"postcode": "5850001",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Minamikawachi-gun",
+			"ward_name": "Kanan-cho",
+			"town_name": "Higashiyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "南河内郡",
+					"ward_name": "河南町",
+					"town_name": "東山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "南河内郡"
+		},
+		"5850000": {
+			"postcode": "5850000",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Minamikawachi-gun",
+			"ward_name": "Kanan-cho",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "南河内郡",
+					"ward_name": "河南町",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "南河内郡"
+		}
+	}
+}

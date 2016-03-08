@@ -1,0 +1,777 @@
+{
+	"country_code": "JP",
+	"parent_id": "674",
+	"locale": "ja-Latn",
+	"address": {
+		"6748686": {
+			"postcode": "6748686",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Akashi-shi",
+			"ward_name": "",
+			"town_name": "魚住町清水",
+			"building_name": "１１０６−４（明石西郵便局私書箱第６号）",
+			"organization_name": "新キャタピラー三菱　株式会社　明石事業所",
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "明石市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "明石市",
+					"ward_name": "",
+					"town_name": "魚住町清水",
+					"building_name": "１１０６−４（明石西郵便局私書箱第６号）",
+					"organization_name": "新キャタピラー三菱　株式会社　明石事業所"
+				}
+			}
+		},
+		"6748585": {
+			"postcode": "6748585",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Akashi-shi",
+			"ward_name": "",
+			"town_name": "大久保町江井島",
+			"building_name": "１０１３−１",
+			"organization_name": "日工　株式会社",
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "明石市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "明石市",
+					"ward_name": "",
+					"town_name": "大久保町江井島",
+					"building_name": "１０１３−１",
+					"organization_name": "日工　株式会社"
+				}
+			}
+		},
+		"6748555": {
+			"postcode": "6748555",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Akashi-shi",
+			"ward_name": "",
+			"town_name": "大久保町西脇",
+			"building_name": "６４",
+			"organization_name": "富士通　株式会社　明石工場",
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "明石市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "明石市",
+					"ward_name": "",
+					"town_name": "大久保町西脇",
+					"building_name": "６４",
+					"organization_name": "富士通　株式会社　明石工場"
+				}
+			}
+		},
+		"6748501": {
+			"postcode": "6748501",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Akashi-shi",
+			"ward_name": "",
+			"town_name": "魚住町西岡",
+			"building_name": "６７９−３",
+			"organization_name": "明石工業高等専門学校",
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "明石市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "明石市",
+					"ward_name": "",
+					"town_name": "魚住町西岡",
+					"building_name": "６７９−３",
+					"organization_name": "明石工業高等専門学校"
+				}
+			}
+		},
+		"6740095": {
+			"postcode": "6740095",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Akashi-shi",
+			"ward_name": "",
+			"town_name": "Futamicho",
+			"building_name": "Nishifutamiekimae",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "明石市",
+					"ward_name": "",
+					"town_name": "二見町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "明石市"
+		},
+		"6740094": {
+			"postcode": "6740094",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Akashi-shi",
+			"ward_name": "",
+			"town_name": "Futamicho",
+			"building_name": "Nishifutami",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "明石市",
+					"ward_name": "",
+					"town_name": "二見町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "明石市"
+		},
+		"6740093": {
+			"postcode": "6740093",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Akashi-shi",
+			"ward_name": "",
+			"town_name": "Futamicho",
+			"building_name": "Minamifutami",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "明石市",
+					"ward_name": "",
+					"town_name": "二見町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "明石市"
+		},
+		"6740092": {
+			"postcode": "6740092",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Akashi-shi",
+			"ward_name": "",
+			"town_name": "Futamicho",
+			"building_name": "Higashifutami",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "明石市",
+					"ward_name": "",
+					"town_name": "二見町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "明石市"
+		},
+		"6740091": {
+			"postcode": "6740091",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Akashi-shi",
+			"ward_name": "",
+			"town_name": "Futamicho",
+			"building_name": "Fukusato",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "明石市",
+					"ward_name": "",
+					"town_name": "二見町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "明石市"
+		},
+		"6740084": {
+			"postcode": "6740084",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Akashi-shi",
+			"ward_name": "",
+			"town_name": "Uozumicho",
+			"building_name": "Nishioka",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "明石市",
+					"ward_name": "",
+					"town_name": "魚住町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "明石市"
+		},
+		"6740083": {
+			"postcode": "6740083",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Akashi-shi",
+			"ward_name": "",
+			"town_name": "Uozumicho",
+			"building_name": "Sumiyoshi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "明石市",
+					"ward_name": "",
+					"town_name": "魚住町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "明石市"
+		},
+		"6740082": {
+			"postcode": "6740082",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Akashi-shi",
+			"ward_name": "",
+			"town_name": "Uozumicho",
+			"building_name": "Nakao",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "明石市",
+					"ward_name": "",
+					"town_name": "魚住町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "明石市"
+		},
+		"6740081": {
+			"postcode": "6740081",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Akashi-shi",
+			"ward_name": "",
+			"town_name": "Uozumicho",
+			"building_name": "Nishikigaoka",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "明石市",
+					"ward_name": "",
+					"town_name": "魚住町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "明石市"
+		},
+		"6740074": {
+			"postcode": "6740074",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Akashi-shi",
+			"ward_name": "",
+			"town_name": "Uozumicho",
+			"building_name": "Shimizu",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "明石市",
+					"ward_name": "",
+					"town_name": "魚住町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "明石市"
+		},
+		"6740073": {
+			"postcode": "6740073",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Akashi-shi",
+			"ward_name": "",
+			"town_name": "Uozumicho",
+			"building_name": "Kamoike",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "明石市",
+					"ward_name": "",
+					"town_name": "魚住町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "明石市"
+		},
+		"6740072": {
+			"postcode": "6740072",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Akashi-shi",
+			"ward_name": "",
+			"town_name": "Uozumicho",
+			"building_name": "Chohanji",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "明石市",
+					"ward_name": "",
+					"town_name": "魚住町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "明石市"
+		},
+		"6740071": {
+			"postcode": "6740071",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Akashi-shi",
+			"ward_name": "",
+			"town_name": "Uozumicho",
+			"building_name": "Kanagasaki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "明石市",
+					"ward_name": "",
+					"town_name": "魚住町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "明石市"
+		},
+		"6740069": {
+			"postcode": "6740069",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Akashi-shi",
+			"ward_name": "",
+			"town_name": "Okubocho",
+			"building_name": "Wakaba",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "明石市",
+					"ward_name": "",
+					"town_name": "大久保町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "明石市"
+		},
+		"6740068": {
+			"postcode": "6740068",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Akashi-shi",
+			"ward_name": "",
+			"town_name": "Okubocho",
+			"building_name": "Yurinokidori",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "明石市",
+					"ward_name": "",
+					"town_name": "大久保町ゆりのき通",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "明石市"
+		},
+		"6740067": {
+			"postcode": "6740067",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Akashi-shi",
+			"ward_name": "",
+			"town_name": "Okubocho",
+			"building_name": "Okubomachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "明石市",
+					"ward_name": "",
+					"town_name": "大久保町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "明石市"
+		},
+		"6740066": {
+			"postcode": "6740066",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Akashi-shi",
+			"ward_name": "",
+			"town_name": "Okubocho",
+			"building_name": "Fukuda",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "明石市",
+					"ward_name": "",
+					"town_name": "大久保町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "明石市"
+		},
+		"6740065": {
+			"postcode": "6740065",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Akashi-shi",
+			"ward_name": "",
+			"town_name": "Okubocho",
+			"building_name": "Nishijima",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "明石市",
+					"ward_name": "",
+					"town_name": "大久保町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "明石市"
+		},
+		"6740064": {
+			"postcode": "6740064",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Akashi-shi",
+			"ward_name": "",
+			"town_name": "Okubocho",
+			"building_name": "Eigashima",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "明石市",
+					"ward_name": "",
+					"town_name": "大久保町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "明石市"
+		},
+		"6740063": {
+			"postcode": "6740063",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Akashi-shi",
+			"ward_name": "",
+			"town_name": "Okubocho",
+			"building_name": "Yagi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "明石市",
+					"ward_name": "",
+					"town_name": "大久保町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "明石市"
+		},
+		"6740062": {
+			"postcode": "6740062",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Akashi-shi",
+			"ward_name": "",
+			"town_name": "Okubocho",
+			"building_name": "Taniyagi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "明石市",
+					"ward_name": "",
+					"town_name": "大久保町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "明石市"
+		},
+		"6740061": {
+			"postcode": "6740061",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Akashi-shi",
+			"ward_name": "",
+			"town_name": "Okubocho",
+			"building_name": "Morita",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "明石市",
+					"ward_name": "",
+					"town_name": "大久保町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "明石市"
+		},
+		"6740059": {
+			"postcode": "6740059",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Akashi-shi",
+			"ward_name": "",
+			"town_name": "Okubocho",
+			"building_name": "Akane",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "明石市",
+					"ward_name": "",
+					"town_name": "大久保町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "明石市"
+		},
+		"6740058": {
+			"postcode": "6740058",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Akashi-shi",
+			"ward_name": "",
+			"town_name": "Okubocho",
+			"building_name": "Ekimae",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "明石市",
+					"ward_name": "",
+					"town_name": "大久保町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "明石市"
+		},
+		"6740057": {
+			"postcode": "6740057",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Akashi-shi",
+			"ward_name": "",
+			"town_name": "Okubocho",
+			"building_name": "Takaoka",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "明石市",
+					"ward_name": "",
+					"town_name": "大久保町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "明石市"
+		},
+		"6740056": {
+			"postcode": "6740056",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Akashi-shi",
+			"ward_name": "",
+			"town_name": "Okubocho",
+			"building_name": "Yamatedai",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "明石市",
+					"ward_name": "",
+					"town_name": "大久保町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "明石市"
+		},
+		"6740055": {
+			"postcode": "6740055",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Akashi-shi",
+			"ward_name": "",
+			"town_name": "Okubocho",
+			"building_name": "Midorigaoka",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "明石市",
+					"ward_name": "",
+					"town_name": "大久保町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "明石市"
+		},
+		"6740054": {
+			"postcode": "6740054",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Akashi-shi",
+			"ward_name": "",
+			"town_name": "Okubocho",
+			"building_name": "Nishiwaki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "明石市",
+					"ward_name": "",
+					"town_name": "大久保町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "明石市"
+		},
+		"6740053": {
+			"postcode": "6740053",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Akashi-shi",
+			"ward_name": "",
+			"town_name": "Okubocho",
+			"building_name": "Matsukage",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "明石市",
+					"ward_name": "",
+					"town_name": "大久保町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "明石市"
+		},
+		"6740052": {
+			"postcode": "6740052",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Akashi-shi",
+			"ward_name": "",
+			"town_name": "Okubocho",
+			"building_name": "Matsukageshinden",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "明石市",
+					"ward_name": "",
+					"town_name": "大久保町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "明石市"
+		},
+		"6740051": {
+			"postcode": "6740051",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Akashi-shi",
+			"ward_name": "",
+			"town_name": "Okubocho",
+			"building_name": "Okubo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "明石市",
+					"ward_name": "",
+					"town_name": "大久保町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "明石市"
+		}
+	}
+}

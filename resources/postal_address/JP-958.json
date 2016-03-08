@@ -1,0 +1,3395 @@
+{
+	"country_code": "JP",
+	"parent_id": "958",
+	"locale": "ja-Latn",
+	"address": {
+		"9588686": {
+			"postcode": "9588686",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "三之町",
+			"building_name": "１１−１（村上郵便局私書箱第１号）",
+			"organization_name": "村上税務署",
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "三之町",
+					"building_name": "１１−１（村上郵便局私書箱第１号）",
+					"organization_name": "村上税務署"
+				}
+			}
+		},
+		"9588601": {
+			"postcode": "9588601",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "小町",
+			"building_name": "２−１５（村上郵便局私書箱第１２号）",
+			"organization_name": "村上信用金庫",
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "小町",
+					"building_name": "２−１５（村上郵便局私書箱第１２号）",
+					"organization_name": "村上信用金庫"
+				}
+			}
+		},
+		"9588585": {
+			"postcode": "9588585",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "田端町",
+			"building_name": "６−２５",
+			"organization_name": "村上地域振興局",
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "田端町",
+					"building_name": "６−２５",
+					"organization_name": "村上地域振興局"
+				}
+			}
+		},
+		"9588558": {
+			"postcode": "9588558",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "大字仲間町",
+			"building_name": "２００",
+			"organization_name": "村上プラザ",
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "大字仲間町",
+					"building_name": "２００",
+					"organization_name": "村上プラザ"
+				}
+			}
+		},
+		"9588555": {
+			"postcode": "9588555",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "瀬波温泉",
+			"building_name": "２丁目４−１５",
+			"organization_name": "新潟県厚生連瀬波病院",
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "瀬波温泉",
+					"building_name": "２丁目４−１５",
+					"organization_name": "新潟県厚生連瀬波病院"
+				}
+			}
+		},
+		"9588533": {
+			"postcode": "9588533",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "田端町",
+			"building_name": "２−１７",
+			"organization_name": "村上総合病院",
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "田端町",
+					"building_name": "２−１７",
+					"organization_name": "村上総合病院"
+				}
+			}
+		},
+		"9588501": {
+			"postcode": "9588501",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "三之町",
+			"building_name": "１−１",
+			"organization_name": "村上市役所",
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "三之町",
+					"building_name": "１−１",
+					"organization_name": "村上市役所"
+				}
+			}
+		},
+		"9580877": {
+			"postcode": "9580877",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Izumimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "泉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580876": {
+			"postcode": "9580876",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Shiomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "塩町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580875": {
+			"postcode": "9580875",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Kagamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "加賀町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580874": {
+			"postcode": "9580874",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Shonaimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "庄内町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580873": {
+			"postcode": "9580873",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Kamikatamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "上片町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580872": {
+			"postcode": "9580872",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Katamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "片町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580871": {
+			"postcode": "9580871",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Kubotamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "久保多町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580867": {
+			"postcode": "9580867",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Ogaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "大欠",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580866": {
+			"postcode": "9580866",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Murakami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "村上",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580865": {
+			"postcode": "9580865",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Saiwaicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "幸町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580864": {
+			"postcode": "9580864",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Sakanamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "肴町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580863": {
+			"postcode": "9580863",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Kajimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "鍛冶町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580862": {
+			"postcode": "9580862",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Wakabacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "若葉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580861": {
+			"postcode": "9580861",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Nakagawaradanchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "中川原団地",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580857": {
+			"postcode": "9580857",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Iino",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "飯野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580856": {
+			"postcode": "9580856",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Iinosakuragaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "飯野桜ケ丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580855": {
+			"postcode": "9580855",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Iinonishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "飯野西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580854": {
+			"postcode": "9580854",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Tabatamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "田端町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580853": {
+			"postcode": "9580853",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Sankyomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "山居町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580852": {
+			"postcode": "9580852",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Minamimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "南町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580851": {
+			"postcode": "9580851",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Haguromachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "羽黒町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580849": {
+			"postcode": "9580849",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Teramachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "寺町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580848": {
+			"postcode": "9580848",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Ogunimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "小国町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580847": {
+			"postcode": "9580847",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Daikumachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "大工町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580846": {
+			"postcode": "9580846",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Aramachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "安良町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580845": {
+			"postcode": "9580845",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Saikumachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "細工町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580844": {
+			"postcode": "9580844",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Nagaimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "長井町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580843": {
+			"postcode": "9580843",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Kammachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "上町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580842": {
+			"postcode": "9580842",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Omachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "大町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580841": {
+			"postcode": "9580841",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Komachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "小町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580837": {
+			"postcode": "9580837",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Sannocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "三之町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580836": {
+			"postcode": "9580836",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Haguroguchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "羽黒口",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580835": {
+			"postcode": "9580835",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Ninocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "二之町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580834": {
+			"postcode": "9580834",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Shimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580833": {
+			"postcode": "9580833",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Horikata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "堀片",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580832": {
+			"postcode": "9580832",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Ishiwara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "石原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580831": {
+			"postcode": "9580831",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Sugiwara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "杉原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580824": {
+			"postcode": "9580824",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Motomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580823": {
+			"postcode": "9580823",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Chugemmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "仲間町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580822": {
+			"postcode": "9580822",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Tsubone",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "坪根",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580821": {
+			"postcode": "9580821",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Saberi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "山辺里",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580818": {
+			"postcode": "9580818",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Fukuro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "袋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580817": {
+			"postcode": "9580817",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Suganuma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "菅沼",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580816": {
+			"postcode": "9580816",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Akasawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "赤沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580815": {
+			"postcode": "9580815",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Okurida",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "大栗田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580814": {
+			"postcode": "9580814",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Monzen",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "門前",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580813": {
+			"postcode": "9580813",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Imoji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "鋳物師",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580812": {
+			"postcode": "9580812",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Oseki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "大関",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580811": {
+			"postcode": "9580811",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Takadaira",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "高平",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580809": {
+			"postcode": "9580809",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Shimoaikawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "下相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580808": {
+			"postcode": "9580808",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Kamiaikawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "上相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580807": {
+			"postcode": "9580807",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Kusaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "日下",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580806": {
+			"postcode": "9580806",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Odani",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "小谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580805": {
+			"postcode": "9580805",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Kamiyamada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "上山田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580804": {
+			"postcode": "9580804",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Shimoyamada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "下山田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580803": {
+			"postcode": "9580803",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Tenjinoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "天神岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580802": {
+			"postcode": "9580802",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Yokkaichi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "四日市",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580801": {
+			"postcode": "9580801",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Nishikoya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "西興屋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580292": {
+			"postcode": "9580292",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "岩沢",
+			"building_name": "５６１１",
+			"organization_name": "村上市　朝日支所",
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "岩沢",
+					"building_name": "５６１１",
+					"organization_name": "村上市　朝日支所"
+				}
+			}
+		},
+		"9580270": {
+			"postcode": "9580270",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Akebono",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "あけぼの",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580269": {
+			"postcode": "9580269",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Furutoro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "古渡路",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580268": {
+			"postcode": "9580268",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Ogawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "小川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580267": {
+			"postcode": "9580267",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Terao",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "寺尾",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580266": {
+			"postcode": "9580266",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Miyanoshita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "宮ノ下",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580265": {
+			"postcode": "9580265",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Shimonakajima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "下中島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580264": {
+			"postcode": "9580264",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Unotoro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "鵜渡路",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580263": {
+			"postcode": "9580263",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Kawabata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "川端",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580262": {
+			"postcode": "9580262",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Ueno",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "上野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580261": {
+			"postcode": "9580261",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Sarusawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "猿沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580255": {
+			"postcode": "9580255",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Kumato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "熊登",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580254": {
+			"postcode": "9580254",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Sogawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "十川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580253": {
+			"postcode": "9580253",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Obazawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "大場沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580252": {
+			"postcode": "9580252",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Shimoshimbo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "下新保",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580251": {
+			"postcode": "9580251",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Iwasawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "岩沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580246": {
+			"postcode": "9580246",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Sasadaira",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "笹平",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580245": {
+			"postcode": "9580245",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Kamagui",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "釜杭",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580244": {
+			"postcode": "9580244",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Koage",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "小揚",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580243": {
+			"postcode": "9580243",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Chinawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "千縄",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580242": {
+			"postcode": "9580242",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Kukita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "茎太",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580241": {
+			"postcode": "9580241",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Iwakuzure",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "岩崩",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580236": {
+			"postcode": "9580236",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Kaminakajima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "上中島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580235": {
+			"postcode": "9580235",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Ishizumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "石住",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580234": {
+			"postcode": "9580234",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Horino",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "堀野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580233": {
+			"postcode": "9580233",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Nakashimbo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "中新保",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580232": {
+			"postcode": "9580232",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Araya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "新屋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580231": {
+			"postcode": "9580231",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Nunobe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "布部",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580226": {
+			"postcode": "9580226",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Asahinakano",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "朝日中野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580225": {
+			"postcode": "9580225",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Sekiguchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "関口",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580224": {
+			"postcode": "9580224",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Kuroda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "黒田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580223": {
+			"postcode": "9580223",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Nakahara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "中原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580222": {
+			"postcode": "9580222",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Saruta",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "猿田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580221": {
+			"postcode": "9580221",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Komogawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "薦川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580215": {
+			"postcode": "9580215",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Hibara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "檜原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580214": {
+			"postcode": "9580214",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Itayagoshi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "板屋越",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580213": {
+			"postcode": "9580213",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Waseda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "早稲田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580212": {
+			"postcode": "9580212",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Kitaodaira",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "北大平",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580211": {
+			"postcode": "9580211",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Takane",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "高根",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580206": {
+			"postcode": "9580206",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Matsuoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "松岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580205": {
+			"postcode": "9580205",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Shionomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "塩野町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580204": {
+			"postcode": "9580204",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Kosudo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "小須戸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580203": {
+			"postcode": "9580203",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Arasawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "荒沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580202": {
+			"postcode": "9580202",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Osudo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "大須戸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580201": {
+			"postcode": "9580201",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Budo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "蒲萄",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580061": {
+			"postcode": "9580061",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Iwafune-gun",
+			"ward_name": "Awashimaura-mura",
+			"town_name": "Awashimauramuraichien",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "岩船郡",
+					"ward_name": "粟島浦村",
+					"town_name": "粟島浦村一円",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "岩船郡"
+		},
+		"9580058": {
+			"postcode": "9580058",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Iwafuneminatomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "岩船港町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580057": {
+			"postcode": "9580057",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Iwafuneyokoshimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "岩船横新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580056": {
+			"postcode": "9580056",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Iwafunenakashimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "岩船中新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580055": {
+			"postcode": "9580055",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Iwafunetateshimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "岩船縦新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580054": {
+			"postcode": "9580054",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Iwafuneshindemmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "岩船新田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580053": {
+			"postcode": "9580053",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Kaminoyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "上の山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580052": {
+			"postcode": "9580052",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Yokaichi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "八日市",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580051": {
+			"postcode": "9580051",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Iwafunekammachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "岩船上町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580048": {
+			"postcode": "9580048",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Iwafunejizomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "岩船地蔵町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580047": {
+			"postcode": "9580047",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Iwafunegangenjimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "岩船岸見寺町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580046": {
+			"postcode": "9580046",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Iwafuneshimohamamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "岩船下浜町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580045": {
+			"postcode": "9580045",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Iwafunekamihamamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "岩船上浜町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580044": {
+			"postcode": "9580044",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Iwafunekamiomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "岩船上大町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580043": {
+			"postcode": "9580043",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Iwafuneshimoomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "岩船下大町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580042": {
+			"postcode": "9580042",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Iwafunekitahamamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "岩船北浜町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580041": {
+			"postcode": "9580041",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Iwafunemikkaichi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "岩船三日市",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580038": {
+			"postcode": "9580038",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Hamashinden",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "浜新田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580037": {
+			"postcode": "9580037",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Senamionsen",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "瀬波温泉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580036": {
+			"postcode": "9580036",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Urata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "浦田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580035": {
+			"postcode": "9580035",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Miomote",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "三面",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580034": {
+			"postcode": "9580034",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Matsuyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "松山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580033": {
+			"postcode": "9580033",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Midorimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "緑町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580032": {
+			"postcode": "9580032",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Matsubaracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "松原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580031": {
+			"postcode": "9580031",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Gakkocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "学校町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580026": {
+			"postcode": "9580026",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Senamihamamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "瀬波浜町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580025": {
+			"postcode": "9580025",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Matsunamicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "松波町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580024": {
+			"postcode": "9580024",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Senaminakamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "瀬波中町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580023": {
+			"postcode": "9580023",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Senamikammachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "瀬波上町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580022": {
+			"postcode": "9580022",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Senamiyokomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "瀬波横町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580021": {
+			"postcode": "9580021",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Senamishindemmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "瀬波新田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580014": {
+			"postcode": "9580014",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Gedo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "下渡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580013": {
+			"postcode": "9580013",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Hagegafuchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "羽下ケ渕",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580012": {
+			"postcode": "9580012",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Odaira",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "大平",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580011": {
+			"postcode": "9580011",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Takinomae",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "滝の前",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580008": {
+			"postcode": "9580008",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Iwagasaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "岩ケ崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580007": {
+			"postcode": "9580007",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Ozuki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "大月",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580006": {
+			"postcode": "9580006",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Nogata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "野潟",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580005": {
+			"postcode": "9580005",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Majima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "間島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580004": {
+			"postcode": "9580004",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Kashio",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "柏尾",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580003": {
+			"postcode": "9580003",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Yoshiura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "吉浦",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580002": {
+			"postcode": "9580002",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Hayakawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "早川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580001": {
+			"postcode": "9580001",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "Maoroshi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "馬下",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		},
+		"9580000": {
+			"postcode": "9580000",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Murakami-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "村上市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "村上市"
+		}
+	}
+}

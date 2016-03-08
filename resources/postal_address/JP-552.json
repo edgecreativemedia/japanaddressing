@@ -1,0 +1,425 @@
+{
+	"country_code": "JP",
+	"parent_id": "552",
+	"locale": "ja-Latn",
+	"address": {
+		"5528510": {
+			"postcode": "5528510",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Minato-ku",
+			"town_name": "市岡",
+			"building_name": "１丁目１５−２５",
+			"organization_name": "大阪市港区役所",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "港区",
+					"town_name": "市岡",
+					"building_name": "１丁目１５−２５",
+					"organization_name": "大阪市港区役所"
+				}
+			}
+		},
+		"5528501": {
+			"postcode": "5528501",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Minato-ku",
+			"town_name": "弁天",
+			"building_name": "１丁目２−４",
+			"organization_name": "大阪放送　株式会社",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "港区",
+					"town_name": "弁天",
+					"building_name": "１丁目２−４",
+					"organization_name": "大阪放送　株式会社"
+				}
+			}
+		},
+		"5520023": {
+			"postcode": "5520023",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Minato-ku",
+			"town_name": "Kosei",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "港区",
+					"town_name": "港晴",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5520022": {
+			"postcode": "5520022",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Minato-ku",
+			"town_name": "Kaigandori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "港区",
+					"town_name": "海岸通",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5520021": {
+			"postcode": "5520021",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Minato-ku",
+			"town_name": "Chikko",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "港区",
+					"town_name": "築港",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5520016": {
+			"postcode": "5520016",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Minato-ku",
+			"town_name": "Misaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "港区",
+					"town_name": "三先",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5520015": {
+			"postcode": "5520015",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Minato-ku",
+			"town_name": "Ikejima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "港区",
+					"town_name": "池島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5520014": {
+			"postcode": "5520014",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Minato-ku",
+			"town_name": "Yahataya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "港区",
+					"town_name": "八幡屋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5520013": {
+			"postcode": "5520013",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Minato-ku",
+			"town_name": "Fukuzaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "港区",
+					"town_name": "福崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5520012": {
+			"postcode": "5520012",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Minato-ku",
+			"town_name": "Ichioka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "港区",
+					"town_name": "市岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5520011": {
+			"postcode": "5520011",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Minato-ku",
+			"town_name": "Minamiichioka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "港区",
+					"town_name": "南市岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5520007": {
+			"postcode": "5520007",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Minato-ku",
+			"town_name": "Benten",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "港区",
+					"town_name": "弁天",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5520006": {
+			"postcode": "5520006",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Minato-ku",
+			"town_name": "Ishida",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "港区",
+					"town_name": "石田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5520005": {
+			"postcode": "5520005",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Minato-ku",
+			"town_name": "Tanaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "港区",
+					"town_name": "田中",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5520004": {
+			"postcode": "5520004",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Minato-ku",
+			"town_name": "Yunagi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "港区",
+					"town_name": "夕凪",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5520003": {
+			"postcode": "5520003",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Minato-ku",
+			"town_name": "Isoji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "港区",
+					"town_name": "磯路",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5520002": {
+			"postcode": "5520002",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Minato-ku",
+			"town_name": "Ichiokamotomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "港区",
+					"town_name": "市岡元町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5520001": {
+			"postcode": "5520001",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Minato-ku",
+			"town_name": "Namiyoke",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "港区",
+					"town_name": "波除",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5520000": {
+			"postcode": "5520000",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Minato-ku",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "港区",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		}
+	}
+}

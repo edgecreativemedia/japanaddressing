@@ -1,0 +1,2493 @@
+{
+	"country_code": "JP",
+	"parent_id": "349",
+	"locale": "ja-Latn",
+	"address": {
+		"3491292": {
+			"postcode": "3491292",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kazo-shi",
+			"ward_name": "",
+			"town_name": "麦倉",
+			"building_name": "１４８１−１",
+			"organization_name": "加須市　北川辺総合支所",
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "加須市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "加須市",
+					"ward_name": "",
+					"town_name": "麦倉",
+					"building_name": "１４８１−１",
+					"organization_name": "加須市　北川辺総合支所"
+				}
+			}
+		},
+		"3491221": {
+			"postcode": "3491221",
+			"prefecture_name": "Tochigi-ken",
+			"city_name": "Tochigi-shi",
+			"ward_name": "",
+			"town_name": "Fujiokamachi",
+			"building_name": "Shitamiya",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "栃木県",
+					"city_name": "栃木市",
+					"ward_name": "",
+					"town_name": "藤岡町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "栃木県",
+			"city_code": "栃木市"
+		},
+		"3491216": {
+			"postcode": "3491216",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kazo-shi",
+			"ward_name": "",
+			"town_name": "Hongo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "加須市",
+					"ward_name": "",
+					"town_name": "本郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "加須市"
+		},
+		"3491215": {
+			"postcode": "3491215",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kazo-shi",
+			"ward_name": "",
+			"town_name": "Igafukuro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "加須市",
+					"ward_name": "",
+					"town_name": "伊賀袋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "加須市"
+		},
+		"3491214": {
+			"postcode": "3491214",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kazo-shi",
+			"ward_name": "",
+			"town_name": "Komaba",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "加須市",
+					"ward_name": "",
+					"town_name": "駒場",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "加須市"
+		},
+		"3491213": {
+			"postcode": "3491213",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kazo-shi",
+			"ward_name": "",
+			"town_name": "Sakae",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "加須市",
+					"ward_name": "",
+					"town_name": "栄",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "加須市"
+		},
+		"3491212": {
+			"postcode": "3491212",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kazo-shi",
+			"ward_name": "",
+			"town_name": "Mugikura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "加須市",
+					"ward_name": "",
+					"town_name": "麦倉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "加須市"
+		},
+		"3491211": {
+			"postcode": "3491211",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kazo-shi",
+			"ward_name": "",
+			"town_name": "Iizumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "加須市",
+					"ward_name": "",
+					"town_name": "飯積",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "加須市"
+		},
+		"3491205": {
+			"postcode": "3491205",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kazo-shi",
+			"ward_name": "",
+			"town_name": "Mukaikoga",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "加須市",
+					"ward_name": "",
+					"town_name": "向古河",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "加須市"
+		},
+		"3491204": {
+			"postcode": "3491204",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kazo-shi",
+			"ward_name": "",
+			"town_name": "Yokodai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "加須市",
+					"ward_name": "",
+					"town_name": "陽光台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "加須市"
+		},
+		"3491203": {
+			"postcode": "3491203",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kazo-shi",
+			"ward_name": "",
+			"town_name": "Kashiwado",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "加須市",
+					"ward_name": "",
+					"town_name": "柏戸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "加須市"
+		},
+		"3491202": {
+			"postcode": "3491202",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kazo-shi",
+			"ward_name": "",
+			"town_name": "Onofukuro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "加須市",
+					"ward_name": "",
+					"town_name": "小野袋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "加須市"
+		},
+		"3491201": {
+			"postcode": "3491201",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kazo-shi",
+			"ward_name": "",
+			"town_name": "Yagyu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "加須市",
+					"ward_name": "",
+					"town_name": "柳生",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "加須市"
+		},
+		"3491193": {
+			"postcode": "3491193",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kazo-shi",
+			"ward_name": "",
+			"town_name": "北下新井",
+			"building_name": "１６７９番地１",
+			"organization_name": "加須市　大利根総合支所",
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "加須市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "加須市",
+					"ward_name": "",
+					"town_name": "北下新井",
+					"building_name": "１６７９番地１",
+					"organization_name": "加須市　大利根総合支所"
+				}
+			}
+		},
+		"3491192": {
+			"postcode": "3491192",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kuki-shi",
+			"ward_name": "",
+			"town_name": "間鎌",
+			"building_name": "２５１の１",
+			"organization_name": "久喜市　栗橋総合支所",
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "久喜市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "久喜市",
+					"ward_name": "",
+					"town_name": "間鎌",
+					"building_name": "２５１の１",
+					"organization_name": "久喜市　栗橋総合支所"
+				}
+			}
+		},
+		"3491158": {
+			"postcode": "3491158",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kazo-shi",
+			"ward_name": "",
+			"town_name": "Shintone",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "加須市",
+					"ward_name": "",
+					"town_name": "新利根",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "加須市"
+		},
+		"3491157": {
+			"postcode": "3491157",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kazo-shi",
+			"ward_name": "",
+			"town_name": "Dome",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "加須市",
+					"ward_name": "",
+					"town_name": "道目",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "加須市"
+		},
+		"3491156": {
+			"postcode": "3491156",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kazo-shi",
+			"ward_name": "",
+			"town_name": "Hosoma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "加須市",
+					"ward_name": "",
+					"town_name": "細間",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "加須市"
+		},
+		"3491155": {
+			"postcode": "3491155",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kazo-shi",
+			"ward_name": "",
+			"town_name": "Sunahara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "加須市",
+					"ward_name": "",
+					"town_name": "砂原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "加須市"
+		},
+		"3491154": {
+			"postcode": "3491154",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kazo-shi",
+			"ward_name": "",
+			"town_name": "Gekishinden",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "加須市",
+					"ward_name": "",
+					"town_name": "外記新田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "加須市"
+		},
+		"3491153": {
+			"postcode": "3491153",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kazo-shi",
+			"ward_name": "",
+			"town_name": "Shinkawadori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "加須市",
+					"ward_name": "",
+					"town_name": "新川通",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "加須市"
+		},
+		"3491152": {
+			"postcode": "3491152",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kazo-shi",
+			"ward_name": "",
+			"town_name": "Yahee",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "加須市",
+					"ward_name": "",
+					"town_name": "弥兵衛",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "加須市"
+		},
+		"3491151": {
+			"postcode": "3491151",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kazo-shi",
+			"ward_name": "",
+			"town_name": "Zawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "加須市",
+					"ward_name": "",
+					"town_name": "佐波",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "加須市"
+		},
+		"3491148": {
+			"postcode": "3491148",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kazo-shi",
+			"ward_name": "",
+			"town_name": "Toyonodai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "加須市",
+					"ward_name": "",
+					"town_name": "豊野台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "加須市"
+		},
+		"3491147": {
+			"postcode": "3491147",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kazo-shi",
+			"ward_name": "",
+			"town_name": "Kitaokuwa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "加須市",
+					"ward_name": "",
+					"town_name": "北大桑",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "加須市"
+		},
+		"3491146": {
+			"postcode": "3491146",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kazo-shi",
+			"ward_name": "",
+			"town_name": "Araishinden",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "加須市",
+					"ward_name": "",
+					"town_name": "新井新田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "加須市"
+		},
+		"3491145": {
+			"postcode": "3491145",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kazo-shi",
+			"ward_name": "",
+			"town_name": "Makuchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "加須市",
+					"ward_name": "",
+					"town_name": "間口",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "加須市"
+		},
+		"3491144": {
+			"postcode": "3491144",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kazo-shi",
+			"ward_name": "",
+			"town_name": "Azama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "加須市",
+					"ward_name": "",
+					"town_name": "阿佐間",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "加須市"
+		},
+		"3491143": {
+			"postcode": "3491143",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kazo-shi",
+			"ward_name": "",
+			"town_name": "Oide",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "加須市",
+					"ward_name": "",
+					"town_name": "生出",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "加須市"
+		},
+		"3491142": {
+			"postcode": "3491142",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kazo-shi",
+			"ward_name": "",
+			"town_name": "Shakushigi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "加須市",
+					"ward_name": "",
+					"town_name": "杓子木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "加須市"
+		},
+		"3491141": {
+			"postcode": "3491141",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kazo-shi",
+			"ward_name": "",
+			"town_name": "Matsunagashinden",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "加須市",
+					"ward_name": "",
+					"town_name": "松永新田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "加須市"
+		},
+		"3491135": {
+			"postcode": "3491135",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kazo-shi",
+			"ward_name": "",
+			"town_name": "Kitahirano",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "加須市",
+					"ward_name": "",
+					"town_name": "北平野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "加須市"
+		},
+		"3491134": {
+			"postcode": "3491134",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kazo-shi",
+			"ward_name": "",
+			"town_name": "Kitashimoarai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "加須市",
+					"ward_name": "",
+					"town_name": "北下新井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "加須市"
+		},
+		"3491133": {
+			"postcode": "3491133",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kazo-shi",
+			"ward_name": "",
+			"town_name": "Kotoyori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "加須市",
+					"ward_name": "",
+					"town_name": "琴寄",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "加須市"
+		},
+		"3491132": {
+			"postcode": "3491132",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kazo-shi",
+			"ward_name": "",
+			"town_name": "Hatai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "加須市",
+					"ward_name": "",
+					"town_name": "旗井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "加須市"
+		},
+		"3491131": {
+			"postcode": "3491131",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kazo-shi",
+			"ward_name": "",
+			"town_name": "Nakawata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "加須市",
+					"ward_name": "",
+					"town_name": "中渡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "加須市"
+		},
+		"3491125": {
+			"postcode": "3491125",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kuki-shi",
+			"ward_name": "",
+			"town_name": "Takayanagi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "久喜市",
+					"ward_name": "",
+					"town_name": "高柳",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "久喜市"
+		},
+		"3491124": {
+			"postcode": "3491124",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kuki-shi",
+			"ward_name": "",
+			"town_name": "Sama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "久喜市",
+					"ward_name": "",
+					"town_name": "佐間",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "久喜市"
+		},
+		"3491123": {
+			"postcode": "3491123",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kuki-shi",
+			"ward_name": "",
+			"town_name": "Magama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "久喜市",
+					"ward_name": "",
+					"town_name": "間鎌",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "久喜市"
+		},
+		"3491122": {
+			"postcode": "3491122",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kuki-shi",
+			"ward_name": "",
+			"town_name": "Matsunaga",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "久喜市",
+					"ward_name": "",
+					"town_name": "松永",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "久喜市"
+		},
+		"3491121": {
+			"postcode": "3491121",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kuki-shi",
+			"ward_name": "",
+			"town_name": "Isaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "久喜市",
+					"ward_name": "",
+					"town_name": "伊坂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "久喜市"
+		},
+		"3491117": {
+			"postcode": "3491117",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kuki-shi",
+			"ward_name": "",
+			"town_name": "Minamikurihashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "久喜市",
+					"ward_name": "",
+					"town_name": "南栗橋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "久喜市"
+		},
+		"3491116": {
+			"postcode": "3491116",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kuki-shi",
+			"ward_name": "",
+			"town_name": "Shimagawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "久喜市",
+					"ward_name": "",
+					"town_name": "島川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "久喜市"
+		},
+		"3491115": {
+			"postcode": "3491115",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kuki-shi",
+			"ward_name": "",
+			"town_name": "Arai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "久喜市",
+					"ward_name": "",
+					"town_name": "新井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "久喜市"
+		},
+		"3491114": {
+			"postcode": "3491114",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kuki-shi",
+			"ward_name": "",
+			"town_name": "Kawaradai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "久喜市",
+					"ward_name": "",
+					"town_name": "河原代",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "久喜市"
+		},
+		"3491113": {
+			"postcode": "3491113",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kuki-shi",
+			"ward_name": "",
+			"town_name": "Kitsunezuka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "久喜市",
+					"ward_name": "",
+					"town_name": "狐塚",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "久喜市"
+		},
+		"3491112": {
+			"postcode": "3491112",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kuki-shi",
+			"ward_name": "",
+			"town_name": "Nakazato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "久喜市",
+					"ward_name": "",
+					"town_name": "中里",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "久喜市"
+		},
+		"3491111": {
+			"postcode": "3491111",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kuki-shi",
+			"ward_name": "",
+			"town_name": "Kitahiroshima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "久喜市",
+					"ward_name": "",
+					"town_name": "北広島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "久喜市"
+		},
+		"3491106": {
+			"postcode": "3491106",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kuki-shi",
+			"ward_name": "",
+			"town_name": "Midori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "久喜市",
+					"ward_name": "",
+					"town_name": "緑",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "久喜市"
+		},
+		"3491105": {
+			"postcode": "3491105",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kuki-shi",
+			"ward_name": "",
+			"town_name": "Koemon",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "久喜市",
+					"ward_name": "",
+					"town_name": "小右衛門",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "久喜市"
+		},
+		"3491104": {
+			"postcode": "3491104",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kuki-shi",
+			"ward_name": "",
+			"town_name": "Kurihashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "久喜市",
+					"ward_name": "",
+					"town_name": "栗橋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "久喜市"
+		},
+		"3491103": {
+			"postcode": "3491103",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kuki-shi",
+			"ward_name": "",
+			"town_name": "Kurihashi",
+			"building_name": "Higashi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "久喜市",
+					"ward_name": "",
+					"town_name": "栗橋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "久喜市"
+		},
+		"3491102": {
+			"postcode": "3491102",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kuki-shi",
+			"ward_name": "",
+			"town_name": "Kurihashi",
+			"building_name": "Chuo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "久喜市",
+					"ward_name": "",
+					"town_name": "栗橋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "久喜市"
+		},
+		"3491101": {
+			"postcode": "3491101",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kuki-shi",
+			"ward_name": "",
+			"town_name": "Kurihashi",
+			"building_name": "Kita",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "久喜市",
+					"ward_name": "",
+					"town_name": "栗橋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "久喜市"
+		},
+		"3490294": {
+			"postcode": "3490294",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Shiraoka-shi",
+			"ward_name": "",
+			"town_name": "白岡",
+			"building_name": "１４７０",
+			"organization_name": "日産化学工業　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "白岡市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "白岡市",
+					"ward_name": "",
+					"town_name": "白岡",
+					"building_name": "１４７０",
+					"organization_name": "日産化学工業　株式会社"
+				}
+			}
+		},
+		"3490293": {
+			"postcode": "3490293",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Shiraoka-shi",
+			"ward_name": "",
+			"town_name": "下大崎",
+			"building_name": "８７３",
+			"organization_name": "大成ラミック　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "白岡市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "白岡市",
+					"ward_name": "",
+					"town_name": "下大崎",
+					"building_name": "８７３",
+					"organization_name": "大成ラミック　株式会社"
+				}
+			}
+		},
+		"3490292": {
+			"postcode": "3490292",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Shiraoka-shi",
+			"ward_name": "",
+			"town_name": "千駄野",
+			"building_name": "４３２番地",
+			"organization_name": "白岡市役所",
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "白岡市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "白岡市",
+					"ward_name": "",
+					"town_name": "千駄野",
+					"building_name": "４３２番地",
+					"organization_name": "白岡市役所"
+				}
+			}
+		},
+		"3490226": {
+			"postcode": "3490226",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Shiraoka-shi",
+			"ward_name": "",
+			"town_name": "Okaizumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "白岡市",
+					"ward_name": "",
+					"town_name": "岡泉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "白岡市"
+		},
+		"3490225": {
+			"postcode": "3490225",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Shiraoka-shi",
+			"ward_name": "",
+			"town_name": "Otaarai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "白岡市",
+					"ward_name": "",
+					"town_name": "太田新井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "白岡市"
+		},
+		"3490224": {
+			"postcode": "3490224",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Shiraoka-shi",
+			"ward_name": "",
+			"town_name": "Hikobee",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "白岡市",
+					"ward_name": "",
+					"town_name": "彦兵衛",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "白岡市"
+		},
+		"3490223": {
+			"postcode": "3490223",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Shiraoka-shi",
+			"ward_name": "",
+			"town_name": "Shimonoda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "白岡市",
+					"ward_name": "",
+					"town_name": "下野田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "白岡市"
+		},
+		"3490222": {
+			"postcode": "3490222",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Shiraoka-shi",
+			"ward_name": "",
+			"town_name": "Tsumetagaya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "白岡市",
+					"ward_name": "",
+					"town_name": "爪田ケ谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "白岡市"
+		},
+		"3490221": {
+			"postcode": "3490221",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Shiraoka-shi",
+			"ward_name": "",
+			"town_name": "Kaminoda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "白岡市",
+					"ward_name": "",
+					"town_name": "上野田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "白岡市"
+		},
+		"3490219": {
+			"postcode": "3490219",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Shiraoka-shi",
+			"ward_name": "",
+			"town_name": "Shiraokahigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "白岡市",
+					"ward_name": "",
+					"town_name": "白岡東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "白岡市"
+		},
+		"3490218": {
+			"postcode": "3490218",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Shiraoka-shi",
+			"ward_name": "",
+			"town_name": "Shiraoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "白岡市",
+					"ward_name": "",
+					"town_name": "白岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "白岡市"
+		},
+		"3490217": {
+			"postcode": "3490217",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Shiraoka-shi",
+			"ward_name": "",
+			"town_name": "Koguki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "白岡市",
+					"ward_name": "",
+					"town_name": "小久喜",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "白岡市"
+		},
+		"3490216": {
+			"postcode": "3490216",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Shiraoka-shi",
+			"ward_name": "",
+			"town_name": "Sanagaya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "白岡市",
+					"ward_name": "",
+					"town_name": "実ケ谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "白岡市"
+		},
+		"3490215": {
+			"postcode": "3490215",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Shiraoka-shi",
+			"ward_name": "",
+			"town_name": "Sendano",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "白岡市",
+					"ward_name": "",
+					"town_name": "千駄野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "白岡市"
+		},
+		"3490214": {
+			"postcode": "3490214",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Shiraoka-shi",
+			"ward_name": "",
+			"town_name": "Teratsuka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "白岡市",
+					"ward_name": "",
+					"town_name": "寺塚",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "白岡市"
+		},
+		"3490213": {
+			"postcode": "3490213",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Shiraoka-shi",
+			"ward_name": "",
+			"town_name": "Takaiwa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "白岡市",
+					"ward_name": "",
+					"town_name": "高岩",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "白岡市"
+		},
+		"3490212": {
+			"postcode": "3490212",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Shiraoka-shi",
+			"ward_name": "",
+			"town_name": "Shinshiraoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "白岡市",
+					"ward_name": "",
+					"town_name": "新白岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "白岡市"
+		},
+		"3490211": {
+			"postcode": "3490211",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Shiraoka-shi",
+			"ward_name": "",
+			"town_name": "Yagyu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "白岡市",
+					"ward_name": "",
+					"town_name": "野牛",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "白岡市"
+		},
+		"3490205": {
+			"postcode": "3490205",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Shiraoka-shi",
+			"ward_name": "",
+			"town_name": "Nishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "白岡市",
+					"ward_name": "",
+					"town_name": "西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "白岡市"
+		},
+		"3490204": {
+			"postcode": "3490204",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Shiraoka-shi",
+			"ward_name": "",
+			"town_name": "Shinozu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "白岡市",
+					"ward_name": "",
+					"town_name": "篠津",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "白岡市"
+		},
+		"3490203": {
+			"postcode": "3490203",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Shiraoka-shi",
+			"ward_name": "",
+			"town_name": "Shimoosaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "白岡市",
+					"ward_name": "",
+					"town_name": "下大崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "白岡市"
+		},
+		"3490202": {
+			"postcode": "3490202",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Shiraoka-shi",
+			"ward_name": "",
+			"town_name": "Araishinden",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "白岡市",
+					"ward_name": "",
+					"town_name": "荒井新田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "白岡市"
+		},
+		"3490201": {
+			"postcode": "3490201",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Shiraoka-shi",
+			"ward_name": "",
+			"town_name": "Shibayama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "白岡市",
+					"ward_name": "",
+					"town_name": "柴山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "白岡市"
+		},
+		"3490200": {
+			"postcode": "3490200",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Shiraoka-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "白岡市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "白岡市"
+		},
+		"3490198": {
+			"postcode": "3490198",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Hasuda-shi",
+			"ward_name": "",
+			"town_name": "大字黒浜",
+			"building_name": "３５３５",
+			"organization_name": "積水化学工業　株式会社　武蔵工場",
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "蓮田市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "蓮田市",
+					"ward_name": "",
+					"town_name": "大字黒浜",
+					"building_name": "３５３５",
+					"organization_name": "積水化学工業　株式会社　武蔵工場"
+				}
+			}
+		},
+		"3490196": {
+			"postcode": "3490196",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Hasuda-shi",
+			"ward_name": "",
+			"town_name": "大字黒浜",
+			"building_name": "４１４７",
+			"organization_name": "独立行政法人　国立病院機構　東埼玉病院",
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "蓮田市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "蓮田市",
+					"ward_name": "",
+					"town_name": "大字黒浜",
+					"building_name": "４１４７",
+					"organization_name": "独立行政法人　国立病院機構　東埼玉病院"
+				}
+			}
+		},
+		"3490195": {
+			"postcode": "3490195",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Hasuda-shi",
+			"ward_name": "",
+			"town_name": "大字黒浜",
+			"building_name": "３５３５",
+			"organization_name": "東京セキスイ工業　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "蓮田市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "蓮田市",
+					"ward_name": "",
+					"town_name": "大字黒浜",
+					"building_name": "３５３５",
+					"organization_name": "東京セキスイ工業　株式会社"
+				}
+			}
+		},
+		"3490193": {
+			"postcode": "3490193",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Hasuda-shi",
+			"ward_name": "",
+			"town_name": "大字黒浜",
+			"building_name": "２７９９−１",
+			"organization_name": "蓮田市役所",
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "蓮田市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "蓮田市",
+					"ward_name": "",
+					"town_name": "大字黒浜",
+					"building_name": "２７９９−１",
+					"organization_name": "蓮田市役所"
+				}
+			}
+		},
+		"3490192": {
+			"postcode": "3490192",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Hasuda-shi",
+			"ward_name": "",
+			"town_name": "大字黒浜",
+			"building_name": "字桜ヶ丘４００８",
+			"organization_name": "東光電気　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "蓮田市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "蓮田市",
+					"ward_name": "",
+					"town_name": "大字黒浜",
+					"building_name": "字桜ヶ丘４００８",
+					"organization_name": "東光電気　株式会社"
+				}
+			}
+		},
+		"3490145": {
+			"postcode": "3490145",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Hasuda-shi",
+			"ward_name": "",
+			"town_name": "Nishijo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "蓮田市",
+					"ward_name": "",
+					"town_name": "西城",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "蓮田市"
+		},
+		"3490144": {
+			"postcode": "3490144",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Hasuda-shi",
+			"ward_name": "",
+			"town_name": "Tsubakiyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "蓮田市",
+					"ward_name": "",
+					"town_name": "椿山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "蓮田市"
+		},
+		"3490143": {
+			"postcode": "3490143",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Hasuda-shi",
+			"ward_name": "",
+			"town_name": "Jo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "蓮田市",
+					"ward_name": "",
+					"town_name": "城",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "蓮田市"
+		},
+		"3490142": {
+			"postcode": "3490142",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Hasuda-shi",
+			"ward_name": "",
+			"town_name": "Minamishinshuku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "蓮田市",
+					"ward_name": "",
+					"town_name": "南新宿",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "蓮田市"
+		},
+		"3490141": {
+			"postcode": "3490141",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Hasuda-shi",
+			"ward_name": "",
+			"town_name": "Nishishinshuku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "蓮田市",
+					"ward_name": "",
+					"town_name": "西新宿",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "蓮田市"
+		},
+		"3490137": {
+			"postcode": "3490137",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Hasuda-shi",
+			"ward_name": "",
+			"town_name": "Takamushi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "蓮田市",
+					"ward_name": "",
+					"town_name": "高虫",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "蓮田市"
+		},
+		"3490136": {
+			"postcode": "3490136",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Hasuda-shi",
+			"ward_name": "",
+			"town_name": "Kamihirano",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "蓮田市",
+					"ward_name": "",
+					"town_name": "上平野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "蓮田市"
+		},
+		"3490135": {
+			"postcode": "3490135",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Hasuda-shi",
+			"ward_name": "",
+			"town_name": "Inuma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "蓮田市",
+					"ward_name": "",
+					"town_name": "井沼",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "蓮田市"
+		},
+		"3490134": {
+			"postcode": "3490134",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Hasuda-shi",
+			"ward_name": "",
+			"town_name": "Komasaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "蓮田市",
+					"ward_name": "",
+					"town_name": "駒崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "蓮田市"
+		},
+		"3490133": {
+			"postcode": "3490133",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Hasuda-shi",
+			"ward_name": "",
+			"town_name": "Uruido",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "蓮田市",
+					"ward_name": "",
+					"town_name": "閏戸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "蓮田市"
+		},
+		"3490132": {
+			"postcode": "3490132",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Hasuda-shi",
+			"ward_name": "",
+			"town_name": "Kaizuka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "蓮田市",
+					"ward_name": "",
+					"town_name": "貝塚",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "蓮田市"
+		},
+		"3490131": {
+			"postcode": "3490131",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Hasuda-shi",
+			"ward_name": "",
+			"town_name": "Negane",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "蓮田市",
+					"ward_name": "",
+					"town_name": "根金",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "蓮田市"
+		},
+		"3490128": {
+			"postcode": "3490128",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Hasuda-shi",
+			"ward_name": "",
+			"town_name": "Yamanochi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "蓮田市",
+					"ward_name": "",
+					"town_name": "山ノ内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "蓮田市"
+		},
+		"3490127": {
+			"postcode": "3490127",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Hasuda-shi",
+			"ward_name": "",
+			"town_name": "Minumacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "蓮田市",
+					"ward_name": "",
+					"town_name": "見沼町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "蓮田市"
+		},
+		"3490126": {
+			"postcode": "3490126",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Hasuda-shi",
+			"ward_name": "",
+			"town_name": "Ayase",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "蓮田市",
+					"ward_name": "",
+					"town_name": "綾瀬",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "蓮田市"
+		},
+		"3490125": {
+			"postcode": "3490125",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Hasuda-shi",
+			"ward_name": "",
+			"town_name": "Omaebashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "蓮田市",
+					"ward_name": "",
+					"town_name": "御前橋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "蓮田市"
+		},
+		"3490124": {
+			"postcode": "3490124",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Hasuda-shi",
+			"ward_name": "",
+			"town_name": "Suehiro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "蓮田市",
+					"ward_name": "",
+					"town_name": "末広",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "蓮田市"
+		},
+		"3490123": {
+			"postcode": "3490123",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Hasuda-shi",
+			"ward_name": "",
+			"town_name": "Honcho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "蓮田市",
+					"ward_name": "",
+					"town_name": "本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "蓮田市"
+		},
+		"3490122": {
+			"postcode": "3490122",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Hasuda-shi",
+			"ward_name": "",
+			"town_name": "Kami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "蓮田市",
+					"ward_name": "",
+					"town_name": "上",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "蓮田市"
+		},
+		"3490121": {
+			"postcode": "3490121",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Hasuda-shi",
+			"ward_name": "",
+			"town_name": "Sekiyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "蓮田市",
+					"ward_name": "",
+					"town_name": "関山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "蓮田市"
+		},
+		"3490115": {
+			"postcode": "3490115",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Hasuda-shi",
+			"ward_name": "",
+			"town_name": "Hasuda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "蓮田市",
+					"ward_name": "",
+					"town_name": "蓮田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "蓮田市"
+		},
+		"3490114": {
+			"postcode": "3490114",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Hasuda-shi",
+			"ward_name": "",
+			"town_name": "Magome",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "蓮田市",
+					"ward_name": "",
+					"town_name": "馬込",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "蓮田市"
+		},
+		"3490113": {
+			"postcode": "3490113",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Hasuda-shi",
+			"ward_name": "",
+			"town_name": "Sakuradai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "蓮田市",
+					"ward_name": "",
+					"town_name": "桜台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "蓮田市"
+		},
+		"3490112": {
+			"postcode": "3490112",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Hasuda-shi",
+			"ward_name": "",
+			"town_name": "Kawajima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "蓮田市",
+					"ward_name": "",
+					"town_name": "川島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "蓮田市"
+		},
+		"3490111": {
+			"postcode": "3490111",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Hasuda-shi",
+			"ward_name": "",
+			"town_name": "Higashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "蓮田市",
+					"ward_name": "",
+					"town_name": "東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "蓮田市"
+		},
+		"3490104": {
+			"postcode": "3490104",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Hasuda-shi",
+			"ward_name": "",
+			"town_name": "Midoricho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "蓮田市",
+					"ward_name": "",
+					"town_name": "緑町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "蓮田市"
+		},
+		"3490103": {
+			"postcode": "3490103",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Hasuda-shi",
+			"ward_name": "",
+			"town_name": "Sasayama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "蓮田市",
+					"ward_name": "",
+					"town_name": "笹山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "蓮田市"
+		},
+		"3490102": {
+			"postcode": "3490102",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Hasuda-shi",
+			"ward_name": "",
+			"town_name": "Egasaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "蓮田市",
+					"ward_name": "",
+					"town_name": "江ケ崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "蓮田市"
+		},
+		"3490101": {
+			"postcode": "3490101",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Hasuda-shi",
+			"ward_name": "",
+			"town_name": "Kurohama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "蓮田市",
+					"ward_name": "",
+					"town_name": "黒浜",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "蓮田市"
+		},
+		"3490100": {
+			"postcode": "3490100",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Hasuda-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "蓮田市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "蓮田市"
+		}
+	}
+}

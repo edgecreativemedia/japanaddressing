@@ -1,0 +1,2625 @@
+{
+	"country_code": "JP",
+	"parent_id": "666",
+	"locale": "ja-Latn",
+	"address": {
+		"6668501": {
+			"postcode": "6668501",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "中央町",
+			"building_name": "１２−１",
+			"organization_name": "川西市役所",
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "中央町",
+					"building_name": "１２−１",
+					"organization_name": "川西市役所"
+				}
+			}
+		},
+		"6660292": {
+			"postcode": "6660292",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawabe-gun",
+			"ward_name": "Inagawa-cho",
+			"town_name": "上野",
+			"building_name": "字北畑１１−１",
+			"organization_name": "猪名川町役場",
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川辺郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川辺郡",
+					"ward_name": "猪名川町",
+					"town_name": "上野",
+					"building_name": "字北畑１１−１",
+					"organization_name": "猪名川町役場"
+				}
+			}
+		},
+		"6660262": {
+			"postcode": "6660262",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawabe-gun",
+			"ward_name": "Inagawa-cho",
+			"town_name": "Fushimidai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川辺郡",
+					"ward_name": "猪名川町",
+					"town_name": "伏見台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川辺郡"
+		},
+		"6660261": {
+			"postcode": "6660261",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawabe-gun",
+			"ward_name": "Inagawa-cho",
+			"town_name": "Matsuodai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川辺郡",
+					"ward_name": "猪名川町",
+					"town_name": "松尾台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川辺郡"
+		},
+		"6660257": {
+			"postcode": "6660257",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawabe-gun",
+			"ward_name": "Inagawa-cho",
+			"town_name": "Shirogane",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川辺郡",
+					"ward_name": "猪名川町",
+					"town_name": "白金",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川辺郡"
+		},
+		"6660256": {
+			"postcode": "6660256",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawabe-gun",
+			"ward_name": "Inagawa-cho",
+			"town_name": "Ginzan",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川辺郡",
+					"ward_name": "猪名川町",
+					"town_name": "銀山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川辺郡"
+		},
+		"6660255": {
+			"postcode": "6660255",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawabe-gun",
+			"ward_name": "Inagawa-cho",
+			"town_name": "Ibuchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川辺郡",
+					"ward_name": "猪名川町",
+					"town_name": "猪渕",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川辺郡"
+		},
+		"6660254": {
+			"postcode": "6660254",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawabe-gun",
+			"ward_name": "Inagawa-cho",
+			"town_name": "Kimokawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川辺郡",
+					"ward_name": "猪名川町",
+					"town_name": "肝川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川辺郡"
+		},
+		"6660253": {
+			"postcode": "6660253",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawabe-gun",
+			"ward_name": "Inagawa-cho",
+			"town_name": "Sashikumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川辺郡",
+					"ward_name": "猪名川町",
+					"town_name": "差組",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川辺郡"
+		},
+		"6660252": {
+			"postcode": "6660252",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawabe-gun",
+			"ward_name": "Inagawa-cho",
+			"town_name": "Hirone",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川辺郡",
+					"ward_name": "猪名川町",
+					"town_name": "広根",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川辺郡"
+		},
+		"6660251": {
+			"postcode": "6660251",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawabe-gun",
+			"ward_name": "Inagawa-cho",
+			"town_name": "Wakaba",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川辺郡",
+					"ward_name": "猪名川町",
+					"town_name": "若葉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川辺郡"
+		},
+		"6660246": {
+			"postcode": "6660246",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawabe-gun",
+			"ward_name": "Inagawa-cho",
+			"town_name": "Inagawadai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川辺郡",
+					"ward_name": "猪名川町",
+					"town_name": "猪名川台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川辺郡"
+		},
+		"6660245": {
+			"postcode": "6660245",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawabe-gun",
+			"ward_name": "Inagawa-cho",
+			"town_name": "Tsutsujigaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川辺郡",
+					"ward_name": "猪名川町",
+					"town_name": "つつじが丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川辺郡"
+		},
+		"6660244": {
+			"postcode": "6660244",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawabe-gun",
+			"ward_name": "Inagawa-cho",
+			"town_name": "Ueno",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川辺郡",
+					"ward_name": "猪名川町",
+					"town_name": "上野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川辺郡"
+		},
+		"6660243": {
+			"postcode": "6660243",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawabe-gun",
+			"ward_name": "Inagawa-cho",
+			"town_name": "Kashiuda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川辺郡",
+					"ward_name": "猪名川町",
+					"town_name": "柏梨田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川辺郡"
+		},
+		"6660242": {
+			"postcode": "6660242",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawabe-gun",
+			"ward_name": "Inagawa-cho",
+			"town_name": "Hara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川辺郡",
+					"ward_name": "猪名川町",
+					"town_name": "原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川辺郡"
+		},
+		"6660241": {
+			"postcode": "6660241",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawabe-gun",
+			"ward_name": "Inagawa-cho",
+			"town_name": "Uchibaba",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川辺郡",
+					"ward_name": "猪名川町",
+					"town_name": "内馬場",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川辺郡"
+		},
+		"6660238": {
+			"postcode": "6660238",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawabe-gun",
+			"ward_name": "Inagawa-cho",
+			"town_name": "Soen",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川辺郡",
+					"ward_name": "猪名川町",
+					"town_name": "荘苑",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川辺郡"
+		},
+		"6660237": {
+			"postcode": "6660237",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawabe-gun",
+			"ward_name": "Inagawa-cho",
+			"town_name": "Shimoakotani",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川辺郡",
+					"ward_name": "猪名川町",
+					"town_name": "下阿古谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川辺郡"
+		},
+		"6660236": {
+			"postcode": "6660236",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawabe-gun",
+			"ward_name": "Inagawa-cho",
+			"town_name": "Kitatahara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川辺郡",
+					"ward_name": "猪名川町",
+					"town_name": "北田原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川辺郡"
+		},
+		"6660235": {
+			"postcode": "6660235",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawabe-gun",
+			"ward_name": "Inagawa-cho",
+			"town_name": "Minamitahara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川辺郡",
+					"ward_name": "猪名川町",
+					"town_name": "南田原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川辺郡"
+		},
+		"6660234": {
+			"postcode": "6660234",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawabe-gun",
+			"ward_name": "Inagawa-cho",
+			"town_name": "Kitano",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川辺郡",
+					"ward_name": "猪名川町",
+					"town_name": "北野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川辺郡"
+		},
+		"6660233": {
+			"postcode": "6660233",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawabe-gun",
+			"ward_name": "Inagawa-cho",
+			"town_name": "Yuda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川辺郡",
+					"ward_name": "猪名川町",
+					"town_name": "紫合",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川辺郡"
+		},
+		"6660232": {
+			"postcode": "6660232",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawabe-gun",
+			"ward_name": "Inagawa-cho",
+			"town_name": "Tamida",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川辺郡",
+					"ward_name": "猪名川町",
+					"town_name": "民田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川辺郡"
+		},
+		"6660231": {
+			"postcode": "6660231",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawabe-gun",
+			"ward_name": "Inagawa-cho",
+			"town_name": "Kamiakotani",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川辺郡",
+					"ward_name": "猪名川町",
+					"town_name": "上阿古谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川辺郡"
+		},
+		"6660227": {
+			"postcode": "6660227",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawabe-gun",
+			"ward_name": "Inagawa-cho",
+			"town_name": "Sasao",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川辺郡",
+					"ward_name": "猪名川町",
+					"town_name": "笹尾",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川辺郡"
+		},
+		"6660226": {
+			"postcode": "6660226",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawabe-gun",
+			"ward_name": "Inagawa-cho",
+			"town_name": "Hayashita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川辺郡",
+					"ward_name": "猪名川町",
+					"town_name": "林田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川辺郡"
+		},
+		"6660225": {
+			"postcode": "6660225",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawabe-gun",
+			"ward_name": "Inagawa-cho",
+			"town_name": "Kizu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川辺郡",
+					"ward_name": "猪名川町",
+					"town_name": "木津",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川辺郡"
+		},
+		"6660224": {
+			"postcode": "6660224",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawabe-gun",
+			"ward_name": "Inagawa-cho",
+			"town_name": "Manzen",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川辺郡",
+					"ward_name": "猪名川町",
+					"town_name": "万善",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川辺郡"
+		},
+		"6660223": {
+			"postcode": "6660223",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawabe-gun",
+			"ward_name": "Inagawa-cho",
+			"town_name": "Komo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川辺郡",
+					"ward_name": "猪名川町",
+					"town_name": "木間生",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川辺郡"
+		},
+		"6660222": {
+			"postcode": "6660222",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawabe-gun",
+			"ward_name": "Inagawa-cho",
+			"town_name": "Tsukunami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川辺郡",
+					"ward_name": "猪名川町",
+					"town_name": "槻並",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川辺郡"
+		},
+		"6660221": {
+			"postcode": "6660221",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawabe-gun",
+			"ward_name": "Inagawa-cho",
+			"town_name": "Tochihara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川辺郡",
+					"ward_name": "猪名川町",
+					"town_name": "杤原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川辺郡"
+		},
+		"6660215": {
+			"postcode": "6660215",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawabe-gun",
+			"ward_name": "Inagawa-cho",
+			"town_name": "Shima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川辺郡",
+					"ward_name": "猪名川町",
+					"town_name": "島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川辺郡"
+		},
+		"6660214": {
+			"postcode": "6660214",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawabe-gun",
+			"ward_name": "Inagawa-cho",
+			"town_name": "Shimizu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川辺郡",
+					"ward_name": "猪名川町",
+					"town_name": "清水",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川辺郡"
+		},
+		"6660213": {
+			"postcode": "6660213",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawabe-gun",
+			"ward_name": "Inagawa-cho",
+			"town_name": "Shimizuhigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川辺郡",
+					"ward_name": "猪名川町",
+					"town_name": "清水東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川辺郡"
+		},
+		"6660212": {
+			"postcode": "6660212",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawabe-gun",
+			"ward_name": "Inagawa-cho",
+			"town_name": "Asahigaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川辺郡",
+					"ward_name": "猪名川町",
+					"town_name": "旭ケ丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川辺郡"
+		},
+		"6660211": {
+			"postcode": "6660211",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawabe-gun",
+			"ward_name": "Inagawa-cho",
+			"town_name": "Nijoji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川辺郡",
+					"ward_name": "猪名川町",
+					"town_name": "仁頂寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川辺郡"
+		},
+		"6660204": {
+			"postcode": "6660204",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawabe-gun",
+			"ward_name": "Inagawa-cho",
+			"town_name": "Kashihara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川辺郡",
+					"ward_name": "猪名川町",
+					"town_name": "柏原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川辺郡"
+		},
+		"6660203": {
+			"postcode": "6660203",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawabe-gun",
+			"ward_name": "Inagawa-cho",
+			"town_name": "Nishihata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川辺郡",
+					"ward_name": "猪名川町",
+					"town_name": "西畑",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川辺郡"
+		},
+		"6660202": {
+			"postcode": "6660202",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawabe-gun",
+			"ward_name": "Inagawa-cho",
+			"town_name": "Kamakura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川辺郡",
+					"ward_name": "猪名川町",
+					"town_name": "鎌倉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川辺郡"
+		},
+		"6660201": {
+			"postcode": "6660201",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawabe-gun",
+			"ward_name": "Inagawa-cho",
+			"town_name": "Sugio",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川辺郡",
+					"ward_name": "猪名川町",
+					"town_name": "杉生",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川辺郡"
+		},
+		"6660200": {
+			"postcode": "6660200",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawabe-gun",
+			"ward_name": "Inagawa-cho",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川辺郡",
+					"ward_name": "猪名川町",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川辺郡"
+		},
+		"6660162": {
+			"postcode": "6660162",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Takarazuka-shi",
+			"ward_name": "",
+			"town_name": "Hanayashiki",
+			"building_name": "Midorigaoka",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "宝塚市",
+					"ward_name": "",
+					"town_name": "花屋敷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "宝塚市"
+		},
+		"6660161": {
+			"postcode": "6660161",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Takarazuka-shi",
+			"ward_name": "",
+			"town_name": "Kirihata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "宝塚市",
+					"ward_name": "",
+					"town_name": "切畑",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "宝塚市"
+		},
+		"6660158": {
+			"postcode": "6660158",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Seiryudai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "清流台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660157": {
+			"postcode": "6660157",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Midorigaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "緑が丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660156": {
+			"postcode": "6660156",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Ishimichi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "石道",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660155": {
+			"postcode": "6660155",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Nishiuneno",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "西畦野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660154": {
+			"postcode": "6660154",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Yamahara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "山原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660153": {
+			"postcode": "6660153",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Hitokura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "一庫",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660152": {
+			"postcode": "6660152",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Maruyamadai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "丸山台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660151": {
+			"postcode": "6660151",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Miyamadai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "美山台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660148": {
+			"postcode": "6660148",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Akamatsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "赤松",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660147": {
+			"postcode": "6660147",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Wakamiya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "若宮",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660146": {
+			"postcode": "6660146",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Imo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "芋生",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660145": {
+			"postcode": "6660145",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Keyakizaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "けやき坂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660144": {
+			"postcode": "6660144",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Yanagitani",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "柳谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660143": {
+			"postcode": "6660143",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Seiwadai",
+			"building_name": "Nishi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "清和台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660142": {
+			"postcode": "6660142",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Seiwadai",
+			"building_name": "Higashi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "清和台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660141": {
+			"postcode": "6660141",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Mushu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "虫生",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660138": {
+			"postcode": "6660138",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Nishitada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "西多田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660137": {
+			"postcode": "6660137",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Yuyamadai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "湯山台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660136": {
+			"postcode": "6660136",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Minaminosaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "南野坂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660135": {
+			"postcode": "6660135",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Kinshodai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "錦松台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660134": {
+			"postcode": "6660134",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Hagiharadainishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "萩原台西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660133": {
+			"postcode": "6660133",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Uguisudai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "鴬台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660132": {
+			"postcode": "6660132",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Yatohigashimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "矢問東町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660131": {
+			"postcode": "6660131",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Yato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "矢問",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660129": {
+			"postcode": "6660129",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Midoridai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "緑台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660128": {
+			"postcode": "6660128",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Tadain",
+			"building_name": "Nishi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "多田院",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660127": {
+			"postcode": "6660127",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Tadain",
+			"building_name": "Tadadokorocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "多田院",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660126": {
+			"postcode": "6660126",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Tadain",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "多田院",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660125": {
+			"postcode": "6660125",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Shinden",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "新田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660124": {
+			"postcode": "6660124",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Tadasakuragi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "多田桜木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660123": {
+			"postcode": "6660123",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Tsutsumigataki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "鼓が滝",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660122": {
+			"postcode": "6660122",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Higashitada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "東多田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660121": {
+			"postcode": "6660121",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Hirano",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "平野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660117": {
+			"postcode": "6660117",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Higashiuneno",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "東畦野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660116": {
+			"postcode": "6660116",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Suimeidai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "水明台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660115": {
+			"postcode": "6660115",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Koyodai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "向陽台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660114": {
+			"postcode": "6660114",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Higashiunenoyamate",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "東畦野山手",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660113": {
+			"postcode": "6660113",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Nagaocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "長尾町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660112": {
+			"postcode": "6660112",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Daiwa",
+			"building_name": "Nishi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "大和",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660111": {
+			"postcode": "6660111",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Daiwa",
+			"building_name": "Higashi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "大和",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660107": {
+			"postcode": "6660107",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Gezaicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "下財町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660106": {
+			"postcode": "6660106",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Yamashitacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "山下町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660105": {
+			"postcode": "6660105",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Mino",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "見野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660104": {
+			"postcode": "6660104",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Sasabe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "笹部",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660103": {
+			"postcode": "6660103",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Kunisaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "国崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660102": {
+			"postcode": "6660102",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Yokoji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "横路",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660101": {
+			"postcode": "6660101",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Kurokawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "黒川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660037": {
+			"postcode": "6660037",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Matsugaokacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "松が丘町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660036": {
+			"postcode": "6660036",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Hanayashikiyamatecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "花屋敷山手町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660035": {
+			"postcode": "6660035",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Hanayashiki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "花屋敷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660034": {
+			"postcode": "6660034",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Terahata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "寺畑",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660033": {
+			"postcode": "6660033",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Sakaemachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "栄町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660032": {
+			"postcode": "6660032",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Hidakacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "日高町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660031": {
+			"postcode": "6660031",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Kasumigaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "霞ケ丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660026": {
+			"postcode": "6660026",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Minamihanayashiki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "南花屋敷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660025": {
+			"postcode": "6660025",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Kamo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "加茂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660024": {
+			"postcode": "6660024",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Kushiro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "久代",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660023": {
+			"postcode": "6660023",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Higashikushiro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "東久代",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660022": {
+			"postcode": "6660022",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Shitakamo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "下加茂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660021": {
+			"postcode": "6660021",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Sakane",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "栄根",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660017": {
+			"postcode": "6660017",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Hiuchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "火打",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660016": {
+			"postcode": "6660016",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Chuocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "中央町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660015": {
+			"postcode": "6660015",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Obana",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "小花",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660014": {
+			"postcode": "6660014",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Obe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "小戸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660013": {
+			"postcode": "6660013",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Misonocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "美園町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660012": {
+			"postcode": "6660012",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Kinunobecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "絹延町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660011": {
+			"postcode": "6660011",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Dezaikecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "出在家町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660007": {
+			"postcode": "6660007",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Uguisugaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "鴬が丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660006": {
+			"postcode": "6660006",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Hagiharadainishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "萩原台西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660005": {
+			"postcode": "6660005",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Hagiharadaihigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "萩原台東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660004": {
+			"postcode": "6660004",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Hagihara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "萩原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660003": {
+			"postcode": "6660003",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Marunochicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "丸の内町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660002": {
+			"postcode": "6660002",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Takiyamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "滝山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660001": {
+			"postcode": "6660001",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "Uguisunomoricho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "鴬の森町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		},
+		"6660000": {
+			"postcode": "6660000",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Kawanishi-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "川西市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "川西市"
+		}
+	}
+}

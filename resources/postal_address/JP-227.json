@@ -1,0 +1,821 @@
+{
+	"country_code": "JP",
+	"parent_id": "227",
+	"locale": "ja-Latn",
+	"address": {
+		"2278540": {
+			"postcode": "2278540",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Aoba-ku",
+			"town_name": "恩田町",
+			"building_name": "７０４",
+			"organization_name": "東急テクノシステム　株式会社　長津田工場",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "青葉区",
+					"town_name": "恩田町",
+					"building_name": "７０４",
+					"organization_name": "東急テクノシステム　株式会社　長津田工場"
+				}
+			}
+		},
+		"2278522": {
+			"postcode": "2278522",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Aoba-ku",
+			"town_name": "さつきが丘",
+			"building_name": "８−８０",
+			"organization_name": "星槎大学　横浜情報処理センター",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "青葉区",
+					"town_name": "さつきが丘",
+					"building_name": "８−８０",
+					"organization_name": "星槎大学　横浜情報処理センター"
+				}
+			}
+		},
+		"2278518": {
+			"postcode": "2278518",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Aoba-ku",
+			"town_name": "藤が丘",
+			"building_name": "２丁目１−１",
+			"organization_name": "昭和大学藤が丘リハビリテーション病院",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "青葉区",
+					"town_name": "藤が丘",
+					"building_name": "２丁目１−１",
+					"organization_name": "昭和大学藤が丘リハビリテーション病院"
+				}
+			}
+		},
+		"2278512": {
+			"postcode": "2278512",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Aoba-ku",
+			"town_name": "梅が丘",
+			"building_name": "６−２",
+			"organization_name": "日本たばこ産業　株式会社　たばこ中央研究所",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "青葉区",
+					"town_name": "梅が丘",
+					"building_name": "６−２",
+					"organization_name": "日本たばこ産業　株式会社　たばこ中央研究所"
+				}
+			}
+		},
+		"2278508": {
+			"postcode": "2278508",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Aoba-ku",
+			"town_name": "しらとり台",
+			"building_name": "３４−１３",
+			"organization_name": "丸子電気工事　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "青葉区",
+					"town_name": "しらとり台",
+					"building_name": "３４−１３",
+					"organization_name": "丸子電気工事　株式会社"
+				}
+			}
+		},
+		"2278505": {
+			"postcode": "2278505",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Aoba-ku",
+			"town_name": "藤が丘",
+			"building_name": "２丁目９−１",
+			"organization_name": "藤が丘女子学生会館",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "青葉区",
+					"town_name": "藤が丘",
+					"building_name": "２丁目９−１",
+					"organization_name": "藤が丘女子学生会館"
+				}
+			}
+		},
+		"2278502": {
+			"postcode": "2278502",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Aoba-ku",
+			"town_name": "鴨志田町",
+			"building_name": "１０００",
+			"organization_name": "三菱化学　株式会社　横浜センター",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "青葉区",
+					"town_name": "鴨志田町",
+					"building_name": "１０００",
+					"organization_name": "三菱化学　株式会社　横浜センター"
+				}
+			}
+		},
+		"2278501": {
+			"postcode": "2278501",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Aoba-ku",
+			"town_name": "藤が丘",
+			"building_name": "１丁目３０",
+			"organization_name": "昭和大学藤が丘病院",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "青葉区",
+					"town_name": "藤が丘",
+					"building_name": "１丁目３０",
+					"organization_name": "昭和大学藤が丘病院"
+				}
+			}
+		},
+		"2270067": {
+			"postcode": "2270067",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Aoba-ku",
+			"town_name": "Matsukazedai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "青葉区",
+					"town_name": "松風台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2270066": {
+			"postcode": "2270066",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Aoba-ku",
+			"town_name": "Akanedai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "青葉区",
+					"town_name": "あかね台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2270065": {
+			"postcode": "2270065",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Aoba-ku",
+			"town_name": "Ondacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "青葉区",
+					"town_name": "恩田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2270064": {
+			"postcode": "2270064",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Aoba-ku",
+			"town_name": "Tanacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "青葉区",
+					"town_name": "田奈町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2270063": {
+			"postcode": "2270063",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Aoba-ku",
+			"town_name": "Enokigaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "青葉区",
+					"town_name": "榎が丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2270062": {
+			"postcode": "2270062",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Aoba-ku",
+			"town_name": "Aobadai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "青葉区",
+					"town_name": "青葉台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2270061": {
+			"postcode": "2270061",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Aoba-ku",
+			"town_name": "Sakuradai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "青葉区",
+					"town_name": "桜台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2270055": {
+			"postcode": "2270055",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Aoba-ku",
+			"town_name": "Tsutsujigaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "青葉区",
+					"town_name": "つつじが丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2270054": {
+			"postcode": "2270054",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Aoba-ku",
+			"town_name": "Shiratoridai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "青葉区",
+					"town_name": "しらとり台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2270053": {
+			"postcode": "2270053",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Aoba-ku",
+			"town_name": "Satsukigaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "青葉区",
+					"town_name": "さつきが丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2270052": {
+			"postcode": "2270052",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Aoba-ku",
+			"town_name": "Umegaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "青葉区",
+					"town_name": "梅が丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2270051": {
+			"postcode": "2270051",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Aoba-ku",
+			"town_name": "Chigusadai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "青葉区",
+					"town_name": "千草台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2270048": {
+			"postcode": "2270048",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Aoba-ku",
+			"town_name": "Kakinokidai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "青葉区",
+					"town_name": "柿の木台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2270047": {
+			"postcode": "2270047",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Aoba-ku",
+			"town_name": "Mitakedai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "青葉区",
+					"town_name": "みたけ台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2270046": {
+			"postcode": "2270046",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Aoba-ku",
+			"town_name": "Tachibanadai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "青葉区",
+					"town_name": "たちばな台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2270045": {
+			"postcode": "2270045",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Aoba-ku",
+			"town_name": "Wakakusadai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "青葉区",
+					"town_name": "若草台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2270044": {
+			"postcode": "2270044",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Aoba-ku",
+			"town_name": "Moegino",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "青葉区",
+					"town_name": "もえぎ野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2270043": {
+			"postcode": "2270043",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Aoba-ku",
+			"town_name": "Fujigaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "青葉区",
+					"town_name": "藤が丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2270042": {
+			"postcode": "2270042",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Aoba-ku",
+			"town_name": "Shimoyamotocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "青葉区",
+					"town_name": "下谷本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2270041": {
+			"postcode": "2270041",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Aoba-ku",
+			"town_name": "Kamiyamotocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "青葉区",
+					"town_name": "上谷本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2270038": {
+			"postcode": "2270038",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Aoba-ku",
+			"town_name": "Nara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "青葉区",
+					"town_name": "奈良",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2270037": {
+			"postcode": "2270037",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Aoba-ku",
+			"town_name": "Midoriyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "青葉区",
+					"town_name": "緑山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2270036": {
+			"postcode": "2270036",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Aoba-ku",
+			"town_name": "Naracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "青葉区",
+					"town_name": "奈良町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2270035": {
+			"postcode": "2270035",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Aoba-ku",
+			"town_name": "Sumiyoshidai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "青葉区",
+					"town_name": "すみよし台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2270034": {
+			"postcode": "2270034",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Aoba-ku",
+			"town_name": "Katsuradai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "青葉区",
+					"town_name": "桂台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2270033": {
+			"postcode": "2270033",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Aoba-ku",
+			"town_name": "Kamoshidacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "青葉区",
+					"town_name": "鴨志田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2270032": {
+			"postcode": "2270032",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Aoba-ku",
+			"town_name": "Nariaicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "青葉区",
+					"town_name": "成合町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2270031": {
+			"postcode": "2270031",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Aoba-ku",
+			"town_name": "Jikecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "青葉区",
+					"town_name": "寺家町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2270000": {
+			"postcode": "2270000",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Aoba-ku",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "青葉区",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		}
+	}
+}

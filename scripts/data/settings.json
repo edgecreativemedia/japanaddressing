@@ -1,0 +1,23 @@
+{
+	"country_code": "JP",
+	"locale": "ja-Latn",
+	"settings": {	
+		"csv_primary": {
+			"KEN_ALL_ROME": "TRUE",
+			"KEN_ALL": "FALSE"
+		},			
+		"csv_secondary": {
+			"JIGYOSYO": "TRUE"
+		},	
+		"csv_local_url": {
+			"KEN_ALL_ROME": "/data/source/KEN_ALL_ROME.CSV",
+			"KEN_ALL": "/data/source/KEN_ALL.CSV",
+			"JIGYOSYO": "/data/source/JIGYOSYO.CSV"			
+		},
+		"csv_remote_url": {
+			"KEN_ALL_ROME": "http://www.post.japanpost.jp/zipcode/dl/roman/ken_all_rome.zip",
+			"KEN_ALL": "http://www.post.japanpost.jp/zipcode/dl/kogaki/zip/ken_all.zip",
+			"JIGYOSYO": "http://www.post.japanpost.jp/zipcode/dl/jigyosyo/zip/jigyosyo.zip"			
+		}
+	}
+}	

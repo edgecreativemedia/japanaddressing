@@ -1,0 +1,2911 @@
+{
+	"country_code": "JP",
+	"parent_id": "250",
+	"locale": "ja-Latn",
+	"address": {
+		"2508588": {
+			"postcode": "2508588",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "城山",
+			"building_name": "１丁目２−２５",
+			"organization_name": "国際医療福祉大学　小田原保健医療学部",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "城山",
+					"building_name": "１丁目２−２５",
+					"organization_name": "国際医療福祉大学　小田原保健医療学部"
+				}
+			}
+		},
+		"2508560": {
+			"postcode": "2508560",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "扇町",
+			"building_name": "４−５−１",
+			"organization_name": "アマゾン　小田原ＦＣ　入庫係",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "扇町",
+					"building_name": "４−５−１",
+					"organization_name": "アマゾン　小田原ＦＣ　入庫係"
+				}
+			}
+		},
+		"2508555": {
+			"postcode": "2508555",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "荻窪",
+			"building_name": "３００",
+			"organization_name": "小田原市役所",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "荻窪",
+					"building_name": "３００",
+					"organization_name": "小田原市役所"
+				}
+			}
+		},
+		"2508511": {
+			"postcode": "2508511",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "荻窪",
+			"building_name": "４４０",
+			"organization_name": "小田原税務署",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "荻窪",
+					"building_name": "４４０",
+					"organization_name": "小田原税務署"
+				}
+			}
+		},
+		"2500878": {
+			"postcode": "2500878",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Shimoshinden",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "下新田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500877": {
+			"postcode": "2500877",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Kamishinden",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "上新田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500876": {
+			"postcode": "2500876",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Nakashinden",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "中新田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500875": {
+			"postcode": "2500875",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Minamikamonomiya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "南鴨宮",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500874": {
+			"postcode": "2500874",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Kamonomiya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "鴨宮",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500873": {
+			"postcode": "2500873",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Yahagi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "矢作",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500872": {
+			"postcode": "2500872",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Nakazato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "中里",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500871": {
+			"postcode": "2500871",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Shimobori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "下堀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500866": {
+			"postcode": "2500866",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Nakazone",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "中曽根",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500865": {
+			"postcode": "2500865",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Renshoji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "蓮正寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500864": {
+			"postcode": "2500864",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Anabeshinden",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "穴部新田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500863": {
+			"postcode": "2500863",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Iizumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "飯泉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500862": {
+			"postcode": "2500862",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Naruda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "成田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500861": {
+			"postcode": "2500861",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Kuwahara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "桑原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500858": {
+			"postcode": "2500858",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Kodai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "小台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500857": {
+			"postcode": "2500857",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Yanagishinden",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "柳新田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500856": {
+			"postcode": "2500856",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Araya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "新屋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500855": {
+			"postcode": "2500855",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Shimizushinden",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "清水新田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500854": {
+			"postcode": "2500854",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Iidaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "飯田岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500853": {
+			"postcode": "2500853",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Horinochi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "堀之内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500852": {
+			"postcode": "2500852",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Kayama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "栢山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500851": {
+			"postcode": "2500851",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Sobi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "曽比",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500631": {
+			"postcode": "2500631",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Ashigarashimo-gun",
+			"ward_name": "Hakone-machi",
+			"town_name": "Sengokuhara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "足柄下郡",
+					"ward_name": "箱根町",
+					"town_name": "仙石原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "足柄下郡"
+		},
+		"2500592": {
+			"postcode": "2500592",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Ashigarashimo-gun",
+			"ward_name": "Hakone-machi",
+			"town_name": "元箱根",
+			"building_name": "１４４",
+			"organization_name": "箱根プリンスホテル",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "足柄下郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "足柄下郡",
+					"ward_name": "箱根町",
+					"town_name": "元箱根",
+					"building_name": "１４４",
+					"organization_name": "箱根プリンスホテル"
+				}
+			}
+		},
+		"2500523": {
+			"postcode": "2500523",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Ashigarashimo-gun",
+			"ward_name": "Hakone-machi",
+			"town_name": "Ashinoyu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "足柄下郡",
+					"ward_name": "箱根町",
+					"town_name": "芦之湯",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "足柄下郡"
+		},
+		"2500522": {
+			"postcode": "2500522",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Ashigarashimo-gun",
+			"ward_name": "Hakone-machi",
+			"town_name": "Motohakone",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "足柄下郡",
+					"ward_name": "箱根町",
+					"town_name": "元箱根",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "足柄下郡"
+		},
+		"2500521": {
+			"postcode": "2500521",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Ashigarashimo-gun",
+			"ward_name": "Hakone-machi",
+			"town_name": "Hakone",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "足柄下郡",
+					"ward_name": "箱根町",
+					"town_name": "箱根",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "足柄下郡"
+		},
+		"2500500": {
+			"postcode": "2500500",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Ashigarashimo-gun",
+			"ward_name": "Hakone-machi",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "足柄下郡",
+					"ward_name": "箱根町",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "足柄下郡"
+		},
+		"2500493": {
+			"postcode": "2500493",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Ashigarashimo-gun",
+			"ward_name": "Hakone-machi",
+			"town_name": "ニノ平",
+			"building_name": "１１２１",
+			"organization_name": "公益財団法人　彫刻の森芸術文化財団　彫刻の森美術館",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "足柄下郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "足柄下郡",
+					"ward_name": "箱根町",
+					"town_name": "ニノ平",
+					"building_name": "１１２１",
+					"organization_name": "公益財団法人　彫刻の森芸術文化財団　彫刻の森美術館"
+				}
+			}
+		},
+		"2500408": {
+			"postcode": "2500408",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Ashigarashimo-gun",
+			"ward_name": "Hakone-machi",
+			"town_name": "Gora",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "足柄下郡",
+					"ward_name": "箱根町",
+					"town_name": "強羅",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "足柄下郡"
+		},
+		"2500407": {
+			"postcode": "2500407",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Ashigarashimo-gun",
+			"ward_name": "Hakone-machi",
+			"town_name": "Ninotaira",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "足柄下郡",
+					"ward_name": "箱根町",
+					"town_name": "二ノ平",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "足柄下郡"
+		},
+		"2500406": {
+			"postcode": "2500406",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Ashigarashimo-gun",
+			"ward_name": "Hakone-machi",
+			"town_name": "Kowakudani",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "足柄下郡",
+					"ward_name": "箱根町",
+					"town_name": "小涌谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "足柄下郡"
+		},
+		"2500405": {
+			"postcode": "2500405",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Ashigarashimo-gun",
+			"ward_name": "Hakone-machi",
+			"town_name": "Ohiradai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "足柄下郡",
+					"ward_name": "箱根町",
+					"town_name": "大平台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "足柄下郡"
+		},
+		"2500404": {
+			"postcode": "2500404",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Ashigarashimo-gun",
+			"ward_name": "Hakone-machi",
+			"town_name": "Miyanoshita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "足柄下郡",
+					"ward_name": "箱根町",
+					"town_name": "宮ノ下",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "足柄下郡"
+		},
+		"2500403": {
+			"postcode": "2500403",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Ashigarashimo-gun",
+			"ward_name": "Hakone-machi",
+			"town_name": "Sokokura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "足柄下郡",
+					"ward_name": "箱根町",
+					"town_name": "底倉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "足柄下郡"
+		},
+		"2500402": {
+			"postcode": "2500402",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Ashigarashimo-gun",
+			"ward_name": "Hakone-machi",
+			"town_name": "Kiga",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "足柄下郡",
+					"ward_name": "箱根町",
+					"town_name": "木賀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "足柄下郡"
+		},
+		"2500401": {
+			"postcode": "2500401",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Ashigarashimo-gun",
+			"ward_name": "Hakone-machi",
+			"town_name": "Miyagino",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "足柄下郡",
+					"ward_name": "箱根町",
+					"town_name": "宮城野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "足柄下郡"
+		},
+		"2500398": {
+			"postcode": "2500398",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Ashigarashimo-gun",
+			"ward_name": "Hakone-machi",
+			"town_name": "Yumoto",
+			"building_name": "２５６",
+			"organization_name": "箱根町役場",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "足柄下郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "足柄下郡",
+					"ward_name": "箱根町",
+					"town_name": "湯本",
+					"building_name": "２５６",
+					"organization_name": "箱根町役場"
+				}
+			}
+		},
+		"2500392": {
+			"postcode": "2500392",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Ashigarashimo-gun",
+			"ward_name": "Hakone-machi",
+			"town_name": "Yumoto",
+			"building_name": "２５６−１",
+			"organization_name": "富士屋ホテル　株式会社　湯本富士屋ホテル",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "足柄下郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "足柄下郡",
+					"ward_name": "箱根町",
+					"town_name": "湯本",
+					"building_name": "２５６−１",
+					"organization_name": "富士屋ホテル　株式会社　湯本富士屋ホテル"
+				}
+			}
+		},
+		"2500315": {
+			"postcode": "2500315",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Ashigarashimo-gun",
+			"ward_name": "Hakone-machi",
+			"town_name": "Tonosawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "足柄下郡",
+					"ward_name": "箱根町",
+					"town_name": "塔之澤",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "足柄下郡"
+		},
+		"2500314": {
+			"postcode": "2500314",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Ashigarashimo-gun",
+			"ward_name": "Hakone-machi",
+			"town_name": "Hatajuku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "足柄下郡",
+					"ward_name": "箱根町",
+					"town_name": "畑宿",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "足柄下郡"
+		},
+		"2500313": {
+			"postcode": "2500313",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Ashigarashimo-gun",
+			"ward_name": "Hakone-machi",
+			"town_name": "Sukumogawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "足柄下郡",
+					"ward_name": "箱根町",
+					"town_name": "須雲川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "足柄下郡"
+		},
+		"2500312": {
+			"postcode": "2500312",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Ashigarashimo-gun",
+			"ward_name": "Hakone-machi",
+			"town_name": "Yumotochaya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "足柄下郡",
+					"ward_name": "箱根町",
+					"town_name": "湯本茶屋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "足柄下郡"
+		},
+		"2500311": {
+			"postcode": "2500311",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Ashigarashimo-gun",
+			"ward_name": "Hakone-machi",
+			"town_name": "Yumoto",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "足柄下郡",
+					"ward_name": "箱根町",
+					"town_name": "湯本",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "足柄下郡"
+		},
+		"2500298": {
+			"postcode": "2500298",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "鬼柳",
+			"building_name": "１７２−１３",
+			"organization_name": "株式会社　大川",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "鬼柳",
+					"building_name": "１７２−１３",
+					"organization_name": "株式会社　大川"
+				}
+			}
+		},
+		"2500296": {
+			"postcode": "2500296",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "高田",
+			"building_name": "４０１",
+			"organization_name": "小田原市水道局",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "高田",
+					"building_name": "４０１",
+					"organization_name": "小田原市水道局"
+				}
+			}
+		},
+		"2500295": {
+			"postcode": "2500295",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "高田",
+			"building_name": "３１３",
+			"organization_name": "日本インジェクタ　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "高田",
+					"building_name": "３１３",
+					"organization_name": "日本インジェクタ　株式会社"
+				}
+			}
+		},
+		"2500294": {
+			"postcode": "2500294",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "鬼柳",
+			"building_name": "１８４−６",
+			"organization_name": "有限会社　ルートフィッシィング",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "鬼柳",
+					"building_name": "１８４−６",
+					"organization_name": "有限会社　ルートフィッシィング"
+				}
+			}
+		},
+		"2500293": {
+			"postcode": "2500293",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "西大友",
+			"building_name": "２０５−２",
+			"organization_name": "愛光電気　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "西大友",
+					"building_name": "２０５−２",
+					"organization_name": "愛光電気　株式会社"
+				}
+			}
+		},
+		"2500292": {
+			"postcode": "2500292",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "鬼柳",
+			"building_name": "１３８−２４",
+			"organization_name": "株式会社　竿好",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "鬼柳",
+					"building_name": "１３８−２４",
+					"organization_name": "株式会社　竿好"
+				}
+			}
+		},
+		"2500280": {
+			"postcode": "2500280",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "高田",
+			"building_name": "３４５",
+			"organization_name": "日本曹達　株式会社　小田原研究所",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "高田",
+					"building_name": "３４５",
+					"organization_name": "日本曹達　株式会社　小田原研究所"
+				}
+			}
+		},
+		"2500218": {
+			"postcode": "2500218",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Nobukiyo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "延清",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500217": {
+			"postcode": "2500217",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Beppori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "別堀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500216": {
+			"postcode": "2500216",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Takata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "高田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500215": {
+			"postcode": "2500215",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Chiyo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "千代",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500214": {
+			"postcode": "2500214",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Nagatsuka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "永塚",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500213": {
+			"postcode": "2500213",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Higashiodomo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "東大友",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500212": {
+			"postcode": "2500212",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Nishiodomo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "西大友",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500211": {
+			"postcode": "2500211",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Oniyanagi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "鬼柳",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500208": {
+			"postcode": "2500208",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Shimooi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "下大井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500207": {
+			"postcode": "2500207",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Soga",
+			"building_name": "Komi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "曽我",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500206": {
+			"postcode": "2500206",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Sogahara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "曽我原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500205": {
+			"postcode": "2500205",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Soga",
+			"building_name": "Bessho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "曽我",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500204": {
+			"postcode": "2500204",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Soga",
+			"building_name": "Yatsu",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "曽我",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500203": {
+			"postcode": "2500203",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Soga",
+			"building_name": "Kishi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "曽我",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500202": {
+			"postcode": "2500202",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Kamisoga",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "上曽我",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500201": {
+			"postcode": "2500201",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Soga",
+			"building_name": "Osawa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "曽我",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500192": {
+			"postcode": "2500192",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Minamiashigara-shi",
+			"ward_name": "",
+			"town_name": "関本",
+			"building_name": "４４０番地",
+			"organization_name": "南足柄市役所",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "南足柄市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "南足柄市",
+					"ward_name": "",
+					"town_name": "関本",
+					"building_name": "４４０番地",
+					"organization_name": "南足柄市役所"
+				}
+			}
+		},
+		"2500136": {
+			"postcode": "2500136",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Minamiashigara-shi",
+			"ward_name": "",
+			"town_name": "Yagurazawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "南足柄市",
+					"ward_name": "",
+					"town_name": "矢倉沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "南足柄市"
+		},
+		"2500135": {
+			"postcode": "2500135",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Minamiashigara-shi",
+			"ward_name": "",
+			"town_name": "Karino",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "南足柄市",
+					"ward_name": "",
+					"town_name": "苅野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "南足柄市"
+		},
+		"2500134": {
+			"postcode": "2500134",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Minamiashigara-shi",
+			"ward_name": "",
+			"town_name": "Amatsubo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "南足柄市",
+					"ward_name": "",
+					"town_name": "雨坪",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "南足柄市"
+		},
+		"2500133": {
+			"postcode": "2500133",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Minamiashigara-shi",
+			"ward_name": "",
+			"town_name": "Fukusen",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "南足柄市",
+					"ward_name": "",
+					"town_name": "福泉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "南足柄市"
+		},
+		"2500132": {
+			"postcode": "2500132",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Minamiashigara-shi",
+			"ward_name": "",
+			"town_name": "Kosaiji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "南足柄市",
+					"ward_name": "",
+					"town_name": "弘西寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "南足柄市"
+		},
+		"2500131": {
+			"postcode": "2500131",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Minamiashigara-shi",
+			"ward_name": "",
+			"town_name": "Uchiyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "南足柄市",
+					"ward_name": "",
+					"town_name": "内山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "南足柄市"
+		},
+		"2500127": {
+			"postcode": "2500127",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Minamiashigara-shi",
+			"ward_name": "",
+			"town_name": "Daiyucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "南足柄市",
+					"ward_name": "",
+					"town_name": "大雄町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "南足柄市"
+		},
+		"2500126": {
+			"postcode": "2500126",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Minamiashigara-shi",
+			"ward_name": "",
+			"town_name": "Kano",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "南足柄市",
+					"ward_name": "",
+					"town_name": "狩野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "南足柄市"
+		},
+		"2500125": {
+			"postcode": "2500125",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Minamiashigara-shi",
+			"ward_name": "",
+			"town_name": "Komagatashinshuku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "南足柄市",
+					"ward_name": "",
+					"town_name": "駒形新宿",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "南足柄市"
+		},
+		"2500124": {
+			"postcode": "2500124",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Minamiashigara-shi",
+			"ward_name": "",
+			"town_name": "Ikoma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "南足柄市",
+					"ward_name": "",
+					"town_name": "生駒",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "南足柄市"
+		},
+		"2500123": {
+			"postcode": "2500123",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Minamiashigara-shi",
+			"ward_name": "",
+			"town_name": "Nakanuma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "南足柄市",
+					"ward_name": "",
+					"town_name": "中沼",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "南足柄市"
+		},
+		"2500122": {
+			"postcode": "2500122",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Minamiashigara-shi",
+			"ward_name": "",
+			"town_name": "Iizawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "南足柄市",
+					"ward_name": "",
+					"town_name": "飯沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "南足柄市"
+		},
+		"2500121": {
+			"postcode": "2500121",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Minamiashigara-shi",
+			"ward_name": "",
+			"town_name": "Hiromachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "南足柄市",
+					"ward_name": "",
+					"town_name": "広町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "南足柄市"
+		},
+		"2500117": {
+			"postcode": "2500117",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Minamiashigara-shi",
+			"ward_name": "",
+			"town_name": "Tsukahara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "南足柄市",
+					"ward_name": "",
+					"town_name": "塚原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "南足柄市"
+		},
+		"2500116": {
+			"postcode": "2500116",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Minamiashigara-shi",
+			"ward_name": "",
+			"town_name": "Mitake",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "南足柄市",
+					"ward_name": "",
+					"town_name": "三竹",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "南足柄市"
+		},
+		"2500115": {
+			"postcode": "2500115",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Minamiashigara-shi",
+			"ward_name": "",
+			"town_name": "Numata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "南足柄市",
+					"ward_name": "",
+					"town_name": "沼田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "南足柄市"
+		},
+		"2500114": {
+			"postcode": "2500114",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Minamiashigara-shi",
+			"ward_name": "",
+			"town_name": "Kitakubo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "南足柄市",
+					"ward_name": "",
+					"town_name": "北窪",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "南足柄市"
+		},
+		"2500113": {
+			"postcode": "2500113",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Minamiashigara-shi",
+			"ward_name": "",
+			"town_name": "Iwahara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "南足柄市",
+					"ward_name": "",
+					"town_name": "岩原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "南足柄市"
+		},
+		"2500112": {
+			"postcode": "2500112",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Minamiashigara-shi",
+			"ward_name": "",
+			"town_name": "Wadagahara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "南足柄市",
+					"ward_name": "",
+					"town_name": "和田河原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "南足柄市"
+		},
+		"2500111": {
+			"postcode": "2500111",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Minamiashigara-shi",
+			"ward_name": "",
+			"town_name": "Takematsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "南足柄市",
+					"ward_name": "",
+					"town_name": "竹松",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "南足柄市"
+		},
+		"2500107": {
+			"postcode": "2500107",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Minamiashigara-shi",
+			"ward_name": "",
+			"town_name": "Koichi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "南足柄市",
+					"ward_name": "",
+					"town_name": "小市",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "南足柄市"
+		},
+		"2500106": {
+			"postcode": "2500106",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Minamiashigara-shi",
+			"ward_name": "",
+			"town_name": "Nuda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "南足柄市",
+					"ward_name": "",
+					"town_name": "怒田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "南足柄市"
+		},
+		"2500105": {
+			"postcode": "2500105",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Minamiashigara-shi",
+			"ward_name": "",
+			"town_name": "Sekimoto",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "南足柄市",
+					"ward_name": "",
+					"town_name": "関本",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "南足柄市"
+		},
+		"2500104": {
+			"postcode": "2500104",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Minamiashigara-shi",
+			"ward_name": "",
+			"town_name": "Mukaida",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "南足柄市",
+					"ward_name": "",
+					"town_name": "向田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "南足柄市"
+		},
+		"2500103": {
+			"postcode": "2500103",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Minamiashigara-shi",
+			"ward_name": "",
+			"town_name": "Mamashita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "南足柄市",
+					"ward_name": "",
+					"town_name": "壗下",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "南足柄市"
+		},
+		"2500102": {
+			"postcode": "2500102",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Minamiashigara-shi",
+			"ward_name": "",
+			"town_name": "Senzushima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "南足柄市",
+					"ward_name": "",
+					"town_name": "千津島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "南足柄市"
+		},
+		"2500101": {
+			"postcode": "2500101",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Minamiashigara-shi",
+			"ward_name": "",
+			"town_name": "Madarame",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "南足柄市",
+					"ward_name": "",
+					"town_name": "班目",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "南足柄市"
+		},
+		"2500100": {
+			"postcode": "2500100",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Minamiashigara-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "南足柄市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "南足柄市"
+		},
+		"2500056": {
+			"postcode": "2500056",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Isaida",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "井細田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500055": {
+			"postcode": "2500055",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Kuno",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "久野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500054": {
+			"postcode": "2500054",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Tako",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "多古",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500053": {
+			"postcode": "2500053",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Anabe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "穴部",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500052": {
+			"postcode": "2500052",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Fukawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "府川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500051": {
+			"postcode": "2500051",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Kitanokubo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "北ノ窪",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500046": {
+			"postcode": "2500046",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Juji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "十字",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500045": {
+			"postcode": "2500045",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Shiroyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "城山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500044": {
+			"postcode": "2500044",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Midori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "緑",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500043": {
+			"postcode": "2500043",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Yatsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "谷津",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500042": {
+			"postcode": "2500042",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Ogikubo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "荻窪",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500041": {
+			"postcode": "2500041",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Ikegami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "池上",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500035": {
+			"postcode": "2500035",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Minamiitabashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "南板橋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500034": {
+			"postcode": "2500034",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Itabashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "板橋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500033": {
+			"postcode": "2500033",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Mizuno",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "水之尾",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500032": {
+			"postcode": "2500032",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Kazamatsuri",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "風祭",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500031": {
+			"postcode": "2500031",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Iryuda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "入生田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500025": {
+			"postcode": "2500025",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Enora",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "江之浦",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500024": {
+			"postcode": "2500024",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Nebukawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "根府川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500023": {
+			"postcode": "2500023",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Komekami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "米神",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500022": {
+			"postcode": "2500022",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Ishibashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "石橋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500021": {
+			"postcode": "2500021",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Hayakawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "早川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500014": {
+			"postcode": "2500014",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Jonai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "城内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500013": {
+			"postcode": "2500013",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Minamicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "南町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500012": {
+			"postcode": "2500012",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Honcho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500011": {
+			"postcode": "2500011",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Sakaecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "栄町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500005": {
+			"postcode": "2500005",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Nakacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "中町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500004": {
+			"postcode": "2500004",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Hamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "浜町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500003": {
+			"postcode": "2500003",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Higashicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "東町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500002": {
+			"postcode": "2500002",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Kotobukicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "寿町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500001": {
+			"postcode": "2500001",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "Ogicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "扇町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		},
+		"2500000": {
+			"postcode": "2500000",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Odawara-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "小田原市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "小田原市"
+		}
+	}
+}

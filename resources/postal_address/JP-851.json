@@ -1,0 +1,3901 @@
+{
+	"country_code": "JP",
+	"parent_id": "851",
+	"locale": "ja-Latn",
+	"address": {
+		"8513592": {
+			"postcode": "8513592",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Saikai-shi",
+			"ward_name": "",
+			"town_name": "西海町木場郷",
+			"building_name": "２２３５",
+			"organization_name": "西海市役所　西海総合支所",
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西海市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西海市",
+					"ward_name": "",
+					"town_name": "西海町木場郷",
+					"building_name": "２２３５",
+					"organization_name": "西海市役所　西海総合支所"
+				}
+			}
+		},
+		"8513511": {
+			"postcode": "8513511",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Saikai-shi",
+			"ward_name": "",
+			"town_name": "Saikaicho",
+			"building_name": "Mizunorago",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西海市",
+					"ward_name": "",
+					"town_name": "西海町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西海市"
+		},
+		"8513509": {
+			"postcode": "8513509",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Saikai-shi",
+			"ward_name": "",
+			"town_name": "Saikaicho",
+			"building_name": "Yokosego",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西海市",
+					"ward_name": "",
+					"town_name": "西海町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西海市"
+		},
+		"8513508": {
+			"postcode": "8513508",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Saikai-shi",
+			"ward_name": "",
+			"town_name": "Saikaicho",
+			"building_name": "Omodakago",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西海市",
+					"ward_name": "",
+					"town_name": "西海町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西海市"
+		},
+		"8513507": {
+			"postcode": "8513507",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Saikai-shi",
+			"ward_name": "",
+			"town_name": "Saikaicho",
+			"building_name": "Amakubogo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西海市",
+					"ward_name": "",
+					"town_name": "西海町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西海市"
+		},
+		"8513506": {
+			"postcode": "8513506",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Saikai-shi",
+			"ward_name": "",
+			"town_name": "Saikaicho",
+			"building_name": "Kurokuchigo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西海市",
+					"ward_name": "",
+					"town_name": "西海町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西海市"
+		},
+		"8513505": {
+			"postcode": "8513505",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Saikai-shi",
+			"ward_name": "",
+			"town_name": "Saikaicho",
+			"building_name": "Otawago",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西海市",
+					"ward_name": "",
+					"town_name": "西海町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西海市"
+		},
+		"8513504": {
+			"postcode": "8513504",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Saikai-shi",
+			"ward_name": "",
+			"town_name": "Saikaicho",
+			"building_name": "Kobago",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西海市",
+					"ward_name": "",
+					"town_name": "西海町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西海市"
+		},
+		"8513503": {
+			"postcode": "8513503",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Saikai-shi",
+			"ward_name": "",
+			"town_name": "Saikaicho",
+			"building_name": "Otaharago",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西海市",
+					"ward_name": "",
+					"town_name": "西海町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西海市"
+		},
+		"8513502": {
+			"postcode": "8513502",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Saikai-shi",
+			"ward_name": "",
+			"town_name": "Saikaicho",
+			"building_name": "Kawachigo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西海市",
+					"ward_name": "",
+					"town_name": "西海町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西海市"
+		},
+		"8513501": {
+			"postcode": "8513501",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Saikai-shi",
+			"ward_name": "",
+			"town_name": "Saikaicho",
+			"building_name": "Tannogo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西海市",
+					"ward_name": "",
+					"town_name": "西海町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西海市"
+		},
+		"8513500": {
+			"postcode": "8513500",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Saikai-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西海市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西海市"
+		},
+		"8513425": {
+			"postcode": "8513425",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Saikai-shi",
+			"ward_name": "",
+			"town_name": "Seihicho",
+			"building_name": "Hirayamago",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西海市",
+					"ward_name": "",
+					"town_name": "西彼町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西海市"
+		},
+		"8513424": {
+			"postcode": "8513424",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Saikai-shi",
+			"ward_name": "",
+			"town_name": "Seihicho",
+			"building_name": "Okushigo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西海市",
+					"ward_name": "",
+					"town_name": "西彼町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西海市"
+		},
+		"8513423": {
+			"postcode": "8513423",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Saikai-shi",
+			"ward_name": "",
+			"town_name": "Seihicho",
+			"building_name": "Yakiharago",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西海市",
+					"ward_name": "",
+					"town_name": "西彼町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西海市"
+		},
+		"8513422": {
+			"postcode": "8513422",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Saikai-shi",
+			"ward_name": "",
+			"town_name": "Seihicho",
+			"building_name": "Komukaego",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西海市",
+					"ward_name": "",
+					"town_name": "西彼町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西海市"
+		},
+		"8513421": {
+			"postcode": "8513421",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Saikai-shi",
+			"ward_name": "",
+			"town_name": "Seihicho",
+			"building_name": "Inorago",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西海市",
+					"ward_name": "",
+					"town_name": "西彼町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西海市"
+		},
+		"8513406": {
+			"postcode": "8513406",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Saikai-shi",
+			"ward_name": "",
+			"town_name": "Seihicho",
+			"building_name": "Torikago",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西海市",
+					"ward_name": "",
+					"town_name": "西彼町",
+					"building_name": "鳥加郷",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西海市"
+		},
+		"8513394": {
+			"postcode": "8513394",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Saikai-shi",
+			"ward_name": "",
+			"town_name": "西彼町喰場郷",
+			"building_name": "１５６７",
+			"organization_name": "宗教法人　「生長の家」総本山",
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西海市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西海市",
+					"ward_name": "",
+					"town_name": "西彼町喰場郷",
+					"building_name": "１５６７",
+					"organization_name": "宗教法人　「生長の家」総本山"
+				}
+			}
+		},
+		"8513392": {
+			"postcode": "8513392",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Saikai-shi",
+			"ward_name": "",
+			"town_name": "西彼町喰場郷",
+			"building_name": "７３６",
+			"organization_name": "西海市役所　西彼総合支所",
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西海市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西海市",
+					"ward_name": "",
+					"town_name": "西彼町喰場郷",
+					"building_name": "７３６",
+					"organization_name": "西海市役所　西彼総合支所"
+				}
+			}
+		},
+		"8513315": {
+			"postcode": "8513315",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Saikai-shi",
+			"ward_name": "",
+			"town_name": "Seihicho",
+			"building_name": "Hirabarugo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西海市",
+					"ward_name": "",
+					"town_name": "西彼町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西海市"
+		},
+		"8513314": {
+			"postcode": "8513314",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Saikai-shi",
+			"ward_name": "",
+			"town_name": "Seihicho",
+			"building_name": "Shiranitago",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西海市",
+					"ward_name": "",
+					"town_name": "西彼町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西海市"
+		},
+		"8513313": {
+			"postcode": "8513313",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Saikai-shi",
+			"ward_name": "",
+			"town_name": "Seihicho",
+			"building_name": "Kazahayago",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西海市",
+					"ward_name": "",
+					"town_name": "西彼町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西海市"
+		},
+		"8513312": {
+			"postcode": "8513312",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Saikai-shi",
+			"ward_name": "",
+			"town_name": "Seihicho",
+			"building_name": "Shirosakigo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西海市",
+					"ward_name": "",
+					"town_name": "西彼町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西海市"
+		},
+		"8513311": {
+			"postcode": "8513311",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Saikai-shi",
+			"ward_name": "",
+			"town_name": "Seihicho",
+			"building_name": "Shimotakego",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西海市",
+					"ward_name": "",
+					"town_name": "西彼町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西海市"
+		},
+		"8513306": {
+			"postcode": "8513306",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Saikai-shi",
+			"ward_name": "",
+			"town_name": "Seihicho",
+			"building_name": "Torikago",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西海市",
+					"ward_name": "",
+					"town_name": "西彼町",
+					"building_name": "鳥加郷",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西海市"
+		},
+		"8513305": {
+			"postcode": "8513305",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Saikai-shi",
+			"ward_name": "",
+			"town_name": "Seihicho",
+			"building_name": "Jikibago",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西海市",
+					"ward_name": "",
+					"town_name": "西彼町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西海市"
+		},
+		"8513304": {
+			"postcode": "8513304",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Saikai-shi",
+			"ward_name": "",
+			"town_name": "Seihicho",
+			"building_name": "Kamidakego",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西海市",
+					"ward_name": "",
+					"town_name": "西彼町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西海市"
+		},
+		"8513303": {
+			"postcode": "8513303",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Saikai-shi",
+			"ward_name": "",
+			"town_name": "Seihicho",
+			"building_name": "Kameurago",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西海市",
+					"ward_name": "",
+					"town_name": "西彼町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西海市"
+		},
+		"8513302": {
+			"postcode": "8513302",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Saikai-shi",
+			"ward_name": "",
+			"town_name": "Seihicho",
+			"building_name": "Nakayamago",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西海市",
+					"ward_name": "",
+					"town_name": "西彼町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西海市"
+		},
+		"8513301": {
+			"postcode": "8513301",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Saikai-shi",
+			"ward_name": "",
+			"town_name": "Seihicho",
+			"building_name": "Miyaurago",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西海市",
+					"ward_name": "",
+					"town_name": "西彼町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西海市"
+		},
+		"8513292": {
+			"postcode": "8513292",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "長浦町",
+			"building_name": "２６６４",
+			"organization_name": "長崎市役所　琴海行政センター",
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "長浦町",
+					"building_name": "２６６４",
+					"organization_name": "長崎市役所　琴海行政センター"
+				}
+			}
+		},
+		"8513215": {
+			"postcode": "8513215",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Kinkai",
+			"building_name": "Odomachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "琴海",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8513214": {
+			"postcode": "8513214",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Kinkai",
+			"building_name": "Ohiramachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "琴海",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8513213": {
+			"postcode": "8513213",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Kinkai",
+			"building_name": "Katagamimachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "琴海",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8513212": {
+			"postcode": "8513212",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Nagauramachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "長浦町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8513211": {
+			"postcode": "8513211",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Kinkai",
+			"building_name": "Toneharamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "琴海",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8513103": {
+			"postcode": "8513103",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Kinkai",
+			"building_name": "Tonemachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "琴海",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8513102": {
+			"postcode": "8513102",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Kinkai",
+			"building_name": "Muramatsumachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "琴海",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8513101": {
+			"postcode": "8513101",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Nishiumimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "西海町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8512492": {
+			"postcode": "8512492",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "神浦夏井町",
+			"building_name": "３９１",
+			"organization_name": "長崎市役所　外海行政センター",
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "神浦夏井町",
+					"building_name": "３９１",
+					"organization_name": "長崎市役所　外海行政センター"
+				}
+			}
+		},
+		"8512427": {
+			"postcode": "8512427",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Shimoonomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "下大野町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8512426": {
+			"postcode": "8512426",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Kamionomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "上大野町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8512425": {
+			"postcode": "8512425",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Konorashimodotokumachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "神浦下道徳町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8512424": {
+			"postcode": "8512424",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Konorakamidotokumachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "神浦上道徳町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8512423": {
+			"postcode": "8512423",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Konorashimoonakaomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "神浦下大中尾町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8512422": {
+			"postcode": "8512422",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Konorakamionakaomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "神浦上大中尾町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8512421": {
+			"postcode": "8512421",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Konorakitaonakaomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "神浦北大中尾町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8512413": {
+			"postcode": "8512413",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Konoranatsuimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "神浦夏井町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8512411": {
+			"postcode": "8512411",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Konoraogiyamamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "神浦扇山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8512405": {
+			"postcode": "8512405",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Konoramukaimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "神浦向町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8512404": {
+			"postcode": "8512404",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Konoramaruomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "神浦丸尾町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8512403": {
+			"postcode": "8512403",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Konoraegawamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "神浦江川町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8512401": {
+			"postcode": "8512401",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Konorakuchibukumachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "神浦口福町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8512327": {
+			"postcode": "8512327",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Higashishitsumachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "東出津町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8512326": {
+			"postcode": "8512326",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Shimokurosakimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "下黒崎町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8512325": {
+			"postcode": "8512325",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Nagatamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "永田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8512324": {
+			"postcode": "8512324",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Kamikurosakimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "上黒崎町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8512323": {
+			"postcode": "8512323",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Shimmakinomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "新牧野町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8512322": {
+			"postcode": "8512322",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Nishishitsumachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "西出津町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8512321": {
+			"postcode": "8512321",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Akakubimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "赤首町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8512298": {
+			"postcode": "8512298",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "京泊",
+			"building_name": "３丁目３−１",
+			"organization_name": "株式会社　ヤマス",
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "京泊",
+					"building_name": "３丁目３−１",
+					"organization_name": "株式会社　ヤマス"
+				}
+			}
+		},
+		"8512292": {
+			"postcode": "8512292",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "京泊",
+			"building_name": "３丁目３−１",
+			"organization_name": "長崎魚市　株式会社",
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "京泊",
+					"building_name": "３丁目３−１",
+					"organization_name": "長崎魚市　株式会社"
+				}
+			}
+		},
+		"8512216": {
+			"postcode": "8512216",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Hoyodai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "豊洋台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8512215": {
+			"postcode": "8512215",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Narumidai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "鳴見台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8512214": {
+			"postcode": "8512214",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Narumimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "鳴見町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8512213": {
+			"postcode": "8512213",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Tairamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "多以良町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8512212": {
+			"postcode": "8512212",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Azekarimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "畝刈町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8512211": {
+			"postcode": "8512211",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Kyodomari",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "京泊",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8512207": {
+			"postcode": "8512207",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Sakuranosato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "さくらの里",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8512206": {
+			"postcode": "8512206",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Sankyomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "三京町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8512205": {
+			"postcode": "8512205",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Matsuzakimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "松崎町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8512204": {
+			"postcode": "8512204",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Miemachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "三重町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8512203": {
+			"postcode": "8512203",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Miedamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "三重田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8512202": {
+			"postcode": "8512202",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Kashiyamamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "樫山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8512201": {
+			"postcode": "8512201",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Azemachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "畦町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8512198": {
+			"postcode": "8512198",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nishisonogi-gun",
+			"ward_name": "Togitsu-cho",
+			"town_name": "浦郷",
+			"building_name": "２７４−１",
+			"organization_name": "時津町役場",
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西彼杵郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西彼杵郡",
+					"ward_name": "時津町",
+					"town_name": "浦郷",
+					"building_name": "２７４−１",
+					"organization_name": "時津町役場"
+				}
+			}
+		},
+		"8512197": {
+			"postcode": "8512197",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nishisonogi-gun",
+			"ward_name": "Togitsu-cho",
+			"town_name": "左底郷",
+			"building_name": "２４５−２",
+			"organization_name": "学校法人　青雲学園（青雲高等学校．青雲中学校）",
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西彼杵郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西彼杵郡",
+					"ward_name": "時津町",
+					"town_name": "左底郷",
+					"building_name": "２４５−２",
+					"organization_name": "学校法人　青雲学園（青雲高等学校．青雲中学校）"
+				}
+			}
+		},
+		"8512196": {
+			"postcode": "8512196",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nishisonogi-gun",
+			"ward_name": "Togitsu-cho",
+			"town_name": "元村郷",
+			"building_name": "１０１０−１",
+			"organization_name": "長崎外国語短期大学",
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西彼杵郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西彼杵郡",
+					"ward_name": "時津町",
+					"town_name": "元村郷",
+					"building_name": "１０１０−１",
+					"organization_name": "長崎外国語短期大学"
+				}
+			}
+		},
+		"8512195": {
+			"postcode": "8512195",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nishisonogi-gun",
+			"ward_name": "Nagayo-cho",
+			"town_name": "まなび野",
+			"building_name": "１丁目１−１",
+			"organization_name": "県立　長崎シーボルト大学",
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西彼杵郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西彼杵郡",
+					"ward_name": "長与町",
+					"town_name": "まなび野",
+					"building_name": "１丁目１−１",
+					"organization_name": "県立　長崎シーボルト大学"
+				}
+			}
+		},
+		"8512185": {
+			"postcode": "8512185",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nishisonogi-gun",
+			"ward_name": "Nagayo-cho",
+			"town_name": "嬉里郷",
+			"building_name": "６５９−１",
+			"organization_name": "長与町役場",
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西彼杵郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西彼杵郡",
+					"ward_name": "長与町",
+					"town_name": "嬉里郷",
+					"building_name": "６５９−１",
+					"organization_name": "長与町役場"
+				}
+			}
+		},
+		"8512130": {
+			"postcode": "8512130",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nishisonogi-gun",
+			"ward_name": "Nagayo-cho",
+			"town_name": "Manabino",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西彼杵郡",
+					"ward_name": "長与町",
+					"town_name": "まなび野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西彼杵郡"
+		},
+		"8512129": {
+			"postcode": "8512129",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nishisonogi-gun",
+			"ward_name": "Nagayo-cho",
+			"town_name": "Saitogo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西彼杵郡",
+					"ward_name": "長与町",
+					"town_name": "斉藤郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西彼杵郡"
+		},
+		"8512128": {
+			"postcode": "8512128",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nishisonogi-gun",
+			"ward_name": "Nagayo-cho",
+			"town_name": "Urerigo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西彼杵郡",
+					"ward_name": "長与町",
+					"town_name": "嬉里郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西彼杵郡"
+		},
+		"8512127": {
+			"postcode": "8512127",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nishisonogi-gun",
+			"ward_name": "Nagayo-cho",
+			"town_name": "Kodago",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西彼杵郡",
+					"ward_name": "長与町",
+					"town_name": "高田郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西彼杵郡"
+		},
+		"8512126": {
+			"postcode": "8512126",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nishisonogi-gun",
+			"ward_name": "Nagayo-cho",
+			"town_name": "Yoshimutago",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西彼杵郡",
+					"ward_name": "長与町",
+					"town_name": "吉無田郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西彼杵郡"
+		},
+		"8512125": {
+			"postcode": "8512125",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nishisonogi-gun",
+			"ward_name": "Nagayo-cho",
+			"town_name": "Minego",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西彼杵郡",
+					"ward_name": "長与町",
+					"town_name": "三根郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西彼杵郡"
+		},
+		"8512124": {
+			"postcode": "8512124",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nishisonogi-gun",
+			"ward_name": "Nagayo-cho",
+			"town_name": "Marutago",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西彼杵郡",
+					"ward_name": "長与町",
+					"town_name": "丸田郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西彼杵郡"
+		},
+		"8512123": {
+			"postcode": "8512123",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nishisonogi-gun",
+			"ward_name": "Nagayo-cho",
+			"town_name": "Hirakobago",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西彼杵郡",
+					"ward_name": "長与町",
+					"town_name": "平木場郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西彼杵郡"
+		},
+		"8512122": {
+			"postcode": "8512122",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nishisonogi-gun",
+			"ward_name": "Nagayo-cho",
+			"town_name": "Hongawachigo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西彼杵郡",
+					"ward_name": "長与町",
+					"town_name": "本川内郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西彼杵郡"
+		},
+		"8512121": {
+			"postcode": "8512121",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nishisonogi-gun",
+			"ward_name": "Nagayo-cho",
+			"town_name": "Okago",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西彼杵郡",
+					"ward_name": "長与町",
+					"town_name": "岡郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西彼杵郡"
+		},
+		"8512111": {
+			"postcode": "8512111",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nishisonogi-gun",
+			"ward_name": "Togitsu-cho",
+			"town_name": "Shishigawago",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西彼杵郡",
+					"ward_name": "時津町",
+					"town_name": "子々川郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西彼杵郡"
+		},
+		"8512108": {
+			"postcode": "8512108",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nishisonogi-gun",
+			"ward_name": "Togitsu-cho",
+			"town_name": "Hinamigo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西彼杵郡",
+					"ward_name": "時津町",
+					"town_name": "日並郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西彼杵郡"
+		},
+		"8512107": {
+			"postcode": "8512107",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nishisonogi-gun",
+			"ward_name": "Togitsu-cho",
+			"town_name": "Kururigo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西彼杵郡",
+					"ward_name": "時津町",
+					"town_name": "久留里郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西彼杵郡"
+		},
+		"8512106": {
+			"postcode": "8512106",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nishisonogi-gun",
+			"ward_name": "Togitsu-cho",
+			"town_name": "Sasokogo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西彼杵郡",
+					"ward_name": "時津町",
+					"town_name": "左底郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西彼杵郡"
+		},
+		"8512105": {
+			"postcode": "8512105",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nishisonogi-gun",
+			"ward_name": "Togitsu-cho",
+			"town_name": "Urago",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西彼杵郡",
+					"ward_name": "時津町",
+					"town_name": "浦郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西彼杵郡"
+		},
+		"8512104": {
+			"postcode": "8512104",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nishisonogi-gun",
+			"ward_name": "Togitsu-cho",
+			"town_name": "Nodago",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西彼杵郡",
+					"ward_name": "時津町",
+					"town_name": "野田郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西彼杵郡"
+		},
+		"8512103": {
+			"postcode": "8512103",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nishisonogi-gun",
+			"ward_name": "Togitsu-cho",
+			"town_name": "Motomurago",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西彼杵郡",
+					"ward_name": "時津町",
+					"town_name": "元村郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西彼杵郡"
+		},
+		"8512102": {
+			"postcode": "8512102",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nishisonogi-gun",
+			"ward_name": "Togitsu-cho",
+			"town_name": "Hamadago",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西彼杵郡",
+					"ward_name": "時津町",
+					"town_name": "浜田郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西彼杵郡"
+		},
+		"8512101": {
+			"postcode": "8512101",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nishisonogi-gun",
+			"ward_name": "Togitsu-cho",
+			"town_name": "Nishitogitsugo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西彼杵郡",
+					"ward_name": "時津町",
+					"town_name": "西時津郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西彼杵郡"
+		},
+		"8512100": {
+			"postcode": "8512100",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nishisonogi-gun",
+			"ward_name": "Nagayo-cho",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "西彼杵郡",
+					"ward_name": "長与町",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "西彼杵郡"
+		},
+		"8511315": {
+			"postcode": "8511315",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Takashimamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "高島町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8511201": {
+			"postcode": "8511201",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Iojimamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "伊王島町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8511137": {
+			"postcode": "8511137",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Shikimimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "式見町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8511136": {
+			"postcode": "8511136",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Mukaemachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "向町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8511135": {
+			"postcode": "8511135",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Tegumamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "手熊町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8511134": {
+			"postcode": "8511134",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Kakidomarimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "柿泊町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8511133": {
+			"postcode": "8511133",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Koemachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "小江町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8511132": {
+			"postcode": "8511132",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Koebaru",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "小江原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8511131": {
+			"postcode": "8511131",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Kamiuramachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "上浦町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8511125": {
+			"postcode": "8511125",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Sonodamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "園田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8511124": {
+			"postcode": "8511124",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Makinomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "牧野町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8511123": {
+			"postcode": "8511123",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Yotsuemachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "四杖町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8511122": {
+			"postcode": "8511122",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Aigawamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "相川町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8511121": {
+			"postcode": "8511121",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Misakimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "見崎町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510592": {
+			"postcode": "8510592",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "野母町",
+			"building_name": "１６６５",
+			"organization_name": "長崎市役所　野母崎行政センター",
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "野母町",
+					"building_name": "１６６５",
+					"organization_name": "長崎市役所　野母崎行政センター"
+				}
+			}
+		},
+		"8510507": {
+			"postcode": "8510507",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Nomozakikabashimamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "野母崎樺島町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510506": {
+			"postcode": "8510506",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Wakimisakimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "脇岬町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510505": {
+			"postcode": "8510505",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Nomomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "野母町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510504": {
+			"postcode": "8510504",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Nangoshimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "南越町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510503": {
+			"postcode": "8510503",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Takahamamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "高浜町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510502": {
+			"postcode": "8510502",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Igayadomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "以下宿町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510501": {
+			"postcode": "8510501",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Kurohamamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "黒浜町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510498": {
+			"postcode": "8510498",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "布巻町",
+			"building_name": "１１１−１",
+			"organization_name": "長崎市役所　三和行政センター",
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "布巻町",
+					"building_name": "１１１−１",
+					"organization_name": "長崎市役所　三和行政センター"
+				}
+			}
+		},
+		"8510497": {
+			"postcode": "8510497",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "布巻町",
+			"building_name": "１４７７",
+			"organization_name": "三和みのり園",
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "布巻町",
+					"building_name": "１４７７",
+					"organization_name": "三和みのり園"
+				}
+			}
+		},
+		"8510494": {
+			"postcode": "8510494",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "布巻町",
+			"building_name": "１６５−１",
+			"organization_name": "医療法人　清潮会　三和病院",
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "布巻町",
+					"building_name": "１６５−１",
+					"organization_name": "医療法人　清潮会　三和病院"
+				}
+			}
+		},
+		"8510493": {
+			"postcode": "8510493",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "布巻町",
+			"building_name": "１６５−１",
+			"organization_name": "医療法人　清潮会　老人保健施設　みどりの里",
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "布巻町",
+					"building_name": "１６５−１",
+					"organization_name": "医療法人　清潮会　老人保健施設　みどりの里"
+				}
+			}
+		},
+		"8510492": {
+			"postcode": "8510492",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "蚊焼町",
+			"building_name": "２３１４−１",
+			"organization_name": "医療法人　共生会　長崎友愛病院",
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "蚊焼町",
+					"building_name": "２３１４−１",
+					"organization_name": "医療法人　共生会　長崎友愛病院"
+				}
+			}
+		},
+		"8510408": {
+			"postcode": "8510408",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Miyazakimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "宮崎町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510407": {
+			"postcode": "8510407",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Kawaramachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "川原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510406": {
+			"postcode": "8510406",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Tsubakigaokamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "椿が丘町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510405": {
+			"postcode": "8510405",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Tameshimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "為石町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510404": {
+			"postcode": "8510404",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Todaomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "藤田尾町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510403": {
+			"postcode": "8510403",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Nunomakimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "布巻町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510402": {
+			"postcode": "8510402",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Harumidaimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "晴海台町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510401": {
+			"postcode": "8510401",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Kayakimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "蚊焼町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510395": {
+			"postcode": "8510395",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "香焼町",
+			"building_name": "１０７０−３２",
+			"organization_name": "長崎市役所　香焼行政センター",
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "香焼町",
+					"building_name": "１０７０−３２",
+					"organization_name": "長崎市役所　香焼行政センター"
+				}
+			}
+		},
+		"8510392": {
+			"postcode": "8510392",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "深堀町",
+			"building_name": "５丁目７１７−１",
+			"organization_name": "三菱重工業　株式会社　技術本部長崎研究所",
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "深堀町",
+					"building_name": "５丁目７１７−１",
+					"organization_name": "三菱重工業　株式会社　技術本部長崎研究所"
+				}
+			}
+		},
+		"8510310": {
+			"postcode": "8510310",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Koyagimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "香焼町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510302": {
+			"postcode": "8510302",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Ogomorimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "大籠町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510301": {
+			"postcode": "8510301",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Fukahorimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "深堀町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510255": {
+			"postcode": "8510255",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Otaomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "太田尾町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510254": {
+			"postcode": "8510254",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Ikanoramachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "飯香浦町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510253": {
+			"postcode": "8510253",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Hayasakamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "早坂町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510252": {
+			"postcode": "8510252",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Tadewaramachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "田手原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510251": {
+			"postcode": "8510251",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Tagami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "田上",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510245": {
+			"postcode": "8510245",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Chijimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "千々町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510244": {
+			"postcode": "8510244",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Osakimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "大崎町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510243": {
+			"postcode": "8510243",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Miyazurimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "宮摺町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510242": {
+			"postcode": "8510242",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Kitauramachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "北浦町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510241": {
+			"postcode": "8510241",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Mogimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "茂木町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510198": {
+			"postcode": "8510198",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "中里町",
+			"building_name": "２１７８",
+			"organization_name": "株式会社　たらみ",
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "中里町",
+					"building_name": "２１７８",
+					"organization_name": "株式会社　たらみ"
+				}
+			}
+		},
+		"8510195": {
+			"postcode": "8510195",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "田中町",
+			"building_name": "２０２２（長崎東郵便局私書箱第５号）",
+			"organization_name": "藤村薬品　株式会社",
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "田中町",
+					"building_name": "２０２２（長崎東郵便局私書箱第５号）",
+					"organization_name": "藤村薬品　株式会社"
+				}
+			}
+		},
+		"8510193": {
+			"postcode": "8510193",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "網場町",
+			"building_name": "５３６",
+			"organization_name": "学校法人　長崎総合科学大学",
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "網場町",
+					"building_name": "５３６",
+					"organization_name": "学校法人　長崎総合科学大学"
+				}
+			}
+		},
+		"8510137": {
+			"postcode": "8510137",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Takashirodai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "高城台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510136": {
+			"postcode": "8510136",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Hiramamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "平間町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510135": {
+			"postcode": "8510135",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Utsutsugawamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "現川町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510134": {
+			"postcode": "8510134",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Tanakamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "田中町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510133": {
+			"postcode": "8510133",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Yagamimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "矢上町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510132": {
+			"postcode": "8510132",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Tsurunomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "鶴の尾町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510131": {
+			"postcode": "8510131",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Matsubaramachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "松原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510126": {
+			"postcode": "8510126",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Susukizukamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "芒塚町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510125": {
+			"postcode": "8510125",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Shiomimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "潮見町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510124": {
+			"postcode": "8510124",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Kasugamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "春日町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510123": {
+			"postcode": "8510123",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Abamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "網場町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510122": {
+			"postcode": "8510122",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Sakai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "界",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510121": {
+			"postcode": "8510121",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Shukumachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "宿町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510116": {
+			"postcode": "8510116",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Higashimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "東町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510115": {
+			"postcode": "8510115",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Kakido",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "かき道",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510114": {
+			"postcode": "8510114",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Makishimamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "牧島町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510113": {
+			"postcode": "8510113",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Toishimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "戸石町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510112": {
+			"postcode": "8510112",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Kawachimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "川内町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510111": {
+			"postcode": "8510111",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Kamitoishimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "上戸石町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510104": {
+			"postcode": "8510104",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Funaishimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "船石町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510103": {
+			"postcode": "8510103",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Nakazatomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "中里町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510102": {
+			"postcode": "8510102",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Tsutsujigaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "つつじが丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		},
+		"8510101": {
+			"postcode": "8510101",
+			"prefecture_name": "Nagasaki-ken",
+			"city_name": "Nagasaki-shi",
+			"ward_name": "",
+			"town_name": "Kogamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "長崎県",
+					"city_name": "長崎市",
+					"ward_name": "",
+					"town_name": "古賀町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"city_code": "長崎市"
+		}
+	}
+}

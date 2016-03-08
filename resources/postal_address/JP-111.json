@@ -1,0 +1,2163 @@
+{
+	"country_code": "JP",
+	"parent_id": "111",
+	"locale": "ja-Latn",
+	"address": {
+		"1118798": {
+			"postcode": "1118798",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "西浅草",
+			"building_name": "１丁目１−１",
+			"organization_name": "日本郵政　株式会社　ＣＲＥ部門　ファシリティマネジメント部",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "西浅草",
+					"building_name": "１丁目１−１",
+					"organization_name": "日本郵政　株式会社　ＣＲＥ部門　ファシリティマネジメント部"
+				}
+			}
+		},
+		"1118765": {
+			"postcode": "1118765",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "西浅草",
+			"building_name": "３丁目１７−１",
+			"organization_name": "浅草ビューホテル",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "西浅草",
+					"building_name": "３丁目１７−１",
+					"organization_name": "浅草ビューホテル"
+				}
+			}
+		},
+		"1118755": {
+			"postcode": "1118755",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "蔵前",
+			"building_name": "２丁目５−３",
+			"organization_name": "株式会社　筑摩書房",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "蔵前",
+					"building_name": "２丁目５−３",
+					"organization_name": "株式会社　筑摩書房"
+				}
+			}
+		},
+		"1118721": {
+			"postcode": "1118721",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "寿",
+			"building_name": "３丁目１９−８（浅草郵便局私書箱第１１４号）",
+			"organization_name": "株式会社　シンエイ",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "寿",
+					"building_name": "３丁目１９−８（浅草郵便局私書箱第１１４号）",
+					"organization_name": "株式会社　シンエイ"
+				}
+			}
+		},
+		"1118711": {
+			"postcode": "1118711",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "浅草",
+			"building_name": "４丁目４０−４（浅草郵便局私書箱第１８号）",
+			"organization_name": "株式会社　陶漆芸巧",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "浅草",
+					"building_name": "４丁目４０−４（浅草郵便局私書箱第１８号）",
+					"organization_name": "株式会社　陶漆芸巧"
+				}
+			}
+		},
+		"1118710": {
+			"postcode": "1118710",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "寿",
+			"building_name": "１丁目５−９（浅草郵便局私書箱第１０８号）",
+			"organization_name": "ユウユウ〈株式会社ユウメディア〉",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "寿",
+					"building_name": "１丁目５−９（浅草郵便局私書箱第１０８号）",
+					"organization_name": "ユウユウ〈株式会社ユウメディア〉"
+				}
+			}
+		},
+		"1118708": {
+			"postcode": "1118708",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "雷門",
+			"building_name": "２丁目１６−９（浅草郵便局私書箱第１０号）",
+			"organization_name": "野村ファンドネット証券　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "雷門",
+					"building_name": "２丁目１６−９（浅草郵便局私書箱第１０号）",
+					"organization_name": "野村ファンドネット証券　株式会社"
+				}
+			}
+		},
+		"1118707": {
+			"postcode": "1118707",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "台東",
+			"building_name": "２丁目７−６（浅草郵便局私書箱第９７号）",
+			"organization_name": "株式会社　東京デジタルホン",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "台東",
+					"building_name": "２丁目７−６（浅草郵便局私書箱第９７号）",
+					"organization_name": "株式会社　東京デジタルホン"
+				}
+			}
+		},
+		"1118701": {
+			"postcode": "1118701",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "浅草",
+			"building_name": "１丁目１−２（浅草郵便局私書箱第２５号）",
+			"organization_name": "大和証券　雷門支店",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "浅草",
+					"building_name": "１丁目１−２（浅草郵便局私書箱第２５号）",
+					"organization_name": "大和証券　雷門支店"
+				}
+			}
+		},
+		"1118688": {
+			"postcode": "1118688",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "寿",
+			"building_name": "１丁目６−８（浅草郵便局私書箱第９１号）",
+			"organization_name": "株式会社　盛光",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "寿",
+					"building_name": "１丁目６−８（浅草郵便局私書箱第９１号）",
+					"organization_name": "株式会社　盛光"
+				}
+			}
+		},
+		"1118686": {
+			"postcode": "1118686",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "寿",
+			"building_name": "３丁目７−１１（浅草郵便局私書箱第５１号）",
+			"organization_name": "株式会社　神栄",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "寿",
+					"building_name": "３丁目７−１１（浅草郵便局私書箱第５１号）",
+					"organization_name": "株式会社　神栄"
+				}
+			}
+		},
+		"1118683": {
+			"postcode": "1118683",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "雷門",
+			"building_name": "１丁目２−１１フコク生命ビル５Ｆ（浅草郵便局私書箱第８３号）",
+			"organization_name": "中部物産貿易　株式会社　東京支店",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "雷門",
+					"building_name": "１丁目２−１１フコク生命ビル５Ｆ（浅草郵便局私書箱第８３号）",
+					"organization_name": "中部物産貿易　株式会社　東京支店"
+				}
+			}
+		},
+		"1118681": {
+			"postcode": "1118681",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "駒形",
+			"building_name": "１丁目１２−３（浅草郵便局私書箱第４０号）",
+			"organization_name": "株式会社　エポック社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "駒形",
+					"building_name": "１丁目１２−３（浅草郵便局私書箱第４０号）",
+					"organization_name": "株式会社　エポック社"
+				}
+			}
+		},
+		"1118678": {
+			"postcode": "1118678",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "蔵前",
+			"building_name": "２丁目６−４",
+			"organization_name": "株式会社　増田屋コーポレーション",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "蔵前",
+					"building_name": "２丁目６−４",
+					"organization_name": "株式会社　増田屋コーポレーション"
+				}
+			}
+		},
+		"1118677": {
+			"postcode": "1118677",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "元浅草",
+			"building_name": "２丁目６番６号東京日産台東ビル７階",
+			"organization_name": "首都圏新都市鉄道　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "元浅草",
+					"building_name": "２丁目６番６号東京日産台東ビル７階",
+					"organization_name": "首都圏新都市鉄道　株式会社"
+				}
+			}
+		},
+		"1118676": {
+			"postcode": "1118676",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "雷門",
+			"building_name": "２丁目１９−１７",
+			"organization_name": "株式会社　アルメックス",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "雷門",
+					"building_name": "２丁目１９−１７",
+					"organization_name": "株式会社　アルメックス"
+				}
+			}
+		},
+		"1118666": {
+			"postcode": "1118666",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "浅草",
+			"building_name": "６丁目３０−８",
+			"organization_name": "レデイマドラス　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "浅草",
+					"building_name": "６丁目３０−８",
+					"organization_name": "レデイマドラス　株式会社"
+				}
+			}
+		},
+		"1118661": {
+			"postcode": "1118661",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "柳橋",
+			"building_name": "２丁目１６−１６",
+			"organization_name": "株式会社　マルショウエンドウ",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "柳橋",
+					"building_name": "２丁目１６−１６",
+					"organization_name": "株式会社　マルショウエンドウ"
+				}
+			}
+		},
+		"1118656": {
+			"postcode": "1118656",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "元浅草",
+			"building_name": "２丁目１１−７",
+			"organization_name": "永寿総合病院",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "元浅草",
+					"building_name": "２丁目１１−７",
+					"organization_name": "永寿総合病院"
+				}
+			}
+		},
+		"1118655": {
+			"postcode": "1118655",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "駒形",
+			"building_name": "１丁目８−１０",
+			"organization_name": "エース　株式会社　東京店",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "駒形",
+					"building_name": "１丁目８−１０",
+					"organization_name": "エース　株式会社　東京店"
+				}
+			}
+		},
+		"1118650": {
+			"postcode": "1118650",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "駒形",
+			"building_name": "１丁目４−１８",
+			"organization_name": "緑川化成工業　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "駒形",
+					"building_name": "１丁目４−１８",
+					"organization_name": "緑川化成工業　株式会社"
+				}
+			}
+		},
+		"1118648": {
+			"postcode": "1118648",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "浅草橋",
+			"building_name": "５丁目２０−８ＣＳタワー",
+			"organization_name": "八千代エンジニヤリング　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "浅草橋",
+					"building_name": "５丁目２０−８ＣＳタワー",
+					"organization_name": "八千代エンジニヤリング　株式会社"
+				}
+			}
+		},
+		"1118642": {
+			"postcode": "1118642",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "浅草",
+			"building_name": "２丁目３４−１０",
+			"organization_name": "株式会社　トークツ",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "浅草",
+					"building_name": "２丁目３４−１０",
+					"organization_name": "株式会社　トークツ"
+				}
+			}
+		},
+		"1118640": {
+			"postcode": "1118640",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "浅草橋",
+			"building_name": "１丁目１０−１０",
+			"organization_name": "株式会社　内田",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "浅草橋",
+					"building_name": "１丁目１０−１０",
+					"organization_name": "株式会社　内田"
+				}
+			}
+		},
+		"1118639": {
+			"postcode": "1118639",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "元浅草",
+			"building_name": "１丁目１−１",
+			"organization_name": "三平建設　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "元浅草",
+					"building_name": "１丁目１−１",
+					"organization_name": "三平建設　株式会社"
+				}
+			}
+		},
+		"1118637": {
+			"postcode": "1118637",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "柳橋",
+			"building_name": "２丁目１７−４",
+			"organization_name": "小野田ケミコ　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "柳橋",
+					"building_name": "２丁目１７−４",
+					"organization_name": "小野田ケミコ　株式会社"
+				}
+			}
+		},
+		"1118633": {
+			"postcode": "1118633",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "寿",
+			"building_name": "２−１−１３偕楽ビル",
+			"organization_name": "アクサ損害保険　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "寿",
+					"building_name": "２−１−１３偕楽ビル",
+					"organization_name": "アクサ損害保険　株式会社"
+				}
+			}
+		},
+		"1118631": {
+			"postcode": "1118631",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "西浅草",
+			"building_name": "１丁目１−１",
+			"organization_name": "日本電子総合サービス　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "西浅草",
+					"building_name": "１丁目１−１",
+					"organization_name": "日本電子総合サービス　株式会社"
+				}
+			}
+		},
+		"1118630": {
+			"postcode": "1118630",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "蔵前",
+			"building_name": "３丁目１７−３蔵前インテリジェントビル９階",
+			"organization_name": "東和エンタープライズ　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "蔵前",
+					"building_name": "３丁目１７−３蔵前インテリジェントビル９階",
+					"organization_name": "東和エンタープライズ　株式会社"
+				}
+			}
+		},
+		"1118628": {
+			"postcode": "1118628",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "松が谷",
+			"building_name": "１丁目１−１",
+			"organization_name": "有限会社　ニイミ洋食器店",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "松が谷",
+					"building_name": "１丁目１−１",
+					"organization_name": "有限会社　ニイミ洋食器店"
+				}
+			}
+		},
+		"1118625": {
+			"postcode": "1118625",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "柳橋",
+			"building_name": "１丁目２８−１",
+			"organization_name": "日本コパック　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "柳橋",
+					"building_name": "１丁目２８−１",
+					"organization_name": "日本コパック　株式会社"
+				}
+			}
+		},
+		"1118622": {
+			"postcode": "1118622",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "浅草",
+			"building_name": "６丁目２２−２",
+			"organization_name": "ミツワ産業　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "浅草",
+					"building_name": "６丁目２２−２",
+					"organization_name": "ミツワ産業　株式会社"
+				}
+			}
+		},
+		"1118621": {
+			"postcode": "1118621",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "西浅草",
+			"building_name": "３丁目２５−１６",
+			"organization_name": "台東区生涯学習センター",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "西浅草",
+					"building_name": "３丁目２５−１６",
+					"organization_name": "台東区生涯学習センター"
+				}
+			}
+		},
+		"1118620": {
+			"postcode": "1118620",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "浅草橋",
+			"building_name": "３丁目２６−５",
+			"organization_name": "株式会社　コバヤシ",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "浅草橋",
+					"building_name": "３丁目２６−５",
+					"organization_name": "株式会社　コバヤシ"
+				}
+			}
+		},
+		"1118618": {
+			"postcode": "1118618",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "駒形",
+			"building_name": "２丁目２−２",
+			"organization_name": "株式会社　エポック社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "駒形",
+					"building_name": "２丁目２−２",
+					"organization_name": "株式会社　エポック社"
+				}
+			}
+		},
+		"1118615": {
+			"postcode": "1118615",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "寿",
+			"building_name": "２丁目１−１３",
+			"organization_name": "株式会社　リンク総研",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "寿",
+					"building_name": "２丁目１−１３",
+					"organization_name": "株式会社　リンク総研"
+				}
+			}
+		},
+		"1118612": {
+			"postcode": "1118612",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "浅草橋",
+			"building_name": "１丁目３４−９",
+			"organization_name": "カネダ　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "浅草橋",
+					"building_name": "１丁目３４−９",
+					"organization_name": "カネダ　株式会社"
+				}
+			}
+		},
+		"1118611": {
+			"postcode": "1118611",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "柳橋",
+			"building_name": "１丁目２−１０",
+			"organization_name": "株式会社　東京文具共和会館",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "柳橋",
+					"building_name": "１丁目２−１０",
+					"organization_name": "株式会社　東京文具共和会館"
+				}
+			}
+		},
+		"1118610": {
+			"postcode": "1118610",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "寿",
+			"building_name": "４丁目１６−７",
+			"organization_name": "株式会社　コロンブス",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "寿",
+					"building_name": "４丁目１６−７",
+					"organization_name": "株式会社　コロンブス"
+				}
+			}
+		},
+		"1118608": {
+			"postcode": "1118608",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "寿",
+			"building_name": "２丁目１−１３",
+			"organization_name": "株式会社　ベンチャー・リンク",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "寿",
+					"building_name": "２丁目１−１３",
+					"organization_name": "株式会社　ベンチャー・リンク"
+				}
+			}
+		},
+		"1118606": {
+			"postcode": "1118606",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "雷門",
+			"building_name": "１丁目６−１",
+			"organization_name": "東京都台東都税事務所",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "雷門",
+					"building_name": "１丁目６−１",
+					"organization_name": "東京都台東都税事務所"
+				}
+			}
+		},
+		"1118605": {
+			"postcode": "1118605",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "蔵前",
+			"building_name": "２丁目６−７",
+			"organization_name": "ファースト・ファシリティーズ　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "蔵前",
+					"building_name": "２丁目６−７",
+					"organization_name": "ファースト・ファシリティーズ　株式会社"
+				}
+			}
+		},
+		"1118602": {
+			"postcode": "1118602",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "蔵前",
+			"building_name": "２丁目８−１２",
+			"organization_name": "浅草税務署",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "蔵前",
+					"building_name": "２丁目８−１２",
+					"organization_name": "浅草税務署"
+				}
+			}
+		},
+		"1118588": {
+			"postcode": "1118588",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "西浅草",
+			"building_name": "３丁目２４−６",
+			"organization_name": "株式会社　高山",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "西浅草",
+					"building_name": "３丁目２４−６",
+					"organization_name": "株式会社　高山"
+				}
+			}
+		},
+		"1118585": {
+			"postcode": "1118585",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "浅草橋",
+			"building_name": "５丁目２１−４",
+			"organization_name": "衛星デジタル音楽放送　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "浅草橋",
+					"building_name": "５丁目２１−４",
+					"organization_name": "衛星デジタル音楽放送　株式会社"
+				}
+			}
+		},
+		"1118580": {
+			"postcode": "1118580",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "寿",
+			"building_name": "３丁目１６−１",
+			"organization_name": "株式会社　エスエスケイ　東京支店",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "寿",
+					"building_name": "３丁目１６−１",
+					"organization_name": "株式会社　エスエスケイ　東京支店"
+				}
+			}
+		},
+		"1118577": {
+			"postcode": "1118577",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "浅草橋",
+			"building_name": "５丁目２０−８ＣＳタワー１１Ｆ",
+			"organization_name": "トッパンレーベル　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "浅草橋",
+					"building_name": "５丁目２０−８ＣＳタワー１１Ｆ",
+					"organization_name": "トッパンレーベル　株式会社"
+				}
+			}
+		},
+		"1118575": {
+			"postcode": "1118575",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "駒形",
+			"building_name": "２丁目４−８",
+			"organization_name": "モリト　株式会社　東京支社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "駒形",
+					"building_name": "２丁目４−８",
+					"organization_name": "モリト　株式会社　東京支社"
+				}
+			}
+		},
+		"1118567": {
+			"postcode": "1118567",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "西浅草",
+			"building_name": "１丁目７−１",
+			"organization_name": "株式会社　コマキ楽器",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "西浅草",
+					"building_name": "１丁目７−１",
+					"organization_name": "株式会社　コマキ楽器"
+				}
+			}
+		},
+		"1118566": {
+			"postcode": "1118566",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "元浅草",
+			"building_name": "１丁目１２−２",
+			"organization_name": "松本徽章工業　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "元浅草",
+					"building_name": "１丁目１２−２",
+					"organization_name": "松本徽章工業　株式会社"
+				}
+			}
+		},
+		"1118561": {
+			"postcode": "1118561",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "浅草橋",
+			"building_name": "５丁目２０−８",
+			"organization_name": "株式会社　ケーブル・アンド・ワイヤレス・アイディーシー・エスアイ",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "浅草橋",
+					"building_name": "５丁目２０−８",
+					"organization_name": "株式会社　ケーブル・アンド・ワイヤレス・アイディーシー・エスアイ"
+				}
+			}
+		},
+		"1118560": {
+			"postcode": "1118560",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "花川戸",
+			"building_name": "２丁目７−１",
+			"organization_name": "ミツワ　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "花川戸",
+					"building_name": "２丁目７−１",
+					"organization_name": "ミツワ　株式会社"
+				}
+			}
+		},
+		"1118558": {
+			"postcode": "1118558",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "松が谷",
+			"building_name": "１丁目３−５ＳＥＦビル",
+			"organization_name": "バンダイビジュアル　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "松が谷",
+					"building_name": "１丁目３−５ＳＥＦビル",
+					"organization_name": "バンダイビジュアル　株式会社"
+				}
+			}
+		},
+		"1118556": {
+			"postcode": "1118556",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "浅草橋",
+			"building_name": "２丁目２９−１４",
+			"organization_name": "株式会社　ジェイ・エス・ティ",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "浅草橋",
+					"building_name": "２丁目２９−１４",
+					"organization_name": "株式会社　ジェイ・エス・ティ"
+				}
+			}
+		},
+		"1118555": {
+			"postcode": "1118555",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "駒形",
+			"building_name": "１丁目１２−３",
+			"organization_name": "株式会社　エポック社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "駒形",
+					"building_name": "１丁目１２−３",
+					"organization_name": "株式会社　エポック社"
+				}
+			}
+		},
+		"1118551": {
+			"postcode": "1118551",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "浅草橋",
+			"building_name": "５−２０−８ＣＳタワー９階",
+			"organization_name": "サンスター文具　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "浅草橋",
+					"building_name": "５−２０−８ＣＳタワー９階",
+					"organization_name": "サンスター文具　株式会社"
+				}
+			}
+		},
+		"1118543": {
+			"postcode": "1118543",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "柳橋",
+			"building_name": "１丁目２０−５タカビル６Ｆ",
+			"organization_name": "株式会社　壽商会",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "柳橋",
+					"building_name": "１丁目２０−５タカビル６Ｆ",
+					"organization_name": "株式会社　壽商会"
+				}
+			}
+		},
+		"1118539": {
+			"postcode": "1118539",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "寿",
+			"building_name": "３丁目１５−１５",
+			"organization_name": "株式会社　シタシオンジャパン",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "寿",
+					"building_name": "３丁目１５−１５",
+					"organization_name": "株式会社　シタシオンジャパン"
+				}
+			}
+		},
+		"1118534": {
+			"postcode": "1118534",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "今戸",
+			"building_name": "１丁目１１−３",
+			"organization_name": "セイコーミシン　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "今戸",
+					"building_name": "１丁目１１−３",
+					"organization_name": "セイコーミシン　株式会社"
+				}
+			}
+		},
+		"1118533": {
+			"postcode": "1118533",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "浅草橋",
+			"building_name": "５丁目１３−６",
+			"organization_name": "株式会社　ノダ",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "浅草橋",
+					"building_name": "５丁目１３−６",
+					"organization_name": "株式会社　ノダ"
+				}
+			}
+		},
+		"1118532": {
+			"postcode": "1118532",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "西浅草",
+			"building_name": "２丁目１６−４",
+			"organization_name": "協同組合　趣味の百撰会",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "西浅草",
+					"building_name": "２丁目１６−４",
+					"organization_name": "協同組合　趣味の百撰会"
+				}
+			}
+		},
+		"1118531": {
+			"postcode": "1118531",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "浅草橋",
+			"building_name": "３丁目３−１",
+			"organization_name": "株式会社　東京ユニコム",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "浅草橋",
+					"building_name": "３丁目３−１",
+					"organization_name": "株式会社　東京ユニコム"
+				}
+			}
+		},
+		"1118530": {
+			"postcode": "1118530",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "雷門",
+			"building_name": "１丁目１３−８",
+			"organization_name": "東京電子機械工業　健康保険組合",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "雷門",
+					"building_name": "１丁目１３−８",
+					"organization_name": "東京電子機械工業　健康保険組合"
+				}
+			}
+		},
+		"1118525": {
+			"postcode": "1118525",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "浅草橋",
+			"building_name": "５丁目２４−６ＤＪＫ浅草橋ビル８階",
+			"organization_name": "株式会社　ブンカ",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "浅草橋",
+					"building_name": "５丁目２４−６ＤＪＫ浅草橋ビル８階",
+					"organization_name": "株式会社　ブンカ"
+				}
+			}
+		},
+		"1118522": {
+			"postcode": "1118522",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "元浅草",
+			"building_name": "２丁目６−７",
+			"organization_name": "日本マタイ　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "元浅草",
+					"building_name": "２丁目６−７",
+					"organization_name": "日本マタイ　株式会社"
+				}
+			}
+		},
+		"1118521": {
+			"postcode": "1118521",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "柳橋",
+			"building_name": "２丁目１−９",
+			"organization_name": "東都フジクラ販売　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "柳橋",
+					"building_name": "２丁目１−９",
+					"organization_name": "東都フジクラ販売　株式会社"
+				}
+			}
+		},
+		"1118518": {
+			"postcode": "1118518",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "蔵前",
+			"building_name": "４丁目１６−８",
+			"organization_name": "株式会社　木馬",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "蔵前",
+					"building_name": "４丁目１６−８",
+					"organization_name": "株式会社　木馬"
+				}
+			}
+		},
+		"1118515": {
+			"postcode": "1118515",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "浅草橋",
+			"building_name": "１丁目９−１４",
+			"organization_name": "株式会社　吉徳",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "浅草橋",
+					"building_name": "１丁目９−１４",
+					"organization_name": "株式会社　吉徳"
+				}
+			}
+		},
+		"1118512": {
+			"postcode": "1118512",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "浅草",
+			"building_name": "６丁目３０−８",
+			"organization_name": "マドラス　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "浅草",
+					"building_name": "６丁目３０−８",
+					"organization_name": "マドラス　株式会社"
+				}
+			}
+		},
+		"1118511": {
+			"postcode": "1118511",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "元浅草",
+			"building_name": "３丁目２−１",
+			"organization_name": "滝川　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "元浅草",
+					"building_name": "３丁目２−１",
+					"organization_name": "滝川　株式会社"
+				}
+			}
+		},
+		"1118510": {
+			"postcode": "1118510",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "柳橋",
+			"building_name": "２丁目２０−１１",
+			"organization_name": "株式会社　十字屋",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "柳橋",
+					"building_name": "２丁目２０−１１",
+					"organization_name": "株式会社　十字屋"
+				}
+			}
+		},
+		"1118508": {
+			"postcode": "1118508",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "松が谷",
+			"building_name": "３丁目２１−９",
+			"organization_name": "日新明弘テック　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "松が谷",
+					"building_name": "３丁目２１−９",
+					"organization_name": "日新明弘テック　株式会社"
+				}
+			}
+		},
+		"1118507": {
+			"postcode": "1118507",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "浅草橋",
+			"building_name": "４丁目１９−８",
+			"organization_name": "勝村建設　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "浅草橋",
+					"building_name": "４丁目１９−８",
+					"organization_name": "勝村建設　株式会社"
+				}
+			}
+		},
+		"1118506": {
+			"postcode": "1118506",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "元浅草",
+			"building_name": "２−７−１３",
+			"organization_name": "日本アイ・エス・ケイ　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "元浅草",
+					"building_name": "２−７−１３",
+					"organization_name": "日本アイ・エス・ケイ　株式会社"
+				}
+			}
+		},
+		"1118505": {
+			"postcode": "1118505",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "浅草橋",
+			"building_name": "５丁目２０番８号ＣＳタワー１１階",
+			"organization_name": "ハインツ日本　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "浅草橋",
+					"building_name": "５丁目２０番８号ＣＳタワー１１階",
+					"organization_name": "ハインツ日本　株式会社"
+				}
+			}
+		},
+		"1118502": {
+			"postcode": "1118502",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "西浅草",
+			"building_name": "１丁目１−１かんぽ浅草ビル７Ｆ",
+			"organization_name": "エスエスユニオン　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "西浅草",
+					"building_name": "１丁目１−１かんぽ浅草ビル７Ｆ",
+					"organization_name": "エスエスユニオン　株式会社"
+				}
+			}
+		},
+		"1118501": {
+			"postcode": "1118501",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "浅草",
+			"building_name": "４丁目４７−１１",
+			"organization_name": "浅草警察署",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "浅草",
+					"building_name": "４丁目４７−１１",
+					"organization_name": "浅草警察署"
+				}
+			}
+		},
+		"1118081": {
+			"postcode": "1118081",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "駒形",
+			"building_name": "１丁目４−８",
+			"organization_name": "株式会社　バンダイ",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "駒形",
+					"building_name": "１丁目４−８",
+					"organization_name": "株式会社　バンダイ"
+				}
+			}
+		},
+		"1110056": {
+			"postcode": "1110056",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "Kojima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "小島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区"
+		},
+		"1110055": {
+			"postcode": "1110055",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "Misuji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "三筋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区"
+		},
+		"1110054": {
+			"postcode": "1110054",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "Torigoe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "鳥越",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区"
+		},
+		"1110053": {
+			"postcode": "1110053",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "Asakusabashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "浅草橋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区"
+		},
+		"1110052": {
+			"postcode": "1110052",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "Yanagibashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "柳橋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区"
+		},
+		"1110051": {
+			"postcode": "1110051",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "Kuramae",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "蔵前",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区"
+		},
+		"1110043": {
+			"postcode": "1110043",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "Komagata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "駒形",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区"
+		},
+		"1110042": {
+			"postcode": "1110042",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "Kotobuki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "寿",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区"
+		},
+		"1110041": {
+			"postcode": "1110041",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "Motoasakusa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "元浅草",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区"
+		},
+		"1110036": {
+			"postcode": "1110036",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "Matsugaya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "松が谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区"
+		},
+		"1110035": {
+			"postcode": "1110035",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "Nishiasakusa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "西浅草",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区"
+		},
+		"1110034": {
+			"postcode": "1110034",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "Kaminarimon",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "雷門",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区"
+		},
+		"1110033": {
+			"postcode": "1110033",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "Hanakawado",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "花川戸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区"
+		},
+		"1110032": {
+			"postcode": "1110032",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "Asakusa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "浅草",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区"
+		},
+		"1110031": {
+			"postcode": "1110031",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "Senzoku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "千束",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区"
+		},
+		"1110025": {
+			"postcode": "1110025",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "Higashiasakusa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "東浅草",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区"
+		},
+		"1110024": {
+			"postcode": "1110024",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "Imado",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "今戸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区"
+		},
+		"1110023": {
+			"postcode": "1110023",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "Hashiba",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "橋場",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区"
+		},
+		"1110022": {
+			"postcode": "1110022",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "Kiyokawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "清川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区"
+		},
+		"1110021": {
+			"postcode": "1110021",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Taito-ku",
+			"ward_name": "",
+			"town_name": "Nihonzutsumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "台東区",
+					"ward_name": "",
+					"town_name": "日本堤",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "台東区"
+		}
+	}
+}

@@ -1,0 +1,557 @@
+{
+	"country_code": "JP",
+	"parent_id": "725",
+	"locale": "ja-Latn",
+	"address": {
+		"7258686": {
+			"postcode": "7258686",
+			"prefecture_name": "Hiroshima-ken",
+			"city_name": "Takehara-shi",
+			"ward_name": "",
+			"town_name": "中央",
+			"building_name": "３丁目２−１２（竹原郵便局私書箱第２５号）",
+			"organization_name": "竹原　税務署",
+			"region_code": "中国",
+			"prefecture_code": "広島県",
+			"city_code": "竹原市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "広島県",
+					"city_name": "竹原市",
+					"ward_name": "",
+					"town_name": "中央",
+					"building_name": "３丁目２−１２（竹原郵便局私書箱第２５号）",
+					"organization_name": "竹原　税務署"
+				}
+			}
+		},
+		"7258666": {
+			"postcode": "7258666",
+			"prefecture_name": "Hiroshima-ken",
+			"city_name": "Takehara-shi",
+			"ward_name": "",
+			"town_name": "中央",
+			"building_name": "５丁目１番３５号（竹原郵便局私書箱第２１号）",
+			"organization_name": "竹原市役所",
+			"region_code": "中国",
+			"prefecture_code": "広島県",
+			"city_code": "竹原市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "広島県",
+					"city_name": "竹原市",
+					"ward_name": "",
+					"town_name": "中央",
+					"building_name": "５丁目１番３５号（竹原郵便局私書箱第２１号）",
+					"organization_name": "竹原市役所"
+				}
+			}
+		},
+		"7250403": {
+			"postcode": "7250403",
+			"prefecture_name": "Hiroshima-ken",
+			"city_name": "Toyota-gun",
+			"ward_name": "Osakikamijima-cho",
+			"town_name": "Akashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "広島県",
+					"city_name": "豊田郡",
+					"ward_name": "大崎上島町",
+					"town_name": "明石",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "広島県",
+			"city_code": "豊田郡"
+		},
+		"7250402": {
+			"postcode": "7250402",
+			"prefecture_name": "Hiroshima-ken",
+			"city_name": "Toyota-gun",
+			"ward_name": "Osakikamijima-cho",
+			"town_name": "Okiura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "広島県",
+					"city_name": "豊田郡",
+					"ward_name": "大崎上島町",
+					"town_name": "沖浦",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "広島県",
+			"city_code": "豊田郡"
+		},
+		"7250401": {
+			"postcode": "7250401",
+			"prefecture_name": "Hiroshima-ken",
+			"city_name": "Toyota-gun",
+			"ward_name": "Osakikamijima-cho",
+			"town_name": "Kinoe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "広島県",
+					"city_name": "豊田郡",
+					"ward_name": "大崎上島町",
+					"town_name": "木江",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "広島県",
+			"city_code": "豊田郡"
+		},
+		"7250303": {
+			"postcode": "7250303",
+			"prefecture_name": "Hiroshima-ken",
+			"city_name": "Toyota-gun",
+			"ward_name": "Osakikamijima-cho",
+			"town_name": "Okushi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "広島県",
+					"city_name": "豊田郡",
+					"ward_name": "大崎上島町",
+					"town_name": "大串",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "広島県",
+			"city_code": "豊田郡"
+		},
+		"7250302": {
+			"postcode": "7250302",
+			"prefecture_name": "Hiroshima-ken",
+			"city_name": "Toyota-gun",
+			"ward_name": "Osakikamijima-cho",
+			"town_name": "Harada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "広島県",
+					"city_name": "豊田郡",
+					"ward_name": "大崎上島町",
+					"town_name": "原田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "広島県",
+			"city_code": "豊田郡"
+		},
+		"7250301": {
+			"postcode": "7250301",
+			"prefecture_name": "Hiroshima-ken",
+			"city_name": "Toyota-gun",
+			"ward_name": "Osakikamijima-cho",
+			"town_name": "Nakano",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "広島県",
+					"city_name": "豊田郡",
+					"ward_name": "大崎上島町",
+					"town_name": "中野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "広島県",
+			"city_code": "豊田郡"
+		},
+		"7250231": {
+			"postcode": "7250231",
+			"prefecture_name": "Hiroshima-ken",
+			"city_name": "Toyota-gun",
+			"ward_name": "Osakikamijima-cho",
+			"town_name": "Higashino",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "広島県",
+					"city_name": "豊田郡",
+					"ward_name": "大崎上島町",
+					"town_name": "東野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "広島県",
+			"city_code": "豊田郡"
+		},
+		"7250200": {
+			"postcode": "7250200",
+			"prefecture_name": "Hiroshima-ken",
+			"city_name": "Toyota-gun",
+			"ward_name": "Osakikamijima-cho",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "広島県",
+					"city_name": "豊田郡",
+					"ward_name": "大崎上島町",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "広島県",
+			"city_code": "豊田郡"
+		},
+		"7250026": {
+			"postcode": "7250026",
+			"prefecture_name": "Hiroshima-ken",
+			"city_name": "Takehara-shi",
+			"ward_name": "",
+			"town_name": "Chuo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "広島県",
+					"city_name": "竹原市",
+					"ward_name": "",
+					"town_name": "中央",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "広島県",
+			"city_code": "竹原市"
+		},
+		"7250025": {
+			"postcode": "7250025",
+			"prefecture_name": "Hiroshima-ken",
+			"city_name": "Takehara-shi",
+			"ward_name": "",
+			"town_name": "Shiomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "広島県",
+					"city_name": "竹原市",
+					"ward_name": "",
+					"town_name": "塩町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "広島県",
+			"city_code": "竹原市"
+		},
+		"7250024": {
+			"postcode": "7250024",
+			"prefecture_name": "Hiroshima-ken",
+			"city_name": "Takehara-shi",
+			"ward_name": "",
+			"town_name": "Minatomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "広島県",
+					"city_name": "竹原市",
+					"ward_name": "",
+					"town_name": "港町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "広島県",
+			"city_code": "竹原市"
+		},
+		"7250023": {
+			"postcode": "7250023",
+			"prefecture_name": "Hiroshima-ken",
+			"city_name": "Takehara-shi",
+			"ward_name": "",
+			"town_name": "Tanora",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "広島県",
+					"city_name": "竹原市",
+					"ward_name": "",
+					"town_name": "田ノ浦",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "広島県",
+			"city_code": "竹原市"
+		},
+		"7250022": {
+			"postcode": "7250022",
+			"prefecture_name": "Hiroshima-ken",
+			"city_name": "Takehara-shi",
+			"ward_name": "",
+			"town_name": "Hommachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "広島県",
+					"city_name": "竹原市",
+					"ward_name": "",
+					"town_name": "本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "広島県",
+			"city_code": "竹原市"
+		},
+		"7250021": {
+			"postcode": "7250021",
+			"prefecture_name": "Hiroshima-ken",
+			"city_name": "Takehara-shi",
+			"ward_name": "",
+			"town_name": "Takeharacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "広島県",
+					"city_name": "竹原市",
+					"ward_name": "",
+					"town_name": "竹原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "広島県",
+			"city_code": "竹原市"
+		},
+		"7250013": {
+			"postcode": "7250013",
+			"prefecture_name": "Hiroshima-ken",
+			"city_name": "Takehara-shi",
+			"ward_name": "",
+			"town_name": "Yoshinacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "広島県",
+					"city_name": "竹原市",
+					"ward_name": "",
+					"town_name": "吉名町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "広島県",
+			"city_code": "竹原市"
+		},
+		"7250012": {
+			"postcode": "7250012",
+			"prefecture_name": "Hiroshima-ken",
+			"city_name": "Takehara-shi",
+			"ward_name": "",
+			"town_name": "Shimonocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "広島県",
+					"city_name": "竹原市",
+					"ward_name": "",
+					"town_name": "下野町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "広島県",
+			"city_code": "竹原市"
+		},
+		"7250011": {
+			"postcode": "7250011",
+			"prefecture_name": "Hiroshima-ken",
+			"city_name": "Takehara-shi",
+			"ward_name": "",
+			"town_name": "Onashicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "広島県",
+					"city_name": "竹原市",
+					"ward_name": "",
+					"town_name": "小梨町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "広島県",
+			"city_code": "竹原市"
+		},
+		"7250005": {
+			"postcode": "7250005",
+			"prefecture_name": "Hiroshima-ken",
+			"city_name": "Takehara-shi",
+			"ward_name": "",
+			"town_name": "Nikacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "広島県",
+					"city_name": "竹原市",
+					"ward_name": "",
+					"town_name": "仁賀町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "広島県",
+			"city_code": "竹原市"
+		},
+		"7250004": {
+			"postcode": "7250004",
+			"prefecture_name": "Hiroshima-ken",
+			"city_name": "Takehara-shi",
+			"ward_name": "",
+			"town_name": "Higashinocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "広島県",
+					"city_name": "竹原市",
+					"ward_name": "",
+					"town_name": "東野町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "広島県",
+			"city_code": "竹原市"
+		},
+		"7250003": {
+			"postcode": "7250003",
+			"prefecture_name": "Hiroshima-ken",
+			"city_name": "Takehara-shi",
+			"ward_name": "",
+			"town_name": "Shinjocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "広島県",
+					"city_name": "竹原市",
+					"ward_name": "",
+					"town_name": "新庄町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "広島県",
+			"city_code": "竹原市"
+		},
+		"7250002": {
+			"postcode": "7250002",
+			"prefecture_name": "Hiroshima-ken",
+			"city_name": "Takehara-shi",
+			"ward_name": "",
+			"town_name": "Nishinocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "広島県",
+					"city_name": "竹原市",
+					"ward_name": "",
+					"town_name": "西野町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "広島県",
+			"city_code": "竹原市"
+		},
+		"7250001": {
+			"postcode": "7250001",
+			"prefecture_name": "Hiroshima-ken",
+			"city_name": "Takehara-shi",
+			"ward_name": "",
+			"town_name": "Tamaricho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "広島県",
+					"city_name": "竹原市",
+					"ward_name": "",
+					"town_name": "田万里町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "広島県",
+			"city_code": "竹原市"
+		},
+		"7250000": {
+			"postcode": "7250000",
+			"prefecture_name": "Hiroshima-ken",
+			"city_name": "Takehara-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "広島県",
+					"city_name": "竹原市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "広島県",
+			"city_code": "竹原市"
+		}
+	}
+}

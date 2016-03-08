@@ -1,0 +1,755 @@
+{
+	"country_code": "JP",
+	"parent_id": "558",
+	"locale": "ja-Latn",
+	"address": {
+		"5588585": {
+			"postcode": "5588585",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Sumiyoshi-ku",
+			"town_name": "杉本",
+			"building_name": "３丁目３−１３８",
+			"organization_name": "大阪市立大学",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住吉区",
+					"town_name": "杉本",
+					"building_name": "３丁目３−１３８",
+					"organization_name": "大阪市立大学"
+				}
+			}
+		},
+		"5588558": {
+			"postcode": "5588558",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Sumiyoshi-ku",
+			"town_name": "万代東",
+			"building_name": "３丁目１−５６",
+			"organization_name": "大阪府立　急性期・総合医療センター",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住吉区",
+					"town_name": "万代東",
+					"building_name": "３丁目１−５６",
+					"organization_name": "大阪府立　急性期・総合医療センター"
+				}
+			}
+		},
+		"5588555": {
+			"postcode": "5588555",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Sumiyoshi-ku",
+			"town_name": "住吉",
+			"building_name": "２丁目１７−３７",
+			"organization_name": "住吉税務署",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住吉区",
+					"town_name": "住吉",
+					"building_name": "２丁目１７−３７",
+					"organization_name": "住吉税務署"
+				}
+			}
+		},
+		"5588501": {
+			"postcode": "5588501",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Sumiyoshi-ku",
+			"town_name": "南住吉",
+			"building_name": "３丁目１５−５５",
+			"organization_name": "大阪市住吉区役所",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住吉区",
+					"town_name": "南住吉",
+					"building_name": "３丁目１５−５５",
+					"organization_name": "大阪市住吉区役所"
+				}
+			}
+		},
+		"5580056": {
+			"postcode": "5580056",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Sumiyoshi-ku",
+			"town_name": "Bandaihigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住吉区",
+					"town_name": "万代東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5580055": {
+			"postcode": "5580055",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Sumiyoshi-ku",
+			"town_name": "Bandai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住吉区",
+					"town_name": "万代",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5580054": {
+			"postcode": "5580054",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Sumiyoshi-ku",
+			"town_name": "Tezukayamahigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住吉区",
+					"town_name": "帝塚山東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5580053": {
+			"postcode": "5580053",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Sumiyoshi-ku",
+			"town_name": "Tezukayamanaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住吉区",
+					"town_name": "帝塚山中",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5580052": {
+			"postcode": "5580052",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Sumiyoshi-ku",
+			"town_name": "Tezukayamanishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住吉区",
+					"town_name": "帝塚山西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5580051": {
+			"postcode": "5580051",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Sumiyoshi-ku",
+			"town_name": "Higashikohama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住吉区",
+					"town_name": "東粉浜",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5580047": {
+			"postcode": "5580047",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Sumiyoshi-ku",
+			"town_name": "Sentai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住吉区",
+					"town_name": "千躰",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5580046": {
+			"postcode": "5580046",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Sumiyoshi-ku",
+			"town_name": "Uesumiyoshi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住吉区",
+					"town_name": "上住吉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5580045": {
+			"postcode": "5580045",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Sumiyoshi-ku",
+			"town_name": "Sumiyoshi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住吉区",
+					"town_name": "住吉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5580044": {
+			"postcode": "5580044",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Sumiyoshi-ku",
+			"town_name": "Nagaocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住吉区",
+					"town_name": "長峡町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5580043": {
+			"postcode": "5580043",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Sumiyoshi-ku",
+			"town_name": "Sumie",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住吉区",
+					"town_name": "墨江",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5580042": {
+			"postcode": "5580042",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Sumiyoshi-ku",
+			"town_name": "Tonotsuji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住吉区",
+					"town_name": "殿辻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5580041": {
+			"postcode": "5580041",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Sumiyoshi-ku",
+			"town_name": "Minamisumiyoshi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住吉区",
+					"town_name": "南住吉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5580033": {
+			"postcode": "5580033",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Sumiyoshi-ku",
+			"town_name": "Shimizugaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住吉区",
+					"town_name": "清水丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5580032": {
+			"postcode": "5580032",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Sumiyoshi-ku",
+			"town_name": "Oriono",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住吉区",
+					"town_name": "遠里小野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5580031": {
+			"postcode": "5580031",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Sumiyoshi-ku",
+			"town_name": "Sawanocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住吉区",
+					"town_name": "沢之町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5580024": {
+			"postcode": "5580024",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Sumiyoshi-ku",
+			"town_name": "Yamanochimotomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住吉区",
+					"town_name": "山之内元町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5580023": {
+			"postcode": "5580023",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Sumiyoshi-ku",
+			"town_name": "Yamanochi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住吉区",
+					"town_name": "山之内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5580022": {
+			"postcode": "5580022",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Sumiyoshi-ku",
+			"town_name": "Sugimoto",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住吉区",
+					"town_name": "杉本",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5580021": {
+			"postcode": "5580021",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Sumiyoshi-ku",
+			"town_name": "Asaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住吉区",
+					"town_name": "浅香",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5580015": {
+			"postcode": "5580015",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Sumiyoshi-ku",
+			"town_name": "Abikonishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住吉区",
+					"town_name": "我孫子西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5580014": {
+			"postcode": "5580014",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Sumiyoshi-ku",
+			"town_name": "Abiko",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住吉区",
+					"town_name": "我孫子",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5580013": {
+			"postcode": "5580013",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Sumiyoshi-ku",
+			"town_name": "Abikohigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住吉区",
+					"town_name": "我孫子東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5580012": {
+			"postcode": "5580012",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Sumiyoshi-ku",
+			"town_name": "Niwai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住吉区",
+					"town_name": "庭井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5580011": {
+			"postcode": "5580011",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Sumiyoshi-ku",
+			"town_name": "Karita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住吉区",
+					"town_name": "苅田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5580004": {
+			"postcode": "5580004",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Sumiyoshi-ku",
+			"town_name": "Nagaihigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住吉区",
+					"town_name": "長居東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5580003": {
+			"postcode": "5580003",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Sumiyoshi-ku",
+			"town_name": "Nagai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住吉区",
+					"town_name": "長居",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5580002": {
+			"postcode": "5580002",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Sumiyoshi-ku",
+			"town_name": "Nagainishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住吉区",
+					"town_name": "長居西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5580001": {
+			"postcode": "5580001",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Sumiyoshi-ku",
+			"town_name": "Dairyo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住吉区",
+					"town_name": "大領",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5580000": {
+			"postcode": "5580000",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Sumiyoshi-ku",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住吉区",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		}
+	}
+}

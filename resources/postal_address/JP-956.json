@@ -1,0 +1,2295 @@
+{
+	"country_code": "JP",
+	"parent_id": "956",
+	"locale": "ja-Latn",
+	"address": {
+		"9568603": {
+			"postcode": "9568603",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "東島",
+			"building_name": "２６５番地１",
+			"organization_name": "新潟薬科大学",
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "東島",
+					"building_name": "２６５番地１",
+					"organization_name": "新潟薬科大学"
+				}
+			}
+		},
+		"9568602": {
+			"postcode": "9568602",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "善道町",
+			"building_name": "１丁目６−３８（新津郵便局私書箱第１０号）",
+			"organization_name": "新津税務署",
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "善道町",
+					"building_name": "１丁目６−３８（新津郵便局私書箱第１０号）",
+					"organization_name": "新津税務署"
+				}
+			}
+		},
+		"9568601": {
+			"postcode": "9568601",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "程島",
+			"building_name": "２００９",
+			"organization_name": "新潟市秋葉区役所",
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "程島",
+					"building_name": "２００９",
+					"organization_name": "新潟市秋葉区役所"
+				}
+			}
+		},
+		"9560867": {
+			"postcode": "9560867",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Shimogoya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "下興野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560866": {
+			"postcode": "9560866",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Shimogoyacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "下興野町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560865": {
+			"postcode": "9560865",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Zendocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "善道町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560864": {
+			"postcode": "9560864",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Niitsu",
+			"building_name": "Honcho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "新津",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560863": {
+			"postcode": "9560863",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Nippocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "日宝町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560862": {
+			"postcode": "9560862",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Shimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560861": {
+			"postcode": "9560861",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Kitakami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "北上",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560855": {
+			"postcode": "9560855",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Takiyahoncho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "滝谷本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560854": {
+			"postcode": "9560854",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Takiyacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "滝谷町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560853": {
+			"postcode": "9560853",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Iyanagi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "飯柳",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560852": {
+			"postcode": "9560852",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Garameki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "柄目木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560851": {
+			"postcode": "9560851",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Kanazawacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "金沢町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560847": {
+			"postcode": "9560847",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Furutsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "古津",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560846": {
+			"postcode": "9560846",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Gawakesawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "蒲ヶ沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560845": {
+			"postcode": "9560845",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Kanazu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "金津",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560844": {
+			"postcode": "9560844",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Shiodani",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "塩谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560843": {
+			"postcode": "9560843",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Warimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "割町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560842": {
+			"postcode": "9560842",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Nishijima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "西島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560841": {
+			"postcode": "9560841",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Higashijima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "東島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560837": {
+			"postcode": "9560837",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Yoshiokacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "吉岡町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560836": {
+			"postcode": "9560836",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Tai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "田家",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560835": {
+			"postcode": "9560835",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Asahi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "朝日",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560834": {
+			"postcode": "9560834",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Koguchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "小口",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560833": {
+			"postcode": "9560833",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Kusozucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "草水町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560832": {
+			"postcode": "9560832",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Akiha",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "秋葉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560831": {
+			"postcode": "9560831",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Nakazawacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "中沢町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560828": {
+			"postcode": "9560828",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Kita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "北",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560827": {
+			"postcode": "9560827",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Oseki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "大関",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560826": {
+			"postcode": "9560826",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Okada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "岡田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560825": {
+			"postcode": "9560825",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Shimoshin",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "下新",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560824": {
+			"postcode": "9560824",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Ichishin",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "市新",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560823": {
+			"postcode": "9560823",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Kanaya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "金屋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560822": {
+			"postcode": "9560822",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Shingoya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "新郷屋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560821": {
+			"postcode": "9560821",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Rokugo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "六郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560818": {
+			"postcode": "9560818",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Nishikanazawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "西金沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560817": {
+			"postcode": "9560817",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Kodanochionobiraki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "古田ノ内大野開",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560816": {
+			"postcode": "9560816",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Niitsu",
+			"building_name": "Higashicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "新津",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560815": {
+			"postcode": "9560815",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Shinkanazawacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "新金沢町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560814": {
+			"postcode": "9560814",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Higashikanazawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "東金沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560813": {
+			"postcode": "9560813",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Daianji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "大安寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560812": {
+			"postcode": "9560812",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Nakashinden",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "中新田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560811": {
+			"postcode": "9560811",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Manganji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "満願寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560806": {
+			"postcode": "9560806",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Misorano",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "みそら野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560805": {
+			"postcode": "9560805",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Nakano",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "中野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560804": {
+			"postcode": "9560804",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Ogijima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "荻島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560803": {
+			"postcode": "9560803",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Musubu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "結",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560802": {
+			"postcode": "9560802",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Nanokamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "七日町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560801": {
+			"postcode": "9560801",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Daizo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "大蔵",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560192": {
+			"postcode": "9560192",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "小須戸",
+			"building_name": "１２０",
+			"organization_name": "新潟市秋葉区役所　小須戸出張所",
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "小須戸",
+					"building_name": "１２０",
+					"organization_name": "新潟市秋葉区役所　小須戸出張所"
+				}
+			}
+		},
+		"9560123": {
+			"postcode": "9560123",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Suita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "水田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560122": {
+			"postcode": "9560122",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Komukai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "小向",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560121": {
+			"postcode": "9560121",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Yokogawahama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "横川浜",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560117": {
+			"postcode": "9560117",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Matsugaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "松ヶ丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560116": {
+			"postcode": "9560116",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Funato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "舟戸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560115": {
+			"postcode": "9560115",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Kamakura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "鎌倉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560114": {
+			"postcode": "9560114",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Amagasawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "天ヶ沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560113": {
+			"postcode": "9560113",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Yashiroda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "矢代田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560112": {
+			"postcode": "9560112",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Shimbo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "新保",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560111": {
+			"postcode": "9560111",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Ryugen",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "竜玄",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560101": {
+			"postcode": "9560101",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Kosudo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "小須戸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560057": {
+			"postcode": "9560057",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Niitsu",
+			"building_name": "Yotsugoya",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "新津",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560056": {
+			"postcode": "9560056",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Warabisone",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "蕨曽根",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560055": {
+			"postcode": "9560055",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Kawane",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "川根",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560054": {
+			"postcode": "9560054",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Oaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "大秋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560053": {
+			"postcode": "9560053",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Nogata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "野方",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560052": {
+			"postcode": "9560052",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Mitsuya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "三津屋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560051": {
+			"postcode": "9560051",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Sammaigata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "三枚潟",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560046": {
+			"postcode": "9560046",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Deto",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "出戸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560045": {
+			"postcode": "9560045",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Konashiba",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "子成場",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560044": {
+			"postcode": "9560044",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Uragoya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "浦興野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560043": {
+			"postcode": "9560043",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Umenoki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "梅ノ木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560041": {
+			"postcode": "9560041",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Koyaba",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "小屋場",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560037": {
+			"postcode": "9560037",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Nishifurutsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "西古津",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560036": {
+			"postcode": "9560036",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Nakamura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "中村",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560035": {
+			"postcode": "9560035",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Hodojima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "程島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560034": {
+			"postcode": "9560034",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Niitsu",
+			"building_name": "Midoricho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "新津",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560033": {
+			"postcode": "9560033",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Shineicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "新栄町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560032": {
+			"postcode": "9560032",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Minamicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "南町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560031": {
+			"postcode": "9560031",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Niitsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "新津",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560027": {
+			"postcode": "9560027",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Miyoshi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "美善",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560026": {
+			"postcode": "9560026",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Kitagata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "北潟",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560025": {
+			"postcode": "9560025",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Koda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "古田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560024": {
+			"postcode": "9560024",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Yamayacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "山谷町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560023": {
+			"postcode": "9560023",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Miyukicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "美幸町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560022": {
+			"postcode": "9560022",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Satsukino",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "さつき野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560021": {
+			"postcode": "9560021",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Kitakamishinden",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "北上新田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560017": {
+			"postcode": "9560017",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Aobadori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "あおば通",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560016": {
+			"postcode": "9560016",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Koganecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "こがね町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560015": {
+			"postcode": "9560015",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Kawaguchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "川口",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560014": {
+			"postcode": "9560014",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Fukujima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "福島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560013": {
+			"postcode": "9560013",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Tajima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "田島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560012": {
+			"postcode": "9560012",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Oginocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "荻野町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560011": {
+			"postcode": "9560011",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Kurumaba",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "車場",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560007": {
+			"postcode": "9560007",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Kodoshimogumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "小戸下組",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560006": {
+			"postcode": "9560006",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Kodokamigumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "小戸上組",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560005": {
+			"postcode": "9560005",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Kurimiya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "栗宮",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560004": {
+			"postcode": "9560004",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Ojika",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "大鹿",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560003": {
+			"postcode": "9560003",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Osawari",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "長割",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560002": {
+			"postcode": "9560002",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Ichinose",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "市之瀬",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560001": {
+			"postcode": "9560001",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "Kakurozu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "覚路津",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		},
+		"9560000": {
+			"postcode": "9560000",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Niigata-shi",
+			"ward_name": "Akiha-ku",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "新潟市",
+					"ward_name": "秋葉区",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "新潟市"
+		}
+	}
+}

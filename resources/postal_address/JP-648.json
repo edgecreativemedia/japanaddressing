@@ -1,0 +1,2955 @@
+{
+	"country_code": "JP",
+	"parent_id": "648",
+	"locale": "ja-Latn",
+	"address": {
+		"6488585": {
+			"postcode": "6488585",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "東家",
+			"building_name": "１丁目１−１",
+			"organization_name": "橋本市役所",
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "東家",
+					"building_name": "１丁目１−１",
+					"organization_name": "橋本市役所"
+				}
+			}
+		},
+		"6488541": {
+			"postcode": "6488541",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "市脇",
+			"building_name": "４丁目５−８",
+			"organization_name": "伊都県事務所",
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "市脇",
+					"building_name": "４丁目５−８",
+					"organization_name": "伊都県事務所"
+				}
+			}
+		},
+		"6480405": {
+			"postcode": "6480405",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Koya-cho",
+			"town_name": "Shimotsutsuga",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "高野町",
+					"town_name": "下筒香",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡"
+		},
+		"6480404": {
+			"postcode": "6480404",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Koya-cho",
+			"town_name": "Nakatsutsuga",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "高野町",
+					"town_name": "中筒香",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡"
+		},
+		"6480403": {
+			"postcode": "6480403",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Koya-cho",
+			"town_name": "Kamitsutsuga",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "高野町",
+					"town_name": "上筒香",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡"
+		},
+		"6480402": {
+			"postcode": "6480402",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Koya-cho",
+			"town_name": "Higashifuki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "高野町",
+					"town_name": "東富貴",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡"
+		},
+		"6480401": {
+			"postcode": "6480401",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Koya-cho",
+			"town_name": "Nishifuki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "高野町",
+					"town_name": "西富貴",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡"
+		},
+		"6480392": {
+			"postcode": "6480392",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Yoshino-gun",
+			"ward_name": "Nosegawa-mura",
+			"town_name": "大字北股",
+			"building_name": "８４",
+			"organization_name": "野迫川村役場",
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "吉野郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "吉野郡",
+					"ward_name": "野迫川村",
+					"town_name": "大字北股",
+					"building_name": "８４",
+					"organization_name": "野迫川村役場"
+				}
+			}
+		},
+		"6480309": {
+			"postcode": "6480309",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Yoshino-gun",
+			"ward_name": "Nosegawa-mura",
+			"town_name": "Yumitehara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "吉野郡",
+					"ward_name": "野迫川村",
+					"town_name": "弓手原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "吉野郡"
+		},
+		"6480308": {
+			"postcode": "6480308",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Yoshino-gun",
+			"ward_name": "Nosegawa-mura",
+			"town_name": "Hinokimata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "吉野郡",
+					"ward_name": "野迫川村",
+					"town_name": "桧股",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "吉野郡"
+		},
+		"6480307": {
+			"postcode": "6480307",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Yoshino-gun",
+			"ward_name": "Nosegawa-mura",
+			"town_name": "Kitaimanishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "吉野郡",
+					"ward_name": "野迫川村",
+					"town_name": "北今西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "吉野郡"
+		},
+		"6480306": {
+			"postcode": "6480306",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Yoshino-gun",
+			"ward_name": "Nosegawa-mura",
+			"town_name": "Taira",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "吉野郡",
+					"ward_name": "野迫川村",
+					"town_name": "平",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "吉野郡"
+		},
+		"6480305": {
+			"postcode": "6480305",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Yoshino-gun",
+			"ward_name": "Nosegawa-mura",
+			"town_name": "Kitamata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "吉野郡",
+					"ward_name": "野迫川村",
+					"town_name": "北股",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "吉野郡"
+		},
+		"6480304": {
+			"postcode": "6480304",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Yoshino-gun",
+			"ward_name": "Nosegawa-mura",
+			"town_name": "Tateri",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "吉野郡",
+					"ward_name": "野迫川村",
+					"town_name": "立里",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "吉野郡"
+		},
+		"6480303": {
+			"postcode": "6480303",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Yoshino-gun",
+			"ward_name": "Nosegawa-mura",
+			"town_name": "Nakatsugawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "吉野郡",
+					"ward_name": "野迫川村",
+					"town_name": "中津川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "吉野郡"
+		},
+		"6480302": {
+			"postcode": "6480302",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Yoshino-gun",
+			"ward_name": "Nosegawa-mura",
+			"town_name": "Shion",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "吉野郡",
+					"ward_name": "野迫川村",
+					"town_name": "紫園",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "吉野郡"
+		},
+		"6480301": {
+			"postcode": "6480301",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Yoshino-gun",
+			"ward_name": "Nosegawa-mura",
+			"town_name": "Iketsukawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "吉野郡",
+					"ward_name": "野迫川村",
+					"town_name": "池津川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "吉野郡"
+		},
+		"6480300": {
+			"postcode": "6480300",
+			"prefecture_name": "Nara-ken",
+			"city_name": "Yoshino-gun",
+			"ward_name": "Nosegawa-mura",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "奈良県",
+					"city_name": "吉野郡",
+					"ward_name": "野迫川村",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"city_code": "吉野郡"
+		},
+		"6480298": {
+			"postcode": "6480298",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Koya-cho",
+			"town_name": "大字高野山",
+			"building_name": "５６８",
+			"organization_name": "宝善院",
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "高野町",
+					"town_name": "大字高野山",
+					"building_name": "５６８",
+					"organization_name": "宝善院"
+				}
+			}
+		},
+		"6480297": {
+			"postcode": "6480297",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Koya-cho",
+			"town_name": "大字高野山",
+			"building_name": "３０３（高野郵便局私書箱第２６号）",
+			"organization_name": "遍照尊院",
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "高野町",
+					"town_name": "大字高野山",
+					"building_name": "３０３（高野郵便局私書箱第２６号）",
+					"organization_name": "遍照尊院"
+				}
+			}
+		},
+		"6480296": {
+			"postcode": "6480296",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Koya-cho",
+			"town_name": "大字高野山",
+			"building_name": "１４３（高野郵便局私書箱第２０号）",
+			"organization_name": "総持院",
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "高野町",
+					"town_name": "大字高野山",
+					"building_name": "１４３（高野郵便局私書箱第２０号）",
+					"organization_name": "総持院"
+				}
+			}
+		},
+		"6480295": {
+			"postcode": "6480295",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Koya-cho",
+			"town_name": "大字高野山",
+			"building_name": "２５８（高野郵便局私書箱第１６号）",
+			"organization_name": "大師陀羅尼製薬",
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "高野町",
+					"town_name": "大字高野山",
+					"building_name": "２５８（高野郵便局私書箱第１６号）",
+					"organization_name": "大師陀羅尼製薬"
+				}
+			}
+		},
+		"6480294": {
+			"postcode": "6480294",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Koya-cho",
+			"town_name": "大字高野山",
+			"building_name": "１３２（高野郵便局私書箱第１２号）",
+			"organization_name": "総本山金剛峯寺",
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "高野町",
+					"town_name": "大字高野山",
+					"building_name": "１３２（高野郵便局私書箱第１２号）",
+					"organization_name": "総本山金剛峯寺"
+				}
+			}
+		},
+		"6480293": {
+			"postcode": "6480293",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Koya-cho",
+			"town_name": "大字高野山",
+			"building_name": "６０５（高野郵便局私書箱第１１号）",
+			"organization_name": "普賢院",
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "高野町",
+					"town_name": "大字高野山",
+					"building_name": "６０５（高野郵便局私書箱第１１号）",
+					"organization_name": "普賢院"
+				}
+			}
+		},
+		"6480292": {
+			"postcode": "6480292",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Koya-cho",
+			"town_name": "大字高野山",
+			"building_name": "１５９",
+			"organization_name": "正智院",
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "高野町",
+					"town_name": "大字高野山",
+					"building_name": "１５９",
+					"organization_name": "正智院"
+				}
+			}
+		},
+		"6480289": {
+			"postcode": "6480289",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Koya-cho",
+			"town_name": "大字高野山",
+			"building_name": "１５４",
+			"organization_name": "西禅院",
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "高野町",
+					"town_name": "大字高野山",
+					"building_name": "１５４",
+					"organization_name": "西禅院"
+				}
+			}
+		},
+		"6480288": {
+			"postcode": "6480288",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Koya-cho",
+			"town_name": "大字高野山",
+			"building_name": "２１２",
+			"organization_name": "高野山高等学校",
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "高野町",
+					"town_name": "大字高野山",
+					"building_name": "２１２",
+					"organization_name": "高野山高等学校"
+				}
+			}
+		},
+		"6480287": {
+			"postcode": "6480287",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Koya-cho",
+			"town_name": "大字高野山",
+			"building_name": "２４９（高野郵便局私書箱第３号）",
+			"organization_name": "西南院",
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "高野町",
+					"town_name": "大字高野山",
+					"building_name": "２４９（高野郵便局私書箱第３号）",
+					"organization_name": "西南院"
+				}
+			}
+		},
+		"6480286": {
+			"postcode": "6480286",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Koya-cho",
+			"town_name": "大字高野山",
+			"building_name": "６４７",
+			"organization_name": "竜泉院",
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "高野町",
+					"town_name": "大字高野山",
+					"building_name": "６４７",
+					"organization_name": "竜泉院"
+				}
+			}
+		},
+		"6480285": {
+			"postcode": "6480285",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Koya-cho",
+			"town_name": "大字高野山",
+			"building_name": "４７８",
+			"organization_name": "高野山苅萱堂　密厳院",
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "高野町",
+					"town_name": "大字高野山",
+					"building_name": "４７８",
+					"organization_name": "高野山苅萱堂　密厳院"
+				}
+			}
+		},
+		"6480284": {
+			"postcode": "6480284",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Koya-cho",
+			"town_name": "大字高野山",
+			"building_name": "４５６",
+			"organization_name": "高野山不動院",
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "高野町",
+					"town_name": "大字高野山",
+					"building_name": "４５６",
+					"organization_name": "高野山不動院"
+				}
+			}
+		},
+		"6480283": {
+			"postcode": "6480283",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Koya-cho",
+			"town_name": "大字高野山",
+			"building_name": "４５５",
+			"organization_name": "持明院",
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "高野町",
+					"town_name": "大字高野山",
+					"building_name": "４５５",
+					"organization_name": "持明院"
+				}
+			}
+		},
+		"6480282": {
+			"postcode": "6480282",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Koya-cho",
+			"town_name": "大字高野山",
+			"building_name": "５９４",
+			"organization_name": "宗教法人　宿坊大円院",
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "高野町",
+					"town_name": "大字高野山",
+					"building_name": "５９４",
+					"organization_name": "宗教法人　宿坊大円院"
+				}
+			}
+		},
+		"6480281": {
+			"postcode": "6480281",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Koya-cho",
+			"town_name": "大字高野山",
+			"building_name": "６３６",
+			"organization_name": "高野町役場",
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "高野町",
+					"town_name": "大字高野山",
+					"building_name": "６３６",
+					"organization_name": "高野町役場"
+				}
+			}
+		},
+		"6480280": {
+			"postcode": "6480280",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Koya-cho",
+			"town_name": "大字高野山",
+			"building_name": "３８５",
+			"organization_name": "学校法人　高野山学園　高野山大学",
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "高野町",
+					"town_name": "大字高野山",
+					"building_name": "３８５",
+					"organization_name": "学校法人　高野山学園　高野山大学"
+				}
+			}
+		},
+		"6480263": {
+			"postcode": "6480263",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Koya-cho",
+			"town_name": "Hanasaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "高野町",
+					"town_name": "花坂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡"
+		},
+		"6480262": {
+			"postcode": "6480262",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Koya-cho",
+			"town_name": "Hosokawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "高野町",
+					"town_name": "細川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡"
+		},
+		"6480261": {
+			"postcode": "6480261",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Koya-cho",
+			"town_name": "Nishigo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "高野町",
+					"town_name": "西郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡"
+		},
+		"6480251": {
+			"postcode": "6480251",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Koya-cho",
+			"town_name": "Yukawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "高野町",
+					"town_name": "湯川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡"
+		},
+		"6480241": {
+			"postcode": "6480241",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Koya-cho",
+			"town_name": "Ainora",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "高野町",
+					"town_name": "相ノ浦",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡"
+		},
+		"6480231": {
+			"postcode": "6480231",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Koya-cho",
+			"town_name": "Otaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "高野町",
+					"town_name": "大滝",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡"
+		},
+		"6480227": {
+			"postcode": "6480227",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Koya-cho",
+			"town_name": "Kashihara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "高野町",
+					"town_name": "樫原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡"
+		},
+		"6480226": {
+			"postcode": "6480226",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Koya-cho",
+			"town_name": "Higashimata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "高野町",
+					"town_name": "東又",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡"
+		},
+		"6480225": {
+			"postcode": "6480225",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Koya-cho",
+			"town_name": "Tsuegayabu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "高野町",
+					"town_name": "杖ケ薮",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡"
+		},
+		"6480224": {
+			"postcode": "6480224",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Koya-cho",
+			"town_name": "Hirahara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "高野町",
+					"town_name": "平原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡"
+		},
+		"6480223": {
+			"postcode": "6480223",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Koya-cho",
+			"town_name": "Hayashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "高野町",
+					"town_name": "林",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡"
+		},
+		"6480222": {
+			"postcode": "6480222",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Koya-cho",
+			"town_name": "Minami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "高野町",
+					"town_name": "南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡"
+		},
+		"6480221": {
+			"postcode": "6480221",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Koya-cho",
+			"town_name": "Nishigamine",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "高野町",
+					"town_name": "西ケ峰",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡"
+		},
+		"6480211": {
+			"postcode": "6480211",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Koya-cho",
+			"town_name": "Koyasan",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "高野町",
+					"town_name": "高野山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡"
+		},
+		"6480202": {
+			"postcode": "6480202",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Katsuragi-cho",
+			"town_name": "Hanazono",
+			"building_name": "Nakaminami",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "かつらぎ町",
+					"town_name": "花園",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡"
+		},
+		"6480201": {
+			"postcode": "6480201",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Katsuragi-cho",
+			"town_name": "Hanazono",
+			"building_name": "Kuki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "かつらぎ町",
+					"town_name": "花園",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡"
+		},
+		"6480200": {
+			"postcode": "6480200",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Koya-cho",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "高野町",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡"
+		},
+		"6480198": {
+			"postcode": "6480198",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Kudoyama-cho",
+			"town_name": "大字九度山",
+			"building_name": "１１９０",
+			"organization_name": "九度山町役場",
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "九度山町",
+					"town_name": "大字九度山",
+					"building_name": "１１９０",
+					"organization_name": "九度山町役場"
+				}
+			}
+		},
+		"6480171": {
+			"postcode": "6480171",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Koya-cho",
+			"town_name": "Nishigo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "高野町",
+					"town_name": "西郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡"
+		},
+		"6480161": {
+			"postcode": "6480161",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Kudoyama-cho",
+			"town_name": "Nyugo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "九度山町",
+					"town_name": "入郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡"
+		},
+		"6480151": {
+			"postcode": "6480151",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Kudoyama-cho",
+			"town_name": "Jisonin",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "九度山町",
+					"town_name": "慈尊院",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡"
+		},
+		"6480145": {
+			"postcode": "6480145",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Kudoyama-cho",
+			"town_name": "Shimokosawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "九度山町",
+					"town_name": "下古沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡"
+		},
+		"6480144": {
+			"postcode": "6480144",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Kudoyama-cho",
+			"town_name": "Nakakosawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "九度山町",
+					"town_name": "中古沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡"
+		},
+		"6480143": {
+			"postcode": "6480143",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Kudoyama-cho",
+			"town_name": "Kamikosawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "九度山町",
+					"town_name": "上古沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡"
+		},
+		"6480142": {
+			"postcode": "6480142",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Kudoyama-cho",
+			"town_name": "Kasagi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "九度山町",
+					"town_name": "笠木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡"
+		},
+		"6480141": {
+			"postcode": "6480141",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Kudoyama-cho",
+			"town_name": "Shiide",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "九度山町",
+					"town_name": "椎出",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡"
+		},
+		"6480133": {
+			"postcode": "6480133",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Kudoyama-cho",
+			"town_name": "Higashigo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "九度山町",
+					"town_name": "東郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡"
+		},
+		"6480132": {
+			"postcode": "6480132",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Kudoyama-cho",
+			"town_name": "Kitamata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "九度山町",
+					"town_name": "北又",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡"
+		},
+		"6480131": {
+			"postcode": "6480131",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Kudoyama-cho",
+			"town_name": "Ichitaira",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "九度山町",
+					"town_name": "市平",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡"
+		},
+		"6480121": {
+			"postcode": "6480121",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Kudoyama-cho",
+			"town_name": "Nyukawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "九度山町",
+					"town_name": "丹生川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡"
+		},
+		"6480111": {
+			"postcode": "6480111",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Kudoyama-cho",
+			"town_name": "Kane",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "九度山町",
+					"town_name": "河根",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡"
+		},
+		"6480101": {
+			"postcode": "6480101",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Kudoyama-cho",
+			"town_name": "Kudoyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "九度山町",
+					"town_name": "九度山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡"
+		},
+		"6480100": {
+			"postcode": "6480100",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Ito-gun",
+			"ward_name": "Kudoyama-cho",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "伊都郡",
+					"ward_name": "九度山町",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "伊都郡"
+		},
+		"6480099": {
+			"postcode": "6480099",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Koyodai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "光陽台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480098": {
+			"postcode": "6480098",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Yagurawaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "矢倉脇",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480097": {
+			"postcode": "6480097",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Kakinokizaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "柿の木坂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480096": {
+			"postcode": "6480096",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Miyukitsuji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "御幸辻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480095": {
+			"postcode": "6480095",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Hashitani",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "橋谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480094": {
+			"postcode": "6480094",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Mitsuishidai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "三石台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480093": {
+			"postcode": "6480093",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Kegano",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "慶賀野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480092": {
+			"postcode": "6480092",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Kimigaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "紀見ケ丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480091": {
+			"postcode": "6480091",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Hashiramoto",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "柱本",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480088": {
+			"postcode": "6480088",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Miyukidai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "みゆき台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480087": {
+			"postcode": "6480087",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Yoshihara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "吉原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480086": {
+			"postcode": "6480086",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Konono",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "神野々",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480085": {
+			"postcode": "6480085",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Kishigami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "岸上",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480084": {
+			"postcode": "6480084",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Kasebara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "柏原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480083": {
+			"postcode": "6480083",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Deto",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "出塔",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480082": {
+			"postcode": "6480082",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Shobutani",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "菖蒲谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480081": {
+			"postcode": "6480081",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Yamada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "山田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480075": {
+			"postcode": "6480075",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Satsukidai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "さつき台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480074": {
+			"postcode": "6480074",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "No",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480073": {
+			"postcode": "6480073",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Ichiwaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "市脇",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480072": {
+			"postcode": "6480072",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Toge",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "東家",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480071": {
+			"postcode": "6480071",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Oharata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "小原田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480066": {
+			"postcode": "6480066",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Gomo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "胡麻生",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480065": {
+			"postcode": "6480065",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Kosada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "古佐田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480064": {
+			"postcode": "6480064",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Hashimoto",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "橋本",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480063": {
+			"postcode": "6480063",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Harada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "原田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480062": {
+			"postcode": "6480062",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Tsuma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "妻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480061": {
+			"postcode": "6480061",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Kitababa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "北馬場",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480054": {
+			"postcode": "6480054",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Shiroyamadai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "城山台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480053": {
+			"postcode": "6480053",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Shirasagidai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "しらさぎ台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480052": {
+			"postcode": "6480052",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Kimi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "紀見",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480051": {
+			"postcode": "6480051",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Hosokawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "細川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480044": {
+			"postcode": "6480044",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Minamibaba",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "南馬場",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480043": {
+			"postcode": "6480043",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Kamuro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "学文路",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480042": {
+			"postcode": "6480042",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Nishibata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "西畑",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480041": {
+			"postcode": "6480041",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Shimizu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "清水",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480038": {
+			"postcode": "6480038",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Sugo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "須河",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480037": {
+			"postcode": "6480037",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Kashikodo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "賢堂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480036": {
+			"postcode": "6480036",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Yokoza",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "横座",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480035": {
+			"postcode": "6480035",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Hikotani",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "彦谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480034": {
+			"postcode": "6480034",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Minamiyadori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "南宿",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480033": {
+			"postcode": "6480033",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Kitayadori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "北宿",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480032": {
+			"postcode": "6480032",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Taniobuka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "谷奥深",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480031": {
+			"postcode": "6480031",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Tadano",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "只野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480025": {
+			"postcode": "6480025",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Mukasoi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "向副",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480024": {
+			"postcode": "6480024",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Ueda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "上田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480023": {
+			"postcode": "6480023",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Nakado",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "中道",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480022": {
+			"postcode": "6480022",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Akatsuka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "赤塚",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480021": {
+			"postcode": "6480021",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Koino",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "恋野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480019": {
+			"postcode": "6480019",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Ayanodai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "あやの台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480018": {
+			"postcode": "6480018",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Sudacho",
+			"building_name": "Tarui",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "隅田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480017": {
+			"postcode": "6480017",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Sudacho",
+			"building_name": "Nakajima",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "隅田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480016": {
+			"postcode": "6480016",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Sudacho",
+			"building_name": "Shimohyogo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "隅田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480015": {
+			"postcode": "6480015",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Sudacho",
+			"building_name": "Koze",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "隅田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480014": {
+			"postcode": "6480014",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Sudacho",
+			"building_name": "Kamihyogo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "隅田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480013": {
+			"postcode": "6480013",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Sudacho",
+			"building_name": "Chuge",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "隅田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480012": {
+			"postcode": "6480012",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Sudacho",
+			"building_name": "Imo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "隅田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480011": {
+			"postcode": "6480011",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Sudacho",
+			"building_name": "Matsuchi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "隅田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480007": {
+			"postcode": "6480007",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Kinohikaridai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "紀ノ光台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480006": {
+			"postcode": "6480006",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Sakaibara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "境原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480005": {
+			"postcode": "6480005",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Ominedai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "小峰台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480004": {
+			"postcode": "6480004",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Sudacho",
+			"building_name": "Shimokusa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "隅田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480003": {
+			"postcode": "6480003",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Sudacho",
+			"building_name": "Yamauchi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "隅田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480002": {
+			"postcode": "6480002",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Sudacho",
+			"building_name": "Hirano",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "隅田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480001": {
+			"postcode": "6480001",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "Sugio",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "杉尾",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		},
+		"6480000": {
+			"postcode": "6480000",
+			"prefecture_name": "Wakayama-ken",
+			"city_name": "Hashimoto-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "和歌山県",
+					"city_name": "橋本市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"city_code": "橋本市"
+		}
+	}
+}

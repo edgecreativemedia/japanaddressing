@@ -1,0 +1,755 @@
+{
+	"country_code": "JP",
+	"parent_id": "582",
+	"locale": "ja-Latn",
+	"address": {
+		"5828585": {
+			"postcode": "5828585",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Kashiwara-shi",
+			"ward_name": "",
+			"town_name": "本郷",
+			"building_name": "５丁目９９３番地",
+			"organization_name": "東大阪大学柏原高等学校",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "柏原市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "柏原市",
+					"ward_name": "",
+					"town_name": "本郷",
+					"building_name": "５丁目９９３番地",
+					"organization_name": "東大阪大学柏原高等学校"
+				}
+			}
+		},
+		"5828582": {
+			"postcode": "5828582",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Kashiwara-shi",
+			"ward_name": "",
+			"town_name": "旭ケ丘",
+			"building_name": "４丁目６９８−１",
+			"organization_name": "大阪教育大学",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "柏原市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "柏原市",
+					"ward_name": "",
+					"town_name": "旭ケ丘",
+					"building_name": "４丁目６９８−１",
+					"organization_name": "大阪教育大学"
+				}
+			}
+		},
+		"5828555": {
+			"postcode": "5828555",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Kashiwara-shi",
+			"ward_name": "",
+			"town_name": "安堂町",
+			"building_name": "１番５５号",
+			"organization_name": "柏原市役所",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "柏原市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "柏原市",
+					"ward_name": "",
+					"town_name": "安堂町",
+					"building_name": "１番５５号",
+					"organization_name": "柏原市役所"
+				}
+			}
+		},
+		"5828501": {
+			"postcode": "5828501",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Kashiwara-shi",
+			"ward_name": "",
+			"town_name": "片山町",
+			"building_name": "１３−１３",
+			"organization_name": "パナソニックサイクルテック　株式会社",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "柏原市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "柏原市",
+					"ward_name": "",
+					"town_name": "片山町",
+					"building_name": "１３−１３",
+					"organization_name": "パナソニックサイクルテック　株式会社"
+				}
+			}
+		},
+		"5820029": {
+			"postcode": "5820029",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Kashiwara-shi",
+			"ward_name": "",
+			"town_name": "Ishikawacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "柏原市",
+					"ward_name": "",
+					"town_name": "石川町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "柏原市"
+		},
+		"5820028": {
+			"postcode": "5820028",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Kashiwara-shi",
+			"ward_name": "",
+			"town_name": "Tamatecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "柏原市",
+					"ward_name": "",
+					"town_name": "玉手町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "柏原市"
+		},
+		"5820027": {
+			"postcode": "5820027",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Kashiwara-shi",
+			"ward_name": "",
+			"town_name": "Emmyocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "柏原市",
+					"ward_name": "",
+					"town_name": "円明町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "柏原市"
+		},
+		"5820026": {
+			"postcode": "5820026",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Kashiwara-shi",
+			"ward_name": "",
+			"town_name": "Asahigaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "柏原市",
+					"ward_name": "",
+					"town_name": "旭ケ丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "柏原市"
+		},
+		"5820025": {
+			"postcode": "5820025",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Kashiwara-shi",
+			"ward_name": "",
+			"town_name": "Kokubu",
+			"building_name": "Nishi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "柏原市",
+					"ward_name": "",
+					"town_name": "国分",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "柏原市"
+		},
+		"5820024": {
+			"postcode": "5820024",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Kashiwara-shi",
+			"ward_name": "",
+			"town_name": "Tanabe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "柏原市",
+					"ward_name": "",
+					"town_name": "田辺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "柏原市"
+		},
+		"5820023": {
+			"postcode": "5820023",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Kashiwara-shi",
+			"ward_name": "",
+			"town_name": "Kokubu",
+			"building_name": "Higanjocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "柏原市",
+					"ward_name": "",
+					"town_name": "国分",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "柏原市"
+		},
+		"5820022": {
+			"postcode": "5820022",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Kashiwara-shi",
+			"ward_name": "",
+			"town_name": "Kokubu",
+			"building_name": "Ichiba",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "柏原市",
+					"ward_name": "",
+					"town_name": "国分",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "柏原市"
+		},
+		"5820021": {
+			"postcode": "5820021",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Kashiwara-shi",
+			"ward_name": "",
+			"town_name": "Kokubu",
+			"building_name": "Hommachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "柏原市",
+					"ward_name": "",
+					"town_name": "国分",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "柏原市"
+		},
+		"5820020": {
+			"postcode": "5820020",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Kashiwara-shi",
+			"ward_name": "",
+			"town_name": "Katayamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "柏原市",
+					"ward_name": "",
+					"town_name": "片山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "柏原市"
+		},
+		"5820019": {
+			"postcode": "5820019",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Kashiwara-shi",
+			"ward_name": "",
+			"town_name": "Hirano",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "柏原市",
+					"ward_name": "",
+					"town_name": "平野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "柏原市"
+		},
+		"5820018": {
+			"postcode": "5820018",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Kashiwara-shi",
+			"ward_name": "",
+			"town_name": "Ogata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "柏原市",
+					"ward_name": "",
+					"town_name": "大県",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "柏原市"
+		},
+		"5820017": {
+			"postcode": "5820017",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Kashiwara-shi",
+			"ward_name": "",
+			"town_name": "Taiheiji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "柏原市",
+					"ward_name": "",
+					"town_name": "太平寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "柏原市"
+		},
+		"5820016": {
+			"postcode": "5820016",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Kashiwara-shi",
+			"ward_name": "",
+			"town_name": "Andocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "柏原市",
+					"ward_name": "",
+					"town_name": "安堂町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "柏原市"
+		},
+		"5820015": {
+			"postcode": "5820015",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Kashiwara-shi",
+			"ward_name": "",
+			"town_name": "Takaida",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "柏原市",
+					"ward_name": "",
+					"town_name": "高井田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "柏原市"
+		},
+		"5820014": {
+			"postcode": "5820014",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Kashiwara-shi",
+			"ward_name": "",
+			"town_name": "Aotani",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "柏原市",
+					"ward_name": "",
+					"town_name": "青谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "柏原市"
+		},
+		"5820013": {
+			"postcode": "5820013",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Kashiwara-shi",
+			"ward_name": "",
+			"town_name": "Toge",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "柏原市",
+					"ward_name": "",
+					"town_name": "峠",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "柏原市"
+		},
+		"5820012": {
+			"postcode": "5820012",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Kashiwara-shi",
+			"ward_name": "",
+			"town_name": "Karindobata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "柏原市",
+					"ward_name": "",
+					"town_name": "雁多尾畑",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "柏原市"
+		},
+		"5820011": {
+			"postcode": "5820011",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Kashiwara-shi",
+			"ward_name": "",
+			"town_name": "Hondo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "柏原市",
+					"ward_name": "",
+					"town_name": "本堂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "柏原市"
+		},
+		"5820010": {
+			"postcode": "5820010",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Kashiwara-shi",
+			"ward_name": "",
+			"town_name": "Yamanoicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "柏原市",
+					"ward_name": "",
+					"town_name": "山ノ井町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "柏原市"
+		},
+		"5820009": {
+			"postcode": "5820009",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Kashiwara-shi",
+			"ward_name": "",
+			"town_name": "Taisho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "柏原市",
+					"ward_name": "",
+					"town_name": "大正",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "柏原市"
+		},
+		"5820008": {
+			"postcode": "5820008",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Kashiwara-shi",
+			"ward_name": "",
+			"town_name": "Furumachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "柏原市",
+					"ward_name": "",
+					"town_name": "古町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "柏原市"
+		},
+		"5820007": {
+			"postcode": "5820007",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Kashiwara-shi",
+			"ward_name": "",
+			"town_name": "Kamiichi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "柏原市",
+					"ward_name": "",
+					"town_name": "上市",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "柏原市"
+		},
+		"5820006": {
+			"postcode": "5820006",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Kashiwara-shi",
+			"ward_name": "",
+			"town_name": "Kiyosu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "柏原市",
+					"ward_name": "",
+					"town_name": "清州",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "柏原市"
+		},
+		"5820005": {
+			"postcode": "5820005",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Kashiwara-shi",
+			"ward_name": "",
+			"town_name": "Hozenji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "柏原市",
+					"ward_name": "",
+					"town_name": "法善寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "柏原市"
+		},
+		"5820004": {
+			"postcode": "5820004",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Kashiwara-shi",
+			"ward_name": "",
+			"town_name": "Kawaharacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "柏原市",
+					"ward_name": "",
+					"town_name": "河原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "柏原市"
+		},
+		"5820003": {
+			"postcode": "5820003",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Kashiwara-shi",
+			"ward_name": "",
+			"town_name": "Dojimacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "柏原市",
+					"ward_name": "",
+					"town_name": "堂島町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "柏原市"
+		},
+		"5820002": {
+			"postcode": "5820002",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Kashiwara-shi",
+			"ward_name": "",
+			"town_name": "Imamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "柏原市",
+					"ward_name": "",
+					"town_name": "今町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "柏原市"
+		},
+		"5820001": {
+			"postcode": "5820001",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Kashiwara-shi",
+			"ward_name": "",
+			"town_name": "Hongo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "柏原市",
+					"ward_name": "",
+					"town_name": "本郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "柏原市"
+		},
+		"5820000": {
+			"postcode": "5820000",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Kashiwara-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "柏原市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "柏原市"
+		}
+	}
+}

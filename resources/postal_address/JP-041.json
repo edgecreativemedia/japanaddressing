@@ -1,0 +1,3571 @@
+{
+	"country_code": "JP",
+	"parent_id": "041",
+	"locale": "ja-Latn",
+	"address": {
+		"0418711": {
+			"postcode": "0418711",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "石川町",
+			"building_name": "１６９番地３５",
+			"organization_name": "函館トヨペット　株式会社",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "石川町",
+					"building_name": "１６９番地３５",
+					"organization_name": "函館トヨペット　株式会社"
+				}
+			}
+		},
+		"0418680": {
+			"postcode": "0418680",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "港町",
+			"building_name": "１丁目１０番１号",
+			"organization_name": "函館市病院局",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "港町",
+					"building_name": "１丁目１０番１号",
+					"organization_name": "函館市病院局"
+				}
+			}
+		},
+		"0418655": {
+			"postcode": "0418655",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "亀田中野町",
+			"building_name": "１１６番地２",
+			"organization_name": "公立はこだて未来大学",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "亀田中野町",
+					"building_name": "１１６番地２",
+					"organization_name": "公立はこだて未来大学"
+				}
+			}
+		},
+		"0418648": {
+			"postcode": "0418648",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "西桔梗町",
+			"building_name": "５８９番地４９",
+			"organization_name": "（株）　クワザワ　函館支店",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "西桔梗町",
+					"building_name": "５８９番地４９",
+					"organization_name": "（株）　クワザワ　函館支店"
+				}
+			}
+		},
+		"0418633": {
+			"postcode": "0418633",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "西桔梗町",
+			"building_name": "５８９番地１０７",
+			"organization_name": "第二物産　（株）",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "西桔梗町",
+					"building_name": "５８９番地１０７",
+					"organization_name": "第二物産　（株）"
+				}
+			}
+		},
+		"0418623": {
+			"postcode": "0418623",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "神山",
+			"building_name": "２丁目４番３号",
+			"organization_name": "函館日産自動車　株式会社　神山店",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "神山",
+					"building_name": "２丁目４番３号",
+					"organization_name": "函館日産自動車　株式会社　神山店"
+				}
+			}
+		},
+		"0418611": {
+			"postcode": "0418611",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "港町",
+			"building_name": "３丁目１番１号",
+			"organization_name": "北海道大学　水産学部",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "港町",
+					"building_name": "３丁目１番１号",
+					"organization_name": "北海道大学　水産学部"
+				}
+			}
+		},
+		"0418610": {
+			"postcode": "0418610",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "港町",
+			"building_name": "３丁目１８番１５号",
+			"organization_name": "（株）　テーオー小笠原",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "港町",
+					"building_name": "３丁目１８番１５号",
+					"organization_name": "（株）　テーオー小笠原"
+				}
+			}
+		},
+		"0418589": {
+			"postcode": "0418589",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "西桔梗町",
+			"building_name": "５８９番地４６",
+			"organization_name": "（株）　不二屋本店",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "西桔梗町",
+					"building_name": "５８９番地４６",
+					"organization_name": "（株）　不二屋本店"
+				}
+			}
+		},
+		"0418588": {
+			"postcode": "0418588",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "西桔梗町",
+			"building_name": "５８９番地１４８",
+			"organization_name": "函館運送　（株）",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "西桔梗町",
+					"building_name": "５８９番地１４８",
+					"organization_name": "函館運送　（株）"
+				}
+			}
+		},
+		"0418577": {
+			"postcode": "0418577",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "昭和",
+			"building_name": "１丁目２８番１２号",
+			"organization_name": "ネッツトヨタ道南　株式会社",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "昭和",
+					"building_name": "１丁目２８番１２号",
+					"organization_name": "ネッツトヨタ道南　株式会社"
+				}
+			}
+		},
+		"0418567": {
+			"postcode": "0418567",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "西桔梗町",
+			"building_name": "５３７番地４",
+			"organization_name": "（株）　ヤマツ",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "西桔梗町",
+					"building_name": "５３７番地４",
+					"organization_name": "（株）　ヤマツ"
+				}
+			}
+		},
+		"0418560": {
+			"postcode": "0418560",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "山の手",
+			"building_name": "２丁目６番３号",
+			"organization_name": "函館白百合学園　中学高等学校",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "山の手",
+					"building_name": "２丁目６番３号",
+					"organization_name": "函館白百合学園　中学高等学校"
+				}
+			}
+		},
+		"0418558": {
+			"postcode": "0418558",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "美原",
+			"building_name": "４丁目６番",
+			"organization_name": "北海道　渡島支庁",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "美原",
+					"building_name": "４丁目６番",
+					"organization_name": "北海道　渡島支庁"
+				}
+			}
+		},
+		"0418557": {
+			"postcode": "0418557",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "美原",
+			"building_name": "４丁目６番１６号",
+			"organization_name": "北海道教育庁　渡島教育局",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "美原",
+					"building_name": "４丁目６番１６号",
+					"organization_name": "北海道教育庁　渡島教育局"
+				}
+			}
+		},
+		"0418556": {
+			"postcode": "0418556",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "美原",
+			"building_name": "４丁目６番１６号",
+			"organization_name": "渡島中部地区　水産技術普及指導所",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "美原",
+					"building_name": "４丁目６番１６号",
+					"organization_name": "渡島中部地区　水産技術普及指導所"
+				}
+			}
+		},
+		"0418555": {
+			"postcode": "0418555",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "中道",
+			"building_name": "２丁目６番１１号",
+			"organization_name": "医療法人社団　仁生会　西堀病院",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "中道",
+					"building_name": "２丁目６番１１号",
+					"organization_name": "医療法人社団　仁生会　西堀病院"
+				}
+			}
+		},
+		"0418554": {
+			"postcode": "0418554",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "美原",
+			"building_name": "４丁目６番１６号",
+			"organization_name": "函館土木現業所",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "美原",
+					"building_name": "４丁目６番１６号",
+					"organization_name": "函館土木現業所"
+				}
+			}
+		},
+		"0418553": {
+			"postcode": "0418553",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "美原",
+			"building_name": "４丁目６番１６号",
+			"organization_name": "北海道計量検定所　函館支所",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "美原",
+					"building_name": "４丁目６番１６号",
+					"organization_name": "北海道計量検定所　函館支所"
+				}
+			}
+		},
+		"0418552": {
+			"postcode": "0418552",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "美原",
+			"building_name": "４丁目６番１６号",
+			"organization_name": "北海道教育庁　実習船管理局",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "美原",
+					"building_name": "４丁目６番１６号",
+					"organization_name": "北海道教育庁　実習船管理局"
+				}
+			}
+		},
+		"0418551": {
+			"postcode": "0418551",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "美原",
+			"building_name": "４丁目６番１６号",
+			"organization_name": "北海道渡島保健所",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "美原",
+					"building_name": "４丁目６番１６号",
+					"organization_name": "北海道渡島保健所"
+				}
+			}
+		},
+		"0418540": {
+			"postcode": "0418540",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "港町",
+			"building_name": "１丁目１７番８号",
+			"organization_name": "（株）　函館新聞社",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "港町",
+					"building_name": "１丁目１７番８号",
+					"organization_name": "（株）　函館新聞社"
+				}
+			}
+		},
+		"0418523": {
+			"postcode": "0418523",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "石川町",
+			"building_name": "６０番地",
+			"organization_name": "函館日産自動車　株式会社",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "石川町",
+					"building_name": "６０番地",
+					"organization_name": "函館日産自動車　株式会社"
+				}
+			}
+		},
+		"0418522": {
+			"postcode": "0418522",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "富岡町",
+			"building_name": "２丁目１０番１０号",
+			"organization_name": "社団法人　函館市医師会　函館市医師会病院",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "富岡町",
+					"building_name": "２丁目１０番１０号",
+					"organization_name": "社団法人　函館市医師会　函館市医師会病院"
+				}
+			}
+		},
+		"0418515": {
+			"postcode": "0418515",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "西桔梗町",
+			"building_name": "５８９番地",
+			"organization_name": "大興電機　株式会社",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "西桔梗町",
+					"building_name": "５８９番地",
+					"organization_name": "大興電機　株式会社"
+				}
+			}
+		},
+		"0418512": {
+			"postcode": "0418512",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "川原町",
+			"building_name": "１８番１６号",
+			"organization_name": "独立行政法人　国立病院機構　函館病院",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "川原町",
+					"building_name": "１８番１６号",
+					"organization_name": "独立行政法人　国立病院機構　函館病院"
+				}
+			}
+		},
+		"0418511": {
+			"postcode": "0418511",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "昭和",
+			"building_name": "２丁目４３番５０号",
+			"organization_name": "大一興業　株式会社",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "昭和",
+					"building_name": "２丁目４３番５０号",
+					"organization_name": "大一興業　株式会社"
+				}
+			}
+		},
+		"0418510": {
+			"postcode": "0418510",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "西桔梗町",
+			"building_name": "５９５番地１",
+			"organization_name": "大丸藤井　株式会社　函館支店",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "西桔梗町",
+					"building_name": "５９５番地１",
+					"organization_name": "大丸藤井　株式会社　函館支店"
+				}
+			}
+		},
+		"0418501": {
+			"postcode": "0418501",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "美原",
+			"building_name": "１丁目３番１号",
+			"organization_name": "（株）　イトーヨーカドー　函館店",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "美原",
+					"building_name": "１丁目３番１号",
+					"organization_name": "（株）　イトーヨーカドー　函館店"
+				}
+			}
+		},
+		"0411692": {
+			"postcode": "0411692",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "川汲町",
+			"building_name": "１５２０番地",
+			"organization_name": "函館市役所南茅部支所",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "川汲町",
+					"building_name": "１５２０番地",
+					"organization_name": "函館市役所南茅部支所"
+				}
+			}
+		},
+		"0411624": {
+			"postcode": "0411624",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Iwatocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "岩戸町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0411623": {
+			"postcode": "0411623",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Futamicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "双見町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0411622": {
+			"postcode": "0411622",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Ofunecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "大船町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0411621": {
+			"postcode": "0411621",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Toyosakicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "豊崎町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0411613": {
+			"postcode": "0411613",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Usujiricho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "臼尻町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0411612": {
+			"postcode": "0411612",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Yasuracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "安浦町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0411611": {
+			"postcode": "0411611",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Kakkumicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "川汲町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0411603": {
+			"postcode": "0411603",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Osatsubecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "尾札部町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0411602": {
+			"postcode": "0411602",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Kinaoshicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "木直町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0411601": {
+			"postcode": "0411601",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Furubecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "古部町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0411498": {
+			"postcode": "0411498",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kayabe-gun",
+			"ward_name": "Shikabe-cho",
+			"town_name": "字宮浜",
+			"building_name": "２９９",
+			"organization_name": "鹿部町役場",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "茅部郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "茅部郡",
+					"ward_name": "鹿部町",
+					"town_name": "字宮浜",
+					"building_name": "２９９",
+					"organization_name": "鹿部町役場"
+				}
+			}
+		},
+		"0411497": {
+			"postcode": "0411497",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kayabe-gun",
+			"ward_name": "Shikabe-cho",
+			"town_name": "字本別",
+			"building_name": "５３０番地１２５号",
+			"organization_name": "鹿部カントリー倶楽部",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "茅部郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "茅部郡",
+					"ward_name": "鹿部町",
+					"town_name": "字本別",
+					"building_name": "５３０番地１２５号",
+					"organization_name": "鹿部カントリー倶楽部"
+				}
+			}
+		},
+		"0411496": {
+			"postcode": "0411496",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kayabe-gun",
+			"ward_name": "Shikabe-cho",
+			"town_name": "字本別",
+			"building_name": "５３０番地１２７号",
+			"organization_name": "鹿部ロイヤルホテル",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "茅部郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "茅部郡",
+					"ward_name": "鹿部町",
+					"town_name": "字本別",
+					"building_name": "５３０番地１２７号",
+					"organization_name": "鹿部ロイヤルホテル"
+				}
+			}
+		},
+		"0411405": {
+			"postcode": "0411405",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kayabe-gun",
+			"ward_name": "Shikabe-cho",
+			"town_name": "Komami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "茅部郡",
+					"ward_name": "鹿部町",
+					"town_name": "駒見",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "茅部郡"
+		},
+		"0411404": {
+			"postcode": "0411404",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kayabe-gun",
+			"ward_name": "Shikabe-cho",
+			"town_name": "Hombetsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "茅部郡",
+					"ward_name": "鹿部町",
+					"town_name": "本別",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "茅部郡"
+		},
+		"0411403": {
+			"postcode": "0411403",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kayabe-gun",
+			"ward_name": "Shikabe-cho",
+			"town_name": "Miyahama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "茅部郡",
+					"ward_name": "鹿部町",
+					"town_name": "宮浜",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "茅部郡"
+		},
+		"0411402": {
+			"postcode": "0411402",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kayabe-gun",
+			"ward_name": "Shikabe-cho",
+			"town_name": "Shikabe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "茅部郡",
+					"ward_name": "鹿部町",
+					"town_name": "鹿部",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "茅部郡"
+		},
+		"0411401": {
+			"postcode": "0411401",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kayabe-gun",
+			"ward_name": "Shikabe-cho",
+			"town_name": "Oiwa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "茅部郡",
+					"ward_name": "鹿部町",
+					"town_name": "大岩",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "茅部郡"
+		},
+		"0411400": {
+			"postcode": "0411400",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kayabe-gun",
+			"ward_name": "Shikabe-cho",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "茅部郡",
+					"ward_name": "鹿部町",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "茅部郡"
+		},
+		"0411392": {
+			"postcode": "0411392",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kameda-gun",
+			"ward_name": "Nanae-cho",
+			"town_name": "字西大沼",
+			"building_name": "１４８",
+			"organization_name": "株式会社　プリンスホテル　函館大沼プリンスホテル",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "亀田郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "亀田郡",
+					"ward_name": "七飯町",
+					"town_name": "字西大沼",
+					"building_name": "１４８",
+					"organization_name": "株式会社　プリンスホテル　函館大沼プリンスホテル"
+				}
+			}
+		},
+		"0411355": {
+			"postcode": "0411355",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kameda-gun",
+			"ward_name": "Nanae-cho",
+			"town_name": "Nishionuma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "亀田郡",
+					"ward_name": "七飯町",
+					"town_name": "西大沼",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "亀田郡"
+		},
+		"0411354": {
+			"postcode": "0411354",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kameda-gun",
+			"ward_name": "Nanae-cho",
+			"town_name": "Onumacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "亀田郡",
+					"ward_name": "七飯町",
+					"town_name": "大沼町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "亀田郡"
+		},
+		"0411353": {
+			"postcode": "0411353",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kameda-gun",
+			"ward_name": "Nanae-cho",
+			"town_name": "Kamiikusagawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "亀田郡",
+					"ward_name": "七飯町",
+					"town_name": "上軍川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "亀田郡"
+		},
+		"0411352": {
+			"postcode": "0411352",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kameda-gun",
+			"ward_name": "Nanae-cho",
+			"town_name": "Ikusagawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "亀田郡",
+					"ward_name": "七飯町",
+					"town_name": "軍川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "亀田郡"
+		},
+		"0411351": {
+			"postcode": "0411351",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kameda-gun",
+			"ward_name": "Nanae-cho",
+			"town_name": "Higashionuma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "亀田郡",
+					"ward_name": "七飯町",
+					"town_name": "東大沼",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "亀田郡"
+		},
+		"0411251": {
+			"postcode": "0411251",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hokuto-shi",
+			"ward_name": "",
+			"town_name": "Hongo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北斗市",
+					"ward_name": "",
+					"town_name": "本郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北斗市"
+		},
+		"0411244": {
+			"postcode": "0411244",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hokuto-shi",
+			"ward_name": "",
+			"town_name": "Murayama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北斗市",
+					"ward_name": "",
+					"town_name": "村山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北斗市"
+		},
+		"0411243": {
+			"postcode": "0411243",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hokuto-shi",
+			"ward_name": "",
+			"town_name": "Nakayama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北斗市",
+					"ward_name": "",
+					"town_name": "中山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北斗市"
+		},
+		"0411242": {
+			"postcode": "0411242",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hokuto-shi",
+			"ward_name": "",
+			"town_name": "Ichinowatari",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北斗市",
+					"ward_name": "",
+					"town_name": "市渡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北斗市"
+		},
+		"0411241": {
+			"postcode": "0411241",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hokuto-shi",
+			"ward_name": "",
+			"town_name": "Inasato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北斗市",
+					"ward_name": "",
+					"town_name": "稲里",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北斗市"
+		},
+		"0411231": {
+			"postcode": "0411231",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hokuto-shi",
+			"ward_name": "",
+			"town_name": "Mukaino",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北斗市",
+					"ward_name": "",
+					"town_name": "向野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北斗市"
+		},
+		"0411226": {
+			"postcode": "0411226",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hokuto-shi",
+			"ward_name": "",
+			"town_name": "Murauchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北斗市",
+					"ward_name": "",
+					"town_name": "村内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北斗市"
+		},
+		"0411225": {
+			"postcode": "0411225",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hokuto-shi",
+			"ward_name": "",
+			"town_name": "Fumizuki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北斗市",
+					"ward_name": "",
+					"town_name": "文月",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北斗市"
+		},
+		"0411224": {
+			"postcode": "0411224",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hokuto-shi",
+			"ward_name": "",
+			"town_name": "Minamiono",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北斗市",
+					"ward_name": "",
+					"town_name": "南大野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北斗市"
+		},
+		"0411223": {
+			"postcode": "0411223",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hokuto-shi",
+			"ward_name": "",
+			"town_name": "Ippongi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北斗市",
+					"ward_name": "",
+					"town_name": "一本木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北斗市"
+		},
+		"0411222": {
+			"postcode": "0411222",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hokuto-shi",
+			"ward_name": "",
+			"town_name": "Chiyoda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北斗市",
+					"ward_name": "",
+					"town_name": "千代田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北斗市"
+		},
+		"0411221": {
+			"postcode": "0411221",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hokuto-shi",
+			"ward_name": "",
+			"town_name": "Shimizukawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北斗市",
+					"ward_name": "",
+					"town_name": "清水川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北斗市"
+		},
+		"0411215": {
+			"postcode": "0411215",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hokuto-shi",
+			"ward_name": "",
+			"town_name": "Hagino",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北斗市",
+					"ward_name": "",
+					"town_name": "萩野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北斗市"
+		},
+		"0411214": {
+			"postcode": "0411214",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hokuto-shi",
+			"ward_name": "",
+			"town_name": "Higashimae",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北斗市",
+					"ward_name": "",
+					"town_name": "東前",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北斗市"
+		},
+		"0411213": {
+			"postcode": "0411213",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hokuto-shi",
+			"ward_name": "",
+			"town_name": "Kaihatsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北斗市",
+					"ward_name": "",
+					"town_name": "開発",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北斗市"
+		},
+		"0411212": {
+			"postcode": "0411212",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hokuto-shi",
+			"ward_name": "",
+			"town_name": "Hosoire",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北斗市",
+					"ward_name": "",
+					"town_name": "細入",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北斗市"
+		},
+		"0411211": {
+			"postcode": "0411211",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hokuto-shi",
+			"ward_name": "",
+			"town_name": "Shirakawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北斗市",
+					"ward_name": "",
+					"town_name": "白川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北斗市"
+		},
+		"0411201": {
+			"postcode": "0411201",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hokuto-shi",
+			"ward_name": "",
+			"town_name": "Honcho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "北斗市",
+					"ward_name": "",
+					"town_name": "本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "北斗市"
+		},
+		"0411196": {
+			"postcode": "0411196",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kameda-gun",
+			"ward_name": "Nanae-cho",
+			"town_name": "字中島",
+			"building_name": "１４５番地",
+			"organization_name": "株式会社　ジェイデバイス　函館地区",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "亀田郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "亀田郡",
+					"ward_name": "七飯町",
+					"town_name": "字中島",
+					"building_name": "１４５番地",
+					"organization_name": "株式会社　ジェイデバイス　函館地区"
+				}
+			}
+		},
+		"0411195": {
+			"postcode": "0411195",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kameda-gun",
+			"ward_name": "Nanae-cho",
+			"town_name": "字本町",
+			"building_name": "６５７番地５号",
+			"organization_name": "函館厚生院　ななえ新病院",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "亀田郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "亀田郡",
+					"ward_name": "七飯町",
+					"town_name": "字本町",
+					"building_name": "６５７番地５号",
+					"organization_name": "函館厚生院　ななえ新病院"
+				}
+			}
+		},
+		"0411194": {
+			"postcode": "0411194",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kameda-gun",
+			"ward_name": "Nanae-cho",
+			"town_name": "字本町",
+			"building_name": "３１１（七飯郵便局私書箱第３号）",
+			"organization_name": "七飯町農業協同組合",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "亀田郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "亀田郡",
+					"ward_name": "七飯町",
+					"town_name": "字本町",
+					"building_name": "３１１（七飯郵便局私書箱第３号）",
+					"organization_name": "七飯町農業協同組合"
+				}
+			}
+		},
+		"0411193": {
+			"postcode": "0411193",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kameda-gun",
+			"ward_name": "Nanae-cho",
+			"town_name": "字本町",
+			"building_name": "５６８−８",
+			"organization_name": "七飯町教育委員会",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "亀田郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "亀田郡",
+					"ward_name": "七飯町",
+					"town_name": "字本町",
+					"building_name": "５６８−８",
+					"organization_name": "七飯町教育委員会"
+				}
+			}
+		},
+		"0411192": {
+			"postcode": "0411192",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kameda-gun",
+			"ward_name": "Nanae-cho",
+			"town_name": "字本町",
+			"building_name": "５６８−３",
+			"organization_name": "七飯町役場",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "亀田郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "亀田郡",
+					"ward_name": "七飯町",
+					"town_name": "字本町",
+					"building_name": "５６８−３",
+					"organization_name": "七飯町役場"
+				}
+			}
+		},
+		"0411136": {
+			"postcode": "0411136",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kameda-gun",
+			"ward_name": "Nanae-cho",
+			"town_name": "Iidacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "亀田郡",
+					"ward_name": "七飯町",
+					"town_name": "飯田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "亀田郡"
+		},
+		"0411135": {
+			"postcode": "0411135",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kameda-gun",
+			"ward_name": "Nanae-cho",
+			"town_name": "Midoricho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "亀田郡",
+					"ward_name": "七飯町",
+					"town_name": "緑町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "亀田郡"
+		},
+		"0411134": {
+			"postcode": "0411134",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kameda-gun",
+			"ward_name": "Nanae-cho",
+			"town_name": "Tsuruno",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "亀田郡",
+					"ward_name": "七飯町",
+					"town_name": "鶴野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "亀田郡"
+		},
+		"0411133": {
+			"postcode": "0411133",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kameda-gun",
+			"ward_name": "Nanae-cho",
+			"town_name": "Nakajima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "亀田郡",
+					"ward_name": "七飯町",
+					"town_name": "中島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "亀田郡"
+		},
+		"0411132": {
+			"postcode": "0411132",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kameda-gun",
+			"ward_name": "Nanae-cho",
+			"town_name": "Toyoda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "亀田郡",
+					"ward_name": "七飯町",
+					"town_name": "豊田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "亀田郡"
+		},
+		"0411131": {
+			"postcode": "0411131",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kameda-gun",
+			"ward_name": "Nanae-cho",
+			"town_name": "Nakano",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "亀田郡",
+					"ward_name": "七飯町",
+					"town_name": "中野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "亀田郡"
+		},
+		"0411122": {
+			"postcode": "0411122",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kameda-gun",
+			"ward_name": "Nanae-cho",
+			"town_name": "Okawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "亀田郡",
+					"ward_name": "七飯町",
+					"town_name": "大川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "亀田郡"
+		},
+		"0411121": {
+			"postcode": "0411121",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kameda-gun",
+			"ward_name": "Nanae-cho",
+			"town_name": "Onakayama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "亀田郡",
+					"ward_name": "七飯町",
+					"town_name": "大中山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "亀田郡"
+		},
+		"0411112": {
+			"postcode": "0411112",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kameda-gun",
+			"ward_name": "Nanae-cho",
+			"town_name": "Narukawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "亀田郡",
+					"ward_name": "七飯町",
+					"town_name": "鳴川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "亀田郡"
+		},
+		"0411111": {
+			"postcode": "0411111",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kameda-gun",
+			"ward_name": "Nanae-cho",
+			"town_name": "Honcho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "亀田郡",
+					"ward_name": "七飯町",
+					"town_name": "本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "亀田郡"
+		},
+		"0411105": {
+			"postcode": "0411105",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kameda-gun",
+			"ward_name": "Nanae-cho",
+			"town_name": "Sakuracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "亀田郡",
+					"ward_name": "七飯町",
+					"town_name": "桜町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "亀田郡"
+		},
+		"0411104": {
+			"postcode": "0411104",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kameda-gun",
+			"ward_name": "Nanae-cho",
+			"town_name": "Kamifujishiro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "亀田郡",
+					"ward_name": "七飯町",
+					"town_name": "上藤城",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "亀田郡"
+		},
+		"0411103": {
+			"postcode": "0411103",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kameda-gun",
+			"ward_name": "Nanae-cho",
+			"town_name": "Fujishiro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "亀田郡",
+					"ward_name": "七飯町",
+					"town_name": "藤城",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "亀田郡"
+		},
+		"0411102": {
+			"postcode": "0411102",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kameda-gun",
+			"ward_name": "Nanae-cho",
+			"town_name": "Togeshita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "亀田郡",
+					"ward_name": "七飯町",
+					"town_name": "峠下",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "亀田郡"
+		},
+		"0411101": {
+			"postcode": "0411101",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kameda-gun",
+			"ward_name": "Nanae-cho",
+			"town_name": "Niyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "亀田郡",
+					"ward_name": "七飯町",
+					"town_name": "仁山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "亀田郡"
+		},
+		"0411100": {
+			"postcode": "0411100",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Kameda-gun",
+			"ward_name": "Nanae-cho",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "亀田郡",
+					"ward_name": "七飯町",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "亀田郡"
+		},
+		"0410853": {
+			"postcode": "0410853",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Nakamichi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "中道",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410852": {
+			"postcode": "0410852",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Kaji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "鍛治",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410851": {
+			"postcode": "0410851",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Hondori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "本通",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410844": {
+			"postcode": "0410844",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Kawaharacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "川原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410843": {
+			"postcode": "0410843",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Hanazonocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "花園町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410841": {
+			"postcode": "0410841",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Hiyoshicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "日吉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410837": {
+			"postcode": "0410837",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Jinkawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "陣川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410836": {
+			"postcode": "0410836",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Yamanote",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "山の手",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410835": {
+			"postcode": "0410835",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Higashiyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "東山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410834": {
+			"postcode": "0410834",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Higashiyamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "東山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410833": {
+			"postcode": "0410833",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Jinkawacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "陣川町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410832": {
+			"postcode": "0410832",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Kamiyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "神山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410831": {
+			"postcode": "0410831",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Kamiyamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "神山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410824": {
+			"postcode": "0410824",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Nishikikyocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "西桔梗町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410823": {
+			"postcode": "0410823",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Showacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "昭和町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410822": {
+			"postcode": "0410822",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Kameda",
+			"building_name": "Minatocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "亀田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410821": {
+			"postcode": "0410821",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Minatocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "港町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410813": {
+			"postcode": "0410813",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Kameda",
+			"building_name": "Honcho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "亀田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410812": {
+			"postcode": "0410812",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Showa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "昭和",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410811": {
+			"postcode": "0410811",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Tomiokacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "富岡町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410808": {
+			"postcode": "0410808",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Kikyo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "桔梗",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410807": {
+			"postcode": "0410807",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Kitamihara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "北美原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410806": {
+			"postcode": "0410806",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Mihara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "美原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410805": {
+			"postcode": "0410805",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Akagawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "赤川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410804": {
+			"postcode": "0410804",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Akagawacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "赤川町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410803": {
+			"postcode": "0410803",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Kameda",
+			"building_name": "Nakanocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "亀田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410802": {
+			"postcode": "0410802",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Ishikawacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "石川町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410801": {
+			"postcode": "0410801",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Kikyocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "桔梗町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410613": {
+			"postcode": "0410613",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Egamiyamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "絵紙山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410612": {
+			"postcode": "0410612",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Choshicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "銚子町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410611": {
+			"postcode": "0410611",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Shinhamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "新浜町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410606": {
+			"postcode": "0410606",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Shinesancho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "新恵山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410605": {
+			"postcode": "0410605",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Esammisakicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "恵山岬町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410604": {
+			"postcode": "0410604",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Motomuracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "元村町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410603": {
+			"postcode": "0410603",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Tomiuracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "富浦町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410602": {
+			"postcode": "0410602",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Shimadomaricho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "島泊町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410601": {
+			"postcode": "0410601",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Shinhachimancho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "新八幡町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410526": {
+			"postcode": "0410526",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Takadaicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "高岱町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410525": {
+			"postcode": "0410525",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Hinohamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "日ノ浜町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410524": {
+			"postcode": "0410524",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Kobuicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "古武井町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410523": {
+			"postcode": "0410523",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Kashiwanocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "柏野町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410522": {
+			"postcode": "0410522",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Esancho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "恵山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410521": {
+			"postcode": "0410521",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Misakicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "御崎町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410408": {
+			"postcode": "0410408",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Kichihatacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "吉畑町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410407": {
+			"postcode": "0410407",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Hiyoriyamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "日和山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410406": {
+			"postcode": "0410406",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Menagawacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "女那川町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410405": {
+			"postcode": "0410405",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Kawakamicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "川上町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410404": {
+			"postcode": "0410404",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Nakahamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "中浜町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410403": {
+			"postcode": "0410403",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Omacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "大澗町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410402": {
+			"postcode": "0410402",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Toyoracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "豊浦町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410401": {
+			"postcode": "0410401",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Hiuracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "日浦町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410313": {
+			"postcode": "0410313",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Harakicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "原木町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410312": {
+			"postcode": "0410312",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Shinfutamicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "新二見町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410311": {
+			"postcode": "0410311",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Hamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "浜町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410306": {
+			"postcode": "0410306",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Maruyamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "丸山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410305": {
+			"postcode": "0410305",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Tatemachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "館町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410304": {
+			"postcode": "0410304",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Tomarimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "泊町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410303": {
+			"postcode": "0410303",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Benzaicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "弁才町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410302": {
+			"postcode": "0410302",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Setaraicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "瀬田来町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410301": {
+			"postcode": "0410301",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Shiokubicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "汐首町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410265": {
+			"postcode": "0410265",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Shiroishicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "白石町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410264": {
+			"postcode": "0410264",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Tsurunocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "鶴野町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410263": {
+			"postcode": "0410263",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Toyoharacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "豊原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410262": {
+			"postcode": "0410262",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Furukawacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "古川町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410261": {
+			"postcode": "0410261",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Ishizakicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "石崎町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410253": {
+			"postcode": "0410253",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Oyasuyamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "小安山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410252": {
+			"postcode": "0410252",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Kamayacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "釜谷町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		},
+		"0410251": {
+			"postcode": "0410251",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Hakodate-shi",
+			"ward_name": "",
+			"town_name": "Oyasucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "函館市",
+					"ward_name": "",
+					"town_name": "小安町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "函館市"
+		}
+	}
+}

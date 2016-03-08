@@ -1,0 +1,6453 @@
+{
+	"country_code": "JP",
+	"parent_id": "952",
+	"locale": "ja-Latn",
+	"address": {
+		"9528502": {
+			"postcode": "9528502",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "原黒",
+			"building_name": "３００−１",
+			"organization_name": "佐渡農業協同組合",
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "原黒",
+					"building_name": "３００−１",
+					"organization_name": "佐渡農業協同組合"
+				}
+			}
+		},
+		"9528501": {
+			"postcode": "9528501",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "湊",
+			"building_name": "１９８",
+			"organization_name": "佐渡市役所　両津支所",
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "湊",
+					"building_name": "１９８",
+					"organization_name": "佐渡市役所　両津支所"
+				}
+			}
+		},
+		"9523546": {
+			"postcode": "9523546",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Higashitatsushima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "東立島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9523545": {
+			"postcode": "9523545",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Higashikowashimizu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "東強清水",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9523544": {
+			"postcode": "9523544",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Nora",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "野浦",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9523543": {
+			"postcode": "9523543",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Tsukifuse",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "月布施",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9523542": {
+			"postcode": "9523542",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Katano",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "片野尾",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9523541": {
+			"postcode": "9523541",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Suizu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "水津",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9523435": {
+			"postcode": "9523435",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Ryotsuogawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "両津大川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9523434": {
+			"postcode": "9523434",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Haniu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "羽二生",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9523433": {
+			"postcode": "9523433",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Moro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "両尾",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9523432": {
+			"postcode": "9523432",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Shiidomari",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "椎泊",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9523431": {
+			"postcode": "9523431",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Maki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "真木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9523425": {
+			"postcode": "9523425",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Kawasaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "河崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9523424": {
+			"postcode": "9523424",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Shimokuji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "下久知",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9523423": {
+			"postcode": "9523423",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Kujikawachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "久知河内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9523422": {
+			"postcode": "9523422",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Jonokoshi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "城腰",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9523421": {
+			"postcode": "9523421",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Agata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "吾潟",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9523207": {
+			"postcode": "9523207",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Kitakora",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "北小浦",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9523206": {
+			"postcode": "9523206",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Mitate",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "見立",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9523205": {
+			"postcode": "9523205",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Washizaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "鷲崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9523204": {
+			"postcode": "9523204",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Mora",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "藻浦",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9523203": {
+			"postcode": "9523203",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Negai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "願",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9523202": {
+			"postcode": "9523202",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Kitaushima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "北鵜島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9523201": {
+			"postcode": "9523201",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Masaragawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "真更川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9523119": {
+			"postcode": "9523119",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Tamasaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "玉崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9523118": {
+			"postcode": "9523118",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Waki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "和木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9523117": {
+			"postcode": "9523117",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Umakubi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "馬首",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9523116": {
+			"postcode": "9523116",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Kitamatsugasaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "北松ケ崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9523115": {
+			"postcode": "9523115",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Hiramatsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "平松",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9523114": {
+			"postcode": "9523114",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Uragawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "浦川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9523113": {
+			"postcode": "9523113",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Utami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "歌見",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9523112": {
+			"postcode": "9523112",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Kurohime",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "黒姫",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9523111": {
+			"postcode": "9523111",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Mushizaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "虫崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9522226": {
+			"postcode": "9522226",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Minamikatabe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "南片辺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9522225": {
+			"postcode": "9522225",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Kitakatabe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "北片辺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9522224": {
+			"postcode": "9522224",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Ishige",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "石花",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9522223": {
+			"postcode": "9522223",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Ushiro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "後尾",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9522222": {
+			"postcode": "9522222",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Kitakawachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "北川内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9522221": {
+			"postcode": "9522221",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Kitatatsushima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "北立島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9522215": {
+			"postcode": "9522215",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Nyugawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "入川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9522214": {
+			"postcode": "9522214",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Takachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "高千",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9522213": {
+			"postcode": "9522213",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Kitatanora",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "北田野浦",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9522212": {
+			"postcode": "9522212",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Onomi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "小野見",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9522211": {
+			"postcode": "9522211",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Ishina",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "石名",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9522206": {
+			"postcode": "9522206",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Koda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "小田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9522205": {
+			"postcode": "9522205",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Okura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "大倉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9522204": {
+			"postcode": "9522204",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Yagara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "矢柄",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9522203": {
+			"postcode": "9522203",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Seki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "関",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9522202": {
+			"postcode": "9522202",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Ikaura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "五十浦",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9522201": {
+			"postcode": "9522201",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Iwayaguchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "岩谷口",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9522136": {
+			"postcode": "9522136",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Ogawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "小川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9522135": {
+			"postcode": "9522135",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Tassha",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "達者",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9522134": {
+			"postcode": "9522134",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Himezu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "姫津",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9522133": {
+			"postcode": "9522133",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Kitaebisu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "北狄",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9522132": {
+			"postcode": "9522132",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Toji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "戸地",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9522131": {
+			"postcode": "9522131",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Tochu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "戸中",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521646": {
+			"postcode": "9521646",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Oura",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521645": {
+			"postcode": "9521645",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Takose",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "高瀬",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521644": {
+			"postcode": "9521644",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Tachibana",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "橘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521643": {
+			"postcode": "9521643",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Inakujira",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "稲鯨",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521642": {
+			"postcode": "9521642",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Yonago",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "米郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521641": {
+			"postcode": "9521641",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Futami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "二見",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521593": {
+			"postcode": "9521593",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "相川三町目新浜町",
+			"building_name": "３−３",
+			"organization_name": "相川税務署",
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川三町目新浜町",
+					"building_name": "３−３",
+					"organization_name": "相川税務署"
+				}
+			}
+		},
+		"9521592": {
+			"postcode": "9521592",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "相川塩屋町",
+			"building_name": "２６",
+			"organization_name": "佐渡市役所　相川支所",
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川塩屋町",
+					"building_name": "２６",
+					"organization_name": "佐渡市役所　相川支所"
+				}
+			}
+		},
+		"9521584": {
+			"postcode": "9521584",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Oritosumiyahamamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521583": {
+			"postcode": "9521583",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Kabuse",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521582": {
+			"postcode": "9521582",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Oritomura",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521581": {
+			"postcode": "9521581",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Oritosumiyamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521575": {
+			"postcode": "9521575",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Oritomachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521574": {
+			"postcode": "9521574",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Amamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521573": {
+			"postcode": "9521573",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Oritosumiyauramachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521572": {
+			"postcode": "9521572",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Hanedamura",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521571": {
+			"postcode": "9521571",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Oritohamamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521568": {
+			"postcode": "9521568",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Shinhamamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521567": {
+			"postcode": "9521567",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Yonchomehamamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521566": {
+			"postcode": "9521566",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Ichimachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521565": {
+			"postcode": "9521565",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Umamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521564": {
+			"postcode": "9521564",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Yonchome",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521563": {
+			"postcode": "9521563",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Sanchome",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521562": {
+			"postcode": "9521562",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Sanchomehamamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521561": {
+			"postcode": "9521561",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Sanchomeshinhamamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521558": {
+			"postcode": "9521558",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Nichome",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521557": {
+			"postcode": "9521557",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Itchome",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521556": {
+			"postcode": "9521556",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Itchomehamamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521555": {
+			"postcode": "9521555",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Nichomehamamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521554": {
+			"postcode": "9521554",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Nichomeshinhamamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521553": {
+			"postcode": "9521553",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Gorozaemommachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521552": {
+			"postcode": "9521552",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Itchomeuramachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521551": {
+			"postcode": "9521551",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Shimoteramachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521548": {
+			"postcode": "9521548",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Hanedamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521547": {
+			"postcode": "9521547",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Edozawamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521546": {
+			"postcode": "9521546",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Minamizawamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521545": {
+			"postcode": "9521545",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Yaoyamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521544": {
+			"postcode": "9521544",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Misoyamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521543": {
+			"postcode": "9521543",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Nagasakamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521542": {
+			"postcode": "9521542",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Shioyamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521541": {
+			"postcode": "9521541",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Shinzaimokumachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521539": {
+			"postcode": "9521539",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Kitazawamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521538": {
+			"postcode": "9521538",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Aimonomachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521537": {
+			"postcode": "9521537",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Aizumachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521536": {
+			"postcode": "9521536",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Shimokyomachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521535": {
+			"postcode": "9521535",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Nakakyomachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521534": {
+			"postcode": "9521534",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Otokoyamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521533": {
+			"postcode": "9521533",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Komeyamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521532": {
+			"postcode": "9521532",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Yajuromachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521531": {
+			"postcode": "9521531",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Hiromamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521528": {
+			"postcode": "9521528",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Rokuemommachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521527": {
+			"postcode": "9521527",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Samommachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521526": {
+			"postcode": "9521526",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Nakateramachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521525": {
+			"postcode": "9521525",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Suwamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521524": {
+			"postcode": "9521524",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Daikumachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521523": {
+			"postcode": "9521523",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Shingoromachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521522": {
+			"postcode": "9521522",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Kamikyomachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521521": {
+			"postcode": "9521521",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Yuhakumachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521518": {
+			"postcode": "9521518",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Zaimokumachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521517": {
+			"postcode": "9521517",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Ishihatakimachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521516": {
+			"postcode": "9521516",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Nishizakamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521515": {
+			"postcode": "9521515",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Shinnishizakamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521514": {
+			"postcode": "9521514",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Korokumachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521513": {
+			"postcode": "9521513",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Nigorikawamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521512": {
+			"postcode": "9521512",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Itamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521511": {
+			"postcode": "9521511",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Sakaemachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521508": {
+			"postcode": "9521508",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Omamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521507": {
+			"postcode": "9521507",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Kamiyamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521506": {
+			"postcode": "9521506",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Sumiyamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521505": {
+			"postcode": "9521505",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Sakashitamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521504": {
+			"postcode": "9521504",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Shimoyamanokamimachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521503": {
+			"postcode": "9521503",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Shibamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521502": {
+			"postcode": "9521502",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aikawa",
+			"building_name": "Mizukanemachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521501": {
+			"postcode": "9521501",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Shimoaikawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "下相川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521435": {
+			"postcode": "9521435",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Sawane",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "沢根",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521434": {
+			"postcode": "9521434",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Sawanemachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "沢根町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521433": {
+			"postcode": "9521433",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Sawanekagomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "沢根篭町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521432": {
+			"postcode": "9521432",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Sawaneikari",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "沢根五十里",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521431": {
+			"postcode": "9521431",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Sawanesumiyamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "沢根炭屋町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521393": {
+			"postcode": "9521393",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "河原田本町",
+			"building_name": "３９４",
+			"organization_name": "佐渡市役所　佐和田支所",
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "河原田本町",
+					"building_name": "３９４",
+					"organization_name": "佐渡市役所　佐和田支所"
+				}
+			}
+		},
+		"9521326": {
+			"postcode": "9521326",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Aono",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "青野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521325": {
+			"postcode": "9521325",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Kubota",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "窪田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521324": {
+			"postcode": "9521324",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Nakahara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "中原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521323": {
+			"postcode": "9521323",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Kajimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "鍛冶町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521322": {
+			"postcode": "9521322",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Ishida",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "石田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521321": {
+			"postcode": "9521321",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Yamada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "山田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521315": {
+			"postcode": "9521315",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Kawaharadasuwamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "河原田諏訪町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521314": {
+			"postcode": "9521314",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Kawaharadahommachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "河原田本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521313": {
+			"postcode": "9521313",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Yahatamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "八幡町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521312": {
+			"postcode": "9521312",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Yahatashimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "八幡新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521311": {
+			"postcode": "9521311",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Yahata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "八幡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521308": {
+			"postcode": "9521308",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Niku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "二宮",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521307": {
+			"postcode": "9521307",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Higashiodori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "東大通",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521306": {
+			"postcode": "9521306",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Nagaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "長木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521305": {
+			"postcode": "9521305",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Kaminagaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "上長木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521304": {
+			"postcode": "9521304",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Shimonagaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "下長木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521303": {
+			"postcode": "9521303",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Kamiyabase",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "上矢馳",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521302": {
+			"postcode": "9521302",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Ichinosawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "市野沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521301": {
+			"postcode": "9521301",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Shinkoji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "真光寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521292": {
+			"postcode": "9521292",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "千種",
+			"building_name": "２３２番地",
+			"organization_name": "佐渡市役所",
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "千種",
+					"building_name": "２３２番地",
+					"organization_name": "佐渡市役所"
+				}
+			}
+		},
+		"9521213": {
+			"postcode": "9521213",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Hirashimizu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "平清水",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521212": {
+			"postcode": "9521212",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Izumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "泉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521211": {
+			"postcode": "9521211",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Nakaoki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "中興",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521209": {
+			"postcode": "9521209",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Chigusa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "千種",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521208": {
+			"postcode": "9521208",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Kanaishimbo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "金井新保",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521207": {
+			"postcode": "9521207",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Kaizuka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "貝塚",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521206": {
+			"postcode": "9521206",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Yamato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "大和",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521205": {
+			"postcode": "9521205",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Mitoda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "水渡田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521204": {
+			"postcode": "9521204",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Sansegawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "三瀬川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521203": {
+			"postcode": "9521203",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Yoshii",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "吉井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521202": {
+			"postcode": "9521202",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Yoshiihongo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "吉井本郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9521201": {
+			"postcode": "9521201",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Anyoji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "安養寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520857": {
+			"postcode": "9520857",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Iwakubi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "岩首",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520856": {
+			"postcode": "9520856",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Higashiushima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "東鵜島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520855": {
+			"postcode": "9520855",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Kakinora",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "柿野浦",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520854": {
+			"postcode": "9520854",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Toyoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "豊岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520853": {
+			"postcode": "9520853",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Tatsuma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "立間",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520852": {
+			"postcode": "9520852",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Akadama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "赤玉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520851": {
+			"postcode": "9520851",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Awabi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "蚫",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520824": {
+			"postcode": "9520824",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Maruyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "丸山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520823": {
+			"postcode": "9520823",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Hamakawachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "浜河内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520822": {
+			"postcode": "9520822",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Ota",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "多田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520821": {
+			"postcode": "9520821",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Matsugasaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "松ケ崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520716": {
+			"postcode": "9520716",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Osugi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "大杉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520715": {
+			"postcode": "9520715",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Suginora",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "杉野浦",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520714": {
+			"postcode": "9520714",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Minamishimbo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "南新保",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520713": {
+			"postcode": "9520713",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Yanagisawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "柳沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520712": {
+			"postcode": "9520712",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Maura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "真浦",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520711": {
+			"postcode": "9520711",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Akadomari",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "赤泊",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520706": {
+			"postcode": "9520706",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Tokuwa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "徳和",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520705": {
+			"postcode": "9520705",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Mikawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "三川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520704": {
+			"postcode": "9520704",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Mushiroba",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "莚場",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520703": {
+			"postcode": "9520703",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Toyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "外山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520702": {
+			"postcode": "9520702",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Kamikawamo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "上川茂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520701": {
+			"postcode": "9520701",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Shimokawamo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "下川茂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520626": {
+			"postcode": "9520626",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Itsubo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "井坪",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520625": {
+			"postcode": "9520625",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Ogioura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "小木大浦",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520624": {
+			"postcode": "9520624",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Konagase",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "木流",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520623": {
+			"postcode": "9520623",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Tanora",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "田野浦",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520622": {
+			"postcode": "9520622",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Ettsumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "江積",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520621": {
+			"postcode": "9520621",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Sawasaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "沢崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520615": {
+			"postcode": "9520615",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Fukaura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "深浦",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520614": {
+			"postcode": "9520614",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Inukamidaira",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "犬神平",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520613": {
+			"postcode": "9520613",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Ogi",
+			"building_name": "Kowashimizu",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "小木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520612": {
+			"postcode": "9520612",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Shukunegi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "宿根木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520611": {
+			"postcode": "9520611",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Ogi",
+			"building_name": "Kanetashinden",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "小木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520606": {
+			"postcode": "9520606",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Kotora",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "琴浦",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520605": {
+			"postcode": "9520605",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Ogi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "小木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520604": {
+			"postcode": "9520604",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Ogimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "小木町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520603": {
+			"postcode": "9520603",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Ogi",
+			"building_name": "Kinora",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "小木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520602": {
+			"postcode": "9520602",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Kobie",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "小比叡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520601": {
+			"postcode": "9520601",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Ogi",
+			"building_name": "Donokama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "小木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520515": {
+			"postcode": "9520515",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Hamochi",
+			"building_name": "Kamiyamada",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "羽茂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520514": {
+			"postcode": "9520514",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Hamochi",
+			"building_name": "Kodomari",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "羽茂",
+					"building_name": "小泊",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520513": {
+			"postcode": "9520513",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Hamochi",
+			"building_name": "Murayama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "羽茂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520512": {
+			"postcode": "9520512",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Hamochi",
+			"building_name": "Ohashi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "羽茂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520511": {
+			"postcode": "9520511",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Hamochi",
+			"building_name": "Oishi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "羽茂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520505": {
+			"postcode": "9520505",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Hamochi",
+			"building_name": "Sanse",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "羽茂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520504": {
+			"postcode": "9520504",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Hamochi",
+			"building_name": "Hongo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "羽茂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520503": {
+			"postcode": "9520503",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Hamochi",
+			"building_name": "Iioka",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "羽茂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520502": {
+			"postcode": "9520502",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Hamochi",
+			"building_name": "Osaki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "羽茂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520501": {
+			"postcode": "9520501",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Hamochi",
+			"building_name": "Takidaira",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "羽茂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520435": {
+			"postcode": "9520435",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Tsubakio",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "椿尾",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520434": {
+			"postcode": "9520434",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Nishimikawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "西三川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520433": {
+			"postcode": "9520433",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Tagirisu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "田切須",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520432": {
+			"postcode": "9520432",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Okuratani",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "大倉谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520431": {
+			"postcode": "9520431",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Daisho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "大小",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520422": {
+			"postcode": "9520422",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Hamochi",
+			"building_name": "Kamewaki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "羽茂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520421": {
+			"postcode": "9520421",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Hamochi",
+			"building_name": "Kodomari",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "羽茂",
+					"building_name": "小泊",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520322": {
+			"postcode": "9520322",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Shimokuroyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "下黒山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520321": {
+			"postcode": "9520321",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Shizudaira",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "静平",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520318": {
+			"postcode": "9520318",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Manoshimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "真野新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520317": {
+			"postcode": "9520317",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Toyota",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "豊田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520316": {
+			"postcode": "9520316",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Senago",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "背合",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520315": {
+			"postcode": "9520315",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Ozu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "大須",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520314": {
+			"postcode": "9520314",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Takiwaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "滝脇",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520313": {
+			"postcode": "9520313",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Mano",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "真野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520312": {
+			"postcode": "9520312",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Yoshioka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "吉岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520311": {
+			"postcode": "9520311",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Nagoya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "名古屋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520307": {
+			"postcode": "9520307",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Kanamaru",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "金丸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520306": {
+			"postcode": "9520306",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Yokkamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "四日町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520305": {
+			"postcode": "9520305",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Nagaishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "長石",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520304": {
+			"postcode": "9520304",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Kokubunji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "国分寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520303": {
+			"postcode": "9520303",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Abutsubo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "阿仏坊",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520302": {
+			"postcode": "9520302",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Takeda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "竹田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520301": {
+			"postcode": "9520301",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Manookawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "真野大川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520216": {
+			"postcode": "9520216",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Sangu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "三宮",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520215": {
+			"postcode": "9520215",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Saruhachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "猿八",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520214": {
+			"postcode": "9520214",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Okubo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "大久保",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520213": {
+			"postcode": "9520213",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Iimochi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "飯持",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520212": {
+			"postcode": "9520212",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Miyakawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "宮川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520211": {
+			"postcode": "9520211",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Futa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "畉田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520207": {
+			"postcode": "9520207",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Terada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "寺田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520206": {
+			"postcode": "9520206",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Hatano",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "畑野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520205": {
+			"postcode": "9520205",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Ogura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "小倉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520204": {
+			"postcode": "9520204",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Hase",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "長谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520203": {
+			"postcode": "9520203",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Bogaura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "坊ケ浦",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520202": {
+			"postcode": "9520202",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Kurinoe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "栗野江",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520201": {
+			"postcode": "9520201",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Meguromachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "目黒町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520116": {
+			"postcode": "9520116",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Niibo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "新穂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520115": {
+			"postcode": "9520115",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Niibo",
+			"building_name": "Kitagata",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "新穂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520114": {
+			"postcode": "9520114",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Shimoniibo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "下新穂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520113": {
+			"postcode": "9520113",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Niibo",
+			"building_name": "Minagawa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "新穂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520112": {
+			"postcode": "9520112",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Niibo",
+			"building_name": "Funashimo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "新穂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520111": {
+			"postcode": "9520111",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Niibo",
+			"building_name": "Takei",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "新穂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520109": {
+			"postcode": "9520109",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Niibo",
+			"building_name": "Ono",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "新穂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520108": {
+			"postcode": "9520108",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Kaminiibo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "上新穂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520107": {
+			"postcode": "9520107",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Niibo",
+			"building_name": "Inai",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "新穂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520106": {
+			"postcode": "9520106",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Niibo",
+			"building_name": "Uryuya",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "新穂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520105": {
+			"postcode": "9520105",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Niibo",
+			"building_name": "Shomyoji",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "新穂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520104": {
+			"postcode": "9520104",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Niibo",
+			"building_name": "Tanosawa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "新穂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520103": {
+			"postcode": "9520103",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Niibo",
+			"building_name": "Katagami",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "新穂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520102": {
+			"postcode": "9520102",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Niibo",
+			"building_name": "Aoki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "新穂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520101": {
+			"postcode": "9520101",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Niibo",
+			"building_name": "Nagaune",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "新穂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520028": {
+			"postcode": "9520028",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Kamotashiro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "加茂歌代",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520027": {
+			"postcode": "9520027",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Nagae",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "長江",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520026": {
+			"postcode": "9520026",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Tateno",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "立野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520025": {
+			"postcode": "9520025",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Shimoyokoyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "下横山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520024": {
+			"postcode": "9520024",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Kamiyokoyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "上横山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520023": {
+			"postcode": "9520023",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Katabata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "潟端",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520022": {
+			"postcode": "9520022",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Asahi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "旭",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520021": {
+			"postcode": "9520021",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Akitsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "秋津",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520016": {
+			"postcode": "9520016",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Harakuro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "原黒",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520015": {
+			"postcode": "9520015",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Sumiyoshi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "住吉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520014": {
+			"postcode": "9520014",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Ryotsu",
+			"building_name": "Minato",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "両津",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520013": {
+			"postcode": "9520013",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Ryotsu",
+			"building_name": "Fukura",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "両津",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520012": {
+			"postcode": "9520012",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Ryotsu",
+			"building_name": "Ebisushin",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "両津",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520011": {
+			"postcode": "9520011",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Ryotsu",
+			"building_name": "Ebisu",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "両津",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520007": {
+			"postcode": "9520007",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Hamada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "浜田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520006": {
+			"postcode": "9520006",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Kasuga",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "春日",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520005": {
+			"postcode": "9520005",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Umezu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "梅津",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520004": {
+			"postcode": "9520004",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Hayoshi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "羽吉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520003": {
+			"postcode": "9520003",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Tsubaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "椿",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520002": {
+			"postcode": "9520002",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Kitaikari",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "北五十里",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520001": {
+			"postcode": "9520001",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "Shirose",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "白瀬",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		},
+		"9520000": {
+			"postcode": "9520000",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Sado-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "佐渡市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "佐渡市"
+		}
+	}
+}

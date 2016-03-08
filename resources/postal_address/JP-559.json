@@ -1,0 +1,975 @@
+{
+	"country_code": "JP",
+	"parent_id": "559",
+	"locale": "ja-Latn",
+	"address": {
+		"5598729": {
+			"postcode": "5598729",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "平林北",
+			"building_name": "１丁目２−６３",
+			"organization_name": "パナソニック　株式会社　エナジー住之江工場",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "平林北",
+					"building_name": "１丁目２−６３",
+					"organization_name": "パナソニック　株式会社　エナジー住之江工場"
+				}
+			}
+		},
+		"5598658": {
+			"postcode": "5598658",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "平林南",
+			"building_name": "２丁目１０−６０（住之江郵便局私書箱第３０号）",
+			"organization_name": "永大産業　株式会社　本社",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "平林南",
+					"building_name": "２丁目１０−６０（住之江郵便局私書箱第３０号）",
+					"organization_name": "永大産業　株式会社　本社"
+				}
+			}
+		},
+		"5598651": {
+			"postcode": "5598651",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "柴谷",
+			"building_name": "１丁目２−３２（住之江郵便局私書箱第５号）",
+			"organization_name": "三井造船　株式会社　大阪事業所",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "柴谷",
+					"building_name": "１丁目２−３２（住之江郵便局私書箱第５号）",
+					"organization_name": "三井造船　株式会社　大阪事業所"
+				}
+			}
+		},
+		"5598611": {
+			"postcode": "5598611",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "南港北",
+			"building_name": "１丁目２６−１６",
+			"organization_name": "森ノ宮医療大学",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "南港北",
+					"building_name": "１丁目２６−１６",
+					"organization_name": "森ノ宮医療大学"
+				}
+			}
+		},
+		"5598601": {
+			"postcode": "5598601",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "御崎",
+			"building_name": "３丁目１番１７号",
+			"organization_name": "住之江区役所",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "御崎",
+					"building_name": "３丁目１番１７号",
+					"organization_name": "住之江区役所"
+				}
+			}
+		},
+		"5598588": {
+			"postcode": "5598588",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "南港北",
+			"building_name": "１丁目１４−１６",
+			"organization_name": "デジタルプラネット衛星放送",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "南港北",
+					"building_name": "１丁目１４−１６",
+					"organization_name": "デジタルプラネット衛星放送"
+				}
+			}
+		},
+		"5598585": {
+			"postcode": "5598585",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "浜口西",
+			"building_name": "１丁目１３−３",
+			"organization_name": "真生印刷　株式会社",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "浜口西",
+					"building_name": "１丁目１３−３",
+					"organization_name": "真生印刷　株式会社"
+				}
+			}
+		},
+		"5598561": {
+			"postcode": "5598561",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "北加賀屋",
+			"building_name": "３丁目４−７",
+			"organization_name": "株式会社　グルメ杵屋",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "北加賀屋",
+					"building_name": "３丁目４−７",
+					"organization_name": "株式会社　グルメ杵屋"
+				}
+			}
+		},
+		"5598560": {
+			"postcode": "5598560",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "新北島",
+			"building_name": "１−２−１オスカードリーム４階",
+			"organization_name": "日本年金機構　玉出年金事務所",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "新北島",
+					"building_name": "１−２−１オスカードリーム４階",
+					"organization_name": "日本年金機構　玉出年金事務所"
+				}
+			}
+		},
+		"5598559": {
+			"postcode": "5598559",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "南港北",
+			"building_name": "１丁目７−８９",
+			"organization_name": "日立造船　株式会社",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "南港北",
+					"building_name": "１丁目７−８９",
+					"organization_name": "日立造船　株式会社"
+				}
+			}
+		},
+		"5598558": {
+			"postcode": "5598558",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "南港北",
+			"building_name": "２−１−１０ＡＴＣＩＴＭ棟９〜１０階",
+			"organization_name": "大阪市水道局",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "南港北",
+					"building_name": "２−１−１０ＡＴＣＩＴＭ棟９〜１０階",
+					"organization_name": "大阪市水道局"
+				}
+			}
+		},
+		"5598555": {
+			"postcode": "5598555",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "南港北",
+			"building_name": "１−１４−１６",
+			"organization_name": "大阪府　咲洲庁舎",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "南港北",
+					"building_name": "１−１４−１６",
+					"organization_name": "大阪府　咲洲庁舎"
+				}
+			}
+		},
+		"5598553": {
+			"postcode": "5598553",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "平林南",
+			"building_name": "２丁目１１−１",
+			"organization_name": "株式会社　ロゴスコーポレーション",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "平林南",
+					"building_name": "２丁目１１−１",
+					"organization_name": "株式会社　ロゴスコーポレーション"
+				}
+			}
+		},
+		"5598550": {
+			"postcode": "5598550",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "平林南",
+			"building_name": "１丁目８−１９",
+			"organization_name": "津田産業　株式会社",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "平林南",
+					"building_name": "１丁目８−１９",
+					"organization_name": "津田産業　株式会社"
+				}
+			}
+		},
+		"5598519": {
+			"postcode": "5598519",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "南港北",
+			"building_name": "１丁目２４−２２",
+			"organization_name": "いであ　株式会社　大阪支社",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "南港北",
+					"building_name": "１丁目２４−２２",
+					"organization_name": "いであ　株式会社　大阪支社"
+				}
+			}
+		},
+		"5598511": {
+			"postcode": "5598511",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "南港東",
+			"building_name": "３丁目５−６",
+			"organization_name": "社団法人　大阪府自動車整備振興会",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "南港東",
+					"building_name": "３丁目５−６",
+					"organization_name": "社団法人　大阪府自動車整備振興会"
+				}
+			}
+		},
+		"5598510": {
+			"postcode": "5598510",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "南港北",
+			"building_name": "１丁目１２−３５",
+			"organization_name": "ミズノ　株式会社",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "南港北",
+					"building_name": "１丁目１２−３５",
+					"organization_name": "ミズノ　株式会社"
+				}
+			}
+		},
+		"5598502": {
+			"postcode": "5598502",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "東加賀屋",
+			"building_name": "１−３−４０",
+			"organization_name": "舞昆のこうはら",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "東加賀屋",
+					"building_name": "１−３−４０",
+					"organization_name": "舞昆のこうはら"
+				}
+			}
+		},
+		"5598501": {
+			"postcode": "5598501",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "南港北",
+			"building_name": "１丁目６−３９",
+			"organization_name": "株式会社　ライカ",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "南港北",
+					"building_name": "１丁目６−３９",
+					"organization_name": "株式会社　ライカ"
+				}
+			}
+		},
+		"5590034": {
+			"postcode": "5590034",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "Nankokita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "南港北",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5590033": {
+			"postcode": "5590033",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "Nankonaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "南港中",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5590032": {
+			"postcode": "5590032",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "Nankominami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "南港南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5590031": {
+			"postcode": "5590031",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "Nankohigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "南港東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5590026": {
+			"postcode": "5590026",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "Hirabayashikita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "平林北",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5590025": {
+			"postcode": "5590025",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "Hirabayashiminami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "平林南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5590024": {
+			"postcode": "5590024",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "Shinkitajima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "新北島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5590023": {
+			"postcode": "5590023",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "Izumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "泉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5590022": {
+			"postcode": "5590022",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "Midorigi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "緑木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5590021": {
+			"postcode": "5590021",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "Shibatani",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "柴谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5590017": {
+			"postcode": "5590017",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "Nakakagaya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "中加賀屋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5590016": {
+			"postcode": "5590016",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "Nishikagaya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "西加賀屋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5590015": {
+			"postcode": "5590015",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "Minamikagaya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "南加賀屋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5590014": {
+			"postcode": "5590014",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "Kitajima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "北島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5590013": {
+			"postcode": "5590013",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "Misaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "御崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5590012": {
+			"postcode": "5590012",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "Higashikagaya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "東加賀屋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5590011": {
+			"postcode": "5590011",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "Kitakagaya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "北加賀屋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5590007": {
+			"postcode": "5590007",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "Kohamanishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "粉浜西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5590006": {
+			"postcode": "5590006",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "Hamaguchinishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "浜口西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5590005": {
+			"postcode": "5590005",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "Nishisuminoe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "西住之江",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5590004": {
+			"postcode": "5590004",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "Suminoe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "住之江",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5590003": {
+			"postcode": "5590003",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "Anryu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "安立",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5590002": {
+			"postcode": "5590002",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "Hamaguchihigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "浜口東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5590001": {
+			"postcode": "5590001",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "Kohama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "粉浜",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		},
+		"5590000": {
+			"postcode": "5590000",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Suminoe-ku",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "住之江区",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		}
+	}
+}

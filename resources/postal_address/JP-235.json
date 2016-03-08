@@ -1,0 +1,843 @@
+{
+	"country_code": "JP",
+	"parent_id": "235",
+	"locale": "ja-Latn",
+	"address": {
+		"2358558": {
+			"postcode": "2358558",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Isogo-ku",
+			"town_name": "新森町",
+			"building_name": "１",
+			"organization_name": "日清オイリオグループ　株式会社　横浜磯子事業場",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "磯子区",
+					"town_name": "新森町",
+					"building_name": "１",
+					"organization_name": "日清オイリオグループ　株式会社　横浜磯子事業場"
+				}
+			}
+		},
+		"2358523": {
+			"postcode": "2358523",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Isogo-ku",
+			"town_name": "新杉田町",
+			"building_name": "８",
+			"organization_name": "株式会社　東芝　磯子エンジニアリングセンター",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "磯子区",
+					"town_name": "新杉田町",
+					"building_name": "８",
+					"organization_name": "株式会社　東芝　磯子エンジニアリングセンター"
+				}
+			}
+		},
+		"2358522": {
+			"postcode": "2358522",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Isogo-ku",
+			"town_name": "新杉田町",
+			"building_name": "８",
+			"organization_name": "株式会社　東芝　横浜事業所",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "磯子区",
+					"town_name": "新杉田町",
+					"building_name": "８",
+					"organization_name": "株式会社　東芝　横浜事業所"
+				}
+			}
+		},
+		"2358505": {
+			"postcode": "2358505",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Isogo-ku",
+			"town_name": "新磯子町",
+			"building_name": "１",
+			"organization_name": "リバースチール　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "磯子区",
+					"town_name": "新磯子町",
+					"building_name": "１",
+					"organization_name": "リバースチール　株式会社"
+				}
+			}
+		},
+		"2358501": {
+			"postcode": "2358501",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Isogo-ku",
+			"town_name": "新中原町",
+			"building_name": "１番地",
+			"organization_name": "株式会社　ＩＨＩ　横浜事業所",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "磯子区",
+					"town_name": "新中原町",
+					"building_name": "１番地",
+					"organization_name": "株式会社　ＩＨＩ　横浜事業所"
+				}
+			}
+		},
+		"2350045": {
+			"postcode": "2350045",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Isogo-ku",
+			"town_name": "Yokodai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "磯子区",
+					"town_name": "洋光台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2350044": {
+			"postcode": "2350044",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Isogo-ku",
+			"town_name": "Minecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "磯子区",
+					"town_name": "峰町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2350043": {
+			"postcode": "2350043",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Isogo-ku",
+			"town_name": "Hitorizawacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "磯子区",
+					"town_name": "氷取沢町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2350042": {
+			"postcode": "2350042",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Isogo-ku",
+			"town_name": "Kaminakazatocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "磯子区",
+					"town_name": "上中里町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2350041": {
+			"postcode": "2350041",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Isogo-ku",
+			"town_name": "Kuriki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "磯子区",
+					"town_name": "栗木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2350036": {
+			"postcode": "2350036",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Isogo-ku",
+			"town_name": "Nakahara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "磯子区",
+					"town_name": "中原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2350035": {
+			"postcode": "2350035",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Isogo-ku",
+			"town_name": "Tanaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "磯子区",
+					"town_name": "田中",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2350034": {
+			"postcode": "2350034",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Isogo-ku",
+			"town_name": "Sugitatsubonomi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "磯子区",
+					"town_name": "杉田坪呑",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2350033": {
+			"postcode": "2350033",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Isogo-ku",
+			"town_name": "Sugita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "磯子区",
+					"town_name": "杉田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2350032": {
+			"postcode": "2350032",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Isogo-ku",
+			"town_name": "Shinsugitacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "磯子区",
+					"town_name": "新杉田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2350031": {
+			"postcode": "2350031",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Isogo-ku",
+			"town_name": "Shinnakaharacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "磯子区",
+					"town_name": "新中原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2350024": {
+			"postcode": "2350024",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Isogo-ku",
+			"town_name": "Morigaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "磯子区",
+					"town_name": "森が丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2350023": {
+			"postcode": "2350023",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Isogo-ku",
+			"town_name": "Mori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "磯子区",
+					"town_name": "森",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2350022": {
+			"postcode": "2350022",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Isogo-ku",
+			"town_name": "Shiomidai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "磯子区",
+					"town_name": "汐見台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2350021": {
+			"postcode": "2350021",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Isogo-ku",
+			"town_name": "Okamura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "磯子区",
+					"town_name": "岡村",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2350019": {
+			"postcode": "2350019",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Isogo-ku",
+			"town_name": "Isogodai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "磯子区",
+					"town_name": "磯子台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2350018": {
+			"postcode": "2350018",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Isogo-ku",
+			"town_name": "Shimmoricho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "磯子区",
+					"town_name": "新森町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2350017": {
+			"postcode": "2350017",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Isogo-ku",
+			"town_name": "Shinisogocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "磯子区",
+					"town_name": "新磯子町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2350016": {
+			"postcode": "2350016",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Isogo-ku",
+			"town_name": "Isogo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "磯子区",
+					"town_name": "磯子",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2350015": {
+			"postcode": "2350015",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Isogo-ku",
+			"town_name": "Hisakicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "磯子区",
+					"town_name": "久木町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2350014": {
+			"postcode": "2350014",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Isogo-ku",
+			"town_name": "Nakahamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "磯子区",
+					"town_name": "中浜町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2350013": {
+			"postcode": "2350013",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Isogo-ku",
+			"town_name": "Hirochicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "磯子区",
+					"town_name": "広地町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2350012": {
+			"postcode": "2350012",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Isogo-ku",
+			"town_name": "Takigashira",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "磯子区",
+					"town_name": "滝頭",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2350011": {
+			"postcode": "2350011",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Isogo-ku",
+			"town_name": "Maruyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "磯子区",
+					"town_name": "丸山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2350008": {
+			"postcode": "2350008",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Isogo-ku",
+			"town_name": "Haramachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "磯子区",
+					"town_name": "原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2350007": {
+			"postcode": "2350007",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Isogo-ku",
+			"town_name": "Nishicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "磯子区",
+					"town_name": "西町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2350006": {
+			"postcode": "2350006",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Isogo-ku",
+			"town_name": "Otoricho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "磯子区",
+					"town_name": "鳳町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2350005": {
+			"postcode": "2350005",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Isogo-ku",
+			"town_name": "Higashicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "磯子区",
+					"town_name": "東町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2350004": {
+			"postcode": "2350004",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Isogo-ku",
+			"town_name": "Shimocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "磯子区",
+					"town_name": "下町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2350003": {
+			"postcode": "2350003",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Isogo-ku",
+			"town_name": "Sakashitacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "磯子区",
+					"town_name": "坂下町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2350002": {
+			"postcode": "2350002",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Isogo-ku",
+			"town_name": "Babacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "磯子区",
+					"town_name": "馬場町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2350001": {
+			"postcode": "2350001",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Isogo-ku",
+			"town_name": "Kamicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "磯子区",
+					"town_name": "上町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2350000": {
+			"postcode": "2350000",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Isogo-ku",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "磯子区",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		}
+	}
+}

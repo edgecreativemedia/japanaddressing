@@ -1,0 +1,95 @@
+{
+	"country_code": "JP",
+	"parent_id": "749",
+	"locale": "ja-Latn",
+	"address": {
+		"7490195": {
+			"postcode": "7490195",
+			"prefecture_name": "Yamaguchi-ken",
+			"city_name": "Yanai-shi",
+			"ward_name": "",
+			"town_name": "大畠",
+			"building_name": "１０２１",
+			"organization_name": "柳井市役所　大畠総合支所",
+			"region_code": "中国",
+			"prefecture_code": "山口県",
+			"city_code": "柳井市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山口県",
+					"city_name": "柳井市",
+					"ward_name": "",
+					"town_name": "大畠",
+					"building_name": "１０２１",
+					"organization_name": "柳井市役所　大畠総合支所"
+				}
+			}
+		},
+		"7490103": {
+			"postcode": "7490103",
+			"prefecture_name": "Yamaguchi-ken",
+			"city_name": "Yanai-shi",
+			"ward_name": "",
+			"town_name": "Tozaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山口県",
+					"city_name": "柳井市",
+					"ward_name": "",
+					"town_name": "遠崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "山口県",
+			"city_code": "柳井市"
+		},
+		"7490102": {
+			"postcode": "7490102",
+			"prefecture_name": "Yamaguchi-ken",
+			"city_name": "Yanai-shi",
+			"ward_name": "",
+			"town_name": "Obatake",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山口県",
+					"city_name": "柳井市",
+					"ward_name": "",
+					"town_name": "大畠",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "山口県",
+			"city_code": "柳井市"
+		},
+		"7490101": {
+			"postcode": "7490101",
+			"prefecture_name": "Yamaguchi-ken",
+			"city_name": "Yanai-shi",
+			"ward_name": "",
+			"town_name": "Kojiro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "山口県",
+					"city_name": "柳井市",
+					"ward_name": "",
+					"town_name": "神代",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "山口県",
+			"city_code": "柳井市"
+		}
+	}
+}

@@ -1,0 +1,3615 @@
+{
+	"country_code": "JP",
+	"parent_id": "521",
+	"locale": "ja-Latn",
+	"address": {
+		"5218601": {
+			"postcode": "5218601",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "顔戸",
+			"building_name": "４８８−３",
+			"organization_name": "米原市役所　近江庁舎",
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "顔戸",
+					"building_name": "４８８−３",
+					"organization_name": "米原市役所　近江庁舎"
+				}
+			}
+		},
+		"5218511": {
+			"postcode": "5218511",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "梅ケ原",
+			"building_name": "２４８１番地",
+			"organization_name": "ヤンマー　株式会社",
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "梅ケ原",
+					"building_name": "２４８１番地",
+					"organization_name": "ヤンマー　株式会社"
+				}
+			}
+		},
+		"5218501": {
+			"postcode": "5218501",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "下多良",
+			"building_name": "３−３",
+			"organization_name": "米原市役所　米原庁舎",
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "下多良",
+					"building_name": "３−３",
+					"organization_name": "米原市役所　米原庁舎"
+				}
+			}
+		},
+		"5211398": {
+			"postcode": "5211398",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Omihachiman-shi",
+			"ward_name": "",
+			"town_name": "安土町上豊浦",
+			"building_name": "１０３０",
+			"organization_name": "キタイ設計　株式会社",
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "近江八幡市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "近江八幡市",
+					"ward_name": "",
+					"town_name": "安土町上豊浦",
+					"building_name": "１０３０",
+					"organization_name": "キタイ設計　株式会社"
+				}
+			}
+		},
+		"5211392": {
+			"postcode": "5211392",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Omihachiman-shi",
+			"ward_name": "",
+			"town_name": "安土町小中",
+			"building_name": "１−８",
+			"organization_name": "近江八幡市　安土町総合支所",
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "近江八幡市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "近江八幡市",
+					"ward_name": "",
+					"town_name": "安土町小中",
+					"building_name": "１−８",
+					"organization_name": "近江八幡市　安土町総合支所"
+				}
+			}
+		},
+		"5211351": {
+			"postcode": "5211351",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Omihachiman-shi",
+			"ward_name": "",
+			"town_name": "Azuchicho",
+			"building_name": "Jorakuji",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "近江八幡市",
+					"ward_name": "",
+					"town_name": "安土町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "近江八幡市"
+		},
+		"5211346": {
+			"postcode": "5211346",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Omihachiman-shi",
+			"ward_name": "",
+			"town_name": "Azuchicho",
+			"building_name": "Konosho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "近江八幡市",
+					"ward_name": "",
+					"town_name": "安土町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "近江八幡市"
+		},
+		"5211345": {
+			"postcode": "5211345",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Omihachiman-shi",
+			"ward_name": "",
+			"town_name": "Azuchicho",
+			"building_name": "Jionji",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "近江八幡市",
+					"ward_name": "",
+					"town_name": "安土町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "近江八幡市"
+		},
+		"5211344": {
+			"postcode": "5211344",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Omihachiman-shi",
+			"ward_name": "",
+			"town_name": "Azuchicho",
+			"building_name": "Nakaya",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "近江八幡市",
+					"ward_name": "",
+					"town_name": "安土町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "近江八幡市"
+		},
+		"5211343": {
+			"postcode": "5211343",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Omihachiman-shi",
+			"ward_name": "",
+			"town_name": "Azuchicho",
+			"building_name": "Konaka",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "近江八幡市",
+					"ward_name": "",
+					"town_name": "安土町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "近江八幡市"
+		},
+		"5211342": {
+			"postcode": "5211342",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Omihachiman-shi",
+			"ward_name": "",
+			"town_name": "Azuchicho",
+			"building_name": "Kamide",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "近江八幡市",
+					"ward_name": "",
+					"town_name": "安土町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "近江八幡市"
+		},
+		"5211341": {
+			"postcode": "5211341",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Omihachiman-shi",
+			"ward_name": "",
+			"town_name": "Azuchicho",
+			"building_name": "Kamitoyora",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "近江八幡市",
+					"ward_name": "",
+					"town_name": "安土町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "近江八幡市"
+		},
+		"5211334": {
+			"postcode": "5211334",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Omihachiman-shi",
+			"ward_name": "",
+			"town_name": "Azuchicho",
+			"building_name": "Nishioiso",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "近江八幡市",
+					"ward_name": "",
+					"town_name": "安土町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "近江八幡市"
+		},
+		"5211333": {
+			"postcode": "5211333",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Omihachiman-shi",
+			"ward_name": "",
+			"town_name": "Azuchicho",
+			"building_name": "Uchino",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "近江八幡市",
+					"ward_name": "",
+					"town_name": "安土町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "近江八幡市"
+		},
+		"5211332": {
+			"postcode": "5211332",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Omihachiman-shi",
+			"ward_name": "",
+			"town_name": "Azuchicho",
+			"building_name": "Higashioiso",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "近江八幡市",
+					"ward_name": "",
+					"town_name": "安土町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "近江八幡市"
+		},
+		"5211331": {
+			"postcode": "5211331",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Omihachiman-shi",
+			"ward_name": "",
+			"town_name": "Azuchicho",
+			"building_name": "Ishidera",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "近江八幡市",
+					"ward_name": "",
+					"town_name": "安土町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "近江八幡市"
+		},
+		"5211322": {
+			"postcode": "5211322",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Omihachiman-shi",
+			"ward_name": "",
+			"town_name": "Azuchicho",
+			"building_name": "Miyazu",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "近江八幡市",
+					"ward_name": "",
+					"town_name": "安土町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "近江八幡市"
+		},
+		"5211321": {
+			"postcode": "5211321",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Omihachiman-shi",
+			"ward_name": "",
+			"town_name": "Azuchicho",
+			"building_name": "Kuwanomiji",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "近江八幡市",
+					"ward_name": "",
+					"town_name": "安土町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "近江八幡市"
+		},
+		"5211311": {
+			"postcode": "5211311",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Omihachiman-shi",
+			"ward_name": "",
+			"town_name": "Azuchicho",
+			"building_name": "Shimotoira",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "近江八幡市",
+					"ward_name": "",
+					"town_name": "安土町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "近江八幡市"
+		},
+		"5211301": {
+			"postcode": "5211301",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Omihachiman-shi",
+			"ward_name": "",
+			"town_name": "Azuchicho",
+			"building_name": "Dainaka",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "近江八幡市",
+					"ward_name": "",
+					"town_name": "安土町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "近江八幡市"
+		},
+		"5211295": {
+			"postcode": "5211295",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Higashiomi-shi",
+			"ward_name": "",
+			"town_name": "今町",
+			"building_name": "９０６番地",
+			"organization_name": "日本電気硝子　株式会社　能登川事業場",
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "東近江市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "東近江市",
+					"ward_name": "",
+					"town_name": "今町",
+					"building_name": "９０６番地",
+					"organization_name": "日本電気硝子　株式会社　能登川事業場"
+				}
+			}
+		},
+		"5211292": {
+			"postcode": "5211292",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Higashiomi-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "躰光寺２６２番地",
+			"organization_name": "東近江市能登川支所",
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "東近江市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "東近江市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "躰光寺２６２番地",
+					"organization_name": "東近江市能登川支所"
+				}
+			}
+		},
+		"5211245": {
+			"postcode": "5211245",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Higashiomi-shi",
+			"ward_name": "",
+			"town_name": "Kurimidezaikecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "東近江市",
+					"ward_name": "",
+					"town_name": "栗見出在家町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "東近江市"
+		},
+		"5211244": {
+			"postcode": "5211244",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Higashiomi-shi",
+			"ward_name": "",
+			"town_name": "Dainakacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "東近江市",
+					"ward_name": "",
+					"town_name": "大中町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "東近江市"
+		},
+		"5211243": {
+			"postcode": "5211243",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Higashiomi-shi",
+			"ward_name": "",
+			"town_name": "Kurimishindencho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "東近江市",
+					"ward_name": "",
+					"town_name": "栗見新田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "東近江市"
+		},
+		"5211242": {
+			"postcode": "5211242",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Higashiomi-shi",
+			"ward_name": "",
+			"town_name": "Fukudocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "東近江市",
+					"ward_name": "",
+					"town_name": "福堂町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "東近江市"
+		},
+		"5211241": {
+			"postcode": "5211241",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Higashiomi-shi",
+			"ward_name": "",
+			"town_name": "Otomehamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "東近江市",
+					"ward_name": "",
+					"town_name": "乙女浜町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "東近江市"
+		},
+		"5211235": {
+			"postcode": "5211235",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Higashiomi-shi",
+			"ward_name": "",
+			"town_name": "Ibacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "東近江市",
+					"ward_name": "",
+					"town_name": "伊庭町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "東近江市"
+		},
+		"5211234": {
+			"postcode": "5211234",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Higashiomi-shi",
+			"ward_name": "",
+			"town_name": "Kinugasacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "東近江市",
+					"ward_name": "",
+					"town_name": "きぬがさ町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "東近江市"
+		},
+		"5211233": {
+			"postcode": "5211233",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Higashiomi-shi",
+			"ward_name": "",
+			"town_name": "Minamisudacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "東近江市",
+					"ward_name": "",
+					"town_name": "南須田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "東近江市"
+		},
+		"5211232": {
+			"postcode": "5211232",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Higashiomi-shi",
+			"ward_name": "",
+			"town_name": "Kitasudacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "東近江市",
+					"ward_name": "",
+					"town_name": "北須田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "東近江市"
+		},
+		"5211231": {
+			"postcode": "5211231",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Higashiomi-shi",
+			"ward_name": "",
+			"town_name": "Notogawacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "東近江市",
+					"ward_name": "",
+					"town_name": "能登川町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "東近江市"
+		},
+		"5211225": {
+			"postcode": "5211225",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Higashiomi-shi",
+			"ward_name": "",
+			"town_name": "Yamajicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "東近江市",
+					"ward_name": "",
+					"town_name": "山路町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "東近江市"
+		},
+		"5211224": {
+			"postcode": "5211224",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Higashiomi-shi",
+			"ward_name": "",
+			"town_name": "Hayashicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "東近江市",
+					"ward_name": "",
+					"town_name": "林町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "東近江市"
+		},
+		"5211223": {
+			"postcode": "5211223",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Higashiomi-shi",
+			"ward_name": "",
+			"town_name": "Inokocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "東近江市",
+					"ward_name": "",
+					"town_name": "猪子町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "東近江市"
+		},
+		"5211222": {
+			"postcode": "5211222",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Higashiomi-shi",
+			"ward_name": "",
+			"town_name": "Sanocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "東近江市",
+					"ward_name": "",
+					"town_name": "佐野町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "東近江市"
+		},
+		"5211221": {
+			"postcode": "5211221",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Higashiomi-shi",
+			"ward_name": "",
+			"town_name": "Kakimicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "東近江市",
+					"ward_name": "",
+					"town_name": "垣見町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "東近江市"
+		},
+		"5211215": {
+			"postcode": "5211215",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Higashiomi-shi",
+			"ward_name": "",
+			"town_name": "Sasocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "東近江市",
+					"ward_name": "",
+					"town_name": "佐生町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "東近江市"
+		},
+		"5211214": {
+			"postcode": "5211214",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Higashiomi-shi",
+			"ward_name": "",
+			"town_name": "Choshojicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "東近江市",
+					"ward_name": "",
+					"town_name": "長勝寺町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "東近江市"
+		},
+		"5211213": {
+			"postcode": "5211213",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Higashiomi-shi",
+			"ward_name": "",
+			"town_name": "Jingocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "東近江市",
+					"ward_name": "",
+					"town_name": "神郷町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "東近江市"
+		},
+		"5211212": {
+			"postcode": "5211212",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Higashiomi-shi",
+			"ward_name": "",
+			"town_name": "Tanecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "東近江市",
+					"ward_name": "",
+					"town_name": "種町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "東近江市"
+		},
+		"5211211": {
+			"postcode": "5211211",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Higashiomi-shi",
+			"ward_name": "",
+			"town_name": "Imacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "東近江市",
+					"ward_name": "",
+					"town_name": "今町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "東近江市"
+		},
+		"5211205": {
+			"postcode": "5211205",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Higashiomi-shi",
+			"ward_name": "",
+			"town_name": "Taikojicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "東近江市",
+					"ward_name": "",
+					"town_name": "躰光寺町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "東近江市"
+		},
+		"5211204": {
+			"postcode": "5211204",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Higashiomi-shi",
+			"ward_name": "",
+			"town_name": "Ogawacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "東近江市",
+					"ward_name": "",
+					"town_name": "小川町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "東近江市"
+		},
+		"5211203": {
+			"postcode": "5211203",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Higashiomi-shi",
+			"ward_name": "",
+			"town_name": "Kawaminamicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "東近江市",
+					"ward_name": "",
+					"town_name": "川南町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "東近江市"
+		},
+		"5211202": {
+			"postcode": "5211202",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Higashiomi-shi",
+			"ward_name": "",
+			"town_name": "Amidadocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "東近江市",
+					"ward_name": "",
+					"town_name": "阿弥陀堂町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "東近江市"
+		},
+		"5211201": {
+			"postcode": "5211201",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Higashiomi-shi",
+			"ward_name": "",
+			"town_name": "Shingucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "東近江市",
+					"ward_name": "",
+					"town_name": "新宮町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "東近江市"
+		},
+		"5211192": {
+			"postcode": "5211192",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Hikone-shi",
+			"ward_name": "",
+			"town_name": "彦富町",
+			"building_name": "１５４２",
+			"organization_name": "タカタ　株式会社　彦根製造所",
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "彦根市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "彦根市",
+					"ward_name": "",
+					"town_name": "彦富町",
+					"building_name": "１５４２",
+					"organization_name": "タカタ　株式会社　彦根製造所"
+				}
+			}
+		},
+		"5211147": {
+			"postcode": "5211147",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Hikone-shi",
+			"ward_name": "",
+			"town_name": "Satsumacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "彦根市",
+					"ward_name": "",
+					"town_name": "薩摩町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "彦根市"
+		},
+		"5211146": {
+			"postcode": "5211146",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Hikone-shi",
+			"ward_name": "",
+			"town_name": "Yanagawacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "彦根市",
+					"ward_name": "",
+					"town_name": "柳川町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "彦根市"
+		},
+		"5211145": {
+			"postcode": "5211145",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Hikone-shi",
+			"ward_name": "",
+			"town_name": "Minamimitsuyacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "彦根市",
+					"ward_name": "",
+					"town_name": "南三ツ谷町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "彦根市"
+		},
+		"5211144": {
+			"postcode": "5211144",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Hikone-shi",
+			"ward_name": "",
+			"town_name": "Fukojicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "彦根市",
+					"ward_name": "",
+					"town_name": "普光寺町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "彦根市"
+		},
+		"5211143": {
+			"postcode": "5211143",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Hikone-shi",
+			"ward_name": "",
+			"town_name": "Kaminishigawacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "彦根市",
+					"ward_name": "",
+					"town_name": "上西川町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "彦根市"
+		},
+		"5211142": {
+			"postcode": "5211142",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Hikone-shi",
+			"ward_name": "",
+			"town_name": "Shimonishigawacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "彦根市",
+					"ward_name": "",
+					"town_name": "下西川町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "彦根市"
+		},
+		"5211141": {
+			"postcode": "5211141",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Hikone-shi",
+			"ward_name": "",
+			"town_name": "Kozakicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "彦根市",
+					"ward_name": "",
+					"town_name": "甲崎町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "彦根市"
+		},
+		"5211136": {
+			"postcode": "5211136",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Hikone-shi",
+			"ward_name": "",
+			"town_name": "Shingaihama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "彦根市",
+					"ward_name": "",
+					"town_name": "新海浜",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "彦根市"
+		},
+		"5211135": {
+			"postcode": "5211135",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Hikone-shi",
+			"ward_name": "",
+			"town_name": "Shingaicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "彦根市",
+					"ward_name": "",
+					"town_name": "新海町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "彦根市"
+		},
+		"5211134": {
+			"postcode": "5211134",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Hikone-shi",
+			"ward_name": "",
+			"town_name": "Tazukecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "彦根市",
+					"ward_name": "",
+					"town_name": "田附町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "彦根市"
+		},
+		"5211133": {
+			"postcode": "5211133",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Hikone-shi",
+			"ward_name": "",
+			"town_name": "Honjocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "彦根市",
+					"ward_name": "",
+					"town_name": "本庄町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "彦根市"
+		},
+		"5211132": {
+			"postcode": "5211132",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Hikone-shi",
+			"ward_name": "",
+			"town_name": "Shimoinabacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "彦根市",
+					"ward_name": "",
+					"town_name": "下稲葉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "彦根市"
+		},
+		"5211131": {
+			"postcode": "5211131",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Hikone-shi",
+			"ward_name": "",
+			"town_name": "Kamiinabacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "彦根市",
+					"ward_name": "",
+					"town_name": "上稲葉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "彦根市"
+		},
+		"5211126": {
+			"postcode": "5211126",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Hikone-shi",
+			"ward_name": "",
+			"town_name": "Hatsutoricho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "彦根市",
+					"ward_name": "",
+					"town_name": "服部町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "彦根市"
+		},
+		"5211125": {
+			"postcode": "5211125",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Hikone-shi",
+			"ward_name": "",
+			"town_name": "Inaecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "彦根市",
+					"ward_name": "",
+					"town_name": "稲枝町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "彦根市"
+		},
+		"5211124": {
+			"postcode": "5211124",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Hikone-shi",
+			"ward_name": "",
+			"town_name": "Noradacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "彦根市",
+					"ward_name": "",
+					"town_name": "野良田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "彦根市"
+		},
+		"5211123": {
+			"postcode": "5211123",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Hikone-shi",
+			"ward_name": "",
+			"town_name": "Hidacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "彦根市",
+					"ward_name": "",
+					"town_name": "肥田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "彦根市"
+		},
+		"5211122": {
+			"postcode": "5211122",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Hikone-shi",
+			"ward_name": "",
+			"town_name": "Mitsucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "彦根市",
+					"ward_name": "",
+					"town_name": "三津町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "彦根市"
+		},
+		"5211121": {
+			"postcode": "5211121",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Hikone-shi",
+			"ward_name": "",
+			"town_name": "Kaizecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "彦根市",
+					"ward_name": "",
+					"town_name": "海瀬町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "彦根市"
+		},
+		"5211115": {
+			"postcode": "5211115",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Hikone-shi",
+			"ward_name": "",
+			"town_name": "Kanedacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "彦根市",
+					"ward_name": "",
+					"town_name": "金田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "彦根市"
+		},
+		"5211114": {
+			"postcode": "5211114",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Hikone-shi",
+			"ward_name": "",
+			"town_name": "Hikotomicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "彦根市",
+					"ward_name": "",
+					"town_name": "彦富町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "彦根市"
+		},
+		"5211113": {
+			"postcode": "5211113",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Hikone-shi",
+			"ward_name": "",
+			"town_name": "Inabecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "彦根市",
+					"ward_name": "",
+					"town_name": "稲部町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "彦根市"
+		},
+		"5211112": {
+			"postcode": "5211112",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Hikone-shi",
+			"ward_name": "",
+			"town_name": "Kanazawacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "彦根市",
+					"ward_name": "",
+					"town_name": "金沢町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "彦根市"
+		},
+		"5211111": {
+			"postcode": "5211111",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Hikone-shi",
+			"ward_name": "",
+			"town_name": "Inasatocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "彦根市",
+					"ward_name": "",
+					"town_name": "稲里町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "彦根市"
+		},
+		"5211105": {
+			"postcode": "5211105",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Hikone-shi",
+			"ward_name": "",
+			"town_name": "Tawaracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "彦根市",
+					"ward_name": "",
+					"town_name": "田原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "彦根市"
+		},
+		"5211104": {
+			"postcode": "5211104",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Hikone-shi",
+			"ward_name": "",
+			"town_name": "Detchicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "彦根市",
+					"ward_name": "",
+					"town_name": "出路町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "彦根市"
+		},
+		"5211103": {
+			"postcode": "5211103",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Hikone-shi",
+			"ward_name": "",
+			"town_name": "Kamiokabecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "彦根市",
+					"ward_name": "",
+					"town_name": "上岡部町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "彦根市"
+		},
+		"5211102": {
+			"postcode": "5211102",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Hikone-shi",
+			"ward_name": "",
+			"town_name": "Shimokabecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "彦根市",
+					"ward_name": "",
+					"town_name": "下岡部町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "彦根市"
+		},
+		"5211101": {
+			"postcode": "5211101",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Hikone-shi",
+			"ward_name": "",
+			"town_name": "Ishideracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "彦根市",
+					"ward_name": "",
+					"town_name": "石寺町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "彦根市"
+		},
+		"5210392": {
+			"postcode": "5210392",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "春照",
+			"building_name": "４９０−１",
+			"organization_name": "米原市役所　伊吹庁舎",
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "春照",
+					"building_name": "４９０−１",
+					"organization_name": "米原市役所　伊吹庁舎"
+				}
+			}
+		},
+		"5210327": {
+			"postcode": "5210327",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Joheiji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "上平寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210326": {
+			"postcode": "5210326",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Terabayashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "寺林",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210325": {
+			"postcode": "5210325",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Fujikawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "藤川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210324": {
+			"postcode": "5210324",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Oshimizu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "大清水",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210323": {
+			"postcode": "5210323",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Muragi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "村木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210322": {
+			"postcode": "5210322",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Sugisawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "杉沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210321": {
+			"postcode": "5210321",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Takaban",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "高番",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210314": {
+			"postcode": "5210314",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Suijo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "春照",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210313": {
+			"postcode": "5210313",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Yataka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "弥高",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210312": {
+			"postcode": "5210312",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Ueno",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "上野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210311": {
+			"postcode": "5210311",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Ibuki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "伊吹",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210308": {
+			"postcode": "5210308",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Koizumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "小泉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210307": {
+			"postcode": "5210307",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Okubo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "大久保",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210306": {
+			"postcode": "5210306",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Shimoitanami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "下板並",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210305": {
+			"postcode": "5210305",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Kamiitanami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "上板並",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210304": {
+			"postcode": "5210304",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Yoshitsuki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "吉槻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210303": {
+			"postcode": "5210303",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Koga",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "甲賀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210302": {
+			"postcode": "5210302",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Magatani",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "曲谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210301": {
+			"postcode": "5210301",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Kozuhara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "甲津原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210292": {
+			"postcode": "5210292",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "長岡",
+			"building_name": "１２０６",
+			"organization_name": "米原市役所　山東庁舎",
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "長岡",
+					"building_name": "１２０６",
+					"organization_name": "米原市役所　山東庁舎"
+				}
+			}
+		},
+		"5210245": {
+			"postcode": "5210245",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Sugawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "須川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210244": {
+			"postcode": "5210244",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Onogi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "大野木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210243": {
+			"postcode": "5210243",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Manganji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "万願寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210242": {
+			"postcode": "5210242",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Nagaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "長岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210241": {
+			"postcode": "5210241",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Nishiyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "西山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210236": {
+			"postcode": "5210236",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Hasamata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "間田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210235": {
+			"postcode": "5210235",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Yanaida",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "小田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210234": {
+			"postcode": "5210234",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Inokuchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "井之口",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210233": {
+			"postcode": "5210233",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Noishiki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "野一色",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210232": {
+			"postcode": "5210232",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Sakaguchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "坂口",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210231": {
+			"postcode": "5210231",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Muraida",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "村居田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210227": {
+			"postcode": "5210227",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Karasuwaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "烏脇",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210226": {
+			"postcode": "5210226",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Asahi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "朝日",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210225": {
+			"postcode": "5210225",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Ichiba",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "市場",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210224": {
+			"postcode": "5210224",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Buma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "夫馬",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210223": {
+			"postcode": "5210223",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Motoichiba",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "本市場",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210222": {
+			"postcode": "5210222",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Temma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "天満",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210221": {
+			"postcode": "5210221",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Ikeshita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "池下",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210219": {
+			"postcode": "5210219",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Kaseno",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "加勢野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210218": {
+			"postcode": "5210218",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Shigaya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "志賀谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210217": {
+			"postcode": "5210217",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Kitagata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "北方",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210216": {
+			"postcode": "5210216",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Sue",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "菅江",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210215": {
+			"postcode": "5210215",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Yamamuro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "山室",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210214": {
+			"postcode": "5210214",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Oshika",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "大鹿",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210213": {
+			"postcode": "5210213",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Dodani",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "堂谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210212": {
+			"postcode": "5210212",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Hongo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "本郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210211": {
+			"postcode": "5210211",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Ansakawachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "梓河内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210203": {
+			"postcode": "5210203",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Kiyotaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "清滝",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210202": {
+			"postcode": "5210202",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Kashiwabara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "柏原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210201": {
+			"postcode": "5210201",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Chokyuji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "長久寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210093": {
+			"postcode": "5210093",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Terakura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "寺倉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210092": {
+			"postcode": "5210092",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Saienji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "西円寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210091": {
+			"postcode": "5210091",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Iogi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "岩脇",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210084": {
+			"postcode": "5210084",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Nikkoji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "日光寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210083": {
+			"postcode": "5210083",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Shinjo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "新庄",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210082": {
+			"postcode": "5210082",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Notose",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "能登瀬",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210081": {
+			"postcode": "5210081",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Tawada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "多和田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210074": {
+			"postcode": "5210074",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Takamizo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "高溝",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210073": {
+			"postcode": "5210073",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Minora",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "箕浦",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210072": {
+			"postcode": "5210072",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Godo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "顔戸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210071": {
+			"postcode": "5210071",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Funasaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "舟崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210064": {
+			"postcode": "5210064",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Yotsugi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "世継",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210063": {
+			"postcode": "5210063",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "I",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "飯",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210062": {
+			"postcode": "5210062",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Ukano",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "宇賀野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210061": {
+			"postcode": "5210061",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Nagasawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "長沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210035": {
+			"postcode": "5210035",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Samegai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "醒井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210034": {
+			"postcode": "5210034",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Shimonyu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "下丹生",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210033": {
+			"postcode": "5210033",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Kaminyu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "上丹生",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210032": {
+			"postcode": "5210032",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Shiori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "枝折",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210031": {
+			"postcode": "5210031",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Isshiki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "一色",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210025": {
+			"postcode": "5210025",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Bamba",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "番場",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210024": {
+			"postcode": "5210024",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Nishisaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "西坂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210023": {
+			"postcode": "5210023",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Miyoshi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "三吉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210022": {
+			"postcode": "5210022",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Higuchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "樋口",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210021": {
+			"postcode": "5210021",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Kawanami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "河南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210016": {
+			"postcode": "5210016",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Shimotara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "下多良",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210015": {
+			"postcode": "5210015",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Maibaranishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "米原西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210014": {
+			"postcode": "5210014",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Umegaharasakae",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "梅ケ原栄",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210013": {
+			"postcode": "5210013",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Umegahara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "梅ケ原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210012": {
+			"postcode": "5210012",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Maihara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "米原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210011": {
+			"postcode": "5210011",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Nakatara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "中多良",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210004": {
+			"postcode": "5210004",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Iso",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "磯",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210003": {
+			"postcode": "5210003",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Irie",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "入江",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210002": {
+			"postcode": "5210002",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Kamitara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "上多良",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210001": {
+			"postcode": "5210001",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "Asazumachikuma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "朝妻筑摩",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		},
+		"5210000": {
+			"postcode": "5210000",
+			"prefecture_name": "Shiga-ken",
+			"city_name": "Maibara-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "滋賀県",
+					"city_name": "米原市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"city_code": "米原市"
+		}
+	}
+}

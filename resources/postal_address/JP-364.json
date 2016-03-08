@@ -1,0 +1,645 @@
+{
+	"country_code": "JP",
+	"parent_id": "364",
+	"locale": "ja-Latn",
+	"address": {
+		"3648633": {
+			"postcode": "3648633",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kitamoto-shi",
+			"ward_name": "",
+			"town_name": "本町",
+			"building_name": "１丁目１１１（北本郵便局私書箱第１号）",
+			"organization_name": "北本市役所",
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "北本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "北本市",
+					"ward_name": "",
+					"town_name": "本町",
+					"building_name": "１丁目１１１（北本郵便局私書箱第１号）",
+					"organization_name": "北本市役所"
+				}
+			}
+		},
+		"3648585": {
+			"postcode": "3648585",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kitamoto-shi",
+			"ward_name": "",
+			"town_name": "朝日",
+			"building_name": "１丁目２４３",
+			"organization_name": "株式会社　エーアンド・デイ",
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "北本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "北本市",
+					"ward_name": "",
+					"town_name": "朝日",
+					"building_name": "１丁目２４３",
+					"organization_name": "株式会社　エーアンド・デイ"
+				}
+			}
+		},
+		"3648555": {
+			"postcode": "3648555",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kitamoto-shi",
+			"ward_name": "",
+			"town_name": "宮内",
+			"building_name": "６丁目１",
+			"organization_name": "コマツ埼玉　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "北本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "北本市",
+					"ward_name": "",
+					"town_name": "宮内",
+					"building_name": "６丁目１",
+					"organization_name": "コマツ埼玉　株式会社"
+				}
+			}
+		},
+		"3648511": {
+			"postcode": "3648511",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kitamoto-shi",
+			"ward_name": "",
+			"town_name": "朝日",
+			"building_name": "４丁目４１０",
+			"organization_name": "富士重工業　株式会社　埼玉製作所",
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "北本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "北本市",
+					"ward_name": "",
+					"town_name": "朝日",
+					"building_name": "４丁目４１０",
+					"organization_name": "富士重工業　株式会社　埼玉製作所"
+				}
+			}
+		},
+		"3648501": {
+			"postcode": "3648501",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kitamoto-shi",
+			"ward_name": "",
+			"town_name": "荒井",
+			"building_name": "６丁目１００",
+			"organization_name": "北里研究所　メディカルセンター病院",
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "北本市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "北本市",
+					"ward_name": "",
+					"town_name": "荒井",
+					"building_name": "６丁目１００",
+					"organization_name": "北里研究所　メディカルセンター病院"
+				}
+			}
+		},
+		"3640035": {
+			"postcode": "3640035",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kitamoto-shi",
+			"ward_name": "",
+			"town_name": "Nishitakao",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "北本市",
+					"ward_name": "",
+					"town_name": "西高尾",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "北本市"
+		},
+		"3640034": {
+			"postcode": "3640034",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kitamoto-shi",
+			"ward_name": "",
+			"town_name": "Takao",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "北本市",
+					"ward_name": "",
+					"town_name": "高尾",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "北本市"
+		},
+		"3640033": {
+			"postcode": "3640033",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kitamoto-shi",
+			"ward_name": "",
+			"town_name": "Honcho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "北本市",
+					"ward_name": "",
+					"town_name": "本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "北本市"
+		},
+		"3640032": {
+			"postcode": "3640032",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kitamoto-shi",
+			"ward_name": "",
+			"town_name": "Midori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "北本市",
+					"ward_name": "",
+					"town_name": "緑",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "北本市"
+		},
+		"3640031": {
+			"postcode": "3640031",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kitamoto-shi",
+			"ward_name": "",
+			"town_name": "Chuo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "北本市",
+					"ward_name": "",
+					"town_name": "中央",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "北本市"
+		},
+		"3640027": {
+			"postcode": "3640027",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kitamoto-shi",
+			"ward_name": "",
+			"town_name": "Sakae",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "北本市",
+					"ward_name": "",
+					"town_name": "栄",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "北本市"
+		},
+		"3640026": {
+			"postcode": "3640026",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kitamoto-shi",
+			"ward_name": "",
+			"town_name": "Arai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "北本市",
+					"ward_name": "",
+					"town_name": "荒井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "北本市"
+		},
+		"3640025": {
+			"postcode": "3640025",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kitamoto-shi",
+			"ward_name": "",
+			"town_name": "Ishitojuku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "北本市",
+					"ward_name": "",
+					"town_name": "石戸宿",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "北本市"
+		},
+		"3640024": {
+			"postcode": "3640024",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kitamoto-shi",
+			"ward_name": "",
+			"town_name": "Ishito",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "北本市",
+					"ward_name": "",
+					"town_name": "石戸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "北本市"
+		},
+		"3640023": {
+			"postcode": "3640023",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kitamoto-shi",
+			"ward_name": "",
+			"town_name": "Shimoishito",
+			"building_name": "Shimo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "北本市",
+					"ward_name": "",
+					"town_name": "下石戸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "北本市"
+		},
+		"3640022": {
+			"postcode": "3640022",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kitamoto-shi",
+			"ward_name": "",
+			"town_name": "Shimoishito",
+			"building_name": "Kami",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "北本市",
+					"ward_name": "",
+					"town_name": "下石戸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "北本市"
+		},
+		"3640021": {
+			"postcode": "3640021",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kitamoto-shi",
+			"ward_name": "",
+			"town_name": "Kitamotojuku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "北本市",
+					"ward_name": "",
+					"town_name": "北本宿",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "北本市"
+		},
+		"3640014": {
+			"postcode": "3640014",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kitamoto-shi",
+			"ward_name": "",
+			"town_name": "Futatsuya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "北本市",
+					"ward_name": "",
+					"town_name": "二ツ家",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "北本市"
+		},
+		"3640013": {
+			"postcode": "3640013",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kitamoto-shi",
+			"ward_name": "",
+			"town_name": "Nakamaru",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "北本市",
+					"ward_name": "",
+					"town_name": "中丸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "北本市"
+		},
+		"3640012": {
+			"postcode": "3640012",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kitamoto-shi",
+			"ward_name": "",
+			"town_name": "Kitanakamaru",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "北本市",
+					"ward_name": "",
+					"town_name": "北中丸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "北本市"
+		},
+		"3640011": {
+			"postcode": "3640011",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kitamoto-shi",
+			"ward_name": "",
+			"town_name": "Asahi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "北本市",
+					"ward_name": "",
+					"town_name": "朝日",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "北本市"
+		},
+		"3640007": {
+			"postcode": "3640007",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kitamoto-shi",
+			"ward_name": "",
+			"town_name": "Azuma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "北本市",
+					"ward_name": "",
+					"town_name": "東間",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "北本市"
+		},
+		"3640006": {
+			"postcode": "3640006",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kitamoto-shi",
+			"ward_name": "",
+			"town_name": "Kitamoto",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "北本市",
+					"ward_name": "",
+					"town_name": "北本",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "北本市"
+		},
+		"3640005": {
+			"postcode": "3640005",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kitamoto-shi",
+			"ward_name": "",
+			"town_name": "Motojuku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "北本市",
+					"ward_name": "",
+					"town_name": "本宿",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "北本市"
+		},
+		"3640004": {
+			"postcode": "3640004",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kitamoto-shi",
+			"ward_name": "",
+			"town_name": "Yamanaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "北本市",
+					"ward_name": "",
+					"town_name": "山中",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "北本市"
+		},
+		"3640003": {
+			"postcode": "3640003",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kitamoto-shi",
+			"ward_name": "",
+			"town_name": "Furuichiba",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "北本市",
+					"ward_name": "",
+					"town_name": "古市場",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "北本市"
+		},
+		"3640002": {
+			"postcode": "3640002",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kitamoto-shi",
+			"ward_name": "",
+			"town_name": "Miyauchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "北本市",
+					"ward_name": "",
+					"town_name": "宮内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "北本市"
+		},
+		"3640001": {
+			"postcode": "3640001",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kitamoto-shi",
+			"ward_name": "",
+			"town_name": "Fukai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "北本市",
+					"ward_name": "",
+					"town_name": "深井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "北本市"
+		},
+		"3640000": {
+			"postcode": "3640000",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kitamoto-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "北本市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "北本市"
+		}
+	}
+}

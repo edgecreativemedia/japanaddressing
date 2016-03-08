@@ -1,0 +1,997 @@
+{
+	"country_code": "JP",
+	"parent_id": "829",
+	"locale": "ja-Latn",
+	"address": {
+		"8290393": {
+			"postcode": "8290393",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "大字椎田",
+			"building_name": "８９１番地の３",
+			"organization_name": "東九州コミュニティー放送　株式会社",
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "大字椎田",
+					"building_name": "８９１番地の３",
+					"organization_name": "東九州コミュニティー放送　株式会社"
+				}
+			}
+		},
+		"8290392": {
+			"postcode": "8290392",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "大字椎田",
+			"building_name": "８９１−２",
+			"organization_name": "築上町役場",
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "大字椎田",
+					"building_name": "８９１−２",
+					"organization_name": "築上町役場"
+				}
+			}
+		},
+		"8290343": {
+			"postcode": "8290343",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "Nishihatta",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "西八田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡"
+		},
+		"8290342": {
+			"postcode": "8290342",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "Higashihatta",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "東八田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡"
+		},
+		"8290341": {
+			"postcode": "8290341",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "Uruzu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "宇留津",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡"
+		},
+		"8290335": {
+			"postcode": "8290335",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "Iwamaru",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "岩丸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡"
+		},
+		"8290334": {
+			"postcode": "8290334",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "Nago",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "奈古",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡"
+		},
+		"8290333": {
+			"postcode": "8290333",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "Mizuhara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "水原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡"
+		},
+		"8290332": {
+			"postcode": "8290332",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "Koiji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "越路",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡"
+		},
+		"8290331": {
+			"postcode": "8290331",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "Takatsuka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "高塚",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡"
+		},
+		"8290323": {
+			"postcode": "8290323",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "Gokurakuji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "極楽寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡"
+		},
+		"8290322": {
+			"postcode": "8290322",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "Hinago",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "日奈古",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡"
+		},
+		"8290321": {
+			"postcode": "8290321",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "Sakamoto",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "坂本",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡"
+		},
+		"8290315": {
+			"postcode": "8290315",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "Agarimatsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "上り松",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡"
+		},
+		"8290314": {
+			"postcode": "8290314",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "Uenokawachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "上ノ河内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡"
+		},
+		"8290313": {
+			"postcode": "8290313",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "Ariyasu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "有安",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡"
+		},
+		"8290312": {
+			"postcode": "8290312",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "Ishido",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "石堂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡"
+		},
+		"8290311": {
+			"postcode": "8290311",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "Minato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "湊",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡"
+		},
+		"8290305": {
+			"postcode": "8290305",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "Shinnyoji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "真如寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡"
+		},
+		"8290304": {
+			"postcode": "8290304",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "Obara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "小原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡"
+		},
+		"8290303": {
+			"postcode": "8290303",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "Yamamoto",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "山本",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡"
+		},
+		"8290302": {
+			"postcode": "8290302",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "Usuda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "臼田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡"
+		},
+		"8290301": {
+			"postcode": "8290301",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "Shiida",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "椎田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡"
+		},
+		"8290151": {
+			"postcode": "8290151",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "Nishihatta",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "西八田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡"
+		},
+		"8290125": {
+			"postcode": "8290125",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "Sawada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "寒田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡"
+		},
+		"8290124": {
+			"postcode": "8290124",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "Ichigibaru",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "櫟原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡"
+		},
+		"8290123": {
+			"postcode": "8290123",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "Honjo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "本庄",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡"
+		},
+		"8290122": {
+			"postcode": "8290122",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "Demboji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "伝法寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡"
+		},
+		"8290121": {
+			"postcode": "8290121",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "Matsumaru",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "松丸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡"
+		},
+		"8290117": {
+			"postcode": "8290117",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "Kesamaru",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "袈裟丸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡"
+		},
+		"8290116": {
+			"postcode": "8290116",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "Shimofukano",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "下深野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡"
+		},
+		"8290115": {
+			"postcode": "8290115",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "Kamifukano",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "上深野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡"
+		},
+		"8290114": {
+			"postcode": "8290114",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "Kamikoraku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "上香楽",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡"
+		},
+		"8290113": {
+			"postcode": "8290113",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "Shimokoraku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "下香楽",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡"
+		},
+		"8290112": {
+			"postcode": "8290112",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "Akahata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "赤幡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡"
+		},
+		"8290111": {
+			"postcode": "8290111",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "Yasutake",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "安武",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡"
+		},
+		"8290108": {
+			"postcode": "8290108",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "Shimobefu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "下別府",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡"
+		},
+		"8290107": {
+			"postcode": "8290107",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "Yuminoshi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "弓の師",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡"
+		},
+		"8290106": {
+			"postcode": "8290106",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "Funasako",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "船迫",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡"
+		},
+		"8290105": {
+			"postcode": "8290105",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "Kamibefu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "上別府",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡"
+		},
+		"8290104": {
+			"postcode": "8290104",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "Oyamada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "小山田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡"
+		},
+		"8290103": {
+			"postcode": "8290103",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "Hirosue",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "広末",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡"
+		},
+		"8290102": {
+			"postcode": "8290102",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "Tsuiki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "築城",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡"
+		},
+		"8290101": {
+			"postcode": "8290101",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "Higashitsuiki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "東築城",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡"
+		},
+		"8290100": {
+			"postcode": "8290100",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikujo-gun",
+			"ward_name": "Chikujo-machi",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "築上郡",
+					"ward_name": "築上町",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "築上郡"
+		}
+	}
+}

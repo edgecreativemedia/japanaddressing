@@ -1,0 +1,3197 @@
+{
+	"country_code": "JP",
+	"parent_id": "309",
+	"locale": "ja-Latn",
+	"address": {
+		"3091793": {
+			"postcode": "3091793",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "鯉淵",
+			"building_name": "６５２８",
+			"organization_name": "茨城県立　中央病院",
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "鯉淵",
+					"building_name": "６５２８",
+					"organization_name": "茨城県立　中央病院"
+				}
+			}
+		},
+		"3091792": {
+			"postcode": "3091792",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "中央",
+			"building_name": "３丁目２−１",
+			"organization_name": "笠間市役所",
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "中央",
+					"building_name": "３丁目２−１",
+					"organization_name": "笠間市役所"
+				}
+			}
+		},
+		"3091738": {
+			"postcode": "3091738",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Otamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "大田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091737": {
+			"postcode": "3091737",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Chuo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "中央",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091736": {
+			"postcode": "3091736",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Yakumo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "八雲",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091735": {
+			"postcode": "3091735",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Tomobeekimae",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "友部駅前",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091734": {
+			"postcode": "3091734",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Minamitomobe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "南友部",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091733": {
+			"postcode": "3091733",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Shimoichibara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "下市原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091732": {
+			"postcode": "3091732",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Nakaichibara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "中市原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091731": {
+			"postcode": "3091731",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Kamiichibara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "上市原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091726": {
+			"postcode": "3091726",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Shimokagata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "下加賀田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091725": {
+			"postcode": "3091725",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Minamikoizumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "南小泉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091724": {
+			"postcode": "3091724",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Ogoyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "大古山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091723": {
+			"postcode": "3091723",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Yanoshita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "矢野下",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091722": {
+			"postcode": "3091722",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Tairamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "平町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091721": {
+			"postcode": "3091721",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Hashizume",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "橋爪",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091717": {
+			"postcode": "3091717",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Asahimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "旭町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091716": {
+			"postcode": "3091716",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Sumiyoshi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "住吉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091715": {
+			"postcode": "3091715",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Yuzaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "湯崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091714": {
+			"postcode": "3091714",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Nikoda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "仁古田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091713": {
+			"postcode": "3091713",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Kashiwai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "柏井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091712": {
+			"postcode": "3091712",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Nagatoro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "長兎路",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091711": {
+			"postcode": "3091711",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Namusanzuke",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "随分附",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091706": {
+			"postcode": "3091706",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Konosu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "鴻巣",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091705": {
+			"postcode": "3091705",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Higashidaira",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "東平",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091704": {
+			"postcode": "3091704",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Mihara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "美原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091703": {
+			"postcode": "3091703",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Koibuchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "鯉淵",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091702": {
+			"postcode": "3091702",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Gohei",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "五平",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091701": {
+			"postcode": "3091701",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Obara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "小原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091698": {
+			"postcode": "3091698",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "石井",
+			"building_name": "７１７",
+			"organization_name": "笠間市役所　笠間支所",
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "石井",
+					"building_name": "７１７",
+					"organization_name": "笠間市役所　笠間支所"
+				}
+			}
+		},
+		"3091637": {
+			"postcode": "3091637",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Kataniwa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "片庭",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091636": {
+			"postcode": "3091636",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Ogoto",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "大郷戸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091635": {
+			"postcode": "3091635",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Inada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "稲田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091634": {
+			"postcode": "3091634",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Fukuhara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "福原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091633": {
+			"postcode": "3091633",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Motodo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "本戸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091632": {
+			"postcode": "3091632",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Iigo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "飯合",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091631": {
+			"postcode": "3091631",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Hakoda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "箱田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091626": {
+			"postcode": "3091626",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Shimoichige",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "下市毛",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091625": {
+			"postcode": "3091625",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Kurusu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "来栖",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091624": {
+			"postcode": "3091624",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Kitayoshiwara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "北吉原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091623": {
+			"postcode": "3091623",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Kamikagada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "上加賀田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091622": {
+			"postcode": "3091622",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Minamiyoshiwara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "南吉原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091621": {
+			"postcode": "3091621",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Tegoshi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "手越",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091616": {
+			"postcode": "3091616",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Akasaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "赤坂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091615": {
+			"postcode": "3091615",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Kanai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "金井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091614": {
+			"postcode": "3091614",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Terazaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "寺崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091613": {
+			"postcode": "3091613",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Ishii",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "石井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091612": {
+			"postcode": "3091612",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Hikusaba",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "日草場",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091611": {
+			"postcode": "3091611",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Kasama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "笠間",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091607": {
+			"postcode": "3091607",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Ishidera",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "石寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091606": {
+			"postcode": "3091606",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Hizawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "日沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091605": {
+			"postcode": "3091605",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Iida",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "飯田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091604": {
+			"postcode": "3091604",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Obuchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "大渕",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091603": {
+			"postcode": "3091603",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Fukuda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "福田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091602": {
+			"postcode": "3091602",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Ikenobe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "池野辺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091601": {
+			"postcode": "3091601",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "Ohashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "大橋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091600": {
+			"postcode": "3091600",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Kasama-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "笠間市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "笠間市"
+		},
+		"3091466": {
+			"postcode": "3091466",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Saruda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "猿田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091465": {
+			"postcode": "3091465",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Kiue",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "木植",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091464": {
+			"postcode": "3091464",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Imaizumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "今泉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091463": {
+			"postcode": "3091463",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Takahata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "高幡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091462": {
+			"postcode": "3091462",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Sone",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "曽根",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091461": {
+			"postcode": "3091461",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Matsuda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "松田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091458": {
+			"postcode": "3091458",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Ina",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "稲",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091457": {
+			"postcode": "3091457",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Isobe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "磯部",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091456": {
+			"postcode": "3091456",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Aoyagi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "青柳",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091455": {
+			"postcode": "3091455",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Mito",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "水戸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091454": {
+			"postcode": "3091454",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Kamishiro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "上城",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091453": {
+			"postcode": "3091453",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Tomobe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "友部",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091452": {
+			"postcode": "3091452",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Kamobe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "加茂部",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091451": {
+			"postcode": "3091451",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Nishikobanawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "西小塙",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091347": {
+			"postcode": "3091347",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Tomiya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "富谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091346": {
+			"postcode": "3091346",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Nakazato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "中里",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091345": {
+			"postcode": "3091345",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Irino",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "入野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091344": {
+			"postcode": "3091344",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Minamiiida",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "南飯田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091343": {
+			"postcode": "3091343",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Kameoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "亀岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091342": {
+			"postcode": "3091342",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Manaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "間中",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091341": {
+			"postcode": "3091341",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Kadoke",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "門毛",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091337": {
+			"postcode": "3091337",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Fukuzaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "福崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091336": {
+			"postcode": "3091336",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Koshio",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "小塩",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091335": {
+			"postcode": "3091335",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Otsuki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "大月",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091334": {
+			"postcode": "3091334",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Sakamoto",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "坂本",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091333": {
+			"postcode": "3091333",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Yamaguchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "山口",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091332": {
+			"postcode": "3091332",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Ikegame",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "池亀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091331": {
+			"postcode": "3091331",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Hirasawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "平澤",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091297": {
+			"postcode": "3091297",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "高森",
+			"building_name": "１１５８",
+			"organization_name": "株式会社　スミハツ",
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "高森",
+					"building_name": "１１５８",
+					"organization_name": "株式会社　スミハツ"
+				}
+			}
+		},
+		"3091296": {
+			"postcode": "3091296",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "高森",
+			"building_name": "１１２１−１１",
+			"organization_name": "岩崎電気　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "高森",
+					"building_name": "１１２１−１１",
+					"organization_name": "岩崎電気　株式会社"
+				}
+			}
+		},
+		"3091295": {
+			"postcode": "3091295",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "鍬田",
+			"building_name": "６０４",
+			"organization_name": "県西総合病院",
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "鍬田",
+					"building_name": "６０４",
+					"organization_name": "県西総合病院"
+				}
+			}
+		},
+		"3091294": {
+			"postcode": "3091294",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "岩瀬",
+			"building_name": "１５１１−１",
+			"organization_name": "茨城県立　岩瀬高等学校",
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "岩瀬",
+					"building_name": "１５１１−１",
+					"organization_name": "茨城県立　岩瀬高等学校"
+				}
+			}
+		},
+		"3091293": {
+			"postcode": "3091293",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "羽田",
+			"building_name": "１０２３",
+			"organization_name": "桜川市役所",
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "羽田",
+					"building_name": "１０２３",
+					"organization_name": "桜川市役所"
+				}
+			}
+		},
+		"3091292": {
+			"postcode": "3091292",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "岩瀬",
+			"building_name": "６４−２",
+			"organization_name": "桜川市役所　岩瀬庁舎",
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "岩瀬",
+					"building_name": "６４−２",
+					"organization_name": "桜川市役所　岩瀬庁舎"
+				}
+			}
+		},
+		"3091246": {
+			"postcode": "3091246",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Takamori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "高森",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091245": {
+			"postcode": "3091245",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Kanashiki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "金敷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091244": {
+			"postcode": "3091244",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Okunitama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "大国玉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091243": {
+			"postcode": "3091243",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Takaku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "高久",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091242": {
+			"postcode": "3091242",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Haneta",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "羽田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091241": {
+			"postcode": "3091241",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Aoki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "青木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091234": {
+			"postcode": "3091234",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Abeta",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "阿部田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091233": {
+			"postcode": "3091233",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Higashiiida",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "東飯田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091232": {
+			"postcode": "3091232",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Ozone",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "大曽根",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091231": {
+			"postcode": "3091231",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Motogi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "本木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091227": {
+			"postcode": "3091227",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Hongo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "本郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091226": {
+			"postcode": "3091226",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Uenoharachishinden",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "上野原地新田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091225": {
+			"postcode": "3091225",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Shimoizumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "下泉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091224": {
+			"postcode": "3091224",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Nakaizumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "中泉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091223": {
+			"postcode": "3091223",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Kuwada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "鍬田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091222": {
+			"postcode": "3091222",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Osakata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "長方",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091221": {
+			"postcode": "3091221",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Nishiiioka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "西飯岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091217": {
+			"postcode": "3091217",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Inuta",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "犬田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091216": {
+			"postcode": "3091216",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Asuka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "明日香",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091215": {
+			"postcode": "3091215",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Goryo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "御領",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091214": {
+			"postcode": "3091214",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Higashisakuragawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "東桜川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091213": {
+			"postcode": "3091213",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Nishisakuragawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "西桜川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091212": {
+			"postcode": "3091212",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Fujimidai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "富士見台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091211": {
+			"postcode": "3091211",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Iwase",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "岩瀬",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091205": {
+			"postcode": "3091205",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Tsutsuminoe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "堤上",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091204": {
+			"postcode": "3091204",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Kubara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "久原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091203": {
+			"postcode": "3091203",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Tomioka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "富岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091202": {
+			"postcode": "3091202",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Iibuchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "飯淵",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091201": {
+			"postcode": "3091201",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "Oizumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "大泉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091200": {
+			"postcode": "3091200",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Sakuragawa-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "桜川市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "桜川市"
+		},
+		"3091195": {
+			"postcode": "3091195",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Chikusei-shi",
+			"ward_name": "",
+			"town_name": "門井",
+			"building_name": "１６７６−１",
+			"organization_name": "協和中央病院",
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "筑西市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "筑西市",
+					"ward_name": "",
+					"town_name": "門井",
+					"building_name": "１６７６−１",
+					"organization_name": "協和中央病院"
+				}
+			}
+		},
+		"3091192": {
+			"postcode": "3091192",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Chikusei-shi",
+			"ward_name": "",
+			"town_name": "門井",
+			"building_name": "１９６２−２",
+			"organization_name": "筑西市役所　協和支所",
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "筑西市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "筑西市",
+					"ward_name": "",
+					"town_name": "門井",
+					"building_name": "１９６２−２",
+					"organization_name": "筑西市役所　協和支所"
+				}
+			}
+		},
+		"3091127": {
+			"postcode": "3091127",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Chikusei-shi",
+			"ward_name": "",
+			"town_name": "Kuwayama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "筑西市",
+					"ward_name": "",
+					"town_name": "桑山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "筑西市"
+		},
+		"3091126": {
+			"postcode": "3091126",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Chikusei-shi",
+			"ward_name": "",
+			"town_name": "Shimizu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "筑西市",
+					"ward_name": "",
+					"town_name": "清水",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "筑西市"
+		},
+		"3091125": {
+			"postcode": "3091125",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Chikusei-shi",
+			"ward_name": "",
+			"town_name": "Oshima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "筑西市",
+					"ward_name": "",
+					"town_name": "大島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "筑西市"
+		},
+		"3091124": {
+			"postcode": "3091124",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Chikusei-shi",
+			"ward_name": "",
+			"town_name": "Chigyo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "筑西市",
+					"ward_name": "",
+					"town_name": "知行",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "筑西市"
+		},
+		"3091123": {
+			"postcode": "3091123",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Chikusei-shi",
+			"ward_name": "",
+			"town_name": "Shimogoya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "筑西市",
+					"ward_name": "",
+					"town_name": "下郷谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "筑西市"
+		},
+		"3091122": {
+			"postcode": "3091122",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Chikusei-shi",
+			"ward_name": "",
+			"town_name": "Shimohoshiya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "筑西市",
+					"ward_name": "",
+					"town_name": "下星谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "筑西市"
+		},
+		"3091121": {
+			"postcode": "3091121",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Chikusei-shi",
+			"ward_name": "",
+			"town_name": "Yanagashima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "筑西市",
+					"ward_name": "",
+					"town_name": "谷永島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "筑西市"
+		},
+		"3091117": {
+			"postcode": "3091117",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Chikusei-shi",
+			"ward_name": "",
+			"town_name": "Mukokawasumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "筑西市",
+					"ward_name": "",
+					"town_name": "向川澄",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "筑西市"
+		},
+		"3091116": {
+			"postcode": "3091116",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Chikusei-shi",
+			"ward_name": "",
+			"town_name": "Yokotsuka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "筑西市",
+					"ward_name": "",
+					"town_name": "横塚",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "筑西市"
+		},
+		"3091115": {
+			"postcode": "3091115",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Chikusei-shi",
+			"ward_name": "",
+			"town_name": "Hasunuma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "筑西市",
+					"ward_name": "",
+					"town_name": "蓮沼",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "筑西市"
+		},
+		"3091114": {
+			"postcode": "3091114",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Chikusei-shi",
+			"ward_name": "",
+			"town_name": "Hosoda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "筑西市",
+					"ward_name": "",
+					"town_name": "細田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "筑西市"
+		},
+		"3091113": {
+			"postcode": "3091113",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Chikusei-shi",
+			"ward_name": "",
+			"town_name": "Yanagi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "筑西市",
+					"ward_name": "",
+					"town_name": "柳",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "筑西市"
+		},
+		"3091112": {
+			"postcode": "3091112",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Chikusei-shi",
+			"ward_name": "",
+			"town_name": "Yahata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "筑西市",
+					"ward_name": "",
+					"town_name": "八幡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "筑西市"
+		},
+		"3091111": {
+			"postcode": "3091111",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Chikusei-shi",
+			"ward_name": "",
+			"town_name": "Kamihoshiya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "筑西市",
+					"ward_name": "",
+					"town_name": "上星谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "筑西市"
+		},
+		"3091108": {
+			"postcode": "3091108",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Chikusei-shi",
+			"ward_name": "",
+			"town_name": "Iteebisawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "筑西市",
+					"ward_name": "",
+					"town_name": "井出蛯沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "筑西市"
+		},
+		"3091107": {
+			"postcode": "3091107",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Chikusei-shi",
+			"ward_name": "",
+			"town_name": "Kadoi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "筑西市",
+					"ward_name": "",
+					"town_name": "門井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "筑西市"
+		},
+		"3091106": {
+			"postcode": "3091106",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Chikusei-shi",
+			"ward_name": "",
+			"town_name": "Niihari",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "筑西市",
+					"ward_name": "",
+					"town_name": "新治",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "筑西市"
+		},
+		"3091105": {
+			"postcode": "3091105",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Chikusei-shi",
+			"ward_name": "",
+			"town_name": "Sango",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "筑西市",
+					"ward_name": "",
+					"town_name": "三郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "筑西市"
+		},
+		"3091104": {
+			"postcode": "3091104",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Chikusei-shi",
+			"ward_name": "",
+			"town_name": "Furugori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "筑西市",
+					"ward_name": "",
+					"town_name": "古郡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "筑西市"
+		},
+		"3091103": {
+			"postcode": "3091103",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Chikusei-shi",
+			"ward_name": "",
+			"town_name": "Kujira",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "筑西市",
+					"ward_name": "",
+					"town_name": "久地楽",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "筑西市"
+		},
+		"3091102": {
+			"postcode": "3091102",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Chikusei-shi",
+			"ward_name": "",
+			"town_name": "Yomogita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "筑西市",
+					"ward_name": "",
+					"town_name": "蓬田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "筑西市"
+		},
+		"3091101": {
+			"postcode": "3091101",
+			"prefecture_name": "Ibaraki-ken",
+			"city_name": "Chikusei-shi",
+			"ward_name": "",
+			"town_name": "Oguri",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "茨城県",
+					"city_name": "筑西市",
+					"ward_name": "",
+					"town_name": "小栗",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"city_code": "筑西市"
+		}
+	}
+}

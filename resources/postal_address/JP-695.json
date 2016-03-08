@@ -1,0 +1,733 @@
+{
+	"country_code": "JP",
+	"parent_id": "695",
+	"locale": "ja-Latn",
+	"address": {
+		"6958585": {
+			"postcode": "6958585",
+			"prefecture_name": "Shimane-ken",
+			"city_name": "Gotsu-shi",
+			"ward_name": "",
+			"town_name": "嘉久志町",
+			"building_name": "２３０６−３０",
+			"organization_name": "協同組合　グリーンモール",
+			"region_code": "中国",
+			"prefecture_code": "島根県",
+			"city_code": "江津市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "島根県",
+					"city_name": "江津市",
+					"ward_name": "",
+					"town_name": "嘉久志町",
+					"building_name": "２３０６−３０",
+					"organization_name": "協同組合　グリーンモール"
+				}
+			}
+		},
+		"6958577": {
+			"postcode": "6958577",
+			"prefecture_name": "Shimane-ken",
+			"city_name": "Gotsu-shi",
+			"ward_name": "",
+			"town_name": "江津町",
+			"building_name": "５２６−１",
+			"organization_name": "株式会社　しちだ・教育研究所",
+			"region_code": "中国",
+			"prefecture_code": "島根県",
+			"city_code": "江津市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "島根県",
+					"city_name": "江津市",
+					"ward_name": "",
+					"town_name": "江津町",
+					"building_name": "５２６−１",
+					"organization_name": "株式会社　しちだ・教育研究所"
+				}
+			}
+		},
+		"6958505": {
+			"postcode": "6958505",
+			"prefecture_name": "Shimane-ken",
+			"city_name": "Gotsu-shi",
+			"ward_name": "",
+			"town_name": "江津町",
+			"building_name": "１０１６−３７",
+			"organization_name": "社会福祉法人　恩賜財団　島根県済生会　江津総合病院",
+			"region_code": "中国",
+			"prefecture_code": "島根県",
+			"city_code": "江津市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "島根県",
+					"city_name": "江津市",
+					"ward_name": "",
+					"town_name": "江津町",
+					"building_name": "１０１６−３７",
+					"organization_name": "社会福祉法人　恩賜財団　島根県済生会　江津総合病院"
+				}
+			}
+		},
+		"6958502": {
+			"postcode": "6958502",
+			"prefecture_name": "Shimane-ken",
+			"city_name": "Gotsu-shi",
+			"ward_name": "",
+			"town_name": "渡津町",
+			"building_name": "１９０４−１",
+			"organization_name": "江の川高等学校",
+			"region_code": "中国",
+			"prefecture_code": "島根県",
+			"city_code": "江津市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "島根県",
+					"city_name": "江津市",
+					"ward_name": "",
+					"town_name": "渡津町",
+					"building_name": "１９０４−１",
+					"organization_name": "江の川高等学校"
+				}
+			}
+		},
+		"6958501": {
+			"postcode": "6958501",
+			"prefecture_name": "Shimane-ken",
+			"city_name": "Gotsu-shi",
+			"ward_name": "",
+			"town_name": "江津町",
+			"building_name": "１５２５",
+			"organization_name": "江津市役所",
+			"region_code": "中国",
+			"prefecture_code": "島根県",
+			"city_code": "江津市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "島根県",
+					"city_name": "江津市",
+					"ward_name": "",
+					"town_name": "江津町",
+					"building_name": "１５２５",
+					"organization_name": "江津市役所"
+				}
+			}
+		},
+		"6950156": {
+			"postcode": "6950156",
+			"prefecture_name": "Shimane-ken",
+			"city_name": "Gotsu-shi",
+			"ward_name": "",
+			"town_name": "Arifukuonsencho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "島根県",
+					"city_name": "江津市",
+					"ward_name": "",
+					"town_name": "有福温泉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "島根県",
+			"city_code": "江津市"
+		},
+		"6950155": {
+			"postcode": "6950155",
+			"prefecture_name": "Shimane-ken",
+			"city_name": "Gotsu-shi",
+			"ward_name": "",
+			"town_name": "Arifukuonsenchohommyo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "島根県",
+					"city_name": "江津市",
+					"ward_name": "",
+					"town_name": "有福温泉町本明",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "島根県",
+			"city_code": "江津市"
+		},
+		"6950154": {
+			"postcode": "6950154",
+			"prefecture_name": "Shimane-ken",
+			"city_name": "Gotsu-shi",
+			"ward_name": "",
+			"town_name": "Isocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "島根県",
+					"city_name": "江津市",
+					"ward_name": "",
+					"town_name": "井沢町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "島根県",
+			"city_code": "江津市"
+		},
+		"6950153": {
+			"postcode": "6950153",
+			"prefecture_name": "Shimane-ken",
+			"city_name": "Gotsu-shi",
+			"ward_name": "",
+			"town_name": "Seimicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "島根県",
+					"city_name": "江津市",
+					"ward_name": "",
+					"town_name": "清見町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "島根県",
+			"city_code": "江津市"
+		},
+		"6950152": {
+			"postcode": "6950152",
+			"prefecture_name": "Shimane-ken",
+			"city_name": "Gotsu-shi",
+			"ward_name": "",
+			"town_name": "Atoichicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "島根県",
+					"city_name": "江津市",
+					"ward_name": "",
+					"town_name": "跡市町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "島根県",
+			"city_code": "江津市"
+		},
+		"6950151": {
+			"postcode": "6950151",
+			"prefecture_name": "Shimane-ken",
+			"city_name": "Gotsu-shi",
+			"ward_name": "",
+			"town_name": "Chidacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "島根県",
+					"city_name": "江津市",
+					"ward_name": "",
+					"town_name": "千田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "島根県",
+			"city_code": "江津市"
+		},
+		"6950103": {
+			"postcode": "6950103",
+			"prefecture_name": "Shimane-ken",
+			"city_name": "Hamada-shi",
+			"ward_name": "",
+			"town_name": "Oganecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "島根県",
+					"city_name": "浜田市",
+					"ward_name": "",
+					"town_name": "大金町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "島根県",
+			"city_code": "浜田市"
+		},
+		"6950102": {
+			"postcode": "6950102",
+			"prefecture_name": "Shimane-ken",
+			"city_name": "Hamada-shi",
+			"ward_name": "",
+			"town_name": "Unocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "島根県",
+					"city_name": "浜田市",
+					"ward_name": "",
+					"town_name": "宇野町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "島根県",
+			"city_code": "浜田市"
+		},
+		"6950101": {
+			"postcode": "6950101",
+			"prefecture_name": "Shimane-ken",
+			"city_name": "Hamada-shi",
+			"ward_name": "",
+			"town_name": "Shimoarifukucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "島根県",
+					"city_name": "浜田市",
+					"ward_name": "",
+					"town_name": "下有福町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "島根県",
+			"city_code": "浜田市"
+		},
+		"6950024": {
+			"postcode": "6950024",
+			"prefecture_name": "Shimane-ken",
+			"city_name": "Gotsu-shi",
+			"ward_name": "",
+			"town_name": "Ninomiyacho",
+			"building_name": "Kannushi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "島根県",
+					"city_name": "江津市",
+					"ward_name": "",
+					"town_name": "二宮町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "島根県",
+			"city_code": "江津市"
+		},
+		"6950023": {
+			"postcode": "6950023",
+			"prefecture_name": "Shimane-ken",
+			"city_name": "Gotsu-shi",
+			"ward_name": "",
+			"town_name": "Ninomiyacho",
+			"building_name": "Kamura",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "島根県",
+					"city_name": "江津市",
+					"ward_name": "",
+					"town_name": "二宮町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "島根県",
+			"city_code": "江津市"
+		},
+		"6950022": {
+			"postcode": "6950022",
+			"prefecture_name": "Shimane-ken",
+			"city_name": "Gotsu-shi",
+			"ward_name": "",
+			"town_name": "Ninomiyacho",
+			"building_name": "Hashiro",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "島根県",
+					"city_name": "江津市",
+					"ward_name": "",
+					"town_name": "二宮町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "島根県",
+			"city_code": "江津市"
+		},
+		"6950021": {
+			"postcode": "6950021",
+			"prefecture_name": "Shimane-ken",
+			"city_name": "Gotsu-shi",
+			"ward_name": "",
+			"town_name": "Tsunozucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "島根県",
+					"city_name": "江津市",
+					"ward_name": "",
+					"town_name": "都野津町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "島根県",
+			"city_code": "江津市"
+		},
+		"6950017": {
+			"postcode": "6950017",
+			"prefecture_name": "Shimane-ken",
+			"city_name": "Gotsu-shi",
+			"ward_name": "",
+			"town_name": "Wakicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "島根県",
+					"city_name": "江津市",
+					"ward_name": "",
+					"town_name": "和木町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "島根県",
+			"city_code": "江津市"
+		},
+		"6950016": {
+			"postcode": "6950016",
+			"prefecture_name": "Shimane-ken",
+			"city_name": "Gotsu-shi",
+			"ward_name": "",
+			"town_name": "Kakushicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "島根県",
+					"city_name": "江津市",
+					"ward_name": "",
+					"town_name": "嘉久志町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "島根県",
+			"city_code": "江津市"
+		},
+		"6950015": {
+			"postcode": "6950015",
+			"prefecture_name": "Shimane-ken",
+			"city_name": "Gotsu-shi",
+			"ward_name": "",
+			"town_name": "Shimanohoshicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "島根県",
+					"city_name": "江津市",
+					"ward_name": "",
+					"town_name": "島の星町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "島根県",
+			"city_code": "江津市"
+		},
+		"6950014": {
+			"postcode": "6950014",
+			"prefecture_name": "Shimane-ken",
+			"city_name": "Gotsu-shi",
+			"ward_name": "",
+			"town_name": "Kawahiracho",
+			"building_name": "Hirata",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "島根県",
+					"city_name": "江津市",
+					"ward_name": "",
+					"town_name": "川平町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "島根県",
+			"city_code": "江津市"
+		},
+		"6950013": {
+			"postcode": "6950013",
+			"prefecture_name": "Shimane-ken",
+			"city_name": "Gotsu-shi",
+			"ward_name": "",
+			"town_name": "Kawahiracho",
+			"building_name": "Minamikawanobori",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "島根県",
+					"city_name": "江津市",
+					"ward_name": "",
+					"town_name": "川平町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "島根県",
+			"city_code": "江津市"
+		},
+		"6950012": {
+			"postcode": "6950012",
+			"prefecture_name": "Shimane-ken",
+			"city_name": "Gotsu-shi",
+			"ward_name": "",
+			"town_name": "Kanetacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "島根県",
+					"city_name": "江津市",
+					"ward_name": "",
+					"town_name": "金田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "島根県",
+			"city_code": "江津市"
+		},
+		"6950011": {
+			"postcode": "6950011",
+			"prefecture_name": "Shimane-ken",
+			"city_name": "Gotsu-shi",
+			"ward_name": "",
+			"town_name": "Gotsucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "島根県",
+					"city_name": "江津市",
+					"ward_name": "",
+					"town_name": "江津町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "島根県",
+			"city_code": "江津市"
+		},
+		"6950007": {
+			"postcode": "6950007",
+			"prefecture_name": "Shimane-ken",
+			"city_name": "Gotsu-shi",
+			"ward_name": "",
+			"town_name": "Matsukawacho",
+			"building_name": "Ota",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "島根県",
+					"city_name": "江津市",
+					"ward_name": "",
+					"town_name": "松川町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "島根県",
+			"city_code": "江津市"
+		},
+		"6950006": {
+			"postcode": "6950006",
+			"prefecture_name": "Shimane-ken",
+			"city_name": "Gotsu-shi",
+			"ward_name": "",
+			"town_name": "Matsukawacho",
+			"building_name": "Yakami",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "島根県",
+					"city_name": "江津市",
+					"ward_name": "",
+					"town_name": "松川町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "島根県",
+			"city_code": "江津市"
+		},
+		"6950005": {
+			"postcode": "6950005",
+			"prefecture_name": "Shimane-ken",
+			"city_name": "Gotsu-shi",
+			"ward_name": "",
+			"town_name": "Matsukawacho",
+			"building_name": "Nagara",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "島根県",
+					"city_name": "江津市",
+					"ward_name": "",
+					"town_name": "松川町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "島根県",
+			"city_code": "江津市"
+		},
+		"6950004": {
+			"postcode": "6950004",
+			"prefecture_name": "Shimane-ken",
+			"city_name": "Gotsu-shi",
+			"ward_name": "",
+			"town_name": "Matsukawacho",
+			"building_name": "Ichimura",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "島根県",
+					"city_name": "江津市",
+					"ward_name": "",
+					"town_name": "松川町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "島根県",
+			"city_code": "江津市"
+		},
+		"6950003": {
+			"postcode": "6950003",
+			"prefecture_name": "Shimane-ken",
+			"city_name": "Gotsu-shi",
+			"ward_name": "",
+			"town_name": "Matsukawacho",
+			"building_name": "Shimokawado",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "島根県",
+					"city_name": "江津市",
+					"ward_name": "",
+					"town_name": "松川町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "島根県",
+			"city_code": "江津市"
+		},
+		"6950002": {
+			"postcode": "6950002",
+			"prefecture_name": "Shimane-ken",
+			"city_name": "Gotsu-shi",
+			"ward_name": "",
+			"town_name": "Asaricho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "島根県",
+					"city_name": "江津市",
+					"ward_name": "",
+					"town_name": "浅利町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "島根県",
+			"city_code": "江津市"
+		},
+		"6950001": {
+			"postcode": "6950001",
+			"prefecture_name": "Shimane-ken",
+			"city_name": "Gotsu-shi",
+			"ward_name": "",
+			"town_name": "Watazucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "島根県",
+					"city_name": "江津市",
+					"ward_name": "",
+					"town_name": "渡津町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "島根県",
+			"city_code": "江津市"
+		},
+		"6950000": {
+			"postcode": "6950000",
+			"prefecture_name": "Shimane-ken",
+			"city_name": "Gotsu-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "島根県",
+					"city_name": "江津市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "島根県",
+			"city_code": "江津市"
+		}
+	}
+}

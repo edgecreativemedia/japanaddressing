@@ -1,0 +1,755 @@
+{
+	"country_code": "JP",
+	"parent_id": "334",
+	"locale": "ja-Latn",
+	"address": {
+		"3348501": {
+			"postcode": "3348501",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kawaguchi-shi",
+			"ward_name": "",
+			"town_name": "南鳩ヶ谷",
+			"building_name": "３丁目２１−４",
+			"organization_name": "協和ゴム工業　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "川口市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "川口市",
+					"ward_name": "",
+					"town_name": "南鳩ヶ谷",
+					"building_name": "３丁目２１−４",
+					"organization_name": "協和ゴム工業　株式会社"
+				}
+			}
+		},
+		"3340076": {
+			"postcode": "3340076",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kawaguchi-shi",
+			"ward_name": "",
+			"town_name": "Hombasu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "川口市",
+					"ward_name": "",
+					"town_name": "本蓮",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "川口市"
+		},
+		"3340075": {
+			"postcode": "3340075",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kawaguchi-shi",
+			"ward_name": "",
+			"town_name": "Edobukuro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "川口市",
+					"ward_name": "",
+					"town_name": "江戸袋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "川口市"
+		},
+		"3340074": {
+			"postcode": "3340074",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kawaguchi-shi",
+			"ward_name": "",
+			"town_name": "Edo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "川口市",
+					"ward_name": "",
+					"town_name": "江戸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "川口市"
+		},
+		"3340073": {
+			"postcode": "3340073",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kawaguchi-shi",
+			"ward_name": "",
+			"town_name": "Akai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "川口市",
+					"ward_name": "",
+					"town_name": "赤井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "川口市"
+		},
+		"3340072": {
+			"postcode": "3340072",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kawaguchi-shi",
+			"ward_name": "",
+			"town_name": "Angyo",
+			"building_name": "Yoshioka",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "川口市",
+					"ward_name": "",
+					"town_name": "安行",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "川口市"
+		},
+		"3340071": {
+			"postcode": "3340071",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kawaguchi-shi",
+			"ward_name": "",
+			"town_name": "Angyo",
+			"building_name": "Jirin",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "川口市",
+					"ward_name": "",
+					"town_name": "安行",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "川口市"
+		},
+		"3340068": {
+			"postcode": "3340068",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kawaguchi-shi",
+			"ward_name": "",
+			"town_name": "Niihoricho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "川口市",
+					"ward_name": "",
+					"town_name": "新堀町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "川口市"
+		},
+		"3340067": {
+			"postcode": "3340067",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kawaguchi-shi",
+			"ward_name": "",
+			"town_name": "Otake",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "川口市",
+					"ward_name": "",
+					"town_name": "大竹",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "川口市"
+		},
+		"3340066": {
+			"postcode": "3340066",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kawaguchi-shi",
+			"ward_name": "",
+			"town_name": "Higashikaizuka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "川口市",
+					"ward_name": "",
+					"town_name": "東貝塚",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "川口市"
+		},
+		"3340065": {
+			"postcode": "3340065",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kawaguchi-shi",
+			"ward_name": "",
+			"town_name": "Maenoshuku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "川口市",
+					"ward_name": "",
+					"town_name": "前野宿",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "川口市"
+		},
+		"3340064": {
+			"postcode": "3340064",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kawaguchi-shi",
+			"ward_name": "",
+			"town_name": "Hasunuma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "川口市",
+					"ward_name": "",
+					"town_name": "蓮沼",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "川口市"
+		},
+		"3340063": {
+			"postcode": "3340063",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kawaguchi-shi",
+			"ward_name": "",
+			"town_name": "Higashihongo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "川口市",
+					"ward_name": "",
+					"town_name": "東本郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "川口市"
+		},
+		"3340062": {
+			"postcode": "3340062",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kawaguchi-shi",
+			"ward_name": "",
+			"town_name": "Haematsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "川口市",
+					"ward_name": "",
+					"town_name": "榛松",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "川口市"
+		},
+		"3340061": {
+			"postcode": "3340061",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kawaguchi-shi",
+			"ward_name": "",
+			"town_name": "Niihori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "川口市",
+					"ward_name": "",
+					"town_name": "新堀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "川口市"
+		},
+		"3340059": {
+			"postcode": "3340059",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kawaguchi-shi",
+			"ward_name": "",
+			"town_name": "Angyo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "川口市",
+					"ward_name": "",
+					"town_name": "安行",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "川口市"
+		},
+		"3340058": {
+			"postcode": "3340058",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kawaguchi-shi",
+			"ward_name": "",
+			"town_name": "Angyo",
+			"building_name": "Ryoke",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "川口市",
+					"ward_name": "",
+					"town_name": "安行",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "川口市"
+		},
+		"3340057": {
+			"postcode": "3340057",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kawaguchi-shi",
+			"ward_name": "",
+			"town_name": "Angyo",
+			"building_name": "Hara",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "川口市",
+					"ward_name": "",
+					"town_name": "安行",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "川口市"
+		},
+		"3340056": {
+			"postcode": "3340056",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kawaguchi-shi",
+			"ward_name": "",
+			"town_name": "Mine",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "川口市",
+					"ward_name": "",
+					"town_name": "峯",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "川口市"
+		},
+		"3340055": {
+			"postcode": "3340055",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kawaguchi-shi",
+			"ward_name": "",
+			"town_name": "Angyo",
+			"building_name": "Koyama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "川口市",
+					"ward_name": "",
+					"town_name": "安行",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "川口市"
+		},
+		"3340054": {
+			"postcode": "3340054",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kawaguchi-shi",
+			"ward_name": "",
+			"town_name": "Angyo",
+			"building_name": "Kitaya",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "川口市",
+					"ward_name": "",
+					"town_name": "安行",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "川口市"
+		},
+		"3340053": {
+			"postcode": "3340053",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kawaguchi-shi",
+			"ward_name": "",
+			"town_name": "Angyo",
+			"building_name": "Kichizo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "川口市",
+					"ward_name": "",
+					"town_name": "安行",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "川口市"
+		},
+		"3340052": {
+			"postcode": "3340052",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kawaguchi-shi",
+			"ward_name": "",
+			"town_name": "Angyodewa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "川口市",
+					"ward_name": "",
+					"town_name": "安行",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "川口市"
+		},
+		"3340051": {
+			"postcode": "3340051",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kawaguchi-shi",
+			"ward_name": "",
+			"town_name": "Angyo",
+			"building_name": "Tohachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "川口市",
+					"ward_name": "",
+					"town_name": "安行",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "川口市"
+		},
+		"3340015": {
+			"postcode": "3340015",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kawaguchi-shi",
+			"ward_name": "",
+			"town_name": "Hatogayamidoricho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "川口市",
+					"ward_name": "",
+					"town_name": "鳩ヶ谷緑町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "川口市"
+		},
+		"3340014": {
+			"postcode": "3340014",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kawaguchi-shi",
+			"ward_name": "",
+			"town_name": "Maeta",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "川口市",
+					"ward_name": "",
+					"town_name": "前田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "川口市"
+		},
+		"3340013": {
+			"postcode": "3340013",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kawaguchi-shi",
+			"ward_name": "",
+			"town_name": "Minamihatogaya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "川口市",
+					"ward_name": "",
+					"town_name": "南鳩ヶ谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "川口市"
+		},
+		"3340012": {
+			"postcode": "3340012",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kawaguchi-shi",
+			"ward_name": "",
+			"town_name": "Hachimangi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "川口市",
+					"ward_name": "",
+					"town_name": "八幡木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "川口市"
+		},
+		"3340011": {
+			"postcode": "3340011",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kawaguchi-shi",
+			"ward_name": "",
+			"town_name": "Mitsuwa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "川口市",
+					"ward_name": "",
+					"town_name": "三ツ和",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "川口市"
+		},
+		"3340005": {
+			"postcode": "3340005",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kawaguchi-shi",
+			"ward_name": "",
+			"town_name": "Sato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "川口市",
+					"ward_name": "",
+					"town_name": "里",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "川口市"
+		},
+		"3340004": {
+			"postcode": "3340004",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kawaguchi-shi",
+			"ward_name": "",
+			"town_name": "Tsuji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "川口市",
+					"ward_name": "",
+					"town_name": "辻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "川口市"
+		},
+		"3340003": {
+			"postcode": "3340003",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kawaguchi-shi",
+			"ward_name": "",
+			"town_name": "Sakashitacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "川口市",
+					"ward_name": "",
+					"town_name": "坂下町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "川口市"
+		},
+		"3340002": {
+			"postcode": "3340002",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kawaguchi-shi",
+			"ward_name": "",
+			"town_name": "Hatogayahoncho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "川口市",
+					"ward_name": "",
+					"town_name": "鳩ヶ谷本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "川口市"
+		},
+		"3340001": {
+			"postcode": "3340001",
+			"prefecture_name": "Saitama-ken",
+			"city_name": "Kawaguchi-shi",
+			"ward_name": "",
+			"town_name": "Sakuracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "埼玉県",
+					"city_name": "川口市",
+					"ward_name": "",
+					"town_name": "桜町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"city_code": "川口市"
+		}
+	}
+}

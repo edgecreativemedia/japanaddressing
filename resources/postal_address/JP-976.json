@@ -1,0 +1,843 @@
+{
+	"country_code": "JP",
+	"parent_id": "976",
+	"locale": "ja-Latn",
+	"address": {
+		"9768510": {
+			"postcode": "9768510",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Soma-shi",
+			"ward_name": "",
+			"town_name": "中村",
+			"building_name": "字桜ケ丘６９",
+			"organization_name": "日本年金機構　相馬年金事務所",
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "相馬市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "相馬市",
+					"ward_name": "",
+					"town_name": "中村",
+					"building_name": "字桜ケ丘６９",
+					"organization_name": "日本年金機構　相馬年金事務所"
+				}
+			}
+		},
+		"9768501": {
+			"postcode": "9768501",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Soma-shi",
+			"ward_name": "",
+			"town_name": "沖ノ内",
+			"building_name": "１丁目２−１",
+			"organization_name": "アルプス電気　株式会社　通信デバイス事業部　相馬工場",
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "相馬市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "相馬市",
+					"ward_name": "",
+					"town_name": "沖ノ内",
+					"building_name": "１丁目２−１",
+					"organization_name": "アルプス電気　株式会社　通信デバイス事業部　相馬工場"
+				}
+			}
+		},
+		"9760154": {
+			"postcode": "9760154",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Soma-shi",
+			"ward_name": "",
+			"town_name": "Tamano",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "相馬市",
+					"ward_name": "",
+					"town_name": "玉野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "相馬市"
+		},
+		"9760153": {
+			"postcode": "9760153",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Soma-shi",
+			"ward_name": "",
+			"town_name": "Higashitamano",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "相馬市",
+					"ward_name": "",
+					"town_name": "東玉野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "相馬市"
+		},
+		"9760152": {
+			"postcode": "9760152",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Soma-shi",
+			"ward_name": "",
+			"town_name": "Awazu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "相馬市",
+					"ward_name": "",
+					"town_name": "粟津",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "相馬市"
+		},
+		"9760151": {
+			"postcode": "9760151",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Soma-shi",
+			"ward_name": "",
+			"town_name": "Yamakami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "相馬市",
+					"ward_name": "",
+					"town_name": "山上",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "相馬市"
+		},
+		"9760053": {
+			"postcode": "9760053",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Soma-shi",
+			"ward_name": "",
+			"town_name": "Ono",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "相馬市",
+					"ward_name": "",
+					"town_name": "小野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "相馬市"
+		},
+		"9760052": {
+			"postcode": "9760052",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Soma-shi",
+			"ward_name": "",
+			"town_name": "Kuroki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "相馬市",
+					"ward_name": "",
+					"town_name": "黒木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "相馬市"
+		},
+		"9760051": {
+			"postcode": "9760051",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Soma-shi",
+			"ward_name": "",
+			"town_name": "Hatsuno",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "相馬市",
+					"ward_name": "",
+					"town_name": "初野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "相馬市"
+		},
+		"9760042": {
+			"postcode": "9760042",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Soma-shi",
+			"ward_name": "",
+			"town_name": "Nakamura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "相馬市",
+					"ward_name": "",
+					"town_name": "中村",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "相馬市"
+		},
+		"9760041": {
+			"postcode": "9760041",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Soma-shi",
+			"ward_name": "",
+			"town_name": "Nishiyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "相馬市",
+					"ward_name": "",
+					"town_name": "西山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "相馬市"
+		},
+		"9760037": {
+			"postcode": "9760037",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Soma-shi",
+			"ward_name": "",
+			"town_name": "Nakano",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "相馬市",
+					"ward_name": "",
+					"town_name": "中野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "相馬市"
+		},
+		"9760036": {
+			"postcode": "9760036",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Soma-shi",
+			"ward_name": "",
+			"town_name": "Babano",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "相馬市",
+					"ward_name": "",
+					"town_name": "馬場野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "相馬市"
+		},
+		"9760035": {
+			"postcode": "9760035",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Soma-shi",
+			"ward_name": "",
+			"town_name": "Hodota",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "相馬市",
+					"ward_name": "",
+					"town_name": "程田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "相馬市"
+		},
+		"9760034": {
+			"postcode": "9760034",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Soma-shi",
+			"ward_name": "",
+			"town_name": "Kashiwazaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "相馬市",
+					"ward_name": "",
+					"town_name": "柏崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "相馬市"
+		},
+		"9760033": {
+			"postcode": "9760033",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Soma-shi",
+			"ward_name": "",
+			"town_name": "Niida",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "相馬市",
+					"ward_name": "",
+					"town_name": "新田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "相馬市"
+		},
+		"9760032": {
+			"postcode": "9760032",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Soma-shi",
+			"ward_name": "",
+			"town_name": "Omagari",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "相馬市",
+					"ward_name": "",
+					"town_name": "大曲",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "相馬市"
+		},
+		"9760031": {
+			"postcode": "9760031",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Soma-shi",
+			"ward_name": "",
+			"town_name": "Dozuki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "相馬市",
+					"ward_name": "",
+					"town_name": "百槻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "相馬市"
+		},
+		"9760026": {
+			"postcode": "9760026",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Soma-shi",
+			"ward_name": "",
+			"town_name": "Minamiiibuchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "相馬市",
+					"ward_name": "",
+					"town_name": "南飯渕",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "相馬市"
+		},
+		"9760025": {
+			"postcode": "9760025",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Soma-shi",
+			"ward_name": "",
+			"town_name": "Iwanoko",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "相馬市",
+					"ward_name": "",
+					"town_name": "岩子",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "相馬市"
+		},
+		"9760024": {
+			"postcode": "9760024",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Soma-shi",
+			"ward_name": "",
+			"town_name": "Motowaro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "相馬市",
+					"ward_name": "",
+					"town_name": "本笑",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "相馬市"
+		},
+		"9760023": {
+			"postcode": "9760023",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Soma-shi",
+			"ward_name": "",
+			"town_name": "Wada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "相馬市",
+					"ward_name": "",
+					"town_name": "和田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "相馬市"
+		},
+		"9760022": {
+			"postcode": "9760022",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Soma-shi",
+			"ward_name": "",
+			"town_name": "Obama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "相馬市",
+					"ward_name": "",
+					"town_name": "尾浜",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "相馬市"
+		},
+		"9760021": {
+			"postcode": "9760021",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Soma-shi",
+			"ward_name": "",
+			"town_name": "Haragama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "相馬市",
+					"ward_name": "",
+					"town_name": "原釜",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "相馬市"
+		},
+		"9760016": {
+			"postcode": "9760016",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Soma-shi",
+			"ward_name": "",
+			"town_name": "Okinochi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "相馬市",
+					"ward_name": "",
+					"town_name": "沖ノ内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "相馬市"
+		},
+		"9760015": {
+			"postcode": "9760015",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Soma-shi",
+			"ward_name": "",
+			"town_name": "Tsukanomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "相馬市",
+					"ward_name": "",
+					"town_name": "塚ノ町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "相馬市"
+		},
+		"9760014": {
+			"postcode": "9760014",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Soma-shi",
+			"ward_name": "",
+			"town_name": "Kitaiibuchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "相馬市",
+					"ward_name": "",
+					"town_name": "北飯渕",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "相馬市"
+		},
+		"9760013": {
+			"postcode": "9760013",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Soma-shi",
+			"ward_name": "",
+			"town_name": "Koizumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "相馬市",
+					"ward_name": "",
+					"town_name": "小泉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "相馬市"
+		},
+		"9760012": {
+			"postcode": "9760012",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Soma-shi",
+			"ward_name": "",
+			"town_name": "Kitakoizumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "相馬市",
+					"ward_name": "",
+					"town_name": "北小泉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "相馬市"
+		},
+		"9760011": {
+			"postcode": "9760011",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Soma-shi",
+			"ward_name": "",
+			"town_name": "Niinuma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "相馬市",
+					"ward_name": "",
+					"town_name": "新沼",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "相馬市"
+		},
+		"9760007": {
+			"postcode": "9760007",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Soma-shi",
+			"ward_name": "",
+			"town_name": "Otsubo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "相馬市",
+					"ward_name": "",
+					"town_name": "大坪",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "相馬市"
+		},
+		"9760006": {
+			"postcode": "9760006",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Soma-shi",
+			"ward_name": "",
+			"town_name": "Ishigami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "相馬市",
+					"ward_name": "",
+					"town_name": "石上",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "相馬市"
+		},
+		"9760005": {
+			"postcode": "9760005",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Soma-shi",
+			"ward_name": "",
+			"town_name": "Koyo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "相馬市",
+					"ward_name": "",
+					"town_name": "光陽",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "相馬市"
+		},
+		"9760004": {
+			"postcode": "9760004",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Soma-shi",
+			"ward_name": "",
+			"town_name": "Chorouchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "相馬市",
+					"ward_name": "",
+					"town_name": "長老内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "相馬市"
+		},
+		"9760003": {
+			"postcode": "9760003",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Soma-shi",
+			"ward_name": "",
+			"town_name": "Tsukanobe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "相馬市",
+					"ward_name": "",
+					"town_name": "塚部",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "相馬市"
+		},
+		"9760002": {
+			"postcode": "9760002",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Soma-shi",
+			"ward_name": "",
+			"town_name": "Shiinoki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "相馬市",
+					"ward_name": "",
+					"town_name": "椎木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "相馬市"
+		},
+		"9760001": {
+			"postcode": "9760001",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Soma-shi",
+			"ward_name": "",
+			"town_name": "Onodai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "相馬市",
+					"ward_name": "",
+					"town_name": "大野台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "相馬市"
+		},
+		"9760000": {
+			"postcode": "9760000",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Soma-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "相馬市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "相馬市"
+		}
+	}
+}

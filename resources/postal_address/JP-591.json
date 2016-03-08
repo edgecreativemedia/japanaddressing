@@ -1,0 +1,799 @@
+{
+	"country_code": "JP",
+	"parent_id": "591",
+	"locale": "ja-Latn",
+	"address": {
+		"5918555": {
+			"postcode": "5918555",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "長曽根町",
+			"building_name": "１１８０",
+			"organization_name": "国立療養所　近畿中央病院",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "北区",
+					"town_name": "長曽根町",
+					"building_name": "１１８０",
+					"organization_name": "国立療養所　近畿中央病院"
+				}
+			}
+		},
+		"5918511": {
+			"postcode": "5918511",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "金岡町",
+			"building_name": "１３０４",
+			"organization_name": "ダイキン工業　株式会社　堺製作所　金岡工場",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "北区",
+					"town_name": "金岡町",
+					"building_name": "１３０４",
+					"organization_name": "ダイキン工業　株式会社　堺製作所　金岡工場"
+				}
+			}
+		},
+		"5918505": {
+			"postcode": "5918505",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "百舌鳥梅北町",
+			"building_name": "１丁３９−２",
+			"organization_name": "堺市上下水道局",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "北区",
+					"town_name": "百舌鳥梅北町",
+					"building_name": "１丁３９−２",
+					"organization_name": "堺市上下水道局"
+				}
+			}
+		},
+		"5918502": {
+			"postcode": "5918502",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "長曽根町",
+			"building_name": "１３０−２３",
+			"organization_name": "堺商工会議所",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "北区",
+					"town_name": "長曽根町",
+					"building_name": "１３０−２３",
+					"organization_name": "堺商工会議所"
+				}
+			}
+		},
+		"5918501": {
+			"postcode": "5918501",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "長曽根町",
+			"building_name": "１１７９−３",
+			"organization_name": "大阪労災病院",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "北区",
+					"town_name": "長曽根町",
+					"building_name": "１１７９−３",
+					"organization_name": "大阪労災病院"
+				}
+			}
+		},
+		"5918046": {
+			"postcode": "5918046",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Higashimikunigaokacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "北区",
+					"town_name": "東三国ケ丘町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5918045": {
+			"postcode": "5918045",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Minaminagaocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "北区",
+					"town_name": "南長尾町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5918044": {
+			"postcode": "5918044",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Nakanagaocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "北区",
+					"town_name": "中長尾町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5918043": {
+			"postcode": "5918043",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Kitanagaocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "北区",
+					"town_name": "北長尾町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5918042": {
+			"postcode": "5918042",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Mamezukacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "北区",
+					"town_name": "大豆塚町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5918041": {
+			"postcode": "5918041",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Shinonomehigashimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "北区",
+					"town_name": "東雲東町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5918037": {
+			"postcode": "5918037",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Mozuakahatacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "北区",
+					"town_name": "百舌鳥赤畑町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5918036": {
+			"postcode": "5918036",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Mozuhommachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "北区",
+					"town_name": "百舌鳥本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5918035": {
+			"postcode": "5918035",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Higashiuenoshibacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "北区",
+					"town_name": "東上野芝町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5918034": {
+			"postcode": "5918034",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Mozuryonancho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "北区",
+					"town_name": "百舌鳥陵南町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5918033": {
+			"postcode": "5918033",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Mozunishinocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "北区",
+					"town_name": "百舌鳥西之町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5918032": {
+			"postcode": "5918032",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Mozumemachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "北区",
+					"town_name": "百舌鳥梅町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5918031": {
+			"postcode": "5918031",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Mozumekitacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "北区",
+					"town_name": "百舌鳥梅北町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5918025": {
+			"postcode": "5918025",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Nagasonecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "北区",
+					"town_name": "長曾根町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5918024": {
+			"postcode": "5918024",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Kurotsuchicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "北区",
+					"town_name": "黒土町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5918023": {
+			"postcode": "5918023",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Nakamozucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "北区",
+					"town_name": "中百舌鳥町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5918022": {
+			"postcode": "5918022",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Kanaokacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "北区",
+					"town_name": "金岡町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5918021": {
+			"postcode": "5918021",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Shinkanaokacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "北区",
+					"town_name": "新金岡町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5918014": {
+			"postcode": "5918014",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Yashimokita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "北区",
+					"town_name": "八下北",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5918013": {
+			"postcode": "5918013",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Notocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "北区",
+					"town_name": "野遠町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5918012": {
+			"postcode": "5918012",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Nakamuracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "北区",
+					"town_name": "中村町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5918011": {
+			"postcode": "5918011",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Minamihanadacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "北区",
+					"town_name": "南花田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5918008": {
+			"postcode": "5918008",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Higashiasakayamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "北区",
+					"town_name": "東浅香山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5918007": {
+			"postcode": "5918007",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Okumotocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "北区",
+					"town_name": "奥本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5918006": {
+			"postcode": "5918006",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Miyamotocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "北区",
+					"town_name": "宮本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5918005": {
+			"postcode": "5918005",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Shimboricho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "北区",
+					"town_name": "新堀町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5918004": {
+			"postcode": "5918004",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Kuramaecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "北区",
+					"town_name": "蔵前町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5918003": {
+			"postcode": "5918003",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Sendocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "北区",
+					"town_name": "船堂町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5918002": {
+			"postcode": "5918002",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Kitahanadacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "北区",
+					"town_name": "北花田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5918001": {
+			"postcode": "5918001",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Tokiwacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "北区",
+					"town_name": "常磐町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5910000": {
+			"postcode": "5910000",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "北区",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		}
+	}
+}

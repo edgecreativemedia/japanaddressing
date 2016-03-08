@@ -1,0 +1,579 @@
+{
+	"country_code": "JP",
+	"parent_id": "974",
+	"locale": "ja-Latn",
+	"address": {
+		"9748686": {
+			"postcode": "9748686",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Iwaki-shi",
+			"ward_name": "",
+			"town_name": "錦町",
+			"building_name": "落合１６（錦郵便局私書箱第１号）",
+			"organization_name": "株式会社　クレハ　生産本部　いわき事業所",
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "いわき市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "いわき市",
+					"ward_name": "",
+					"town_name": "錦町",
+					"building_name": "落合１６（錦郵便局私書箱第１号）",
+					"organization_name": "株式会社　クレハ　生産本部　いわき事業所"
+				}
+			}
+		},
+		"9748261": {
+			"postcode": "9748261",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Iwaki-shi",
+			"ward_name": "",
+			"town_name": "Uedamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "いわき市",
+					"ward_name": "",
+					"town_name": "植田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "いわき市"
+		},
+		"9748252": {
+			"postcode": "9748252",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Iwaki-shi",
+			"ward_name": "",
+			"town_name": "Niidamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "いわき市",
+					"ward_name": "",
+					"town_name": "仁井田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "いわき市"
+		},
+		"9748251": {
+			"postcode": "9748251",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Iwaki-shi",
+			"ward_name": "",
+			"town_name": "Nakaokamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "いわき市",
+					"ward_name": "",
+					"town_name": "中岡町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "いわき市"
+		},
+		"9748242": {
+			"postcode": "9748242",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Iwaki-shi",
+			"ward_name": "",
+			"town_name": "Minamidai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "いわき市",
+					"ward_name": "",
+					"town_name": "南台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "いわき市"
+		},
+		"9748241": {
+			"postcode": "9748241",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Iwaki-shi",
+			"ward_name": "",
+			"town_name": "Yamadamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "いわき市",
+					"ward_name": "",
+					"town_name": "山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "いわき市"
+		},
+		"9748233": {
+			"postcode": "9748233",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Iwaki-shi",
+			"ward_name": "",
+			"town_name": "Nishikimachi",
+			"building_name": "Chuo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "いわき市",
+					"ward_name": "",
+					"town_name": "錦町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "いわき市"
+		},
+		"9748232": {
+			"postcode": "9748232",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Iwaki-shi",
+			"ward_name": "",
+			"town_name": "Nishikimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "いわき市",
+					"ward_name": "",
+					"town_name": "錦町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "いわき市"
+		},
+		"9748231": {
+			"postcode": "9748231",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Iwaki-shi",
+			"ward_name": "",
+			"town_name": "Tomitsumachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "いわき市",
+					"ward_name": "",
+					"town_name": "富津町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "いわき市"
+		},
+		"9748223": {
+			"postcode": "9748223",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Iwaki-shi",
+			"ward_name": "",
+			"town_name": "Sanukamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "いわき市",
+					"ward_name": "",
+					"town_name": "佐糠町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "いわき市"
+		},
+		"9748222": {
+			"postcode": "9748222",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Iwaki-shi",
+			"ward_name": "",
+			"town_name": "Iwamamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "いわき市",
+					"ward_name": "",
+					"town_name": "岩間町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "いわき市"
+		},
+		"9748221": {
+			"postcode": "9748221",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Iwaki-shi",
+			"ward_name": "",
+			"town_name": "Obamamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "いわき市",
+					"ward_name": "",
+					"town_name": "小浜町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "いわき市"
+		},
+		"9748213": {
+			"postcode": "9748213",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Iwaki-shi",
+			"ward_name": "",
+			"town_name": "Ishizukamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "いわき市",
+					"ward_name": "",
+					"town_name": "石塚町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "いわき市"
+		},
+		"9748212": {
+			"postcode": "9748212",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Iwaki-shi",
+			"ward_name": "",
+			"town_name": "Azumadamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "いわき市",
+					"ward_name": "",
+					"town_name": "東田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "いわき市"
+		},
+		"9748211": {
+			"postcode": "9748211",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Iwaki-shi",
+			"ward_name": "",
+			"town_name": "Kaneyamamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "いわき市",
+					"ward_name": "",
+					"town_name": "金山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "いわき市"
+		},
+		"9748204": {
+			"postcode": "9748204",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Iwaki-shi",
+			"ward_name": "",
+			"town_name": "Takakuramachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "いわき市",
+					"ward_name": "",
+					"town_name": "高倉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "いわき市"
+		},
+		"9748203": {
+			"postcode": "9748203",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Iwaki-shi",
+			"ward_name": "",
+			"town_name": "Ushirodamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "いわき市",
+					"ward_name": "",
+					"town_name": "後田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "いわき市"
+		},
+		"9748202": {
+			"postcode": "9748202",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Iwaki-shi",
+			"ward_name": "",
+			"town_name": "Soenomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "いわき市",
+					"ward_name": "",
+					"town_name": "添野町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "いわき市"
+		},
+		"9748201": {
+			"postcode": "9748201",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Iwaki-shi",
+			"ward_name": "",
+			"town_name": "Ebatamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "いわき市",
+					"ward_name": "",
+					"town_name": "江畑町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "いわき市"
+		},
+		"9740252": {
+			"postcode": "9740252",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Iwaki-shi",
+			"ward_name": "",
+			"town_name": "Tabitomachitabiuto",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "いわき市",
+					"ward_name": "",
+					"town_name": "田人町旅人",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "いわき市"
+		},
+		"9740243": {
+			"postcode": "9740243",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Iwaki-shi",
+			"ward_name": "",
+			"town_name": "Tabitomachi",
+			"building_name": "Ishizumi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "いわき市",
+					"ward_name": "",
+					"town_name": "田人町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "いわき市"
+		},
+		"9740242": {
+			"postcode": "9740242",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Iwaki-shi",
+			"ward_name": "",
+			"town_name": "Tabitomachi",
+			"building_name": "Kaidomari",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "いわき市",
+					"ward_name": "",
+					"town_name": "田人町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "いわき市"
+		},
+		"9740241": {
+			"postcode": "9740241",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Iwaki-shi",
+			"ward_name": "",
+			"town_name": "Tabitomachi",
+			"building_name": "Nichibu",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "いわき市",
+					"ward_name": "",
+					"town_name": "田人町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "いわき市"
+		},
+		"9740153": {
+			"postcode": "9740153",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Iwaki-shi",
+			"ward_name": "",
+			"town_name": "Tabitomachiminamiodaira",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "いわき市",
+					"ward_name": "",
+					"town_name": "田人町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "いわき市"
+		},
+		"9740152": {
+			"postcode": "9740152",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Iwaki-shi",
+			"ward_name": "",
+			"town_name": "Tabitomachitabiuto",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "いわき市",
+					"ward_name": "",
+					"town_name": "田人町旅人",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "いわき市"
+		},
+		"9740151": {
+			"postcode": "9740151",
+			"prefecture_name": "Fukushima-ken",
+			"city_name": "Iwaki-shi",
+			"ward_name": "",
+			"town_name": "Tabitomachi",
+			"building_name": "Kuroda",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福島県",
+					"city_name": "いわき市",
+					"ward_name": "",
+					"town_name": "田人町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "福島県",
+			"city_code": "いわき市"
+		}
+	}
+}

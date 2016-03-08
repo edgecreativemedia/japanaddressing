@@ -1,0 +1,853 @@
+{
+	"country_code": "JP",
+	"parent_id": null,
+	"locale": "ja-Latn",
+	"prefectures": {
+		"JP-01": {
+		  	"rid": "JP-R1",
+		  	"pid": "JP-01",
+		  	"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"lname": "Hokkaido Prefecture",
+			"sname": "Hokkaido",
+			"kanji": "北海道",
+			"hiragana": "ほっかいどう",
+			"romaji": "Hokkaidō",
+			"postal_prefecture_code_pattern": "0[4-9]|00[1-7]",
+			"translations": {
+				"ja": {
+					"lname": "北海道",
+					"sname": "北海道"
+				}
+			}
+		},
+		"JP-02": {
+		    "rid": "JP-R2",
+		    "pid": "JP-02",
+		  	"region_code": "東北",
+			"prefecture_code": "青森県",
+			"lname": "Aomori Prefecture",
+			"sname": "Aomori",
+			"kanji": "青森県",
+			"hiragana": "",
+			"romaji": "Aomori-ken",
+			"postal_prefecture_code_pattern": "03|018",
+			"translations": {
+				"ja": {
+					"lname": "青森県",
+					"sname": "青森"
+				}
+			}
+		},
+		"JP-03": {
+		    "rid": "JP-R2",
+		    "pid": "JP-03",
+		  	"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"lname": "Iwate Prefecture",
+			"sname": "Iwate",
+			"kanji": "岩手県",
+			"hiragana": "",
+			"romaji": "Iwate-ken",
+			"postal_prefecture_code_pattern": "02",
+			"translations": {
+				"ja": {
+					"lname": "岩手県",
+					"sname": "岩手"
+				}
+			}
+		},
+		"JP-04": {
+		    "rid": "JP-R2",
+		    "pid": "JP-04",
+		  	"region_code": "東北",
+			"prefecture_code": "宮城県",
+			"lname": "Miyagi Prefecture",
+			"sname": "Miyagi",
+			"kanji": "宮城県",
+			"hiragana": "",
+			"romaji": "Miyagi-ken",
+			"postal_prefecture_code_pattern": "98",
+			"translations": {
+				"ja": {
+					"lname": "宮城県",
+					"sname": "宮城"
+				}
+			}
+		},
+		"JP-05": {
+		    "rid": "JP-R2",
+		    "pid": "JP-05",
+		  	"region_code": "東北",
+			"prefecture_code": "秋田県",
+			"lname": "Akita Prefecture",
+			"sname": "Akita",
+			"kanji": "秋田県",
+			"hiragana": "",
+			"romaji": "Akita-ken",
+			"postal_prefecture_code_pattern": "01",
+			"translations": {
+				"ja": {
+					"lname": "秋田県",
+					"sname": "秋田"
+				}
+			}
+		},
+		"JP-06": {
+		    "rid": "JP-R2",
+		    "pid": "JP-06",
+		  	"region_code": "東北",
+			"prefecture_code": "山形県",
+			"lname": "Yamagata Prefecture",
+			"sname": "Yamagata",
+			"kanji": "山形県",
+			"hiragana": "",
+			"romaji": "Yamagata-ken",
+			"postal_prefecture_code_pattern": "99",
+			"translations": {
+				"ja": {
+					"lname": "山形県",
+					"sname": "山形"
+				}
+			}
+		},
+		"JP-07": {
+		    "rid": "JP-R2",
+		    "pid": "JP-07",
+		  	"region_code": "東北",
+			"prefecture_code": "福島県",
+			"lname": "Fukushima Prefecture",
+			"sname": "Fukushima",
+			"kanji": "福島県",
+			"hiragana": "",
+			"romaji": "Fukushima-ken",
+			"postal_prefecture_code_pattern": "9[67]",
+			"translations": {
+				"ja": {
+					"lname": "福島県",
+					"sname": "福島"
+				}
+			}
+		},
+		"JP-08": {
+		    "rid": "JP-R3",
+		    "pid": "JP-08",
+		  	"region_code": "関東",
+			"prefecture_code": "茨城県",
+			"lname": "Ibaraki Prefecture",
+			"sname": "Ibaraki",
+			"kanji": "茨城県",
+			"hiragana": "",
+			"romaji": "Ibaraki-ken",
+			"postal_prefecture_code_pattern": "3[01]",
+			"translations": {
+				"ja": {
+					"lname": "茨城県",
+					"sname": "茨城"
+				}
+			}
+		},
+		"JP-09": {
+		    "rid": "JP-R3",
+		    "pid": "JP-09",
+		  	"region_code": "関東",
+			"prefecture_code": "栃木県",
+			"lname": "Tochigi",
+			"kanji": "栃木県",
+			"hiragana": "",
+			"romaji": "Tochigi-ken",
+			"postal_prefecture_code_pattern": "32|311|349",
+			"translations": {
+				"ja": {
+					"lname": "栃木",
+					"lname_suffix": "県"
+				}
+			}
+		},
+		"JP-10": {
+		    "rid": "JP-R3",
+		    "pid": "JP-10",
+		  	"region_code": "関東",
+			"prefecture_code": "群馬県",
+			"lname": "Gunma Prefecture",
+			"sname": "Gunma",
+			"kanji": "群馬県",
+			"hiragana": "",
+			"romaji": "Gunma-ken",
+			"postal_prefecture_code_pattern": "37|38[49]",
+			"translations": {
+				"ja": {
+					"lname": "群馬県",
+					"sname": "群馬"
+				}
+			}
+		},
+		"JP-11": {
+		    "rid": "JP-R3",
+		    "pid": "JP-11",
+		  	"region_code": "関東",
+			"prefecture_code": "埼玉県",
+			"lname": "Saitama Prefecture",
+			"sname": "Saitama",
+			"kanji": "埼玉県",
+			"hiragana": "",
+			"romaji": "Saitama-ken",
+			"postal_prefecture_code_pattern": "3[3-6]",
+			"translations": {
+				"ja": {
+					"lname": "埼玉県",
+					"sname": "埼玉"
+				}
+			}
+		},
+		"JP-12": {
+		    "rid": "JP-R3",
+		    "pid": "JP-12",
+		  	"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"lname": "Chiba Prefecture",
+			"sname": "Chiba",
+			"kanji": "千葉県",
+			"hiragana": "",
+			"romaji": "Chiba-ken",
+			"postal_prefecture_code_pattern": "2[6-9]",
+			"translations": {
+				"ja": {
+					"lname": "千葉県",
+					"sname": "千葉"
+				}
+			}
+		},
+		"JP-13": {
+		    "rid": "JP-R3",
+		    "pid": "JP-13",
+		  	"region_code": "関東",
+			"prefecture_code": "東京都",
+			"lname": "Tokyo Prefecture",
+			"sname": "Tokyo",
+			"lname_suffix": " Metropolis",
+			"kanji": "東京都",
+			"hiragana": "",
+			"romaji": "Tōkyō-to",
+			"postal_prefecture_code_pattern": "1[0-8]|19[0-8]|20",
+			"translations": {
+				"ja": {
+					"lname": "東京都",
+					"sname": "東京"
+				}
+			}
+		},
+		"JP-14": {
+		    "rid": "JP-R3",
+		    "pid": "JP-14",
+		  	"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"lname": "Kanagawa Prefecture",
+			"sname": "Kanagawa",
+			"kanji": "神奈川県",
+			"hiragana": "",
+			"romaji": "Kanagawa-ken",
+			"postal_prefecture_code_pattern": "2[1-5]|199",
+			"translations": {
+				"ja": {
+					"lname": "神奈川県",
+					"sname": "神奈川"
+				}
+			}
+		},
+		"JP-15": {
+		    "rid": "JP-R4",
+		    "pid": "JP-15",
+		  	"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"lname": "Niigata Prefecture",
+			"sname": "Niigata",
+			"kanji": "新潟県",
+			"hiragana": "",
+			"romaji": "Niigata-ken",
+			"postal_prefecture_code_pattern": "9[45]|389",
+			"translations": {
+				"ja": {
+					"lname": "新潟県",
+					"sname": "新潟"
+				}
+			}
+		},
+		"JP-16": {
+		    "rid": "JP-R4",
+		    "pid": "JP-16",
+		  	"region_code": "中部",
+			"prefecture_code": "富山県",
+			"lname": "Toyama Prefecture",
+			"sname": "Toyama",
+			"kanji": "富山県",
+			"hiragana": "",
+			"romaji": "Toyama-ken",
+			"postal_prefecture_code_pattern": "93",
+			"translations": {
+				"ja": {
+					"lname": "富山県",
+					"sname": "富山"
+				}
+			}
+		},
+		"JP-17": {
+		    "rid": "JP-R4",
+		    "pid": "JP-17",
+		  	"region_code": "中部",
+			"prefecture_code": "石川県",
+			"lname": "Ishikawa Prefecture",
+			"sname": "Ishikawa",
+			"kanji": "石川県",
+			"hiragana": "",
+			"romaji": "Ishikawa-ken",
+			"postal_prefecture_code_pattern": "92|939",
+			"translations": {
+				"ja": {
+					"lname": "石川県",
+					"sname": "石川"
+				}
+			}
+		},
+		"JP-18": {
+		    "rid": "JP-R4",
+		    "pid": "JP-18",
+		  	"region_code": "中部",
+			"prefecture_code": "福井県",
+			"lname": "Fukui Prefecture",
+			"sname": "Fukui",
+			"kanji": "福井県",
+			"hiragana": "",
+			"romaji": "Fukui-ken",
+			"postal_prefecture_code_pattern": "91|922",
+			"translations": {
+				"ja": {
+					"lname": "福井県",
+					"sname": "福井"
+				}
+			}
+		},
+		"JP-19": {
+		    "rid": "JP-R4",
+		    "pid": "JP-19",
+		  	"region_code": "中部",
+			"prefecture_code": "山梨県",
+			"lname": "Yamanashi Prefecture",
+			"sname": "Yamanashi",
+			"kanji": "山梨県",
+			"hiragana": "",
+			"romaji": "Yamanashi-ken",
+			"postal_prefecture_code_pattern": "40",
+			"translations": {
+				"ja": {
+					"lname": "山梨県",
+					"sname": "山梨"
+				}
+			}
+		},
+		"JP-20": {
+		    "rid": "JP-R4",
+		    "pid": "JP-20",
+		  	"region_code": "中部",
+			"prefecture_code": "長野県",
+			"lname": "Nagano Prefecture",
+			"sname": "Nagano",
+			"kanji": "長野県",
+			"hiragana": "",
+			"romaji": "Nagano-ken",
+			"postal_prefecture_code_pattern": "3[89]|949",
+			"translations": {
+				"ja": {
+					"lname": "長野県",
+					"sname": "長野"
+				}
+			}
+		},
+		"JP-21": {
+		    "rid": "JP-R4",
+		    "pid": "JP-21",
+		  	"region_code": "中部",
+			"prefecture_code": "岐阜県",
+			"lname": "Gifu Prefecture",
+			"sname": "Gifu",
+			"kanji": "岐阜県",
+			"hiragana": "",
+			"romaji": "Gifu-ken",
+			"postal_prefecture_code_pattern": "50",
+			"translations": {
+				"ja": {
+					"lname": "岐阜県",
+					"sname": "岐阜"
+				}
+			}
+		},
+		"JP-22": {
+		    "rid": "JP-R4",
+		    "pid": "JP-22",
+		  	"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"lname": "Shizuoka Prefecture",
+			"sname": "Shizuoka",
+			"kanji": "静岡県",
+			"hiragana": "",
+			"romaji": "Shizuoka-ken",
+			"postal_prefecture_code_pattern": "4[1-9]",
+			"translations": {
+				"ja": {
+					"lname": "静岡県",
+					"sname": "静岡"
+				}
+			}
+		},
+		"JP-23": {
+		    "rid": "JP-R4",
+		    "pid": "JP-23",
+		  	"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"lname": "Aichi Prefecture",
+			"sname": "Aichi",
+			"kanji": "愛知県",
+			"hiragana": "",
+			"romaji": "Aichi-ken",
+			"postal_prefecture_code_pattern": "4[4-9]|431",
+			"translations": {
+				"ja": {
+					"lname": "愛知県",
+					"sname": "愛知"
+				}
+			}
+		},
+		"JP-24": {
+		    "rid": "JP-R5",
+		    "pid": "JP-24",
+		  	"region_code": "関西",
+			"prefecture_code": "三重県",
+			"lname": "Mie Prefecture",
+			"sname": "Mie",
+			"kanji": "三重県",
+			"hiragana": "",
+			"romaji": "Mie-ken",
+			"postal_prefecture_code_pattern": "51|498|647",
+			"translations": {
+				"ja": {
+					"lname": "三重県",
+					"sname": "三重"
+				}
+			}
+		},
+		"JP-25": {
+		    "rid": "JP-R5",
+		    "pid": "JP-25",
+		  	"region_code": "関西",
+			"prefecture_code": "滋賀県",
+			"lname": "Shiga Prefecture",
+			"sname": "Shiga",
+			"kanji": "滋賀県",
+			"hiragana": "",
+			"romaji": "Shiga-ken",
+			"postal_prefecture_code_pattern": "52",
+			"translations": {
+				"ja": {
+					"lname": "滋賀県",
+					"sname": "滋賀"
+				}
+			}
+		},
+		"JP-26": {
+		    "rid": "JP-R5",
+		    "pid": "JP-26",
+		  	"region_code": "関西",
+			"prefecture_code": "京都府",
+			"lname": "Kyoto Prefecture",
+			"sname": "Kyoto",
+			"kanji": "京都府",
+			"hiragana": "",
+			"romaji": "Kyoto-fu",
+			"postal_prefecture_code_pattern": "6[0-2]|520",
+			"translations": {
+				"ja": {
+					"lname": "京都府",
+					"sname": "京都"
+				}
+			}
+		},
+		"JP-27": {
+		    "rid": "JP-R5",
+		    "pid": "JP-27",
+		  	"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"lname": "Osaka Prefecture",
+			"sname": "Osaka",
+			"kanji": "大阪府",
+			"hiragana": "",
+			"romaji": "Osaka-fu",
+			"postal_prefecture_code_pattern": "5[3-9]|618|630",
+			"translations": {
+				"ja": {
+					"lname": "大阪府",
+					"sname": "大阪"
+				}
+			}
+		},
+		"JP-28": {
+		    "rid": "JP-R5",
+		    "pid": "JP-28",
+		  	"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"lname": "Hyogo Prefecture",
+			"sname": "Hyogo",
+			"kanji": "兵庫県",
+			"hiragana": "",
+			"romaji": "Hyogo-ken",
+			"postal_prefecture_code_pattern": "6[5-7]|563",
+			"translations": {
+				"ja": {
+					"lname": "兵庫県",
+					"sname": "兵庫"
+				}
+			}
+		},
+		"JP-29": {
+		    "rid": "JP-R5",
+		    "pid": "JP-29",
+		  	"region_code": "関西",
+			"prefecture_code": "奈良県",
+			"lname": "Nara Prefecture",
+			"sname": "Nara",
+			"kanji": "奈良県",
+			"hiragana": "",
+			"romaji": "Nara-ken",
+			"postal_prefecture_code_pattern": "63|64[78]",
+			"translations": {
+				"ja": {
+					"lname": "奈良県",
+					"sname": "奈良"
+				}
+			}
+		},
+		"JP-30": {
+		    "rid": "JP-R5",
+		    "pid": "JP-30",
+		  	"region_code": "関西",
+			"prefecture_code": "和歌山県",
+			"lname": "Wakayama Prefecture",
+			"sname": "Wakayama",
+			"kanji": "和歌山県",
+			"hiragana": "",
+			"romaji": "Wakayama-ken",
+			"postal_prefecture_code_pattern": "64|519",
+			"translations": {
+				"ja": {
+					"lname": "和歌山県",
+					"sname": "和歌山"
+				}
+			}
+		},
+		"JP-31": {
+		    "rid": "JP-R6",
+		    "pid": "JP-31",
+		  	"region_code": "中国",
+			"prefecture_code": "鳥取県",
+			"lname": "Tottori Prefecture",
+			"sname": "Tottori",
+			"kanji": "鳥取県",
+			"hiragana": "",
+			"romaji": "Tottori-ken",
+			"postal_prefecture_code_pattern": "68",
+			"translations": {
+				"ja": {
+					"lname": "鳥取県",
+					"sname": "鳥取"
+				}
+			}
+		},
+		"JP-32": {
+		    "rid": "JP-R6",
+		    "pid": "JP-32",
+		  	"region_code": "中国",
+			"prefecture_code": "島根県",
+			"lname": "Shimane Prefecture",
+			"sname": "Shimane",
+			"kanji": "島根県",
+			"hiragana": "",
+			"romaji": "Shimane-ken",
+			"postal_prefecture_code_pattern": "69|68[45]",
+			"translations": {
+				"ja": {
+					"lname": "島根県",
+					"sname": "島根"
+				}
+			}
+		},
+		"JP-33": {
+		    "rid": "JP-R6",
+		    "pid": "JP-33",
+		  	"region_code": "中国",
+			"prefecture_code": "岡山県",
+			"lname": "Okayama Prefecture",
+			"sname": "Okayama",
+			"kanji": "岡山県",
+			"hiragana": "",
+			"romaji": "Okayama-ken",
+			"postal_prefecture_code_pattern": "7[01]",
+			"translations": {
+				"ja": {
+					"lname": "岡山県",
+					"sname": "岡山"
+				}
+			}
+		},
+		"JP-34": {
+		    "rid": "JP-R6",
+		    "pid": "JP-34",
+		  	"region_code": "中国",
+			"prefecture_code": "広島県",
+			"lname": "Hiroshima Prefecture",
+			"sname": "Hiroshima",
+			"kanji": "広島県",
+			"hiragana": "",
+			"romaji": "Hiroshima-ken",
+			"postal_prefecture_code_pattern": "7[23]",
+			"translations": {
+				"ja": {
+					"lname": "広島県",
+					"sname": "広島"
+				}
+			}
+		},
+		"JP-35": {
+		    "rid": "JP-R6",
+		    "pid": "JP-35",
+		  	"region_code": "中国",
+			"prefecture_code": "山口県",
+			"lname": "Yamaguchi Prefecture",
+			"sname": "Yamaguchi",
+			"kanji": "山口県",
+			"hiragana": "",
+			"romaji": "Yamaguchi-ken",
+			"postal_prefecture_code_pattern": "7[45]",
+			"translations": {
+				"ja": {
+					"lname": "山口県",
+					"sname": "山口"
+				}
+			}
+		},
+		"JP-36": {
+		    "rid": "JP-R7",
+		    "pid": "JP-36",
+		  	"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"lname": "Tokushima Prefecture",
+			"sname": "Tokushima",
+			"kanji": "",
+			"hiragana": "",
+			"romaji": "Tokushima-ken",
+			"postal_prefecture_code_pattern": "77",
+			"translations": {
+				"ja": {
+					"lname": "徳島県",
+					"sname": "徳島"
+				}
+			}
+		},
+		"JP-37": {
+		    "rid": "JP-R7",
+		    "pid": "JP-37",
+		  	"region_code": "四国",
+			"prefecture_code": "香川県",
+			"lname": "Kagawa Prefecture",
+			"sname": "Kagawa",
+			"kanji": "徳島県",
+			"hiragana": "",
+			"romaji": "Kagawa-ken",
+			"postal_prefecture_code_pattern": "76",
+			"translations": {
+				"ja": {
+					"lname": "香川県",
+					"sname": "香川"
+				}
+			}
+		},
+		"JP-38": {
+		    "rid": "JP-R7",
+		    "pid": "JP-38",
+		  	"region_code": "四国",
+			"prefecture_code": "愛媛県",
+			"lname": "Ehime Prefecture",
+			"sname": "Ehime",
+			"kanji": "愛媛県",
+			"hiragana": "",
+			"romaji": "Ehime-ken",
+			"postal_prefecture_code_pattern": "79",
+			"translations": {
+				"ja": {
+					"lname": "愛媛県",
+					"sname": "愛媛"				
+				}
+			}
+		},
+		"JP-39": {
+		    "rid": "JP-R7",
+		    "pid": "JP-39",
+		  	"region_code": "四国",
+			"prefecture_code": "高知県",
+			"lname": "Kochi Prefecture",
+			"sname": "Kochi",
+			"kanji": "高知県",
+			"hiragana": "",
+			"romaji": "Kochi-ken",
+			"postal_prefecture_code_pattern": "78",
+			"translations": {
+				"ja": {
+					"lname": "高知県",
+					"sname": "高知"
+				}
+			}
+		},
+		"JP-40": {
+		    "rid": "JP-R8",
+		    "pid": "JP-40",
+		  	"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"lname": "Fukuoka Prefecture",
+			"sname": "Fukuoka",
+			"kanji": "福岡県",
+			"hiragana": "",
+			"romaji": "Fukuoka-ken",
+			"postal_prefecture_code_pattern": "8[0-3]|871",
+			"translations": {
+				"ja": {
+					"lname": "福岡県",
+					"sname": "福岡"
+				}
+			}
+		},
+		"JP-41": {
+		    "rid": "JP-R8",
+		    "pid": "JP-41",
+		  	"region_code": "九州",
+			"prefecture_code": "佐賀県",
+			"lname": "Saga Prefecture",
+			"sname": "Saga",
+			"kanji": "佐賀県",
+			"hiragana": "",
+			"romaji": "Saga-ken",
+			"postal_prefecture_code_pattern": "84",
+			"translations": {
+				"ja": {
+					"lname": "佐賀県",
+					"sname": "佐賀"
+				}
+			}
+		},
+		"JP-42": {
+		    "rid": "JP-R8",
+		    "pid": "JP-42",
+		  	"region_code": "九州",
+			"prefecture_code": "長崎県",
+			"lname": "Nagasaki Prefecture",
+			"sname": "Nagasaki",
+			"kanji": "長崎県",
+			"hiragana": "",
+			"romaji": "Nagasaki-ken",
+			"postal_prefecture_code_pattern": "85|81[17]|848",
+			"translations": {
+				"ja": {
+					"lname": "長崎県",
+					"sname": "長崎"
+				}
+			}
+		},
+		"JP-43": {
+		    "rid": "JP-R8",
+		    "pid": "JP-43",
+		  	"region_code": "九州",
+			"prefecture_code": "熊本県",
+			"lname": "Kumamoto Prefecture",
+			"sname": "Kumamoto",
+			"kanji": "熊本県",
+			"hiragana": "",
+			"romaji": "Kumamoto-ken",
+			"postal_prefecture_code_pattern": "86",
+			"translations": {
+				"ja": {
+					"lname": "熊本県",
+					"sname": "熊本"
+				}
+			}
+		},
+		"JP-44": {
+		    "rid": "JP-R8",
+		    "pid": "JP-44",
+		  	"region_code": "九州",
+			"prefecture_code": "大分県",
+			"lname": "Oita Prefecture",
+			"sname": "Oita",
+			"kanji": "大分県",
+			"hiragana": "",
+			"romaji": "Oita-ken",
+			"postal_prefecture_code_pattern": "87|839",
+			"translations": {
+				"ja": {
+					"lname": "大分県",
+					"sname": "大分"
+				}
+			}
+		},
+		"JP-45": {
+		    "rid": "JP-R8",
+		    "pid": "JP-45",
+		  	"region_code": "九州",
+			"prefecture_code": "宮崎県",
+			"lname": "Miyazaki Prefecture",
+			"sname": "Miyazaki",
+			"kanji": "宮崎県",
+			"hiragana": "",
+			"romaji": "Miyazaki-ken",
+			"postal_prefecture_code_pattern": "88",
+			"translations": {
+				"ja": {
+					"lname": "宮崎県",
+					"sname": "宮崎"
+				}
+			}
+		},
+		"JP-46": {
+		    "rid": "JP-R8",
+		    "pid": "JP-46",
+		  	"region_code": "九州",
+			"prefecture_code": "鹿児島県",
+			"lname": "Kagoshima Prefecture",
+			"sname": "Kagoshima",
+			"kanji": "鹿児島県",
+			"hiragana": "",
+			"romaji": "Kagoshima-ken",
+			"postal_prefecture_code_pattern": "89",
+			"translations": {
+				"ja": {
+					"lname": "鹿児島県",
+					"sname": "鹿児島"
+				}
+			}
+		},
+		"JP-47": {
+		    "rid": "JP-R8",
+		    "pid": "JP-47",
+		  	"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"lname": "Okinawa Prefecture",
+			"sname": "Okinawa",
+			"kanji": "沖縄県",
+			"hiragana": "",
+			"romaji": "Okinawa-ken",
+			"postal_prefecture_code_pattern": "90",
+			"translations": {
+				"ja": {
+					"lname": "沖縄県",
+					"sname": "沖縄"
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,4781 @@
+{
+	"country_code": "JP",
+	"parent_id": "069",
+	"locale": "ja-Latn",
+	"address": {
+		"0698585": {
+			"postcode": "0698585",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "西野幌",
+			"building_name": "５９番地２号",
+			"organization_name": "北海道情報大学",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "西野幌",
+					"building_name": "５９番地２号",
+					"organization_name": "北海道情報大学"
+				}
+			}
+		},
+		"0698555": {
+			"postcode": "0698555",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "文京台",
+			"building_name": "１１番地",
+			"organization_name": "札幌学院大学",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "文京台",
+					"building_name": "１１番地",
+					"organization_name": "札幌学院大学"
+				}
+			}
+		},
+		"0698533": {
+			"postcode": "0698533",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "文京台緑町",
+			"building_name": "５６９番地",
+			"organization_name": "とわの森三愛高等学校",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "文京台緑町",
+					"building_name": "５６９番地",
+					"organization_name": "とわの森三愛高等学校"
+				}
+			}
+		},
+		"0698511": {
+			"postcode": "0698511",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "文京台",
+			"building_name": "２３番地",
+			"organization_name": "北翔大学・北翔大学短期大学部",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "文京台",
+					"building_name": "２３番地",
+					"organization_name": "北翔大学・北翔大学短期大学部"
+				}
+			}
+		},
+		"0698501": {
+			"postcode": "0698501",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "文京台緑町",
+			"building_name": "５８２番地２号",
+			"organization_name": "酪農学園大学",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "文京台緑町",
+					"building_name": "５８２番地２号",
+					"organization_name": "酪農学園大学"
+				}
+			}
+		},
+		"0691526": {
+			"postcode": "0691526",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Kuriyama-cho",
+			"town_name": "Fuji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "栗山町",
+					"town_name": "富士",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691525": {
+			"postcode": "0691525",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Kuriyama-cho",
+			"town_name": "Mikazuki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "栗山町",
+					"town_name": "三日月",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691524": {
+			"postcode": "0691524",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Kuriyama-cho",
+			"town_name": "Kakuta",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "栗山町",
+					"town_name": "角田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691523": {
+			"postcode": "0691523",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Kuriyama-cho",
+			"town_name": "Kyowa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "栗山町",
+					"town_name": "共和",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691522": {
+			"postcode": "0691522",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Kuriyama-cho",
+			"town_name": "Nakasato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "栗山町",
+					"town_name": "中里",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691521": {
+			"postcode": "0691521",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Kuriyama-cho",
+			"town_name": "Nishiki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "栗山町",
+					"town_name": "錦",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691513": {
+			"postcode": "0691513",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Kuriyama-cho",
+			"town_name": "Asahi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "栗山町",
+					"town_name": "朝日",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691512": {
+			"postcode": "0691512",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Kuriyama-cho",
+			"town_name": "Matsukaze",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "栗山町",
+					"town_name": "松風",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691511": {
+			"postcode": "0691511",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Kuriyama-cho",
+			"town_name": "Chuo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "栗山町",
+					"town_name": "中央",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691508": {
+			"postcode": "0691508",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Kuriyama-cho",
+			"town_name": "Yuchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "栗山町",
+					"town_name": "湯地",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691507": {
+			"postcode": "0691507",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Kuriyama-cho",
+			"town_name": "Asahidai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "栗山町",
+					"town_name": "旭台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691506": {
+			"postcode": "0691506",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Kuriyama-cho",
+			"town_name": "Kinausu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "栗山町",
+					"town_name": "杵臼",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691505": {
+			"postcode": "0691505",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Kuriyama-cho",
+			"town_name": "Sakurayama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "栗山町",
+					"town_name": "桜山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691504": {
+			"postcode": "0691504",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Kuriyama-cho",
+			"town_name": "Kitagakuden",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "栗山町",
+					"town_name": "北学田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691503": {
+			"postcode": "0691503",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Kuriyama-cho",
+			"town_name": "Uembetsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "栗山町",
+					"town_name": "雨煙別",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691502": {
+			"postcode": "0691502",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Kuriyama-cho",
+			"town_name": "Hatoyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "栗山町",
+					"town_name": "鳩山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691501": {
+			"postcode": "0691501",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Kuriyama-cho",
+			"town_name": "Sakuraoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "栗山町",
+					"town_name": "桜丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691500": {
+			"postcode": "0691500",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Kuriyama-cho",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "栗山町",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691485": {
+			"postcode": "0691485",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "30-ku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "３０区",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691484": {
+			"postcode": "0691484",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Nishi14-semminami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "西１４線南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691483": {
+			"postcode": "0691483",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Nishi13-semminami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "西１３線南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691482": {
+			"postcode": "0691482",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Nishi12-semminami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "西１２線南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691481": {
+			"postcode": "0691481",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Nishi11-semminami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "西１１線南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691480": {
+			"postcode": "0691480",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Nishi10-semminami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "西１０線南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691479": {
+			"postcode": "0691479",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Nishi9-semminami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "西９線南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691478": {
+			"postcode": "0691478",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Nishi8-semminami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "西８線南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691477": {
+			"postcode": "0691477",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Nishi7-semminami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "西７線南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691476": {
+			"postcode": "0691476",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Nishi6-semminami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "西６線南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691475": {
+			"postcode": "0691475",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Nishi5-semminami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "西５線南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691474": {
+			"postcode": "0691474",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Nishi4-semminami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "西４線南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691473": {
+			"postcode": "0691473",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Nishi3-semminami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "西３線南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691472": {
+			"postcode": "0691472",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Nishi2-semminami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "西２線南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691471": {
+			"postcode": "0691471",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Nishi1-semminami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "西１線南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691464": {
+			"postcode": "0691464",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Horonai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "幌内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691463": {
+			"postcode": "0691463",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Higashi13-semminami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "東１３線南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691462": {
+			"postcode": "0691462",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Higashi12-semminami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "東１２線南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691461": {
+			"postcode": "0691461",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Higashi11-semminami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "東１１線南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691460": {
+			"postcode": "0691460",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Higashi10-semminami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "東１０線南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691459": {
+			"postcode": "0691459",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Higashi9-semminami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "東９線南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691458": {
+			"postcode": "0691458",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Higashi8-semminami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "東８線南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691457": {
+			"postcode": "0691457",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Higashi7-semminami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "東７線南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691456": {
+			"postcode": "0691456",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Higashi6-semminami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "東６線南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691455": {
+			"postcode": "0691455",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Higashi5-semminami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "東５線南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691454": {
+			"postcode": "0691454",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Higashi4-semminami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "東４線南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691453": {
+			"postcode": "0691453",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Higashi3-semminami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "東３線南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691452": {
+			"postcode": "0691452",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Higashi2-semminami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "東２線南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691451": {
+			"postcode": "0691451",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Higashi1-semminami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "東１線南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691395": {
+			"postcode": "0691395",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "東６線北",
+			"building_name": "１５号",
+			"organization_name": "地方独立行政法人　北海道立総合研究機構農業研究本部　中央試験場",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "東６線北",
+					"building_name": "１５号",
+					"organization_name": "地方独立行政法人　北海道立総合研究機構農業研究本部　中央試験場"
+				}
+			}
+		},
+		"0691394": {
+			"postcode": "0691394",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "",
+			"building_name": "馬追台（長沼郵便局私書箱第３号）",
+			"organization_name": "航空自衛隊長沼分屯基地",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "",
+					"building_name": "馬追台（長沼郵便局私書箱第３号）",
+					"organization_name": "航空自衛隊長沼分屯基地"
+				}
+			}
+		},
+		"0691393": {
+			"postcode": "0691393",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "銀座北",
+			"building_name": "１丁目５−１９",
+			"organization_name": "ながぬま農業協同組合",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "銀座北",
+					"building_name": "１丁目５−１９",
+					"organization_name": "ながぬま農業協同組合"
+				}
+			}
+		},
+		"0691392": {
+			"postcode": "0691392",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "中央北",
+			"building_name": "１丁目１−１",
+			"organization_name": "長沼町役場",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "中央北",
+					"building_name": "１丁目１−１",
+					"organization_name": "長沼町役場"
+				}
+			}
+		},
+		"0691347": {
+			"postcode": "0691347",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Kitamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "北町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691346": {
+			"postcode": "0691346",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Nishimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "西町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691345": {
+			"postcode": "0691345",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Shirakaba",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "しらかば",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691344": {
+			"postcode": "0691344",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Akebonocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "曙町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691343": {
+			"postcode": "0691343",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Asahimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "旭町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691342": {
+			"postcode": "0691342",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Higashimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "東町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691341": {
+			"postcode": "0691341",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Miyashita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "宮下",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691336": {
+			"postcode": "0691336",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Kawazoi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "川沿",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691335": {
+			"postcode": "0691335",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Akane",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "あかね",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691334": {
+			"postcode": "0691334",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Nishikimachikita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "錦町北",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691333": {
+			"postcode": "0691333",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Honcho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691332": {
+			"postcode": "0691332",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Chuo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "中央",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691331": {
+			"postcode": "0691331",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Ginza",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "銀座",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691329": {
+			"postcode": "0691329",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Kizumari",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "木詰",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691322": {
+			"postcode": "0691322",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Umaoigenya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "馬追原野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691321": {
+			"postcode": "0691321",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Umaoi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "馬追",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691320": {
+			"postcode": "0691320",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Shigaichi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "市街地",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691318": {
+			"postcode": "0691318",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Nishi1-senkita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "西１線北",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691317": {
+			"postcode": "0691317",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Higashi1-senkita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "東１線北",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691316": {
+			"postcode": "0691316",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Kagadantai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "加賀団体",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691315": {
+			"postcode": "0691315",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Minamimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "南町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691314": {
+			"postcode": "0691314",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "14-ku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "１４区",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691313": {
+			"postcode": "0691313",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "13-ku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "１３区",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691312": {
+			"postcode": "0691312",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "12-ku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "１２区",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691311": {
+			"postcode": "0691311",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Fushiko",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "フシコ",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691310": {
+			"postcode": "0691310",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "10-ku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "１０区",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691309": {
+			"postcode": "0691309",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "9-ku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "９区",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691308": {
+			"postcode": "0691308",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "8-ku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "８区",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691307": {
+			"postcode": "0691307",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "7-ku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "７区",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691306": {
+			"postcode": "0691306",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "6-ku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "６区",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691305": {
+			"postcode": "0691305",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "5-ku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "５区",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691304": {
+			"postcode": "0691304",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "Kitaichiku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "北市区",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691303": {
+			"postcode": "0691303",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "3-ku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "３区",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691302": {
+			"postcode": "0691302",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "2-ku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "２区",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691301": {
+			"postcode": "0691301",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "1-ku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "１区",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691300": {
+			"postcode": "0691300",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Naganuma-cho",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "長沼町",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691298": {
+			"postcode": "0691298",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Yuni-cho",
+			"town_name": "中央",
+			"building_name": "２７",
+			"organization_name": "由仁町商工会",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "由仁町",
+					"town_name": "中央",
+					"building_name": "２７",
+					"organization_name": "由仁町商工会"
+				}
+			}
+		},
+		"0691297": {
+			"postcode": "0691297",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Yuni-cho",
+			"town_name": "本町",
+			"building_name": "１４８番地",
+			"organization_name": "空知信用金庫　由仁支店",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "由仁町",
+					"town_name": "本町",
+					"building_name": "１４８番地",
+					"organization_name": "空知信用金庫　由仁支店"
+				}
+			}
+		},
+		"0691296": {
+			"postcode": "0691296",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Yuni-cho",
+			"town_name": "本町",
+			"building_name": "１５１",
+			"organization_name": "そらち南農業協同組合　由仁支所",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "由仁町",
+					"town_name": "本町",
+					"building_name": "１５１",
+					"organization_name": "そらち南農業協同組合　由仁支所"
+				}
+			}
+		},
+		"0691293": {
+			"postcode": "0691293",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Yuni-cho",
+			"town_name": "新光",
+			"building_name": "１６２",
+			"organization_name": "由仁町立由仁中学校",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "由仁町",
+					"town_name": "新光",
+					"building_name": "１６２",
+					"organization_name": "由仁町立由仁中学校"
+				}
+			}
+		},
+		"0691292": {
+			"postcode": "0691292",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Yuni-cho",
+			"town_name": "新光",
+			"building_name": "２００",
+			"organization_name": "由仁町役場",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "由仁町",
+					"town_name": "新光",
+					"building_name": "２００",
+					"organization_name": "由仁町役場"
+				}
+			}
+		},
+		"0691219": {
+			"postcode": "0691219",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Yuni-cho",
+			"town_name": "Toko",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "由仁町",
+					"town_name": "東光",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691218": {
+			"postcode": "0691218",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Yuni-cho",
+			"town_name": "Fushimi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "由仁町",
+					"town_name": "伏見",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691217": {
+			"postcode": "0691217",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Yuni-cho",
+			"town_name": "Koei",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "由仁町",
+					"town_name": "光栄",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691216": {
+			"postcode": "0691216",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Yuni-cho",
+			"town_name": "Furusan",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "由仁町",
+					"town_name": "古山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691215": {
+			"postcode": "0691215",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Yuni-cho",
+			"town_name": "Kumamoto",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "由仁町",
+					"town_name": "熊本",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691214": {
+			"postcode": "0691214",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Yuni-cho",
+			"town_name": "Nishimikawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "由仁町",
+					"town_name": "西三川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691213": {
+			"postcode": "0691213",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Yuni-cho",
+			"town_name": "Motomikawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "由仁町",
+					"town_name": "本三川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691212": {
+			"postcode": "0691212",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Yuni-cho",
+			"town_name": "Yamamasu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "由仁町",
+					"town_name": "山桝",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691211": {
+			"postcode": "0691211",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Yuni-cho",
+			"town_name": "Iwanai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "由仁町",
+					"town_name": "岩内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691208": {
+			"postcode": "0691208",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Yuni-cho",
+			"town_name": "Yamagata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "由仁町",
+					"town_name": "山形",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691207": {
+			"postcode": "0691207",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Yuni-cho",
+			"town_name": "Umaoi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "由仁町",
+					"town_name": "馬追",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691206": {
+			"postcode": "0691206",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Yuni-cho",
+			"town_name": "Hommachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "由仁町",
+					"town_name": "本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691205": {
+			"postcode": "0691205",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Yuni-cho",
+			"town_name": "Chuo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "由仁町",
+					"town_name": "中央",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691204": {
+			"postcode": "0691204",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Yuni-cho",
+			"town_name": "Shinko",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "由仁町",
+					"town_name": "新光",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691203": {
+			"postcode": "0691203",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Yuni-cho",
+			"town_name": "Toei",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "由仁町",
+					"town_name": "東栄",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691202": {
+			"postcode": "0691202",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Yuni-cho",
+			"town_name": "Furukawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "由仁町",
+					"town_name": "古川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691201": {
+			"postcode": "0691201",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Yuni-cho",
+			"town_name": "Hokuei",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "由仁町",
+					"town_name": "北栄",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691200": {
+			"postcode": "0691200",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Yuni-cho",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "由仁町",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691184": {
+			"postcode": "0691184",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Chitose-shi",
+			"ward_name": "",
+			"town_name": "Niikawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "千歳市",
+					"ward_name": "",
+					"town_name": "新川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "千歳市"
+		},
+		"0691183": {
+			"postcode": "0691183",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Chitose-shi",
+			"ward_name": "",
+			"town_name": "Horoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "千歳市",
+					"ward_name": "",
+					"town_name": "幌加",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "千歳市"
+		},
+		"0691182": {
+			"postcode": "0691182",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Chitose-shi",
+			"ward_name": "",
+			"town_name": "Kyowa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "千歳市",
+					"ward_name": "",
+					"town_name": "協和",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "千歳市"
+		},
+		"0691181": {
+			"postcode": "0691181",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Chitose-shi",
+			"ward_name": "",
+			"town_name": "Higashioka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "千歳市",
+					"ward_name": "",
+					"town_name": "東丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "千歳市"
+		},
+		"0691144": {
+			"postcode": "0691144",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Yuni-cho",
+			"town_name": "Motomikawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "由仁町",
+					"town_name": "本三川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691143": {
+			"postcode": "0691143",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Yuni-cho",
+			"town_name": "Nakamikawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "由仁町",
+					"town_name": "中三川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691142": {
+			"postcode": "0691142",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Yuni-cho",
+			"town_name": "Higashimikawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "由仁町",
+					"town_name": "東三川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691141": {
+			"postcode": "0691141",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Yuni-cho",
+			"town_name": "Kawabata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "由仁町",
+					"town_name": "川端",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691136": {
+			"postcode": "0691136",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Yuni-cho",
+			"town_name": "Kumamoto",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "由仁町",
+					"town_name": "熊本",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691135": {
+			"postcode": "0691135",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Yuni-cho",
+			"town_name": "Nishimikawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "由仁町",
+					"town_name": "西三川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691134": {
+			"postcode": "0691134",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Yuni-cho",
+			"town_name": "Mikawamidorimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "由仁町",
+					"town_name": "三川緑町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691133": {
+			"postcode": "0691133",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Yuni-cho",
+			"town_name": "Mikawaasahimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "由仁町",
+					"town_name": "三川旭町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691132": {
+			"postcode": "0691132",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Yuni-cho",
+			"town_name": "Mikawanishikimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "由仁町",
+					"town_name": "三川錦町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0691131": {
+			"postcode": "0691131",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yubari-gun",
+			"ward_name": "Yuni-cho",
+			"town_name": "Mikawaizumimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "夕張郡",
+					"ward_name": "由仁町",
+					"town_name": "三川泉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "夕張郡"
+		},
+		"0690867": {
+			"postcode": "0690867",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Motonopporo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "元野幌",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690866": {
+			"postcode": "0690866",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Oasa",
+			"building_name": "Harumicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "大麻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690865": {
+			"postcode": "0690865",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Oasa",
+			"building_name": "Minakicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "大麻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690864": {
+			"postcode": "0690864",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Oasa",
+			"building_name": "Izumicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "大麻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690863": {
+			"postcode": "0690863",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Oasa",
+			"building_name": "Shimmachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "大麻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690862": {
+			"postcode": "0690862",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Oasa",
+			"building_name": "Sakaemachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "大麻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690861": {
+			"postcode": "0690861",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Oasa",
+			"building_name": "Kitamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "大麻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690855": {
+			"postcode": "0690855",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Oasa",
+			"building_name": "Miyamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "大麻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690854": {
+			"postcode": "0690854",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Oasa",
+			"building_name": "Nakamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "大麻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690853": {
+			"postcode": "0690853",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Oasa",
+			"building_name": "Takamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "大麻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690852": {
+			"postcode": "0690852",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Oasa",
+			"building_name": "Higashimachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "大麻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690851": {
+			"postcode": "0690851",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Oasa",
+			"building_name": "Sonomachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "大麻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690847": {
+			"postcode": "0690847",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Oasa",
+			"building_name": "Hikarimachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "大麻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690846": {
+			"postcode": "0690846",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Oasa",
+			"building_name": "Sakuragicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "大麻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690845": {
+			"postcode": "0690845",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Oasa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "大麻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690844": {
+			"postcode": "0690844",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Oasa",
+			"building_name": "Nishimachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "大麻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690843": {
+			"postcode": "0690843",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Oasa",
+			"building_name": "Ogimachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "大麻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690842": {
+			"postcode": "0690842",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Oasa",
+			"building_name": "Sawamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "大麻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690841": {
+			"postcode": "0690841",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Oasa",
+			"building_name": "Motomachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "大麻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690836": {
+			"postcode": "0690836",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Bunkyodai",
+			"building_name": "Midorimachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "文京台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690835": {
+			"postcode": "0690835",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Bunkyodai",
+			"building_name": "Minamimachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "文京台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690834": {
+			"postcode": "0690834",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Bunkyodai",
+			"building_name": "Higashimachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "文京台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690833": {
+			"postcode": "0690833",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Bunkyodai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "文京台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690832": {
+			"postcode": "0690832",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Nishinopporo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "西野幌",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690831": {
+			"postcode": "0690831",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Nopporo",
+			"building_name": "Wakabacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "野幌",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690826": {
+			"postcode": "0690826",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Asahigaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "あさひが丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690825": {
+			"postcode": "0690825",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Nopporo",
+			"building_name": "Higashimachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "野幌",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690824": {
+			"postcode": "0690824",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Higashinopporohoncho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "東野幌本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690823": {
+			"postcode": "0690823",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Midorigaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "緑ケ丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690822": {
+			"postcode": "0690822",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Higashinopporo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "東野幌",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690821": {
+			"postcode": "0690821",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Higashinopporocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "東野幌町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690817": {
+			"postcode": "0690817",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Nopporo",
+			"building_name": "Yoyogicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "野幌",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690816": {
+			"postcode": "0690816",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Nopporo",
+			"building_name": "Sumiyoshicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "野幌",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690815": {
+			"postcode": "0690815",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Nopporo",
+			"building_name": "Suehirocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "野幌",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690814": {
+			"postcode": "0690814",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Nopporo",
+			"building_name": "Matsunamicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "野幌",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690813": {
+			"postcode": "0690813",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Nopporocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "野幌町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690812": {
+			"postcode": "0690812",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Saiwaicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "幸町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690811": {
+			"postcode": "0690811",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Nishikicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "錦町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690806": {
+			"postcode": "0690806",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Shineidai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "新栄台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690805": {
+			"postcode": "0690805",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Motonopporo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "元野幌",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690804": {
+			"postcode": "0690804",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Nopporo",
+			"building_name": "Miyukicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "野幌",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690803": {
+			"postcode": "0690803",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Nopporo",
+			"building_name": "Tondencho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "野幌",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690802": {
+			"postcode": "0690802",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Nopporo",
+			"building_name": "Kotobukicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "野幌",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690801": {
+			"postcode": "0690801",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Ebetsu-shi",
+			"ward_name": "",
+			"town_name": "Chuocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "江別市",
+					"ward_name": "",
+					"town_name": "中央町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "江別市"
+		},
+		"0690384": {
+			"postcode": "0690384",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwamizawa-shi",
+			"ward_name": "",
+			"town_name": "Ochanomizucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩見沢市",
+					"ward_name": "",
+					"town_name": "御茶の水町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩見沢市"
+		},
+		"0690383": {
+			"postcode": "0690383",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwamizawa-shi",
+			"ward_name": "",
+			"town_name": "Horomuicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩見沢市",
+					"ward_name": "",
+					"town_name": "幌向町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩見沢市"
+		},
+		"0690382": {
+			"postcode": "0690382",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwamizawa-shi",
+			"ward_name": "",
+			"town_name": "Horomui",
+			"building_name": "Kita2-jo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩見沢市",
+					"ward_name": "",
+					"town_name": "幌向",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩見沢市"
+		},
+		"0690381": {
+			"postcode": "0690381",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwamizawa-shi",
+			"ward_name": "",
+			"town_name": "Horomui",
+			"building_name": "Kita1-jo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩見沢市",
+					"ward_name": "",
+					"town_name": "幌向",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩見沢市"
+		},
+		"0690376": {
+			"postcode": "0690376",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwamizawa-shi",
+			"ward_name": "",
+			"town_name": "Nakahoromuicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩見沢市",
+					"ward_name": "",
+					"town_name": "中幌向町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩見沢市"
+		},
+		"0690375": {
+			"postcode": "0690375",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwamizawa-shi",
+			"ward_name": "",
+			"town_name": "Horomui",
+			"building_name": "Minami5-jo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩見沢市",
+					"ward_name": "",
+					"town_name": "幌向",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩見沢市"
+		},
+		"0690374": {
+			"postcode": "0690374",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwamizawa-shi",
+			"ward_name": "",
+			"town_name": "Horomui",
+			"building_name": "Minami4-jo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩見沢市",
+					"ward_name": "",
+					"town_name": "幌向",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩見沢市"
+		},
+		"0690373": {
+			"postcode": "0690373",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwamizawa-shi",
+			"ward_name": "",
+			"town_name": "Horomui",
+			"building_name": "Minami3-jo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩見沢市",
+					"ward_name": "",
+					"town_name": "幌向",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩見沢市"
+		},
+		"0690372": {
+			"postcode": "0690372",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwamizawa-shi",
+			"ward_name": "",
+			"town_name": "Horomui",
+			"building_name": "Minami2-jo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩見沢市",
+					"ward_name": "",
+					"town_name": "幌向",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩見沢市"
+		},
+		"0690371": {
+			"postcode": "0690371",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwamizawa-shi",
+			"ward_name": "",
+			"town_name": "Horomui",
+			"building_name": "Minami1-jo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩見沢市",
+					"ward_name": "",
+					"town_name": "幌向",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩見沢市"
+		},
+		"0690366": {
+			"postcode": "0690366",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwamizawa-shi",
+			"ward_name": "",
+			"town_name": "Futabacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩見沢市",
+					"ward_name": "",
+					"town_name": "双葉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩見沢市"
+		},
+		"0690365": {
+			"postcode": "0690365",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwamizawa-shi",
+			"ward_name": "",
+			"town_name": "Kamihoromuicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩見沢市",
+					"ward_name": "",
+					"town_name": "上幌向町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩見沢市"
+		},
+		"0690364": {
+			"postcode": "0690364",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwamizawa-shi",
+			"ward_name": "",
+			"town_name": "Kamihoromui",
+			"building_name": "Minami3-jo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩見沢市",
+					"ward_name": "",
+					"town_name": "上幌向",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩見沢市"
+		},
+		"0690363": {
+			"postcode": "0690363",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwamizawa-shi",
+			"ward_name": "",
+			"town_name": "Kamihoromui",
+			"building_name": "Minami2-jo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩見沢市",
+					"ward_name": "",
+					"town_name": "上幌向",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩見沢市"
+		},
+		"0690362": {
+			"postcode": "0690362",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwamizawa-shi",
+			"ward_name": "",
+			"town_name": "Kamihoromui",
+			"building_name": "Minami1-jo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩見沢市",
+					"ward_name": "",
+					"town_name": "上幌向",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩見沢市"
+		},
+		"0690361": {
+			"postcode": "0690361",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwamizawa-shi",
+			"ward_name": "",
+			"town_name": "Kamihoromui",
+			"building_name": "Kita1-jo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩見沢市",
+					"ward_name": "",
+					"town_name": "上幌向",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩見沢市"
+		},
+		"0690351": {
+			"postcode": "0690351",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwamizawa-shi",
+			"ward_name": "",
+			"town_name": "Kitamura",
+			"building_name": "Sunahama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩見沢市",
+					"ward_name": "",
+					"town_name": "北村",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩見沢市"
+		},
+		"0690293": {
+			"postcode": "0690293",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Sorachi-gun",
+			"ward_name": "Namporo-cho",
+			"town_name": "栄町",
+			"building_name": "１丁目４−７",
+			"organization_name": "南幌町農業協同組合",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "空知郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "空知郡",
+					"ward_name": "南幌町",
+					"town_name": "栄町",
+					"building_name": "１丁目４−７",
+					"organization_name": "南幌町農業協同組合"
+				}
+			}
+		},
+		"0690292": {
+			"postcode": "0690292",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Sorachi-gun",
+			"ward_name": "Namporo-cho",
+			"town_name": "栄町",
+			"building_name": "３丁目２−１",
+			"organization_name": "南幌町役場",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "空知郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "空知郡",
+					"ward_name": "南幌町",
+					"town_name": "栄町",
+					"building_name": "３丁目２−１",
+					"organization_name": "南幌町役場"
+				}
+			}
+		},
+		"0690239": {
+			"postcode": "0690239",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Sorachi-gun",
+			"ward_name": "Namporo-cho",
+			"town_name": "Inaho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "空知郡",
+					"ward_name": "南幌町",
+					"town_name": "稲穂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "空知郡"
+		},
+		"0690238": {
+			"postcode": "0690238",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Sorachi-gun",
+			"ward_name": "Namporo-cho",
+			"town_name": "Motomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "空知郡",
+					"ward_name": "南幌町",
+					"town_name": "元町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "空知郡"
+		},
+		"0690237": {
+			"postcode": "0690237",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Sorachi-gun",
+			"ward_name": "Namporo-cho",
+			"town_name": "Sakaemachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "空知郡",
+					"ward_name": "南幌町",
+					"town_name": "栄町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "空知郡"
+		},
+		"0690236": {
+			"postcode": "0690236",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Sorachi-gun",
+			"ward_name": "Namporo-cho",
+			"town_name": "Nishimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "空知郡",
+					"ward_name": "南幌町",
+					"town_name": "西町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "空知郡"
+		},
+		"0690235": {
+			"postcode": "0690235",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Sorachi-gun",
+			"ward_name": "Namporo-cho",
+			"town_name": "Chuo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "空知郡",
+					"ward_name": "南幌町",
+					"town_name": "中央",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "空知郡"
+		},
+		"0690234": {
+			"postcode": "0690234",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Sorachi-gun",
+			"ward_name": "Namporo-cho",
+			"town_name": "Misono",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "空知郡",
+					"ward_name": "南幌町",
+					"town_name": "美園",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "空知郡"
+		},
+		"0690233": {
+			"postcode": "0690233",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Sorachi-gun",
+			"ward_name": "Namporo-cho",
+			"town_name": "Higashimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "空知郡",
+					"ward_name": "南幌町",
+					"town_name": "東町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "空知郡"
+		},
+		"0690232": {
+			"postcode": "0690232",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Sorachi-gun",
+			"ward_name": "Namporo-cho",
+			"town_name": "Midorimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "空知郡",
+					"ward_name": "南幌町",
+					"town_name": "緑町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "空知郡"
+		},
+		"0690231": {
+			"postcode": "0690231",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Sorachi-gun",
+			"ward_name": "Namporo-cho",
+			"town_name": "Kitamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "空知郡",
+					"ward_name": "南幌町",
+					"town_name": "北町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "空知郡"
+		},
+		"0690221": {
+			"postcode": "0690221",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Sorachi-gun",
+			"ward_name": "Namporo-cho",
+			"town_name": "Minami21-sennishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "空知郡",
+					"ward_name": "南幌町",
+					"town_name": "南２１線西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "空知郡"
+		},
+		"0690220": {
+			"postcode": "0690220",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Sorachi-gun",
+			"ward_name": "Namporo-cho",
+			"town_name": "Minami20-sennishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "空知郡",
+					"ward_name": "南幌町",
+					"town_name": "南２０線西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "空知郡"
+		},
+		"0690219": {
+			"postcode": "0690219",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Sorachi-gun",
+			"ward_name": "Namporo-cho",
+			"town_name": "Minami19-sennishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "空知郡",
+					"ward_name": "南幌町",
+					"town_name": "南１９線西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "空知郡"
+		},
+		"0690218": {
+			"postcode": "0690218",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Sorachi-gun",
+			"ward_name": "Namporo-cho",
+			"town_name": "Minami18-sennishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "空知郡",
+					"ward_name": "南幌町",
+					"town_name": "南１８線西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "空知郡"
+		},
+		"0690217": {
+			"postcode": "0690217",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Sorachi-gun",
+			"ward_name": "Namporo-cho",
+			"town_name": "Minami17-sennishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "空知郡",
+					"ward_name": "南幌町",
+					"town_name": "南１７線西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "空知郡"
+		},
+		"0690216": {
+			"postcode": "0690216",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Sorachi-gun",
+			"ward_name": "Namporo-cho",
+			"town_name": "Minami16-sennishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "空知郡",
+					"ward_name": "南幌町",
+					"town_name": "南１６線西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "空知郡"
+		},
+		"0690215": {
+			"postcode": "0690215",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Sorachi-gun",
+			"ward_name": "Namporo-cho",
+			"town_name": "Minami15-sennishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "空知郡",
+					"ward_name": "南幌町",
+					"town_name": "南１５線西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "空知郡"
+		},
+		"0690214": {
+			"postcode": "0690214",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Sorachi-gun",
+			"ward_name": "Namporo-cho",
+			"town_name": "Minami14-sennishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "空知郡",
+					"ward_name": "南幌町",
+					"town_name": "南１４線西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "空知郡"
+		},
+		"0690213": {
+			"postcode": "0690213",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Sorachi-gun",
+			"ward_name": "Namporo-cho",
+			"town_name": "Minami13-sennishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "空知郡",
+					"ward_name": "南幌町",
+					"town_name": "南１３線西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "空知郡"
+		},
+		"0690212": {
+			"postcode": "0690212",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Sorachi-gun",
+			"ward_name": "Namporo-cho",
+			"town_name": "Minami12-sennishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "空知郡",
+					"ward_name": "南幌町",
+					"town_name": "南１２線西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "空知郡"
+		},
+		"0690211": {
+			"postcode": "0690211",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Sorachi-gun",
+			"ward_name": "Namporo-cho",
+			"town_name": "Minami11-sennishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "空知郡",
+					"ward_name": "南幌町",
+					"town_name": "南１１線西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "空知郡"
+		},
+		"0690210": {
+			"postcode": "0690210",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Sorachi-gun",
+			"ward_name": "Namporo-cho",
+			"town_name": "Minami10-sennishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "空知郡",
+					"ward_name": "南幌町",
+					"town_name": "南１０線西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "空知郡"
+		},
+		"0690209": {
+			"postcode": "0690209",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Sorachi-gun",
+			"ward_name": "Namporo-cho",
+			"town_name": "Minami9-sennishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "空知郡",
+					"ward_name": "南幌町",
+					"town_name": "南９線西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "空知郡"
+		},
+		"0690208": {
+			"postcode": "0690208",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Sorachi-gun",
+			"ward_name": "Namporo-cho",
+			"town_name": "Minami8-sennishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "空知郡",
+					"ward_name": "南幌町",
+					"town_name": "南８線西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "空知郡"
+		},
+		"0690207": {
+			"postcode": "0690207",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Sorachi-gun",
+			"ward_name": "Namporo-cho",
+			"town_name": "Minami7-sennishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "空知郡",
+					"ward_name": "南幌町",
+					"town_name": "南７線西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "空知郡"
+		},
+		"0690200": {
+			"postcode": "0690200",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Sorachi-gun",
+			"ward_name": "Namporo-cho",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "空知郡",
+					"ward_name": "南幌町",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "空知郡"
+		}
+	}
+}

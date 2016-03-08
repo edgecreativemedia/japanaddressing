@@ -1,0 +1,2229 @@
+{
+	"country_code": "JP",
+	"parent_id": "563",
+	"locale": "ja-Latn",
+	"address": {
+		"5638588": {
+			"postcode": "5638588",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "城南",
+			"building_name": "１丁目１番１号",
+			"organization_name": "大阪府　豊能府税事務所",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "城南",
+					"building_name": "１丁目１番１号",
+					"organization_name": "大阪府　豊能府税事務所"
+				}
+			}
+		},
+		"5638577": {
+			"postcode": "5638577",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "緑丘",
+			"building_name": "１丁目８番３１号",
+			"organization_name": "独立行政法人　産業技術総合研究所　関西センター",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "緑丘",
+					"building_name": "１丁目８番３１号",
+					"organization_name": "独立行政法人　産業技術総合研究所　関西センター"
+				}
+			}
+		},
+		"5638567": {
+			"postcode": "5638567",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "満寿美町",
+			"building_name": "９番２５号",
+			"organization_name": "大阪法務局　池田出張所",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "満寿美町",
+					"building_name": "９番２５号",
+					"organization_name": "大阪法務局　池田出張所"
+				}
+			}
+		},
+		"5638510": {
+			"postcode": "5638510",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "城南",
+			"building_name": "３丁目１番１８号",
+			"organization_name": "市立　池田病院",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "城南",
+					"building_name": "３丁目１番１８号",
+					"organization_name": "市立　池田病院"
+				}
+			}
+		},
+		"5630801": {
+			"postcode": "5630801",
+			"prefecture_name": "Hyogo-ken",
+			"city_name": "Itami-shi",
+			"ward_name": "",
+			"town_name": "Osakaden",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "兵庫県",
+					"city_name": "伊丹市",
+					"ward_name": "",
+					"town_name": "小阪田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "兵庫県",
+			"city_code": "伊丹市"
+		},
+		"5630373": {
+			"postcode": "5630373",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Nose-cho",
+			"town_name": "Yamada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "能勢町",
+					"town_name": "山田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630372": {
+			"postcode": "5630372",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Nose-cho",
+			"town_name": "Yamabe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "能勢町",
+					"town_name": "山辺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630371": {
+			"postcode": "5630371",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Nose-cho",
+			"town_name": "Tenno",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "能勢町",
+					"town_name": "天王",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630368": {
+			"postcode": "5630368",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Nose-cho",
+			"town_name": "Nagatani",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "能勢町",
+					"town_name": "長谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630367": {
+			"postcode": "5630367",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Nose-cho",
+			"town_name": "Koyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "能勢町",
+					"town_name": "神山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630366": {
+			"postcode": "5630366",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Nose-cho",
+			"town_name": "Tarumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "能勢町",
+					"town_name": "垂水",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630365": {
+			"postcode": "5630365",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Nose-cho",
+			"town_name": "Uesugi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "能勢町",
+					"town_name": "上杉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630364": {
+			"postcode": "5630364",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Nose-cho",
+			"town_name": "Hirano",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "能勢町",
+					"town_name": "平野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630363": {
+			"postcode": "5630363",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Nose-cho",
+			"town_name": "Inaji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "能勢町",
+					"town_name": "稲地",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630362": {
+			"postcode": "5630362",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Nose-cho",
+			"town_name": "Morigami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "能勢町",
+					"town_name": "森上",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630361": {
+			"postcode": "5630361",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Nose-cho",
+			"town_name": "Imanishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "能勢町",
+					"town_name": "今西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630356": {
+			"postcode": "5630356",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Nose-cho",
+			"town_name": "Hiradori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "能勢町",
+					"town_name": "平通",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630355": {
+			"postcode": "5630355",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Nose-cho",
+			"town_name": "Shimoda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "能勢町",
+					"town_name": "下田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630354": {
+			"postcode": "5630354",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Nose-cho",
+			"town_name": "Katayama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "能勢町",
+					"town_name": "片山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630353": {
+			"postcode": "5630353",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Nose-cho",
+			"town_name": "Kashihara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "能勢町",
+					"town_name": "柏原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630352": {
+			"postcode": "5630352",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Nose-cho",
+			"town_name": "Ozato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "能勢町",
+					"town_name": "大里",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630351": {
+			"postcode": "5630351",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Nose-cho",
+			"town_name": "Kurusu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "能勢町",
+					"town_name": "栗栖",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630341": {
+			"postcode": "5630341",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Nose-cho",
+			"town_name": "Shukuno",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "能勢町",
+					"town_name": "宿野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630300": {
+			"postcode": "5630300",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Nose-cho",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "能勢町",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630292": {
+			"postcode": "5630292",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Toyono-cho",
+			"town_name": "余野",
+			"building_name": "４１４番地１",
+			"organization_name": "豊能町",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "豊能町",
+					"town_name": "余野",
+					"building_name": "４１４番地１",
+					"organization_name": "豊能町"
+				}
+			}
+		},
+		"5630258": {
+			"postcode": "5630258",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Mino-shi",
+			"ward_name": "",
+			"town_name": "Shimmachiminami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "箕面市",
+					"ward_name": "",
+					"town_name": "森町南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "箕面市"
+		},
+		"5630257": {
+			"postcode": "5630257",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Mino-shi",
+			"ward_name": "",
+			"town_name": "Shimmachinaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "箕面市",
+					"ward_name": "",
+					"town_name": "森町中",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "箕面市"
+		},
+		"5630256": {
+			"postcode": "5630256",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Mino-shi",
+			"ward_name": "",
+			"town_name": "Shimmachikita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "箕面市",
+					"ward_name": "",
+					"town_name": "森町北",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "箕面市"
+		},
+		"5630255": {
+			"postcode": "5630255",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Mino-shi",
+			"ward_name": "",
+			"town_name": "Shimmachinishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "箕面市",
+					"ward_name": "",
+					"town_name": "森町西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "箕面市"
+		},
+		"5630252": {
+			"postcode": "5630252",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Mino-shi",
+			"ward_name": "",
+			"town_name": "Shimotodoromi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "箕面市",
+					"ward_name": "",
+					"town_name": "下止々呂美",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "箕面市"
+		},
+		"5630251": {
+			"postcode": "5630251",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Mino-shi",
+			"ward_name": "",
+			"town_name": "Kamitodoromi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "箕面市",
+					"ward_name": "",
+					"town_name": "上止々呂美",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "箕面市"
+		},
+		"5630219": {
+			"postcode": "5630219",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Toyono-cho",
+			"town_name": "Yono",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "豊能町",
+					"town_name": "余野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630218": {
+			"postcode": "5630218",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Toyono-cho",
+			"town_name": "Nomaguchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "豊能町",
+					"town_name": "野間口",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630217": {
+			"postcode": "5630217",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Toyono-cho",
+			"town_name": "Kawashiri",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "豊能町",
+					"town_name": "川尻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630216": {
+			"postcode": "5630216",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Toyono-cho",
+			"town_name": "Takayama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "豊能町",
+					"town_name": "高山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630215": {
+			"postcode": "5630215",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Toyono-cho",
+			"town_name": "Kishiro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "豊能町",
+					"town_name": "木代",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630214": {
+			"postcode": "5630214",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Toyono-cho",
+			"town_name": "Kibogaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "豊能町",
+					"town_name": "希望ケ丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630213": {
+			"postcode": "5630213",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Toyono-cho",
+			"town_name": "Kirihata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "豊能町",
+					"town_name": "切畑",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630212": {
+			"postcode": "5630212",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Toyono-cho",
+			"town_name": "Terada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "豊能町",
+					"town_name": "寺田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630211": {
+			"postcode": "5630211",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Toyono-cho",
+			"town_name": "Maki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "豊能町",
+					"town_name": "牧",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630135": {
+			"postcode": "5630135",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Nose-cho",
+			"town_name": "Nomanishiyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "能勢町",
+					"town_name": "野間西山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630134": {
+			"postcode": "5630134",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Nose-cho",
+			"town_name": "Nomashutsuno",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "能勢町",
+					"town_name": "野間出野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630133": {
+			"postcode": "5630133",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Nose-cho",
+			"town_name": "Nomainaji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "能勢町",
+					"town_name": "野間稲地",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630132": {
+			"postcode": "5630132",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Nose-cho",
+			"town_name": "Nomanaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "能勢町",
+					"town_name": "野間中",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630131": {
+			"postcode": "5630131",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Nose-cho",
+			"town_name": "Nomaohara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "能勢町",
+					"town_name": "野間大原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630123": {
+			"postcode": "5630123",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Nose-cho",
+			"town_name": "Shimotajiri",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "能勢町",
+					"town_name": "下田尻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630122": {
+			"postcode": "5630122",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Nose-cho",
+			"town_name": "Kamitajiri",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "能勢町",
+					"town_name": "上田尻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630121": {
+			"postcode": "5630121",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Nose-cho",
+			"town_name": "Jio",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "能勢町",
+					"town_name": "地黄",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630114": {
+			"postcode": "5630114",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Nose-cho",
+			"town_name": "Yamauchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "能勢町",
+					"town_name": "山内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630113": {
+			"postcode": "5630113",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Nose-cho",
+			"town_name": "Kuragaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "能勢町",
+					"town_name": "倉垣",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630112": {
+			"postcode": "5630112",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Nose-cho",
+			"town_name": "Sugihara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "能勢町",
+					"town_name": "杉原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630111": {
+			"postcode": "5630111",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Nose-cho",
+			"town_name": "Yoshino",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "能勢町",
+					"town_name": "吉野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630105": {
+			"postcode": "5630105",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Toyono-cho",
+			"town_name": "Shinkofudai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "豊能町",
+					"town_name": "新光風台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630104": {
+			"postcode": "5630104",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Toyono-cho",
+			"town_name": "Kofudai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "豊能町",
+					"town_name": "光風台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630103": {
+			"postcode": "5630103",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Toyono-cho",
+			"town_name": "Higashitokiwadai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "豊能町",
+					"town_name": "東ときわ台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630102": {
+			"postcode": "5630102",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Toyono-cho",
+			"town_name": "Tokiwadai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "豊能町",
+					"town_name": "ときわ台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630101": {
+			"postcode": "5630101",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Toyono-cho",
+			"town_name": "Yoshikawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "豊能町",
+					"town_name": "吉川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630100": {
+			"postcode": "5630100",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Toyono-gun",
+			"ward_name": "Toyono-cho",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "豊能郡",
+					"ward_name": "豊能町",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "豊能郡"
+		},
+		"5630059": {
+			"postcode": "5630059",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "Nishihommachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "西本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市"
+		},
+		"5630058": {
+			"postcode": "5630058",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "Sakaehommachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "栄本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市"
+		},
+		"5630057": {
+			"postcode": "5630057",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "Tsukinokicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "槻木町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市"
+		},
+		"5630056": {
+			"postcode": "5630056",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "Sakaemachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "栄町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市"
+		},
+		"5630055": {
+			"postcode": "5630055",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "Sugaharacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "菅原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市"
+		},
+		"5630054": {
+			"postcode": "5630054",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "Daiwacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "大和町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市"
+		},
+		"5630053": {
+			"postcode": "5630053",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "Tateishicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "建石町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市"
+		},
+		"5630052": {
+			"postcode": "5630052",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "Shiroyamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "城山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市"
+		},
+		"5630051": {
+			"postcode": "5630051",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "Ayaha",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "綾羽",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市"
+		},
+		"5630050": {
+			"postcode": "5630050",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "Shimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市"
+		},
+		"5630048": {
+			"postcode": "5630048",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "Kurehacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "呉服町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市"
+		},
+		"5630047": {
+			"postcode": "5630047",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "Muromachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "室町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市"
+		},
+		"5630046": {
+			"postcode": "5630046",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "Himemurocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "姫室町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市"
+		},
+		"5630045": {
+			"postcode": "5630045",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "Momozono",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "桃園",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市"
+		},
+		"5630044": {
+			"postcode": "5630044",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "Daihatsucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "ダイハツ町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市"
+		},
+		"5630043": {
+			"postcode": "5630043",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "Koda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "神田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市"
+		},
+		"5630042": {
+			"postcode": "5630042",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "Uhocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "宇保町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市"
+		},
+		"5630041": {
+			"postcode": "5630041",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "Masumicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "満寿美町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市"
+		},
+		"5630038": {
+			"postcode": "5630038",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "Soen",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "荘園",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市"
+		},
+		"5630037": {
+			"postcode": "5630037",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "Hachioji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "八王寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市"
+		},
+		"5630036": {
+			"postcode": "5630036",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "Toyoshima",
+			"building_name": "Kita",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "豊島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市"
+		},
+		"5630035": {
+			"postcode": "5630035",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "Toyoshima",
+			"building_name": "Minami",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "豊島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市"
+		},
+		"5630034": {
+			"postcode": "5630034",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "Kuko",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "空港",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市"
+		},
+		"5630033": {
+			"postcode": "5630033",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "Sumiyoshi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "住吉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市"
+		},
+		"5630032": {
+			"postcode": "5630032",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "Ishibashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "石橋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市"
+		},
+		"5630031": {
+			"postcode": "5630031",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "Tenjin",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "天神",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市"
+		},
+		"5630029": {
+			"postcode": "5630029",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "Satsukigaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "五月丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市"
+		},
+		"5630028": {
+			"postcode": "5630028",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "Shibutani",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "渋谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市"
+		},
+		"5630027": {
+			"postcode": "5630027",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "Ueikeda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "上池田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市"
+		},
+		"5630026": {
+			"postcode": "5630026",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "Midorigaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "緑丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市"
+		},
+		"5630025": {
+			"postcode": "5630025",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "Jonan",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "城南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市"
+		},
+		"5630024": {
+			"postcode": "5630024",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "Hachizuka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "鉢塚",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市"
+		},
+		"5630023": {
+			"postcode": "5630023",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "Iguchido",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "井口堂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市"
+		},
+		"5630022": {
+			"postcode": "5630022",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "Asahigaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "旭丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市"
+		},
+		"5630021": {
+			"postcode": "5630021",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "Hata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "畑",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市"
+		},
+		"5630017": {
+			"postcode": "5630017",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "Fushiodai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "伏尾台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市"
+		},
+		"5630016": {
+			"postcode": "5630016",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "Yoshidacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "吉田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市"
+		},
+		"5630015": {
+			"postcode": "5630015",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "Furuecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "古江町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市"
+		},
+		"5630014": {
+			"postcode": "5630014",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "Kibecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "木部町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市"
+		},
+		"5630013": {
+			"postcode": "5630013",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "Nakagawaracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "中川原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市"
+		},
+		"5630012": {
+			"postcode": "5630012",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "Higashiyamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "東山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市"
+		},
+		"5630011": {
+			"postcode": "5630011",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "Fushiocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "伏尾町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市"
+		},
+		"5630000": {
+			"postcode": "5630000",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Ikeda-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "池田市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "池田市"
+		}
+	}
+}

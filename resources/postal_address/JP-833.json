@@ -1,0 +1,953 @@
+{
+	"country_code": "JP",
+	"parent_id": "833",
+	"locale": "ja-Latn",
+	"address": {
+		"8338601": {
+			"postcode": "8338601",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikugo-shi",
+			"ward_name": "",
+			"town_name": "大字山ノ井",
+			"building_name": "８９８（筑後郵便局私書箱第６号）",
+			"organization_name": "筑後市役所",
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "筑後市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "筑後市",
+					"ward_name": "",
+					"town_name": "大字山ノ井",
+					"building_name": "８９８（筑後郵便局私書箱第６号）",
+					"organization_name": "筑後市役所"
+				}
+			}
+		},
+		"8330056": {
+			"postcode": "8330056",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikugo-shi",
+			"ward_name": "",
+			"town_name": "Hisadomi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "筑後市",
+					"ward_name": "",
+					"town_name": "久富",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "筑後市"
+		},
+		"8330055": {
+			"postcode": "8330055",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikugo-shi",
+			"ward_name": "",
+			"town_name": "Kumano",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "筑後市",
+					"ward_name": "",
+					"town_name": "熊野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "筑後市"
+		},
+		"8330054": {
+			"postcode": "8330054",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikugo-shi",
+			"ward_name": "",
+			"town_name": "Kurakazu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "筑後市",
+					"ward_name": "",
+					"town_name": "蔵数",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "筑後市"
+		},
+		"8330053": {
+			"postcode": "8330053",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikugo-shi",
+			"ward_name": "",
+			"town_name": "Nishimuta",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "筑後市",
+					"ward_name": "",
+					"town_name": "西牟田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "筑後市"
+		},
+		"8330052": {
+			"postcode": "8330052",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikugo-shi",
+			"ward_name": "",
+			"town_name": "Takae",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "筑後市",
+					"ward_name": "",
+					"town_name": "高江",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "筑後市"
+		},
+		"8330051": {
+			"postcode": "8330051",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikugo-shi",
+			"ward_name": "",
+			"town_name": "Tomishige",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "筑後市",
+					"ward_name": "",
+					"town_name": "富重",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "筑後市"
+		},
+		"8330047": {
+			"postcode": "8330047",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikugo-shi",
+			"ward_name": "",
+			"town_name": "Wakana",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "筑後市",
+					"ward_name": "",
+					"town_name": "若菜",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "筑後市"
+		},
+		"8330046": {
+			"postcode": "8330046",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikugo-shi",
+			"ward_name": "",
+			"town_name": "Eguchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "筑後市",
+					"ward_name": "",
+					"town_name": "江口",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "筑後市"
+		},
+		"8330045": {
+			"postcode": "8330045",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikugo-shi",
+			"ward_name": "",
+			"town_name": "Shikasho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "筑後市",
+					"ward_name": "",
+					"town_name": "四ケ所",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "筑後市"
+		},
+		"8330044": {
+			"postcode": "8330044",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikugo-shi",
+			"ward_name": "",
+			"town_name": "Tomihisa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "筑後市",
+					"ward_name": "",
+					"town_name": "富久",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "筑後市"
+		},
+		"8330043": {
+			"postcode": "8330043",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikugo-shi",
+			"ward_name": "",
+			"town_name": "Shojima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "筑後市",
+					"ward_name": "",
+					"town_name": "庄島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "筑後市"
+		},
+		"8330042": {
+			"postcode": "8330042",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikugo-shi",
+			"ward_name": "",
+			"town_name": "Nagasaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "筑後市",
+					"ward_name": "",
+					"town_name": "長崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "筑後市"
+		},
+		"8330041": {
+			"postcode": "8330041",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikugo-shi",
+			"ward_name": "",
+			"town_name": "Izumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "筑後市",
+					"ward_name": "",
+					"town_name": "和泉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "筑後市"
+		},
+		"8330037": {
+			"postcode": "8330037",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikugo-shi",
+			"ward_name": "",
+			"town_name": "Shimada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "筑後市",
+					"ward_name": "",
+					"town_name": "島田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "筑後市"
+		},
+		"8330036": {
+			"postcode": "8330036",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikugo-shi",
+			"ward_name": "",
+			"town_name": "Seiden",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "筑後市",
+					"ward_name": "",
+					"town_name": "井田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "筑後市"
+		},
+		"8330035": {
+			"postcode": "8330035",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikugo-shi",
+			"ward_name": "",
+			"town_name": "Kojima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "筑後市",
+					"ward_name": "",
+					"town_name": "古島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "筑後市"
+		},
+		"8330034": {
+			"postcode": "8330034",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikugo-shi",
+			"ward_name": "",
+			"town_name": "Shimokitajima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "筑後市",
+					"ward_name": "",
+					"town_name": "下北島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "筑後市"
+		},
+		"8330033": {
+			"postcode": "8330033",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikugo-shi",
+			"ward_name": "",
+			"town_name": "Kamikitajima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "筑後市",
+					"ward_name": "",
+					"town_name": "上北島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "筑後市"
+		},
+		"8330032": {
+			"postcode": "8330032",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikugo-shi",
+			"ward_name": "",
+			"town_name": "Nomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "筑後市",
+					"ward_name": "",
+					"town_name": "野町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "筑後市"
+		},
+		"8330031": {
+			"postcode": "8330031",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikugo-shi",
+			"ward_name": "",
+			"town_name": "Yamanoi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "筑後市",
+					"ward_name": "",
+					"town_name": "山ノ井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "筑後市"
+		},
+		"8330027": {
+			"postcode": "8330027",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikugo-shi",
+			"ward_name": "",
+			"town_name": "Mizuta",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "筑後市",
+					"ward_name": "",
+					"town_name": "水田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "筑後市"
+		},
+		"8330026": {
+			"postcode": "8330026",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikugo-shi",
+			"ward_name": "",
+			"town_name": "Oriji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "筑後市",
+					"ward_name": "",
+					"town_name": "折地",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "筑後市"
+		},
+		"8330025": {
+			"postcode": "8330025",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikugo-shi",
+			"ward_name": "",
+			"town_name": "Nakaoriji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "筑後市",
+					"ward_name": "",
+					"town_name": "中折地",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "筑後市"
+		},
+		"8330024": {
+			"postcode": "8330024",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikugo-shi",
+			"ward_name": "",
+			"town_name": "Nakamuta",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "筑後市",
+					"ward_name": "",
+					"town_name": "中牟田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "筑後市"
+		},
+		"8330023": {
+			"postcode": "8330023",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikugo-shi",
+			"ward_name": "",
+			"town_name": "Mamada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "筑後市",
+					"ward_name": "",
+					"town_name": "馬間田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "筑後市"
+		},
+		"8330022": {
+			"postcode": "8330022",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikugo-shi",
+			"ward_name": "",
+			"town_name": "Tomiyasu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "筑後市",
+					"ward_name": "",
+					"town_name": "富安",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "筑後市"
+		},
+		"8330021": {
+			"postcode": "8330021",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikugo-shi",
+			"ward_name": "",
+			"town_name": "Shimotsuma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "筑後市",
+					"ward_name": "",
+					"town_name": "下妻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "筑後市"
+		},
+		"8330017": {
+			"postcode": "8330017",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikugo-shi",
+			"ward_name": "",
+			"town_name": "Shimura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "筑後市",
+					"ward_name": "",
+					"town_name": "志",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "筑後市"
+		},
+		"8330016": {
+			"postcode": "8330016",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikugo-shi",
+			"ward_name": "",
+			"town_name": "Tsunemochi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "筑後市",
+					"ward_name": "",
+					"town_name": "常用",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "筑後市"
+		},
+		"8330015": {
+			"postcode": "8330015",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikugo-shi",
+			"ward_name": "",
+			"town_name": "Tsushima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "筑後市",
+					"ward_name": "",
+					"town_name": "津島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "筑後市"
+		},
+		"8330014": {
+			"postcode": "8330014",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikugo-shi",
+			"ward_name": "",
+			"town_name": "Oshima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "筑後市",
+					"ward_name": "",
+					"town_name": "尾島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "筑後市"
+		},
+		"8330013": {
+			"postcode": "8330013",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikugo-shi",
+			"ward_name": "",
+			"town_name": "Kitanagata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "筑後市",
+					"ward_name": "",
+					"town_name": "北長田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "筑後市"
+		},
+		"8330012": {
+			"postcode": "8330012",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikugo-shi",
+			"ward_name": "",
+			"town_name": "Mizokuchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "筑後市",
+					"ward_name": "",
+					"town_name": "溝口",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "筑後市"
+		},
+		"8330011": {
+			"postcode": "8330011",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikugo-shi",
+			"ward_name": "",
+			"town_name": "Kue",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "筑後市",
+					"ward_name": "",
+					"town_name": "久恵",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "筑後市"
+		},
+		"8330007": {
+			"postcode": "8330007",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikugo-shi",
+			"ward_name": "",
+			"town_name": "Tsuruda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "筑後市",
+					"ward_name": "",
+					"town_name": "鶴田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "筑後市"
+		},
+		"8330006": {
+			"postcode": "8330006",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikugo-shi",
+			"ward_name": "",
+			"town_name": "Shimmizo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "筑後市",
+					"ward_name": "",
+					"town_name": "新溝",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "筑後市"
+		},
+		"8330005": {
+			"postcode": "8330005",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikugo-shi",
+			"ward_name": "",
+			"town_name": "Nagahama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "筑後市",
+					"ward_name": "",
+					"town_name": "長浜",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "筑後市"
+		},
+		"8330004": {
+			"postcode": "8330004",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikugo-shi",
+			"ward_name": "",
+			"town_name": "Tokuhisa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "筑後市",
+					"ward_name": "",
+					"town_name": "徳久",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "筑後市"
+		},
+		"8330003": {
+			"postcode": "8330003",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikugo-shi",
+			"ward_name": "",
+			"town_name": "Hainuzuka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "筑後市",
+					"ward_name": "",
+					"town_name": "羽犬塚",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "筑後市"
+		},
+		"8330002": {
+			"postcode": "8330002",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikugo-shi",
+			"ward_name": "",
+			"town_name": "Maezu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "筑後市",
+					"ward_name": "",
+					"town_name": "前津",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "筑後市"
+		},
+		"8330001": {
+			"postcode": "8330001",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikugo-shi",
+			"ward_name": "",
+			"town_name": "Ichijo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "筑後市",
+					"ward_name": "",
+					"town_name": "一条",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "筑後市"
+		},
+		"8330000": {
+			"postcode": "8330000",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Chikugo-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "筑後市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "筑後市"
+		}
+	}
+}

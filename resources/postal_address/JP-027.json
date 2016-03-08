@@ -1,0 +1,3373 @@
+{
+	"country_code": "JP",
+	"parent_id": "027",
+	"locale": "ja-Latn",
+	"address": {
+		"0278503": {
+			"postcode": "0278503",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "太田",
+			"building_name": "１丁目７−１２",
+			"organization_name": "宮古社会保険事務所",
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "太田",
+					"building_name": "１丁目７−１２",
+					"organization_name": "宮古社会保険事務所"
+				}
+			}
+		},
+		"0278502": {
+			"postcode": "0278502",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "大字崎鍬ケ崎",
+			"building_name": "第１地割１１−２６",
+			"organization_name": "岩手県立　宮古病院",
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "大字崎鍬ケ崎",
+					"building_name": "第１地割１１−２６",
+					"organization_name": "岩手県立　宮古病院"
+				}
+			}
+		},
+		"0278501": {
+			"postcode": "0278501",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "新川町",
+			"building_name": "２−１",
+			"organization_name": "宮古市役所",
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "新川町",
+					"building_name": "２−１",
+					"organization_name": "宮古市役所"
+				}
+			}
+		},
+		"0270611": {
+			"postcode": "0270611",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Shimohei-gun",
+			"ward_name": "Iwaizumi-cho",
+			"town_name": "Akka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "下閉伊郡",
+					"ward_name": "岩泉町",
+					"town_name": "安家",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "下閉伊郡"
+		},
+		"0270595": {
+			"postcode": "0270595",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Shimohei-gun",
+			"ward_name": "Iwaizumi-cho",
+			"town_name": "岩泉",
+			"building_name": "字惣畑５９−５",
+			"organization_name": "岩泉町役場",
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "下閉伊郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "下閉伊郡",
+					"ward_name": "岩泉町",
+					"town_name": "岩泉",
+					"building_name": "字惣畑５９−５",
+					"organization_name": "岩泉町役場"
+				}
+			}
+		},
+		"0270508": {
+			"postcode": "0270508",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Shimohei-gun",
+			"ward_name": "Iwaizumi-cho",
+			"town_name": "Amahitai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "下閉伊郡",
+					"ward_name": "岩泉町",
+					"town_name": "尼額",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "下閉伊郡"
+		},
+		"0270507": {
+			"postcode": "0270507",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Shimohei-gun",
+			"ward_name": "Iwaizumi-cho",
+			"town_name": "Nishoishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "下閉伊郡",
+					"ward_name": "岩泉町",
+					"town_name": "二升石",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "下閉伊郡"
+		},
+		"0270506": {
+			"postcode": "0270506",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Shimohei-gun",
+			"ward_name": "Iwaizumi-cho",
+			"town_name": "Soiri",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "下閉伊郡",
+					"ward_name": "岩泉町",
+					"town_name": "鼠入",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "下閉伊郡"
+		},
+		"0270505": {
+			"postcode": "0270505",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Shimohei-gun",
+			"ward_name": "Iwaizumi-cho",
+			"town_name": "Kamiugei",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "下閉伊郡",
+					"ward_name": "岩泉町",
+					"town_name": "上有芸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "下閉伊郡"
+		},
+		"0270504": {
+			"postcode": "0270504",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Shimohei-gun",
+			"ward_name": "Iwaizumi-cho",
+			"town_name": "Shimogei",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "下閉伊郡",
+					"ward_name": "岩泉町",
+					"town_name": "下有芸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "下閉伊郡"
+		},
+		"0270503": {
+			"postcode": "0270503",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Shimohei-gun",
+			"ward_name": "Iwaizumi-cho",
+			"town_name": "Sarusawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "下閉伊郡",
+					"ward_name": "岩泉町",
+					"town_name": "猿沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "下閉伊郡"
+		},
+		"0270502": {
+			"postcode": "0270502",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Shimohei-gun",
+			"ward_name": "Iwaizumi-cho",
+			"town_name": "Otomo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "下閉伊郡",
+					"ward_name": "岩泉町",
+					"town_name": "乙茂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "下閉伊郡"
+		},
+		"0270501": {
+			"postcode": "0270501",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Shimohei-gun",
+			"ward_name": "Iwaizumi-cho",
+			"town_name": "Iwaizumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "下閉伊郡",
+					"ward_name": "岩泉町",
+					"town_name": "岩泉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "下閉伊郡"
+		},
+		"0270500": {
+			"postcode": "0270500",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Shimohei-gun",
+			"ward_name": "Iwaizumi-cho",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "下閉伊郡",
+					"ward_name": "岩泉町",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "下閉伊郡"
+		},
+		"0270424": {
+			"postcode": "0270424",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Shimohei-gun",
+			"ward_name": "Iwaizumi-cho",
+			"town_name": "Horono",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "下閉伊郡",
+					"ward_name": "岩泉町",
+					"town_name": "袰野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "下閉伊郡"
+		},
+		"0270423": {
+			"postcode": "0270423",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Shimohei-gun",
+			"ward_name": "Iwaizumi-cho",
+			"town_name": "Nakasato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "下閉伊郡",
+					"ward_name": "岩泉町",
+					"town_name": "中里",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "下閉伊郡"
+		},
+		"0270422": {
+			"postcode": "0270422",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Shimohei-gun",
+			"ward_name": "Iwaizumi-cho",
+			"town_name": "Nakashima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "下閉伊郡",
+					"ward_name": "岩泉町",
+					"town_name": "中島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "下閉伊郡"
+		},
+		"0270421": {
+			"postcode": "0270421",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Shimohei-gun",
+			"ward_name": "Iwaizumi-cho",
+			"town_name": "Omoto",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "下閉伊郡",
+					"ward_name": "岩泉町",
+					"town_name": "小本",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "下閉伊郡"
+		},
+		"0270388": {
+			"postcode": "0270388",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Kamioki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270387": {
+			"postcode": "0270387",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Hata",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270386": {
+			"postcode": "0270386",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Kurumihata",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270385": {
+			"postcode": "0270385",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Shimosettai",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270384": {
+			"postcode": "0270384",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Settai",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270383": {
+			"postcode": "0270383",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Kamisettai",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270382": {
+			"postcode": "0270382",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Katamaki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270381": {
+			"postcode": "0270381",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Hoshiyama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270379": {
+			"postcode": "0270379",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Otobeno",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270378": {
+			"postcode": "0270378",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Omotsube",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270377": {
+			"postcode": "0270377",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Omotsubekita",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270376": {
+			"postcode": "0270376",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Aonotakiminami",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270375": {
+			"postcode": "0270375",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Aonotaki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270374": {
+			"postcode": "0270374",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Aonotakikita",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270373": {
+			"postcode": "0270373",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Mukaishinden",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270372": {
+			"postcode": "0270372",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Mizusawaminami",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270371": {
+			"postcode": "0270371",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Mizusawa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270367": {
+			"postcode": "0270367",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Suzukosawa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270366": {
+			"postcode": "0270366",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Nittadaira",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270365": {
+			"postcode": "0270365",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Takinosawa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270364": {
+			"postcode": "0270364",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Shinden",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270363": {
+			"postcode": "0270363",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Nagabatake",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270362": {
+			"postcode": "0270362",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Koborinaiminami",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270361": {
+			"postcode": "0270361",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Koborinai",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270359": {
+			"postcode": "0270359",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Aokura",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270358": {
+			"postcode": "0270358",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Tatekoshi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270357": {
+			"postcode": "0270357",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Mukaikuwahata",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270356": {
+			"postcode": "0270356",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Wayama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270355": {
+			"postcode": "0270355",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Suemae",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270354": {
+			"postcode": "0270354",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Morisaki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270353": {
+			"postcode": "0270353",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Wamaki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270352": {
+			"postcode": "0270352",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Yahatasuijin",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270351": {
+			"postcode": "0270351",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Kobayashi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270347": {
+			"postcode": "0270347",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Sasamitaira",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270346": {
+			"postcode": "0270346",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Nanataki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270345": {
+			"postcode": "0270345",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Shinokura",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270344": {
+			"postcode": "0270344",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Tatsunokuchi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270343": {
+			"postcode": "0270343",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Kamikodashiro",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270342": {
+			"postcode": "0270342",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Kodashiro",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270341": {
+			"postcode": "0270341",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Yorochi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270333": {
+			"postcode": "0270333",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Furuta",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270332": {
+			"postcode": "0270332",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Kashinai",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270331": {
+			"postcode": "0270331",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Nishimukaiyama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270324": {
+			"postcode": "0270324",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Mukaiyama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270323": {
+			"postcode": "0270323",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Nohara",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270322": {
+			"postcode": "0270322",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Aozari",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270321": {
+			"postcode": "0270321",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Otobe",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270313": {
+			"postcode": "0270313",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Shundatsu",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270312": {
+			"postcode": "0270312",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Koshida",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270311": {
+			"postcode": "0270311",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Wano",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270306": {
+			"postcode": "0270306",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Kawamukai",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270305": {
+			"postcode": "0270305",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Ariya",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270304": {
+			"postcode": "0270304",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Kerasu",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270303": {
+			"postcode": "0270303",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Tanosawa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270302": {
+			"postcode": "0270302",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Tanaka",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270301": {
+			"postcode": "0270301",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Taro",
+			"building_name": "Tategamori",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270203": {
+			"postcode": "0270203",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Tsugaruishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "津軽石",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270202": {
+			"postcode": "0270202",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Akamae",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "赤前",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270201": {
+			"postcode": "0270201",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Shirahama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "白浜",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270112": {
+			"postcode": "0270112",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Otobe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "音部",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270111": {
+			"postcode": "0270111",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Omoe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "重茂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270097": {
+			"postcode": "0270097",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Sakiyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "崎山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270096": {
+			"postcode": "0270096",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Sakikuwagasaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "崎鍬ケ崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270095": {
+			"postcode": "0270095",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Sabara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "佐原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270094": {
+			"postcode": "0270094",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Hinodecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "日の出町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270093": {
+			"postcode": "0270093",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Nakasatodanchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "中里団地",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270092": {
+			"postcode": "0270092",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Atago",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "愛宕",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270091": {
+			"postcode": "0270091",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Tsukiji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "築地",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270089": {
+			"postcode": "0270089",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Motomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270088": {
+			"postcode": "0270088",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Sawada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "沢田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270087": {
+			"postcode": "0270087",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Yokomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "横町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270086": {
+			"postcode": "0270086",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Aramachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270085": {
+			"postcode": "0270085",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Kurotamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "黒田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270084": {
+			"postcode": "0270084",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Suehirocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "末広町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270083": {
+			"postcode": "0270083",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Odori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "大通",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270082": {
+			"postcode": "0270082",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Mukaimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "向町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270081": {
+			"postcode": "0270081",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Shinkawacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "新川町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270078": {
+			"postcode": "0270078",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Kamozakicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "鴨崎町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270077": {
+			"postcode": "0270077",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Tateaicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "舘合町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270076": {
+			"postcode": "0270076",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Sakaecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "栄町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270075": {
+			"postcode": "0270075",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Wamimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "和見町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270074": {
+			"postcode": "0270074",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Hokuda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "保久田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270073": {
+			"postcode": "0270073",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Midorigaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "緑ケ丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270072": {
+			"postcode": "0270072",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Satsukicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "五月町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270071": {
+			"postcode": "0270071",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Kozawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "小沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270067": {
+			"postcode": "0270067",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Tashiro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田代",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270066": {
+			"postcode": "0270066",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Tanokami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田の神",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270065": {
+			"postcode": "0270065",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Kuromoricho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "黒森町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270064": {
+			"postcode": "0270064",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Miyazono",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "宮園",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270063": {
+			"postcode": "0270063",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Yamaguchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "山口",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270062": {
+			"postcode": "0270062",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Izumicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "泉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270061": {
+			"postcode": "0270061",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Nishimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "西町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270058": {
+			"postcode": "0270058",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Sentoku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "千徳",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270056": {
+			"postcode": "0270056",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Chikanai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "近内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270055": {
+			"postcode": "0270055",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Nagane",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "長根",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270054": {
+			"postcode": "0270054",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Ota",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "太田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270053": {
+			"postcode": "0270053",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Nagamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "長町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270052": {
+			"postcode": "0270052",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Miyamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "宮町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270051": {
+			"postcode": "0270051",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Minamimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "南町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270048": {
+			"postcode": "0270048",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Itaya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "板屋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270047": {
+			"postcode": "0270047",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Neichi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "根市",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270046": {
+			"postcode": "0270046",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Kebaraichi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "花原市",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270045": {
+			"postcode": "0270045",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Roki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "老木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270044": {
+			"postcode": "0270044",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Kampana",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "上鼻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270043": {
+			"postcode": "0270043",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Sentokumachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "千徳町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270042": {
+			"postcode": "0270042",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Kandazawacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "神田沢町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270041": {
+			"postcode": "0270041",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Nishigaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "西ケ丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270039": {
+			"postcode": "0270039",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Kanan",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "河南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270038": {
+			"postcode": "0270038",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Koyamada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "小山田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270037": {
+			"postcode": "0270037",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Matsuyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "松山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270036": {
+			"postcode": "0270036",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Takusari",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "田鎖",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270035": {
+			"postcode": "0270035",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Hanawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "花輪",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270034": {
+			"postcode": "0270034",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Nagasawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "長沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270033": {
+			"postcode": "0270033",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Kanehama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "金浜",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270032": {
+			"postcode": "0270032",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Takahama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "高浜",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270031": {
+			"postcode": "0270031",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Yagisawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "八木沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270029": {
+			"postcode": "0270029",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Fujinokawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "藤の川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270028": {
+			"postcode": "0270028",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Kambayashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "神林",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270027": {
+			"postcode": "0270027",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Sokei",
+			"building_name": "Nishi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "磯鶏",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270026": {
+			"postcode": "0270026",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Wamura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "上村",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270025": {
+			"postcode": "0270025",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Mita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "実田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270024": {
+			"postcode": "0270024",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Sokei",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "磯鶏",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270023": {
+			"postcode": "0270023",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Sokei",
+			"building_name": "Oki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "磯鶏",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270022": {
+			"postcode": "0270022",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Sokei",
+			"building_name": "Ishizaki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "磯鶏",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270021": {
+			"postcode": "0270021",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Fujiwara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "藤原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270009": {
+			"postcode": "0270009",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Takonohamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "蛸の浜町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270008": {
+			"postcode": "0270008",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Kumanocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "熊野町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270007": {
+			"postcode": "0270007",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Hikagecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "日影町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270006": {
+			"postcode": "0270006",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Kuwagasaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "鍬ケ崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270005": {
+			"postcode": "0270005",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Koganji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "光岸地",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270004": {
+			"postcode": "0270004",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Rinkodori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "臨港通",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270003": {
+			"postcode": "0270003",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Minatomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "港町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270002": {
+			"postcode": "0270002",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Yamanecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "山根町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270001": {
+			"postcode": "0270001",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "Hitachihamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "日立浜町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		},
+		"0270000": {
+			"postcode": "0270000",
+			"prefecture_name": "Iwate-ken",
+			"city_name": "Miyako-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岩手県",
+					"city_name": "宮古市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "岩手県",
+			"city_code": "宮古市"
+		}
+	}
+}

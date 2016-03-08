@@ -1,0 +1,2075 @@
+{
+	"country_code": "JP",
+	"parent_id": "623",
+	"locale": "ja-Latn",
+	"address": {
+		"6238588": {
+			"postcode": "6238588",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "味方町",
+			"building_name": "１番地",
+			"organization_name": "京セラＳＬＣコンポーネンツ　株式会社",
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "味方町",
+					"building_name": "１番地",
+					"organization_name": "京セラＳＬＣコンポーネンツ　株式会社"
+				}
+			}
+		},
+		"6238501": {
+			"postcode": "6238501",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "若竹町",
+			"building_name": "８番地の１",
+			"organization_name": "綾部市役所",
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "若竹町",
+					"building_name": "８番地の１",
+					"organization_name": "綾部市役所"
+				}
+			}
+		},
+		"6231134": {
+			"postcode": "6231134",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Oitomicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "老富町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6231133": {
+			"postcode": "6231133",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Mitsunocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "光野町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6231132": {
+			"postcode": "6231132",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Koyaokacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "故屋岡町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6231131": {
+			"postcode": "6231131",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Mutsuyoricho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "睦寄町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6231124": {
+			"postcode": "6231124",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Iizumicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "五泉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6231123": {
+			"postcode": "6231123",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Itsuaicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "五津合町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6231122": {
+			"postcode": "6231122",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Yatsuaicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "八津合町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6231121": {
+			"postcode": "6231121",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Mutsuaicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "睦合町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230364": {
+			"postcode": "6230364",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Nishizakacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "西坂町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230363": {
+			"postcode": "6230363",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Shinjocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "新庄町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230362": {
+			"postcode": "6230362",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Monobecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "物部町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230361": {
+			"postcode": "6230361",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Hasojicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "白道路町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230353": {
+			"postcode": "6230353",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Besshiyocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "別所町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230352": {
+			"postcode": "6230352",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Mukodacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "向田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230351": {
+			"postcode": "6230351",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Shinodacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "篠田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230346": {
+			"postcode": "6230346",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Boguchicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "坊口町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230345": {
+			"postcode": "6230345",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Niwacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "仁和町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230344": {
+			"postcode": "6230344",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Nishigatacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "西方町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230343": {
+			"postcode": "6230343",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Shigasatocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "志賀郷町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230342": {
+			"postcode": "6230342",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Kanegochicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "金河内町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230341": {
+			"postcode": "6230341",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Uchiguicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "内久井町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230236": {
+			"postcode": "6230236",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Obatacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "小畑町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230235": {
+			"postcode": "6230235",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Kajiyacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "鍛治屋町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230234": {
+			"postcode": "6230234",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Konishicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "小西町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230233": {
+			"postcode": "6230233",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Imadacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "今田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230232": {
+			"postcode": "6230232",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Tachicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "舘町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230231": {
+			"postcode": "6230231",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Obatakecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "大畠町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230226": {
+			"postcode": "6230226",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Kisaichicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "私市町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230225": {
+			"postcode": "6230225",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Ogaicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "小貝町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230224": {
+			"postcode": "6230224",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Ishiwaracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "石原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230223": {
+			"postcode": "6230223",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Toyosatocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "豊里町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230222": {
+			"postcode": "6230222",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Kuricho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "栗町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230221": {
+			"postcode": "6230221",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Idencho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "位田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230117": {
+			"postcode": "6230117",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Toyosakacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "とよさか町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230116": {
+			"postcode": "6230116",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Shimoyatacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "下八田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230115": {
+			"postcode": "6230115",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Fuchigakicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "渕垣町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230114": {
+			"postcode": "6230114",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Okayasucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "岡安町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230113": {
+			"postcode": "6230113",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Nakasujicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "中筋町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230112": {
+			"postcode": "6230112",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Kamiyatacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "上八田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230111": {
+			"postcode": "6230111",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Shichihyakukokucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "七百石町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230108": {
+			"postcode": "6230108",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Kurotanicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "黒谷町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230107": {
+			"postcode": "6230107",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Yashirocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "八代町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230106": {
+			"postcode": "6230106",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Takatsukicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "高槻町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230105": {
+			"postcode": "6230105",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Nakayamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "中山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230104": {
+			"postcode": "6230104",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Ankokujicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "安国寺町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230103": {
+			"postcode": "6230103",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Umezakocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "梅迫町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230102": {
+			"postcode": "6230102",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Uesugicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "上杉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230101": {
+			"postcode": "6230101",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Oyogicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "於与岐町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230066": {
+			"postcode": "6230066",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Ekimaedori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "駅前通",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230065": {
+			"postcode": "6230065",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Nishishimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "西新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230064": {
+			"postcode": "6230064",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Nakanocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "中ノ町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230063": {
+			"postcode": "6230063",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Hirokoji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "広小路",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230062": {
+			"postcode": "6230062",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Aioicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "相生町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230061": {
+			"postcode": "6230061",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Tenjincho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "天神町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230054": {
+			"postcode": "6230054",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Inokuracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "井倉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230053": {
+			"postcode": "6230053",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Miyashirocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "宮代町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230052": {
+			"postcode": "6230052",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Saiwaidori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "幸通",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230051": {
+			"postcode": "6230051",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Inokurashimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "井倉新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230046": {
+			"postcode": "6230046",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Oshimacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "大島町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230045": {
+			"postcode": "6230045",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Takatsucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "高津町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230044": {
+			"postcode": "6230044",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Yasubacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "安場町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230043": {
+			"postcode": "6230043",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Uwanobucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "上延町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230042": {
+			"postcode": "6230042",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Okacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "岡町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230041": {
+			"postcode": "6230041",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Nobucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "延町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230037": {
+			"postcode": "6230037",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Nammatsucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "並松町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230036": {
+			"postcode": "6230036",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Hongucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "本宮町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230035": {
+			"postcode": "6230035",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Uenocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "上野町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230034": {
+			"postcode": "6230034",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Tanocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "田野町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230033": {
+			"postcode": "6230033",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Teramachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "寺町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230032": {
+			"postcode": "6230032",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Nodacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "野田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230031": {
+			"postcode": "6230031",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Mikatacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "味方町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230026": {
+			"postcode": "6230026",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Jingujicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "神宮寺町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230025": {
+			"postcode": "6230025",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Tsukimicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "月見町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230024": {
+			"postcode": "6230024",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Tamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230023": {
+			"postcode": "6230023",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Shimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230022": {
+			"postcode": "6230022",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Shingucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "新宮町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230021": {
+			"postcode": "6230021",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Hommachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230016": {
+			"postcode": "6230016",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Nishimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "西町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230015": {
+			"postcode": "6230015",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Wakamatsucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "若松町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230014": {
+			"postcode": "6230014",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Wakatakecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "若竹町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230013": {
+			"postcode": "6230013",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Ayanakacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "綾中町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230012": {
+			"postcode": "6230012",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Kawaitocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "川糸町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230011": {
+			"postcode": "6230011",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Aonocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "青野町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230008": {
+			"postcode": "6230008",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Sakuragaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "桜が丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230007": {
+			"postcode": "6230007",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Hoshibaracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "星原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230006": {
+			"postcode": "6230006",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Ariokacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "有岡町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230005": {
+			"postcode": "6230005",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Satocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "里町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230004": {
+			"postcode": "6230004",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Tadacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "多田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230003": {
+			"postcode": "6230003",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Shiroyamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "城山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230002": {
+			"postcode": "6230002",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Takakuracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "高倉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230001": {
+			"postcode": "6230001",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "Orocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "小呂町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		},
+		"6230000": {
+			"postcode": "6230000",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Ayabe-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "綾部市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "綾部市"
+		}
+	}
+}

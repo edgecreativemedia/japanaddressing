@@ -1,0 +1,4407 @@
+{
+	"country_code": "JP",
+	"parent_id": "904",
+	"locale": "ja-Latn",
+	"address": {
+		"9048686": {
+			"postcode": "9048686",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "胡屋",
+			"building_name": "１−３−１０",
+			"organization_name": "（株）　沖縄タイムス社　中部支社",
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "胡屋",
+					"building_name": "１−３−１０",
+					"organization_name": "（株）　沖縄タイムス社　中部支社"
+				}
+			}
+		},
+		"9048585": {
+			"postcode": "9048585",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "照屋",
+			"building_name": "３丁目２０−１",
+			"organization_name": "中部徳洲会",
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "照屋",
+					"building_name": "３丁目２０−１",
+					"organization_name": "中部徳洲会"
+				}
+			}
+		},
+		"9048511": {
+			"postcode": "9048511",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "胡屋",
+			"building_name": "１丁目５−１",
+			"organization_name": "ＮＴＴ　コザ営業所",
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "胡屋",
+					"building_name": "１丁目５−１",
+					"organization_name": "ＮＴＴ　コザ営業所"
+				}
+			}
+		},
+		"9048501": {
+			"postcode": "9048501",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "仲宗根町",
+			"building_name": "２６−１",
+			"organization_name": "沖縄市役所",
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "仲宗根町",
+					"building_name": "２６−１",
+					"organization_name": "沖縄市役所"
+				}
+			}
+		},
+		"9042428": {
+			"postcode": "9042428",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Yonashiro",
+			"building_name": "Hiramiya",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "与那城",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042427": {
+			"postcode": "9042427",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Yonashiro",
+			"building_name": "Yahira",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "与那城",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042426": {
+			"postcode": "9042426",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Yonashiro",
+			"building_name": "Henza",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "与那城",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042425": {
+			"postcode": "9042425",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Yonashiro",
+			"building_name": "Tobaru",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "与那城",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042424": {
+			"postcode": "9042424",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Yonashiro",
+			"building_name": "Uehara",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "与那城",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042423": {
+			"postcode": "9042423",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Yonashiro",
+			"building_name": "Miyagi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "与那城",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042422": {
+			"postcode": "9042422",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Yonashiro",
+			"building_name": "Ikemi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "与那城",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042421": {
+			"postcode": "9042421",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Yonashiro",
+			"building_name": "Ikei",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "与那城",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042394": {
+			"postcode": "9042394",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "勝連平敷屋",
+			"building_name": "１９２０",
+			"organization_name": "海上自衛隊　沖縄基地隊",
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "勝連平敷屋",
+					"building_name": "１９２０",
+					"organization_name": "海上自衛隊　沖縄基地隊"
+				}
+			}
+		},
+		"9042393": {
+			"postcode": "9042393",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "与那城中央",
+			"building_name": "１",
+			"organization_name": "うるま市役所　与那城庁舎",
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "与那城中央",
+					"building_name": "１",
+					"organization_name": "うるま市役所　与那城庁舎"
+				}
+			}
+		},
+		"9042392": {
+			"postcode": "9042392",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "勝連平安名",
+			"building_name": "３０３２",
+			"organization_name": "うるま市役所　勝連庁舎",
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "勝連平安名",
+					"building_name": "３０３２",
+					"organization_name": "うるま市役所　勝連庁舎"
+				}
+			}
+		},
+		"9042317": {
+			"postcode": "9042317",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Katsuren",
+			"building_name": "Tsuken",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "勝連",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042316": {
+			"postcode": "9042316",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Katsuren",
+			"building_name": "Higa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "勝連",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042315": {
+			"postcode": "9042315",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Katsuren",
+			"building_name": "Hama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "勝連",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042314": {
+			"postcode": "9042314",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Katsuren",
+			"building_name": "Heshikiya",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "勝連",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042313": {
+			"postcode": "9042313",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Katsuren",
+			"building_name": "Uchima",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "勝連",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042312": {
+			"postcode": "9042312",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Katsuren",
+			"building_name": "Henna",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "勝連",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042311": {
+			"postcode": "9042311",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Katsuren",
+			"building_name": "Haebaru",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "勝連",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042307": {
+			"postcode": "9042307",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Yonashiro",
+			"building_name": "Nohen",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "与那城",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042306": {
+			"postcode": "9042306",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Yonashiro",
+			"building_name": "Aseri",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "与那城",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042305": {
+			"postcode": "9042305",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Yonashiro",
+			"building_name": "Chuo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "与那城",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042304": {
+			"postcode": "9042304",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Yonashiro",
+			"building_name": "Yakena",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "与那城",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042303": {
+			"postcode": "9042303",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Yonashiro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "与那城",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042302": {
+			"postcode": "9042302",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Yonashiro",
+			"building_name": "Nishihara",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "与那城",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042301": {
+			"postcode": "9042301",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Yonashiro",
+			"building_name": "Teruma",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "与那城",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042293": {
+			"postcode": "9042293",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "字宮里",
+			"building_name": "２８１",
+			"organization_name": "沖縄県立　中部病院",
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "字宮里",
+					"building_name": "２８１",
+					"organization_name": "沖縄県立　中部病院"
+				}
+			}
+		},
+		"9042292": {
+			"postcode": "9042292",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "みどり町",
+			"building_name": "１丁目１−１",
+			"organization_name": "うるま市役所",
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "みどり町",
+					"building_name": "１丁目１−１",
+					"organization_name": "うるま市役所"
+				}
+			}
+		},
+		"9042245": {
+			"postcode": "9042245",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Akamichi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "赤道",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042244": {
+			"postcode": "9042244",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Esu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "江洲",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042243": {
+			"postcode": "9042243",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Miyazato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "宮里",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042242": {
+			"postcode": "9042242",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Takaesu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "高江洲",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042241": {
+			"postcode": "9042241",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Kanekadan",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "兼箇段",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042236": {
+			"postcode": "9042236",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Kinaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "喜仲",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042235": {
+			"postcode": "9042235",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Maehara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "前原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042234": {
+			"postcode": "9042234",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Suzaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "州崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042233": {
+			"postcode": "9042233",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Toyohara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "豊原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042232": {
+			"postcode": "9042232",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Kawata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "川田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042231": {
+			"postcode": "9042231",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Shioya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "塩屋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042226": {
+			"postcode": "9042226",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Nakamine",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "仲嶺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042225": {
+			"postcode": "9042225",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Kyan",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "喜屋武",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042224": {
+			"postcode": "9042224",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Ota",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "大田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042223": {
+			"postcode": "9042223",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Gushikawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "具志川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042222": {
+			"postcode": "9042222",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Uezu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "上江洲",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042221": {
+			"postcode": "9042221",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Tairagawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "平良川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042215": {
+			"postcode": "9042215",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Midorimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "みどり町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042214": {
+			"postcode": "9042214",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Agena",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "安慶名",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042213": {
+			"postcode": "9042213",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Taba",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "田場",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042212": {
+			"postcode": "9042212",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Akano",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "赤野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042211": {
+			"postcode": "9042211",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Uken",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "宇堅",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042205": {
+			"postcode": "9042205",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Enobi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "栄野比",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042204": {
+			"postcode": "9042204",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Iribaru",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "西原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042203": {
+			"postcode": "9042203",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Kawasaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "川崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042202": {
+			"postcode": "9042202",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Tengan",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "天願",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042201": {
+			"postcode": "9042201",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Kombu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "昆布",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042200": {
+			"postcode": "9042200",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9042196": {
+			"postcode": "9042196",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "美里",
+			"building_name": "５丁目２８−１",
+			"organization_name": "沖縄市水道局",
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "美里",
+					"building_name": "５丁目２８−１",
+					"organization_name": "沖縄市水道局"
+				}
+			}
+		},
+		"9042195": {
+			"postcode": "9042195",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "知花",
+			"building_name": "６丁目２５−５",
+			"organization_name": "中頭病院",
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "知花",
+					"building_name": "６丁目２５−５",
+					"organization_name": "中頭病院"
+				}
+			}
+		},
+		"9042194": {
+			"postcode": "9042194",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "知花",
+			"building_name": "６丁目７−７",
+			"organization_name": "那覇地方裁判所　沖縄支部・沖縄簡易裁判所・那覇家庭裁判所　沖縄支部",
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "知花",
+					"building_name": "６丁目７−７",
+					"organization_name": "那覇地方裁判所　沖縄支部・沖縄簡易裁判所・那覇家庭裁判所　沖縄支部"
+				}
+			}
+		},
+		"9042193": {
+			"postcode": "9042193",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "東",
+			"building_name": "２丁目１−１",
+			"organization_name": "沖縄税務署",
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "東",
+					"building_name": "２丁目１−１",
+					"organization_name": "沖縄税務署"
+				}
+			}
+		},
+		"9042192": {
+			"postcode": "9042192",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "松本",
+			"building_name": "６丁目２番１号",
+			"organization_name": "医療法人　ちゅうざん会　ちゅうざん病院",
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "松本",
+					"building_name": "６丁目２番１号",
+					"organization_name": "医療法人　ちゅうざん会　ちゅうざん病院"
+				}
+			}
+		},
+		"9042174": {
+			"postcode": "9042174",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "Yogi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "与儀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市"
+		},
+		"9042173": {
+			"postcode": "9042173",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "Hiyagon",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "比屋根",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市"
+		},
+		"9042172": {
+			"postcode": "9042172",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "Awase",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "泡瀬",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市"
+		},
+		"9042171": {
+			"postcode": "9042171",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "Takahara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "高原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市"
+		},
+		"9042165": {
+			"postcode": "9042165",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "Miyazato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "宮里",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市"
+		},
+		"9042164": {
+			"postcode": "9042164",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "Tobaru",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "桃原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市"
+		},
+		"9042163": {
+			"postcode": "9042163",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "Ozato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "大里",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市"
+		},
+		"9042162": {
+			"postcode": "9042162",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "Kaiho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "海邦",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市"
+		},
+		"9042161": {
+			"postcode": "9042161",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "Koja",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "古謝",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市"
+		},
+		"9042156": {
+			"postcode": "9042156",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "Misatonakaharacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "美里仲原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市"
+		},
+		"9042155": {
+			"postcode": "9042155",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "Mihara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "美原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市"
+		},
+		"9042154": {
+			"postcode": "9042154",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "Higashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市"
+		},
+		"9042153": {
+			"postcode": "9042153",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "Misato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "美里",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市"
+		},
+		"9042152": {
+			"postcode": "9042152",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "Akemichi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "明道",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市"
+		},
+		"9042151": {
+			"postcode": "9042151",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "Matsumoto",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "松本",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市"
+		},
+		"9042145": {
+			"postcode": "9042145",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "Kurashiki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "倉敷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市"
+		},
+		"9042144": {
+			"postcode": "9042144",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "Shirakawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "白川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市"
+		},
+		"9042143": {
+			"postcode": "9042143",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "Chibana",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "知花",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市"
+		},
+		"9042142": {
+			"postcode": "9042142",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "Noborikawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "登川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市"
+		},
+		"9042141": {
+			"postcode": "9042141",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "Ikehara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "池原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市"
+		},
+		"9041392": {
+			"postcode": "9041392",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Kunigami-gun",
+			"ward_name": "Ginoza-son",
+			"town_name": "字宜野座",
+			"building_name": "２９６",
+			"organization_name": "宜野座村役場",
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "国頭郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "国頭郡",
+					"ward_name": "宜野座村",
+					"town_name": "字宜野座",
+					"building_name": "２９６",
+					"organization_name": "宜野座村役場"
+				}
+			}
+		},
+		"9041304": {
+			"postcode": "9041304",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Kunigami-gun",
+			"ward_name": "Ginoza-son",
+			"town_name": "Kanna",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "国頭郡",
+					"ward_name": "宜野座村",
+					"town_name": "漢那",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "国頭郡"
+		},
+		"9041303": {
+			"postcode": "9041303",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Kunigami-gun",
+			"ward_name": "Ginoza-son",
+			"town_name": "Sokei",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "国頭郡",
+					"ward_name": "宜野座村",
+					"town_name": "惣慶",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "国頭郡"
+		},
+		"9041302": {
+			"postcode": "9041302",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Kunigami-gun",
+			"ward_name": "Ginoza-son",
+			"town_name": "Ginoza",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "国頭郡",
+					"ward_name": "宜野座村",
+					"town_name": "宜野座",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "国頭郡"
+		},
+		"9041301": {
+			"postcode": "9041301",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Kunigami-gun",
+			"ward_name": "Ginoza-son",
+			"town_name": "Matsuda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "国頭郡",
+					"ward_name": "宜野座村",
+					"town_name": "松田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "国頭郡"
+		},
+		"9041300": {
+			"postcode": "9041300",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Kunigami-gun",
+			"ward_name": "Ginoza-son",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "国頭郡",
+					"ward_name": "宜野座村",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "国頭郡"
+		},
+		"9041294": {
+			"postcode": "9041294",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Kunigami-gun",
+			"ward_name": "Kin-cho",
+			"town_name": "字金武",
+			"building_name": "７７４５",
+			"organization_name": "金武地区消防衛生組合",
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "国頭郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "国頭郡",
+					"ward_name": "金武町",
+					"town_name": "字金武",
+					"building_name": "７７４５",
+					"organization_name": "金武地区消防衛生組合"
+				}
+			}
+		},
+		"9041293": {
+			"postcode": "9041293",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Kunigami-gun",
+			"ward_name": "Kin-cho",
+			"town_name": "字金武",
+			"building_name": "４３８０",
+			"organization_name": "金武町教育委員会",
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "国頭郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "国頭郡",
+					"ward_name": "金武町",
+					"town_name": "字金武",
+					"building_name": "４３８０",
+					"organization_name": "金武町教育委員会"
+				}
+			}
+		},
+		"9041292": {
+			"postcode": "9041292",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Kunigami-gun",
+			"ward_name": "Kin-cho",
+			"town_name": "字金武",
+			"building_name": "１",
+			"organization_name": "金武町役場",
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "国頭郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "国頭郡",
+					"ward_name": "金武町",
+					"town_name": "字金武",
+					"building_name": "１",
+					"organization_name": "金武町役場"
+				}
+			}
+		},
+		"9041203": {
+			"postcode": "9041203",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Kunigami-gun",
+			"ward_name": "Kin-cho",
+			"town_name": "Yaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "国頭郡",
+					"ward_name": "金武町",
+					"town_name": "屋嘉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "国頭郡"
+		},
+		"9041202": {
+			"postcode": "9041202",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Kunigami-gun",
+			"ward_name": "Kin-cho",
+			"town_name": "Igei",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "国頭郡",
+					"ward_name": "金武町",
+					"town_name": "伊芸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "国頭郡"
+		},
+		"9041201": {
+			"postcode": "9041201",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Kunigami-gun",
+			"ward_name": "Kin-cho",
+			"town_name": "Kin",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "国頭郡",
+					"ward_name": "金武町",
+					"town_name": "金武",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "国頭郡"
+		},
+		"9041200": {
+			"postcode": "9041200",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Kunigami-gun",
+			"ward_name": "Kin-cho",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "国頭郡",
+					"ward_name": "金武町",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "国頭郡"
+		},
+		"9041192": {
+			"postcode": "9041192",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "石川石崎",
+			"building_name": "１丁目１",
+			"organization_name": "うるま市役所　石川庁舎",
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "石川石崎",
+					"building_name": "１丁目１",
+					"organization_name": "うるま市役所　石川庁舎"
+				}
+			}
+		},
+		"9041115": {
+			"postcode": "9041115",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Ishikawa",
+			"building_name": "Iha",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "石川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9041114": {
+			"postcode": "9041114",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Ishikawa",
+			"building_name": "Kadekaru",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "石川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9041113": {
+			"postcode": "9041113",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Ishikawa",
+			"building_name": "Yamashiro",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "石川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9041112": {
+			"postcode": "9041112",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Ishikawa",
+			"building_name": "Sonan",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "石川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9041111": {
+			"postcode": "9041111",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Ishikawa",
+			"building_name": "Higashionna",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "石川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9041108": {
+			"postcode": "9041108",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Ishikawa",
+			"building_name": "Higashionnazaki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "石川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9041107": {
+			"postcode": "9041107",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Ishikawa",
+			"building_name": "Akebono",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "石川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9041106": {
+			"postcode": "9041106",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Ishikawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "石川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9041105": {
+			"postcode": "9041105",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Ishikawa",
+			"building_name": "Shirahama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "石川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9041104": {
+			"postcode": "9041104",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Ishikawa",
+			"building_name": "Ishizaki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "石川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9041103": {
+			"postcode": "9041103",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Ishikawa",
+			"building_name": "Akasaki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "石川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9041102": {
+			"postcode": "9041102",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Ishikawa",
+			"building_name": "Agariyama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "石川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9041101": {
+			"postcode": "9041101",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Uruma-shi",
+			"ward_name": "",
+			"town_name": "Ishikawa",
+			"building_name": "Agariyamamotomachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "うるま市",
+					"ward_name": "",
+					"town_name": "石川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "うるま市"
+		},
+		"9040497": {
+			"postcode": "9040497",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Kunigami-gun",
+			"ward_name": "Onna-son",
+			"town_name": "字谷茶",
+			"building_name": "１９１９番地１",
+			"organization_name": "学校法人　沖縄科学技術大学院大学学園　ＯＩＳＴ住居エリア　ＨｏｕｓｉｎｇＡｒｅａ",
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "国頭郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "国頭郡",
+					"ward_name": "恩納村",
+					"town_name": "字谷茶",
+					"building_name": "１９１９番地１",
+					"organization_name": "学校法人　沖縄科学技術大学院大学学園　ＯＩＳＴ住居エリア　ＨｏｕｓｉｎｇＡｒｅａ"
+				}
+			}
+		},
+		"9040496": {
+			"postcode": "9040496",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Kunigami-gun",
+			"ward_name": "Onna-son",
+			"town_name": "字谷茶",
+			"building_name": "１４９６",
+			"organization_name": "リザンシーパークホテル　谷茶ベイ",
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "国頭郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "国頭郡",
+					"ward_name": "恩納村",
+					"town_name": "字谷茶",
+					"building_name": "１４９６",
+					"organization_name": "リザンシーパークホテル　谷茶ベイ"
+				}
+			}
+		},
+		"9040495": {
+			"postcode": "9040495",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Kunigami-gun",
+			"ward_name": "Onna-son",
+			"town_name": "字谷茶",
+			"building_name": "１９１９−１",
+			"organization_name": "学校法人　沖縄科学技術大学院大学学園",
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "国頭郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "国頭郡",
+					"ward_name": "恩納村",
+					"town_name": "字谷茶",
+					"building_name": "１９１９−１",
+					"organization_name": "学校法人　沖縄科学技術大学院大学学園"
+				}
+			}
+		},
+		"9040494": {
+			"postcode": "9040494",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Kunigami-gun",
+			"ward_name": "Onna-son",
+			"town_name": "字冨着",
+			"building_name": "６６−１",
+			"organization_name": "サンマリーナホテル",
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "国頭郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "国頭郡",
+					"ward_name": "恩納村",
+					"town_name": "字冨着",
+					"building_name": "６６−１",
+					"organization_name": "サンマリーナホテル"
+				}
+			}
+		},
+		"9040493": {
+			"postcode": "9040493",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Kunigami-gun",
+			"ward_name": "Onna-son",
+			"town_name": "字瀬良垣",
+			"building_name": "２２６０",
+			"organization_name": "万座ビーチホテル＆リゾート",
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "国頭郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "国頭郡",
+					"ward_name": "恩納村",
+					"town_name": "字瀬良垣",
+					"building_name": "２２６０",
+					"organization_name": "万座ビーチホテル＆リゾート"
+				}
+			}
+		},
+		"9040492": {
+			"postcode": "9040492",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Kunigami-gun",
+			"ward_name": "Onna-son",
+			"town_name": "字恩納",
+			"building_name": "２４５１",
+			"organization_name": "恩納村役場",
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "国頭郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "国頭郡",
+					"ward_name": "恩納村",
+					"town_name": "字恩納",
+					"building_name": "２４５１",
+					"organization_name": "恩納村役場"
+				}
+			}
+		},
+		"9040417": {
+			"postcode": "9040417",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Kunigami-gun",
+			"ward_name": "Onna-son",
+			"town_name": "Maeda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "国頭郡",
+					"ward_name": "恩納村",
+					"town_name": "真栄田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "国頭郡"
+		},
+		"9040416": {
+			"postcode": "9040416",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Kunigami-gun",
+			"ward_name": "Onna-son",
+			"town_name": "Yamada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "国頭郡",
+					"ward_name": "恩納村",
+					"town_name": "山田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "国頭郡"
+		},
+		"9040415": {
+			"postcode": "9040415",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Kunigami-gun",
+			"ward_name": "Onna-son",
+			"town_name": "Nakadomari",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "国頭郡",
+					"ward_name": "恩納村",
+					"town_name": "仲泊",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "国頭郡"
+		},
+		"9040414": {
+			"postcode": "9040414",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Kunigami-gun",
+			"ward_name": "Onna-son",
+			"town_name": "Maeganeku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "国頭郡",
+					"ward_name": "恩納村",
+					"town_name": "前兼久",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "国頭郡"
+		},
+		"9040413": {
+			"postcode": "9040413",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Kunigami-gun",
+			"ward_name": "Onna-son",
+			"town_name": "Fuchaku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "国頭郡",
+					"ward_name": "恩納村",
+					"town_name": "冨着",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "国頭郡"
+		},
+		"9040412": {
+			"postcode": "9040412",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Kunigami-gun",
+			"ward_name": "Onna-son",
+			"town_name": "Tancha",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "国頭郡",
+					"ward_name": "恩納村",
+					"town_name": "谷茶",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "国頭郡"
+		},
+		"9040411": {
+			"postcode": "9040411",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Kunigami-gun",
+			"ward_name": "Onna-son",
+			"town_name": "Onna",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "国頭郡",
+					"ward_name": "恩納村",
+					"town_name": "恩納",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "国頭郡"
+		},
+		"9040404": {
+			"postcode": "9040404",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Kunigami-gun",
+			"ward_name": "Onna-son",
+			"town_name": "Serakaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "国頭郡",
+					"ward_name": "恩納村",
+					"town_name": "瀬良垣",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "国頭郡"
+		},
+		"9040403": {
+			"postcode": "9040403",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Kunigami-gun",
+			"ward_name": "Onna-son",
+			"town_name": "Kisembaru",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "国頭郡",
+					"ward_name": "恩納村",
+					"town_name": "喜瀬武原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "国頭郡"
+		},
+		"9040402": {
+			"postcode": "9040402",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Kunigami-gun",
+			"ward_name": "Onna-son",
+			"town_name": "Afuso",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "国頭郡",
+					"ward_name": "恩納村",
+					"town_name": "安富祖",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "国頭郡"
+		},
+		"9040401": {
+			"postcode": "9040401",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Kunigami-gun",
+			"ward_name": "Onna-son",
+			"town_name": "Nakama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "国頭郡",
+					"ward_name": "恩納村",
+					"town_name": "名嘉真",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "国頭郡"
+		},
+		"9040400": {
+			"postcode": "9040400",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Kunigami-gun",
+			"ward_name": "Onna-son",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "国頭郡",
+					"ward_name": "恩納村",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "国頭郡"
+		},
+		"9040398": {
+			"postcode": "9040398",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Yomitan-son",
+			"town_name": "字比謝矼",
+			"building_name": "５５番地",
+			"organization_name": "沖縄県介護保険広域連合",
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "読谷村",
+					"town_name": "字比謝矼",
+					"building_name": "５５番地",
+					"organization_name": "沖縄県介護保険広域連合"
+				}
+			}
+		},
+		"9040395": {
+			"postcode": "9040395",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Yomitan-son",
+			"town_name": "字伊良皆",
+			"building_name": "１９８",
+			"organization_name": "読谷高等学校",
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "読谷村",
+					"town_name": "字伊良皆",
+					"building_name": "１９８",
+					"organization_name": "読谷高等学校"
+				}
+			}
+		},
+		"9040394": {
+			"postcode": "9040394",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Yomitan-son",
+			"town_name": "字宇座",
+			"building_name": "１５７５",
+			"organization_name": "沖縄残波岬ロイヤルホテル",
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "読谷村",
+					"town_name": "字宇座",
+					"building_name": "１５７５",
+					"organization_name": "沖縄残波岬ロイヤルホテル"
+				}
+			}
+		},
+		"9040393": {
+			"postcode": "9040393",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Yomitan-son",
+			"town_name": "字儀間",
+			"building_name": "６００",
+			"organization_name": "ホテル日航アリビラ",
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "読谷村",
+					"town_name": "字儀間",
+					"building_name": "６００",
+					"organization_name": "ホテル日航アリビラ"
+				}
+			}
+		},
+		"9040392": {
+			"postcode": "9040392",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Yomitan-son",
+			"town_name": "字座喜味",
+			"building_name": "２９０１",
+			"organization_name": "読谷村役場",
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "読谷村",
+					"town_name": "字座喜味",
+					"building_name": "２９０１",
+					"organization_name": "読谷村役場"
+				}
+			}
+		},
+		"9040328": {
+			"postcode": "9040328",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Yomitan-son",
+			"town_name": "Uza",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "読谷村",
+					"town_name": "宇座",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡"
+		},
+		"9040327": {
+			"postcode": "9040327",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Yomitan-son",
+			"town_name": "Gima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "読谷村",
+					"town_name": "儀間",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡"
+		},
+		"9040326": {
+			"postcode": "9040326",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Yomitan-son",
+			"town_name": "Tokeshi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "読谷村",
+					"town_name": "渡慶次",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡"
+		},
+		"9040325": {
+			"postcode": "9040325",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Yomitan-son",
+			"town_name": "Senaha",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "読谷村",
+					"town_name": "瀬名波",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡"
+		},
+		"9040324": {
+			"postcode": "9040324",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Yomitan-son",
+			"town_name": "Nagahama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "読谷村",
+					"town_name": "長浜",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡"
+		},
+		"9040323": {
+			"postcode": "9040323",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Yomitan-son",
+			"town_name": "Takashiho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "読谷村",
+					"town_name": "高志保",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡"
+		},
+		"9040322": {
+			"postcode": "9040322",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Yomitan-son",
+			"town_name": "Namihira",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "読谷村",
+					"town_name": "波平",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡"
+		},
+		"9040321": {
+			"postcode": "9040321",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Yomitan-son",
+			"town_name": "Uechi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "読谷村",
+					"town_name": "上地",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡"
+		},
+		"9040316": {
+			"postcode": "9040316",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Yomitan-son",
+			"town_name": "Oki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "読谷村",
+					"town_name": "大木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡"
+		},
+		"9040315": {
+			"postcode": "9040315",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Yomitan-son",
+			"town_name": "Toguchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "読谷村",
+					"town_name": "渡具知",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡"
+		},
+		"9040314": {
+			"postcode": "9040314",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Yomitan-son",
+			"town_name": "Furugen",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "読谷村",
+					"town_name": "古堅",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡"
+		},
+		"9040313": {
+			"postcode": "9040313",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Yomitan-son",
+			"town_name": "Owan",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "読谷村",
+					"town_name": "大湾",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡"
+		},
+		"9040312": {
+			"postcode": "9040312",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Yomitan-son",
+			"town_name": "Hijabashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "読谷村",
+					"town_name": "比謝矼",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡"
+		},
+		"9040311": {
+			"postcode": "9040311",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Yomitan-son",
+			"town_name": "Hija",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "読谷村",
+					"town_name": "比謝",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡"
+		},
+		"9040305": {
+			"postcode": "9040305",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Yomitan-son",
+			"town_name": "Toya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "読谷村",
+					"town_name": "都屋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡"
+		},
+		"9040304": {
+			"postcode": "9040304",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Yomitan-son",
+			"town_name": "Sobe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "読谷村",
+					"town_name": "楚辺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡"
+		},
+		"9040303": {
+			"postcode": "9040303",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Yomitan-son",
+			"town_name": "Iramina",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "読谷村",
+					"town_name": "伊良皆",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡"
+		},
+		"9040302": {
+			"postcode": "9040302",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Yomitan-son",
+			"town_name": "Kina",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "読谷村",
+					"town_name": "喜名",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡"
+		},
+		"9040301": {
+			"postcode": "9040301",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Yomitan-son",
+			"town_name": "Zakimi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "読谷村",
+					"town_name": "座喜味",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡"
+		},
+		"9040300": {
+			"postcode": "9040300",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Yomitan-son",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "読谷村",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡"
+		},
+		"9040295": {
+			"postcode": "9040295",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Kadena-cho",
+			"town_name": "字嘉手納",
+			"building_name": "２９０−９",
+			"organization_name": "沖縄防衛局",
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "嘉手納町",
+					"town_name": "字嘉手納",
+					"building_name": "２９０−９",
+					"organization_name": "沖縄防衛局"
+				}
+			}
+		},
+		"9040293": {
+			"postcode": "9040293",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Kadena-cho",
+			"town_name": "字嘉手納",
+			"building_name": "５８８",
+			"organization_name": "嘉手納町役場",
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "嘉手納町",
+					"town_name": "字嘉手納",
+					"building_name": "５８８",
+					"organization_name": "嘉手納町役場"
+				}
+			}
+		},
+		"9040205": {
+			"postcode": "9040205",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Kadena-cho",
+			"town_name": "Kaneku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "嘉手納町",
+					"town_name": "兼久",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡"
+		},
+		"9040204": {
+			"postcode": "9040204",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Kadena-cho",
+			"town_name": "Mizugama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "嘉手納町",
+					"town_name": "水釜",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡"
+		},
+		"9040203": {
+			"postcode": "9040203",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Kadena-cho",
+			"town_name": "Kadena",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "嘉手納町",
+					"town_name": "嘉手納",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡"
+		},
+		"9040202": {
+			"postcode": "9040202",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Kadena-cho",
+			"town_name": "Yara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "嘉手納町",
+					"town_name": "屋良",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡"
+		},
+		"9040201": {
+			"postcode": "9040201",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Kadena-cho",
+			"town_name": "Kudoku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "嘉手納町",
+					"town_name": "久得",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡"
+		},
+		"9040200": {
+			"postcode": "9040200",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Kadena-cho",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "嘉手納町",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡"
+		},
+		"9040195": {
+			"postcode": "9040195",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Chatan-cho",
+			"town_name": "字桑江",
+			"building_name": "４７３−１",
+			"organization_name": "北谷町消防本部",
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "北谷町",
+					"town_name": "字桑江",
+					"building_name": "４７３−１",
+					"organization_name": "北谷町消防本部"
+				}
+			}
+		},
+		"9040194": {
+			"postcode": "9040194",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Chatan-cho",
+			"town_name": "字桑江",
+			"building_name": "４６７−１",
+			"organization_name": "ちゃたんニライセンター生涯学習プラザ",
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "北谷町",
+					"town_name": "字桑江",
+					"building_name": "４６７−１",
+					"organization_name": "ちゃたんニライセンター生涯学習プラザ"
+				}
+			}
+		},
+		"9040193": {
+			"postcode": "9040193",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Chatan-cho",
+			"town_name": "字桑江",
+			"building_name": "２２６",
+			"organization_name": "北谷町水道課",
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "北谷町",
+					"town_name": "字桑江",
+					"building_name": "２２６",
+					"organization_name": "北谷町水道課"
+				}
+			}
+		},
+		"9040192": {
+			"postcode": "9040192",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Chatan-cho",
+			"town_name": "字桑江",
+			"building_name": "２２６",
+			"organization_name": "北谷町役場",
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "北谷町",
+					"town_name": "字桑江",
+					"building_name": "２２６",
+					"organization_name": "北谷町役場"
+				}
+			}
+		},
+		"9040117": {
+			"postcode": "9040117",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Chatan-cho",
+			"town_name": "Kitamae",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "北谷町",
+					"town_name": "北前",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡"
+		},
+		"9040116": {
+			"postcode": "9040116",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Chatan-cho",
+			"town_name": "Chatan",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "北谷町",
+					"town_name": "北谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡"
+		},
+		"9040115": {
+			"postcode": "9040115",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Chatan-cho",
+			"town_name": "Mihama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "北谷町",
+					"town_name": "美浜",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡"
+		},
+		"9040114": {
+			"postcode": "9040114",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Chatan-cho",
+			"town_name": "Minato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "北谷町",
+					"town_name": "港",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡"
+		},
+		"9040113": {
+			"postcode": "9040113",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Chatan-cho",
+			"town_name": "Miyagi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "北谷町",
+					"town_name": "宮城",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡"
+		},
+		"9040112": {
+			"postcode": "9040112",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Chatan-cho",
+			"town_name": "Hamagawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "北谷町",
+					"town_name": "浜川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡"
+		},
+		"9040111": {
+			"postcode": "9040111",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Chatan-cho",
+			"town_name": "Sunabe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "北谷町",
+					"town_name": "砂辺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡"
+		},
+		"9040107": {
+			"postcode": "9040107",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Chatan-cho",
+			"town_name": "Omura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "北谷町",
+					"town_name": "大村",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡"
+		},
+		"9040106": {
+			"postcode": "9040106",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Chatan-cho",
+			"town_name": "Tamagami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "北谷町",
+					"town_name": "玉上",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡"
+		},
+		"9040105": {
+			"postcode": "9040105",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Chatan-cho",
+			"town_name": "Yoshihara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "北谷町",
+					"town_name": "吉原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡"
+		},
+		"9040104": {
+			"postcode": "9040104",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Chatan-cho",
+			"town_name": "Tobaru",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "北谷町",
+					"town_name": "桃原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡"
+		},
+		"9040103": {
+			"postcode": "9040103",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Chatan-cho",
+			"town_name": "Kuwae",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "北谷町",
+					"town_name": "桑江",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡"
+		},
+		"9040102": {
+			"postcode": "9040102",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Chatan-cho",
+			"town_name": "Ihei",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "北谷町",
+					"town_name": "伊平",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡"
+		},
+		"9040101": {
+			"postcode": "9040101",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Chatan-cho",
+			"town_name": "Kamisedo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "北谷町",
+					"town_name": "上勢頭",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡"
+		},
+		"9040100": {
+			"postcode": "9040100",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Nakagami-gun",
+			"ward_name": "Chatan-cho",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "中頭郡",
+					"ward_name": "北谷町",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "中頭郡"
+		},
+		"9040035": {
+			"postcode": "9040035",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "Minamitobaru",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "南桃原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市"
+		},
+		"9040034": {
+			"postcode": "9040034",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "Yamauchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "山内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市"
+		},
+		"9040033": {
+			"postcode": "9040033",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "Yamazato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "山里",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市"
+		},
+		"9040032": {
+			"postcode": "9040032",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "Moromizato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "諸見里",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市"
+		},
+		"9040031": {
+			"postcode": "9040031",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "Uechi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "上地",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市"
+		},
+		"9040023": {
+			"postcode": "9040023",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "Kubota",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "久保田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市"
+		},
+		"9040022": {
+			"postcode": "9040022",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "Sonoda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "園田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市"
+		},
+		"9040021": {
+			"postcode": "9040021",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "Goya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "胡屋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市"
+		},
+		"9040014": {
+			"postcode": "9040014",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "Nakasonecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "仲宗根町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市"
+		},
+		"9040013": {
+			"postcode": "9040013",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "Murokawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "室川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市"
+		},
+		"9040012": {
+			"postcode": "9040012",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "Ageda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "安慶田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市"
+		},
+		"9040011": {
+			"postcode": "9040011",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "Teruya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "照屋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市"
+		},
+		"9040006": {
+			"postcode": "9040006",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "Yaeshima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "八重島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市"
+		},
+		"9040005": {
+			"postcode": "9040005",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "Kamara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "嘉間良",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市"
+		},
+		"9040004": {
+			"postcode": "9040004",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "Chuo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "中央",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市"
+		},
+		"9040003": {
+			"postcode": "9040003",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "Sumiyoshi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "住吉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市"
+		},
+		"9040002": {
+			"postcode": "9040002",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "Shiromaecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "城前町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市"
+		},
+		"9040001": {
+			"postcode": "9040001",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "Goeku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "越来",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市"
+		},
+		"9040000": {
+			"postcode": "9040000",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Okinawa-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "沖縄市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "沖縄市"
+		}
+	}
+}

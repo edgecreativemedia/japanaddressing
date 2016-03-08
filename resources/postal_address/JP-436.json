@@ -1,0 +1,2867 @@
+{
+	"country_code": "JP",
+	"parent_id": "436",
+	"locale": "ja-Latn",
+	"address": {
+		"4368653": {
+			"postcode": "4368653",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "久保",
+			"building_name": "１丁目１９−８",
+			"organization_name": "日本年金機構　掛川年金事務所",
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "久保",
+					"building_name": "１丁目１９−８",
+					"organization_name": "日本年金機構　掛川年金事務所"
+				}
+			}
+		},
+		"4368652": {
+			"postcode": "4368652",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "緑ケ丘",
+			"building_name": "２丁目１１−４（掛川郵便局私書箱第２２号）",
+			"organization_name": "掛川　税務署",
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "緑ケ丘",
+					"building_name": "２丁目１１−４（掛川郵便局私書箱第２２号）",
+					"organization_name": "掛川　税務署"
+				}
+			}
+		},
+		"4368651": {
+			"postcode": "4368651",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "亀の甲",
+			"building_name": "２丁目２０３（掛川郵便局私書箱第１９号）",
+			"organization_name": "掛川信用金庫",
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "亀の甲",
+					"building_name": "２丁目２０３（掛川郵便局私書箱第１９号）",
+					"organization_name": "掛川信用金庫"
+				}
+			}
+		},
+		"4368650": {
+			"postcode": "4368650",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "長谷",
+			"building_name": "７０１−１（掛川郵便局私書箱第４号）",
+			"organization_name": "掛川市役所",
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "長谷",
+					"building_name": "７０１−１（掛川郵便局私書箱第４号）",
+					"organization_name": "掛川市役所"
+				}
+			}
+		},
+		"4368555": {
+			"postcode": "4368555",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "菖蒲ヶ池１−１",
+			"organization_name": "掛川市・袋井市病院企業団立　中東遠総合医療センター",
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "菖蒲ヶ池１−１",
+					"organization_name": "掛川市・袋井市病院企業団立　中東遠総合医療センター"
+				}
+			}
+		},
+		"4368503": {
+			"postcode": "4368503",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "駅前",
+			"building_name": "１番地の９",
+			"organization_name": "ダイレクトワン　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "駅前",
+					"building_name": "１番地の９",
+					"organization_name": "ダイレクトワン　株式会社"
+				}
+			}
+		},
+		"4368502": {
+			"postcode": "4368502",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "杉谷",
+			"building_name": "７２１",
+			"organization_name": "掛川市立総合病院",
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "杉谷",
+					"building_name": "７２１",
+					"organization_name": "掛川市立総合病院"
+				}
+			}
+		},
+		"4368501": {
+			"postcode": "4368501",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "下俣",
+			"building_name": "８００",
+			"organization_name": "ＮＥＣプラットフォームズ　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "下俣",
+					"building_name": "８００",
+					"organization_name": "ＮＥＣプラットフォームズ　株式会社"
+				}
+			}
+		},
+		"4360343": {
+			"postcode": "4360343",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Gomyo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "五明",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360342": {
+			"postcode": "4360342",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Kamisaigo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "上西郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360341": {
+			"postcode": "4360341",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Kurami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "倉真",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360338": {
+			"postcode": "4360338",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Wako",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "和光",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360337": {
+			"postcode": "4360337",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Sumiyaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "炭焼",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360336": {
+			"postcode": "4360336",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Hagima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "萩間",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360335": {
+			"postcode": "4360335",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Owada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "大和田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360334": {
+			"postcode": "4360334",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Haramiishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "孕石",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360333": {
+			"postcode": "4360333",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Tamma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "丹間",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360332": {
+			"postcode": "4360332",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Ijiri",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "居尻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360331": {
+			"postcode": "4360331",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Kuromata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "黒俣",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360227": {
+			"postcode": "4360227",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Ieshironosato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "家代の里",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360226": {
+			"postcode": "4360226",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Yuke",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "遊家",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360225": {
+			"postcode": "4360225",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Ieshiro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "家代",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360224": {
+			"postcode": "4360224",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Tombe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "富部",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360223": {
+			"postcode": "4360223",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Kuroda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "黒田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360222": {
+			"postcode": "4360222",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Shimotaruki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "下垂木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360221": {
+			"postcode": "4360221",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Kamitaruki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "上垂木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360117": {
+			"postcode": "4360117",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Hatakama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "幡鎌",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360116": {
+			"postcode": "4360116",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Nishiyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "西山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360115": {
+			"postcode": "4360115",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Yoshioka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "吉岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360114": {
+			"postcode": "4360114",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Takada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "高田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360113": {
+			"postcode": "4360113",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Kakuwa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "各和",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360112": {
+			"postcode": "4360112",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Hosoya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "細谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360111": {
+			"postcode": "4360111",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Hongo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "本郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360106": {
+			"postcode": "4360106",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Terashima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "寺島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360105": {
+			"postcode": "4360105",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Harasato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "原里",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360104": {
+			"postcode": "4360104",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Hirashima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "平島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360103": {
+			"postcode": "4360103",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Hisaijima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "久居島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360102": {
+			"postcode": "4360102",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Nakanishinoya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "中西之谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360101": {
+			"postcode": "4360101",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Kaminishinoya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "上西之谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360094": {
+			"postcode": "4360094",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Kimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "喜町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360093": {
+			"postcode": "4360093",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Renjaku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "連雀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360092": {
+			"postcode": "4360092",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Nakamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "中町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360091": {
+			"postcode": "4360091",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Shiroshita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "城下",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360090": {
+			"postcode": "4360090",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Koyo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "光陽",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360089": {
+			"postcode": "4360089",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Anyoji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "安養寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360088": {
+			"postcode": "4360088",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Katsuragaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "葛ケ丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360087": {
+			"postcode": "4360087",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Otaro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "大多郎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360086": {
+			"postcode": "4360086",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Miyawaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "宮脇",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360085": {
+			"postcode": "4360085",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Narutaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "成滝",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360084": {
+			"postcode": "4360084",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Sakagawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "逆川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360083": {
+			"postcode": "4360083",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Sonogaya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "薗ケ谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360082": {
+			"postcode": "4360082",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Tanyo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "淡陽",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360081": {
+			"postcode": "4360081",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Hatsuma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "初馬",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360079": {
+			"postcode": "4360079",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Kakegawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "掛川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360078": {
+			"postcode": "4360078",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Sakanamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "肴町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360077": {
+			"postcode": "4360077",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Ekimae",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "駅前",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360076": {
+			"postcode": "4360076",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Shiomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "塩町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360075": {
+			"postcode": "4360075",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Nitomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "仁藤町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360074": {
+			"postcode": "4360074",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Kuzukawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "葛川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360073": {
+			"postcode": "4360073",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Kaneshiro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "金城",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360072": {
+			"postcode": "4360072",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Innai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "印内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360071": {
+			"postcode": "4360071",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Nito",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "仁藤",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360070": {
+			"postcode": "4360070",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Koyodai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "紅葉台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360069": {
+			"postcode": "4360069",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Asahidai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "旭台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360068": {
+			"postcode": "4360068",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Goshobara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "御所原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360067": {
+			"postcode": "4360067",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Shimosaigo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "下西郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360066": {
+			"postcode": "4360066",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Yanokuchicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "谷の口町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360065": {
+			"postcode": "4360065",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Tennocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "天王町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360064": {
+			"postcode": "4360064",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Kitamon",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "北門",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360063": {
+			"postcode": "4360063",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Kitaikeshinden",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "北池新田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360062": {
+			"postcode": "4360062",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Asahigaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "旭ケ丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360061": {
+			"postcode": "4360061",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Mizutari",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "水垂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360059": {
+			"postcode": "4360059",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Johoku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "城北",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360058": {
+			"postcode": "4360058",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Nanokamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "七日町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360057": {
+			"postcode": "4360057",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Jukushu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "十九首",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360056": {
+			"postcode": "4360056",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Chuo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "中央",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360055": {
+			"postcode": "4360055",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Koyamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "紺屋町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360054": {
+			"postcode": "4360054",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Shironishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "城西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360053": {
+			"postcode": "4360053",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Yayoicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "弥生町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360052": {
+			"postcode": "4360052",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Yanagicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "柳町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360051": {
+			"postcode": "4360051",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Nakajuku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "中宿",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360049": {
+			"postcode": "4360049",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Kamiyashiki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "上屋敷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360048": {
+			"postcode": "4360048",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Saida",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "細田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360047": {
+			"postcode": "4360047",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Nagaya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "長谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360046": {
+			"postcode": "4360046",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Chuotakamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "中央高町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360045": {
+			"postcode": "4360045",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Odakacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "小鷹町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360044": {
+			"postcode": "4360044",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Kiyosaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "清崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360043": {
+			"postcode": "4360043",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Oike",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "大池",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360042": {
+			"postcode": "4360042",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Futasegawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "二瀬川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360041": {
+			"postcode": "4360041",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Akihamichi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "秋葉路",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360040": {
+			"postcode": "4360040",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Shobugaike",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "菖蒲ヶ池",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360039": {
+			"postcode": "4360039",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Sawada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "沢田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360038": {
+			"postcode": "4360038",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Ryoke",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "領家",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360037": {
+			"postcode": "4360037",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Okatsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "岡津",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360036": {
+			"postcode": "4360036",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Haragawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "原川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360035": {
+			"postcode": "4360035",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Tokuizumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "徳泉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360034": {
+			"postcode": "4360034",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Umebashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "梅橋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360033": {
+			"postcode": "4360033",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Shinomba",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "篠場",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360032": {
+			"postcode": "4360032",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Hirano",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "平野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360031": {
+			"postcode": "4360031",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Kogosho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "高御所",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360030": {
+			"postcode": "4360030",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Sugiyaminami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "杉谷南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360029": {
+			"postcode": "4360029",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Minami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360028": {
+			"postcode": "4360028",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Kamenoko",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "亀の甲",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360027": {
+			"postcode": "4360027",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Kubo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "久保",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360026": {
+			"postcode": "4360026",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Shimomataminami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "下俣南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360025": {
+			"postcode": "4360025",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Shimomata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "下俣",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360024": {
+			"postcode": "4360024",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Minamisaigo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "南西郷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360023": {
+			"postcode": "4360023",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Ketsuenji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "結縁寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360022": {
+			"postcode": "4360022",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Agehari",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "上張",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360021": {
+			"postcode": "4360021",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Midorigaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "緑ケ丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360020": {
+			"postcode": "4360020",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Yasakicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "矢崎町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360019": {
+			"postcode": "4360019",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Aobadai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "青葉台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360018": {
+			"postcode": "4360018",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Aoicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "葵町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360017": {
+			"postcode": "4360017",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Sugiya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "杉谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360016": {
+			"postcode": "4360016",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Itasawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "板沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360015": {
+			"postcode": "4360015",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Wada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "和田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360014": {
+			"postcode": "4360014",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Ganshoji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "岩井寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360013": {
+			"postcode": "4360013",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Kotonari",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "子隣",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360012": {
+			"postcode": "4360012",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Kamiuchida",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "上内田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360011": {
+			"postcode": "4360011",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Tamari",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "満水",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360009": {
+			"postcode": "4360009",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Ono",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "大野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360008": {
+			"postcode": "4360008",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Semba",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "千羽",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360007": {
+			"postcode": "4360007",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Kobarako",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "小原子",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360006": {
+			"postcode": "4360006",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Honjo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "本所",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360005": {
+			"postcode": "4360005",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Dategata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "伊達方",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360004": {
+			"postcode": "4360004",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Yasaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "八坂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360003": {
+			"postcode": "4360003",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Nissaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "日坂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360002": {
+			"postcode": "4360002",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Sayoshika",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "佐夜鹿",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360001": {
+			"postcode": "4360001",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "Higashiyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "東山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		},
+		"4360000": {
+			"postcode": "4360000",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kakegawa-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "掛川市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "掛川市"
+		}
+	}
+}

@@ -1,0 +1,733 @@
+{
+	"country_code": "JP",
+	"parent_id": "123",
+	"locale": "ja-Latn",
+	"address": {
+		"1238588": {
+			"postcode": "1238588",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Adachi-ku",
+			"ward_name": "",
+			"town_name": "堀之内",
+			"building_name": "１丁目１４−２０",
+			"organization_name": "トークシステム　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "足立区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "足立区",
+					"ward_name": "",
+					"town_name": "堀之内",
+					"building_name": "１丁目１４−２０",
+					"organization_name": "トークシステム　株式会社"
+				}
+			}
+		},
+		"1238540": {
+			"postcode": "1238540",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Adachi-ku",
+			"ward_name": "",
+			"town_name": "西新井栄町",
+			"building_name": "１丁目１６−１",
+			"organization_name": "警視庁　西新井警察署",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "足立区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "足立区",
+					"ward_name": "",
+					"town_name": "西新井栄町",
+					"building_name": "１丁目１６−１",
+					"organization_name": "警視庁　西新井警察署"
+				}
+			}
+		},
+		"1238517": {
+			"postcode": "1238517",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Adachi-ku",
+			"ward_name": "",
+			"town_name": "江北",
+			"building_name": "５丁目５−５",
+			"organization_name": "水道局　足立西営業所",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "足立区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "足立区",
+					"ward_name": "",
+					"town_name": "江北",
+					"building_name": "５丁目５−５",
+					"organization_name": "水道局　足立西営業所"
+				}
+			}
+		},
+		"1238514": {
+			"postcode": "1238514",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Adachi-ku",
+			"ward_name": "",
+			"town_name": "江北",
+			"building_name": "４丁目９−１",
+			"organization_name": "丸石自転車　株式会社　東京工場",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "足立区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "足立区",
+					"ward_name": "",
+					"town_name": "江北",
+					"building_name": "４丁目９−１",
+					"organization_name": "丸石自転車　株式会社　東京工場"
+				}
+			}
+		},
+		"1238511": {
+			"postcode": "1238511",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Adachi-ku",
+			"ward_name": "",
+			"town_name": "新田",
+			"building_name": "３丁目８−２２",
+			"organization_name": "並木精密宝石　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "足立区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "足立区",
+					"ward_name": "",
+					"town_name": "新田",
+					"building_name": "３丁目８−２２",
+					"organization_name": "並木精密宝石　株式会社"
+				}
+			}
+		},
+		"1238509": {
+			"postcode": "1238509",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Adachi-ku",
+			"ward_name": "",
+			"town_name": "鹿浜",
+			"building_name": "３丁目３−３",
+			"organization_name": "株式会社　アベルコ",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "足立区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "足立区",
+					"ward_name": "",
+					"town_name": "鹿浜",
+					"building_name": "３丁目３−３",
+					"organization_name": "株式会社　アベルコ"
+				}
+			}
+		},
+		"1238508": {
+			"postcode": "1238508",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Adachi-ku",
+			"ward_name": "",
+			"town_name": "谷在家",
+			"building_name": "３丁目２９−５",
+			"organization_name": "イーダ　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "足立区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "足立区",
+					"ward_name": "",
+					"town_name": "谷在家",
+					"building_name": "３丁目２９−５",
+					"organization_name": "イーダ　株式会社"
+				}
+			}
+		},
+		"1238507": {
+			"postcode": "1238507",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Adachi-ku",
+			"ward_name": "",
+			"town_name": "谷在家",
+			"building_name": "３丁目２５番１１号",
+			"organization_name": "株式会社　ハイロジック　東京支店",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "足立区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "足立区",
+					"ward_name": "",
+					"town_name": "谷在家",
+					"building_name": "３丁目２５番１１号",
+					"organization_name": "株式会社　ハイロジック　東京支店"
+				}
+			}
+		},
+		"1238506": {
+			"postcode": "1238506",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Adachi-ku",
+			"ward_name": "",
+			"town_name": "堀之内",
+			"building_name": "１丁目１５−３",
+			"organization_name": "信州名鉄運輸　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "足立区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "足立区",
+					"ward_name": "",
+					"town_name": "堀之内",
+					"building_name": "１丁目１５−３",
+					"organization_name": "信州名鉄運輸　株式会社"
+				}
+			}
+		},
+		"1238505": {
+			"postcode": "1238505",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Adachi-ku",
+			"ward_name": "",
+			"town_name": "堀之内",
+			"building_name": "１丁目１３−１０",
+			"organization_name": "富双合成　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "足立区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "足立区",
+					"ward_name": "",
+					"town_name": "堀之内",
+					"building_name": "１丁目１３−１０",
+					"organization_name": "富双合成　株式会社"
+				}
+			}
+		},
+		"1238503": {
+			"postcode": "1238503",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Adachi-ku",
+			"ward_name": "",
+			"town_name": "西新井本町",
+			"building_name": "２丁目１２−１２",
+			"organization_name": "森宮電機　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "足立区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "足立区",
+					"ward_name": "",
+					"town_name": "西新井本町",
+					"building_name": "２丁目１２−１２",
+					"organization_name": "森宮電機　株式会社"
+				}
+			}
+		},
+		"1238501": {
+			"postcode": "1238501",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Adachi-ku",
+			"ward_name": "",
+			"town_name": "栗原",
+			"building_name": "３丁目１０−１６",
+			"organization_name": "西新井税務署",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "足立区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "足立区",
+					"ward_name": "",
+					"town_name": "栗原",
+					"building_name": "３丁目１０−１６",
+					"organization_name": "西新井税務署"
+				}
+			}
+		},
+		"1230874": {
+			"postcode": "1230874",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Adachi-ku",
+			"ward_name": "",
+			"town_name": "Horinochi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "足立区",
+					"ward_name": "",
+					"town_name": "堀之内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "足立区"
+		},
+		"1230873": {
+			"postcode": "1230873",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Adachi-ku",
+			"ward_name": "",
+			"town_name": "Ogi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "足立区",
+					"ward_name": "",
+					"town_name": "扇",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "足立区"
+		},
+		"1230872": {
+			"postcode": "1230872",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Adachi-ku",
+			"ward_name": "",
+			"town_name": "Kohoku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "足立区",
+					"ward_name": "",
+					"town_name": "江北",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "足立区"
+		},
+		"1230871": {
+			"postcode": "1230871",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Adachi-ku",
+			"ward_name": "",
+			"town_name": "Tsubaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "足立区",
+					"ward_name": "",
+					"town_name": "椿",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "足立区"
+		},
+		"1230865": {
+			"postcode": "1230865",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Adachi-ku",
+			"ward_name": "",
+			"town_name": "Shinden",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "足立区",
+					"ward_name": "",
+					"town_name": "新田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "足立区"
+		},
+		"1230864": {
+			"postcode": "1230864",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Adachi-ku",
+			"ward_name": "",
+			"town_name": "Shikahama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "足立区",
+					"ward_name": "",
+					"town_name": "鹿浜",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "足立区"
+		},
+		"1230863": {
+			"postcode": "1230863",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Adachi-ku",
+			"ward_name": "",
+			"town_name": "Yazaike",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "足立区",
+					"ward_name": "",
+					"town_name": "谷在家",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "足立区"
+		},
+		"1230862": {
+			"postcode": "1230862",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Adachi-ku",
+			"ward_name": "",
+			"town_name": "Saranuma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "足立区",
+					"ward_name": "",
+					"town_name": "皿沼",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "足立区"
+		},
+		"1230861": {
+			"postcode": "1230861",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Adachi-ku",
+			"ward_name": "",
+			"town_name": "Kaga",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "足立区",
+					"ward_name": "",
+					"town_name": "加賀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "足立区"
+		},
+		"1230857": {
+			"postcode": "1230857",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Adachi-ku",
+			"ward_name": "",
+			"town_name": "Motoki",
+			"building_name": "Kitamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "足立区",
+					"ward_name": "",
+					"town_name": "本木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "足立区"
+		},
+		"1230856": {
+			"postcode": "1230856",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Adachi-ku",
+			"ward_name": "",
+			"town_name": "Motoki",
+			"building_name": "Nishimachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "足立区",
+					"ward_name": "",
+					"town_name": "本木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "足立区"
+		},
+		"1230855": {
+			"postcode": "1230855",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Adachi-ku",
+			"ward_name": "",
+			"town_name": "Motoki",
+			"building_name": "Minamimachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "足立区",
+					"ward_name": "",
+					"town_name": "本木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "足立区"
+		},
+		"1230854": {
+			"postcode": "1230854",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Adachi-ku",
+			"ward_name": "",
+			"town_name": "Motoki",
+			"building_name": "Higashimachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "足立区",
+					"ward_name": "",
+					"town_name": "本木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "足立区"
+		},
+		"1230853": {
+			"postcode": "1230853",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Adachi-ku",
+			"ward_name": "",
+			"town_name": "Motoki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "足立区",
+					"ward_name": "",
+					"town_name": "本木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "足立区"
+		},
+		"1230852": {
+			"postcode": "1230852",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Adachi-ku",
+			"ward_name": "",
+			"town_name": "Sekibara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "足立区",
+					"ward_name": "",
+					"town_name": "関原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "足立区"
+		},
+		"1230851": {
+			"postcode": "1230851",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Adachi-ku",
+			"ward_name": "",
+			"town_name": "Umeda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "足立区",
+					"ward_name": "",
+					"town_name": "梅田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "足立区"
+		},
+		"1230845": {
+			"postcode": "1230845",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Adachi-ku",
+			"ward_name": "",
+			"town_name": "Nishiaraihoncho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "足立区",
+					"ward_name": "",
+					"town_name": "西新井本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "足立区"
+		},
+		"1230844": {
+			"postcode": "1230844",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Adachi-ku",
+			"ward_name": "",
+			"town_name": "Okino",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "足立区",
+					"ward_name": "",
+					"town_name": "興野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "足立区"
+		},
+		"1230843": {
+			"postcode": "1230843",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Adachi-ku",
+			"ward_name": "",
+			"town_name": "Nishiaraisakaecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "足立区",
+					"ward_name": "",
+					"town_name": "西新井栄町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "足立区"
+		},
+		"1230842": {
+			"postcode": "1230842",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Adachi-ku",
+			"ward_name": "",
+			"town_name": "Kurihara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "足立区",
+					"ward_name": "",
+					"town_name": "栗原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "足立区"
+		},
+		"1230841": {
+			"postcode": "1230841",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Adachi-ku",
+			"ward_name": "",
+			"town_name": "Nishiarai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "足立区",
+					"ward_name": "",
+					"town_name": "西新井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "足立区"
+		}
+	}
+}

@@ -1,0 +1,3835 @@
+{
+	"country_code": "JP",
+	"parent_id": "769",
+	"locale": "ja-Latn",
+	"address": {
+		"7692992": {
+			"postcode": "7692992",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "引田",
+			"building_name": "５１３−１",
+			"organization_name": "東かがわ市役所　引田庁舎",
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "引田",
+					"building_name": "５１３−１",
+					"organization_name": "東かがわ市役所　引田庁舎"
+				}
+			}
+		},
+		"7692908": {
+			"postcode": "7692908",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "Omi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "小海",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市"
+		},
+		"7692907": {
+			"postcode": "7692907",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "Yoshida",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "吉田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市"
+		},
+		"7692906": {
+			"postcode": "7692906",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "Kawamata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "川股",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市"
+		},
+		"7692905": {
+			"postcode": "7692905",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "Kureha",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "黒羽",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市"
+		},
+		"7692904": {
+			"postcode": "7692904",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "Sakamoto",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "坂元",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市"
+		},
+		"7692903": {
+			"postcode": "7692903",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "Minamino",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "南野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市"
+		},
+		"7692902": {
+			"postcode": "7692902",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "Umayado",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "馬宿",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市"
+		},
+		"7692901": {
+			"postcode": "7692901",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "Hiketa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "引田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市"
+		},
+		"7692797": {
+			"postcode": "7692797",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "西山",
+			"building_name": "５１６番地１",
+			"organization_name": "四国化工　株式会社",
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "西山",
+					"building_name": "５１６番地１",
+					"organization_name": "四国化工　株式会社"
+				}
+			}
+		},
+		"7692796": {
+			"postcode": "7692796",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "松原",
+			"building_name": "１０９５",
+			"organization_name": "（株）　ナイガイ",
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "松原",
+					"building_name": "１０９５",
+					"organization_name": "（株）　ナイガイ"
+				}
+			}
+		},
+		"7692795": {
+			"postcode": "7692795",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "松原",
+			"building_name": "９８１",
+			"organization_name": "（株）　スワニー",
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "松原",
+					"building_name": "９８１",
+					"organization_name": "（株）　スワニー"
+				}
+			}
+		},
+		"7692794": {
+			"postcode": "7692794",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "湊",
+			"building_name": "１７８９",
+			"organization_name": "四国化工　株式会社",
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "湊",
+					"building_name": "１７８９",
+					"organization_name": "四国化工　株式会社"
+				}
+			}
+		},
+		"7692792": {
+			"postcode": "7692792",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "湊",
+			"building_name": "１８４７−１",
+			"organization_name": "東かがわ市役所",
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "湊",
+					"building_name": "１８４７−１",
+					"organization_name": "東かがわ市役所"
+				}
+			}
+		},
+		"7692788": {
+			"postcode": "7692788",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "松原",
+			"building_name": "９６３",
+			"organization_name": "香川県立　白鳥病院",
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "松原",
+					"building_name": "９６３",
+					"organization_name": "香川県立　白鳥病院"
+				}
+			}
+		},
+		"7692715": {
+			"postcode": "7692715",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "Gomyo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "五名",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市"
+		},
+		"7692714": {
+			"postcode": "7692714",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "Nyunoyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "入野山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市"
+		},
+		"7692713": {
+			"postcode": "7692713",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "Yodayama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "与田山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市"
+		},
+		"7692712": {
+			"postcode": "7692712",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "Nishiyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "西山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市"
+		},
+		"7692711": {
+			"postcode": "7692711",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "Higashiyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "東山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市"
+		},
+		"7692705": {
+			"postcode": "7692705",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "Shirotori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "白鳥",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市"
+		},
+		"7692704": {
+			"postcode": "7692704",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "Kirai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "帰来",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市"
+		},
+		"7692703": {
+			"postcode": "7692703",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "Iza",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "伊座",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市"
+		},
+		"7692702": {
+			"postcode": "7692702",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "Matsubara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "松原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市"
+		},
+		"7692701": {
+			"postcode": "7692701",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "Minato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "湊",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市"
+		},
+		"7692700": {
+			"postcode": "7692700",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市"
+		},
+		"7692696": {
+			"postcode": "7692696",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "三本松",
+			"building_name": "２１２３（三本松郵便局私書箱第１１号）",
+			"organization_name": "株式会社　オールインワン",
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "三本松",
+					"building_name": "２１２３（三本松郵便局私書箱第１１号）",
+					"organization_name": "株式会社　オールインワン"
+				}
+			}
+		},
+		"7692695": {
+			"postcode": "7692695",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "三本松",
+			"building_name": "５６７（三本松郵便局私書箱第１号）",
+			"organization_name": "帝國製薬　株式会社",
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "三本松",
+					"building_name": "５６７（三本松郵便局私書箱第１号）",
+					"organization_name": "帝國製薬　株式会社"
+				}
+			}
+		},
+		"7692693": {
+			"postcode": "7692693",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "横内",
+			"building_name": "６８９−１",
+			"organization_name": "株式会社　トーコー",
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "横内",
+					"building_name": "６８９−１",
+					"organization_name": "株式会社　トーコー"
+				}
+			}
+		},
+		"7692692": {
+			"postcode": "7692692",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "三本松",
+			"building_name": "１１７２",
+			"organization_name": "東かがわ市役所　大内庁舎",
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "三本松",
+					"building_name": "１１７２",
+					"organization_name": "東かがわ市役所　大内庁舎"
+				}
+			}
+		},
+		"7692606": {
+			"postcode": "7692606",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "Mizushi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "水主",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市"
+		},
+		"7692605": {
+			"postcode": "7692605",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "Nakasuji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "中筋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市"
+		},
+		"7692604": {
+			"postcode": "7692604",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "Nishimura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "西村",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市"
+		},
+		"7692603": {
+			"postcode": "7692603",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "Yokochi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "横内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市"
+		},
+		"7692602": {
+			"postcode": "7692602",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "Kawahigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "川東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市"
+		},
+		"7692601": {
+			"postcode": "7692601",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "Sambommatsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "三本松",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市"
+		},
+		"7692521": {
+			"postcode": "7692521",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "Ochi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "大内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市"
+		},
+		"7692520": {
+			"postcode": "7692520",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "Umashino",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "馬篠",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市"
+		},
+		"7692519": {
+			"postcode": "7692519",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "Kozare",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "小砂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市"
+		},
+		"7692518": {
+			"postcode": "7692518",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "Nakayama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "中山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市"
+		},
+		"7692517": {
+			"postcode": "7692517",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "Midono",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "三殿",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市"
+		},
+		"7692516": {
+			"postcode": "7692516",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "Doi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "土居",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市"
+		},
+		"7692515": {
+			"postcode": "7692515",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "Machida",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "町田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市"
+		},
+		"7692514": {
+			"postcode": "7692514",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "Matsusaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "松崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市"
+		},
+		"7692513": {
+			"postcode": "7692513",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "Otani",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "大谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市"
+		},
+		"7692512": {
+			"postcode": "7692512",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "Ochiai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "落合",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市"
+		},
+		"7692511": {
+			"postcode": "7692511",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Higashikagawa-shi",
+			"ward_name": "",
+			"town_name": "Koiso",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "東かがわ市",
+					"ward_name": "",
+					"town_name": "小磯",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "東かがわ市"
+		},
+		"7692492": {
+			"postcode": "7692492",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Sanuki-shi",
+			"ward_name": "",
+			"town_name": "津田町津田",
+			"building_name": "１３８−１５",
+			"organization_name": "さぬき市教育委員会　（津田支所）",
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "さぬき市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "さぬき市",
+					"ward_name": "",
+					"town_name": "津田町津田",
+					"building_name": "１３８−１５",
+					"organization_name": "さぬき市教育委員会　（津田支所）"
+				}
+			}
+		},
+		"7692402": {
+			"postcode": "7692402",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Sanuki-shi",
+			"ward_name": "",
+			"town_name": "Tsudamachi",
+			"building_name": "Tsuruwa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "さぬき市",
+					"ward_name": "",
+					"town_name": "津田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "さぬき市"
+		},
+		"7692401": {
+			"postcode": "7692401",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Sanuki-shi",
+			"ward_name": "",
+			"town_name": "Tsudamachi",
+			"building_name": "Tsuda",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "さぬき市",
+					"ward_name": "",
+					"town_name": "津田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "さぬき市"
+		},
+		"7692392": {
+			"postcode": "7692392",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Sanuki-shi",
+			"ward_name": "",
+			"town_name": "長尾東",
+			"building_name": "８８８−５",
+			"organization_name": "さぬき市保健福祉事務所　（長尾支所）",
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "さぬき市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "さぬき市",
+					"ward_name": "",
+					"town_name": "長尾東",
+					"building_name": "８８８−５",
+					"organization_name": "さぬき市保健福祉事務所　（長尾支所）"
+				}
+			}
+		},
+		"7692323": {
+			"postcode": "7692323",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Sanuki-shi",
+			"ward_name": "",
+			"town_name": "Sangawamachi",
+			"building_name": "Kanzaki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "さぬき市",
+					"ward_name": "",
+					"town_name": "寒川町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "さぬき市"
+		},
+		"7692322": {
+			"postcode": "7692322",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Sanuki-shi",
+			"ward_name": "",
+			"town_name": "Sangawamachi",
+			"building_name": "Ishidanishi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "さぬき市",
+					"ward_name": "",
+					"town_name": "寒川町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "さぬき市"
+		},
+		"7692321": {
+			"postcode": "7692321",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Sanuki-shi",
+			"ward_name": "",
+			"town_name": "Sangawamachi",
+			"building_name": "Ishidahigashi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "さぬき市",
+					"ward_name": "",
+					"town_name": "寒川町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "さぬき市"
+		},
+		"7692315": {
+			"postcode": "7692315",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Sanuki-shi",
+			"ward_name": "",
+			"town_name": "Zota",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "さぬき市",
+					"ward_name": "",
+					"town_name": "造田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "さぬき市"
+		},
+		"7692314": {
+			"postcode": "7692314",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Sanuki-shi",
+			"ward_name": "",
+			"town_name": "Zotaotoi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "さぬき市",
+					"ward_name": "",
+					"town_name": "造田乙井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "さぬき市"
+		},
+		"7692313": {
+			"postcode": "7692313",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Sanuki-shi",
+			"ward_name": "",
+			"town_name": "Zotanomada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "さぬき市",
+					"ward_name": "",
+					"town_name": "造田野間田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "さぬき市"
+		},
+		"7692312": {
+			"postcode": "7692312",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Sanuki-shi",
+			"ward_name": "",
+			"town_name": "Zotakorehiro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "さぬき市",
+					"ward_name": "",
+					"town_name": "造田是弘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "さぬき市"
+		},
+		"7692311": {
+			"postcode": "7692311",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Sanuki-shi",
+			"ward_name": "",
+			"town_name": "Zotamiyanishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "さぬき市",
+					"ward_name": "",
+					"town_name": "造田宮西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "さぬき市"
+		},
+		"7692306": {
+			"postcode": "7692306",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Sanuki-shi",
+			"ward_name": "",
+			"town_name": "Tawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "さぬき市",
+					"ward_name": "",
+					"town_name": "多和",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "さぬき市"
+		},
+		"7692305": {
+			"postcode": "7692305",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Sanuki-shi",
+			"ward_name": "",
+			"town_name": "Maeyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "さぬき市",
+					"ward_name": "",
+					"town_name": "前山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "さぬき市"
+		},
+		"7692304": {
+			"postcode": "7692304",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Sanuki-shi",
+			"ward_name": "",
+			"town_name": "Showa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "さぬき市",
+					"ward_name": "",
+					"town_name": "昭和",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "さぬき市"
+		},
+		"7692303": {
+			"postcode": "7692303",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Sanuki-shi",
+			"ward_name": "",
+			"town_name": "Nagaomyo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "さぬき市",
+					"ward_name": "",
+					"town_name": "長尾名",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "さぬき市"
+		},
+		"7692302": {
+			"postcode": "7692302",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Sanuki-shi",
+			"ward_name": "",
+			"town_name": "Nagaonishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "さぬき市",
+					"ward_name": "",
+					"town_name": "長尾西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "さぬき市"
+		},
+		"7692301": {
+			"postcode": "7692301",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Sanuki-shi",
+			"ward_name": "",
+			"town_name": "Nagaohigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "さぬき市",
+					"ward_name": "",
+					"town_name": "長尾東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "さぬき市"
+		},
+		"7692300": {
+			"postcode": "7692300",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Sanuki-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "さぬき市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "さぬき市"
+		},
+		"7692195": {
+			"postcode": "7692195",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Sanuki-shi",
+			"ward_name": "",
+			"town_name": "志度",
+			"building_name": "５３８５−８",
+			"organization_name": "さぬき市役所",
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "さぬき市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "さぬき市",
+					"ward_name": "",
+					"town_name": "志度",
+					"building_name": "５３８５−８",
+					"organization_name": "さぬき市役所"
+				}
+			}
+		},
+		"7692193": {
+			"postcode": "7692193",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Sanuki-shi",
+			"ward_name": "",
+			"town_name": "志度",
+			"building_name": "１３１４−１",
+			"organization_name": "徳島文理大学　香川校",
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "さぬき市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "さぬき市",
+					"ward_name": "",
+					"town_name": "志度",
+					"building_name": "１３１４−１",
+					"organization_name": "徳島文理大学　香川校"
+				}
+			}
+		},
+		"7692192": {
+			"postcode": "7692192",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Sanuki-shi",
+			"ward_name": "",
+			"town_name": "志度",
+			"building_name": "５４１２",
+			"organization_name": "キャスコ　（株）",
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "さぬき市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "さぬき市",
+					"ward_name": "",
+					"town_name": "志度",
+					"building_name": "５４１２",
+					"organization_name": "キャスコ　（株）"
+				}
+			}
+		},
+		"7692105": {
+			"postcode": "7692105",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Sanuki-shi",
+			"ward_name": "",
+			"town_name": "Sue",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "さぬき市",
+					"ward_name": "",
+					"town_name": "末",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "さぬき市"
+		},
+		"7692104": {
+			"postcode": "7692104",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Sanuki-shi",
+			"ward_name": "",
+			"town_name": "Kabe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "さぬき市",
+					"ward_name": "",
+					"town_name": "鴨部",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "さぬき市"
+		},
+		"7692103": {
+			"postcode": "7692103",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Sanuki-shi",
+			"ward_name": "",
+			"town_name": "Oda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "さぬき市",
+					"ward_name": "",
+					"town_name": "小田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "さぬき市"
+		},
+		"7692102": {
+			"postcode": "7692102",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Sanuki-shi",
+			"ward_name": "",
+			"town_name": "Kamosho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "さぬき市",
+					"ward_name": "",
+					"town_name": "鴨庄",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "さぬき市"
+		},
+		"7692101": {
+			"postcode": "7692101",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Sanuki-shi",
+			"ward_name": "",
+			"town_name": "Shido",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "さぬき市",
+					"ward_name": "",
+					"town_name": "志度",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "さぬき市"
+		},
+		"7691698": {
+			"postcode": "7691698",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Kanonji-shi",
+			"ward_name": "",
+			"town_name": "大野原町大野原",
+			"building_name": "１８３４（豊浜郵便局私書箱第６号）",
+			"organization_name": "森孵卵場　株式会社",
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "観音寺市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "観音寺市",
+					"ward_name": "",
+					"town_name": "大野原町大野原",
+					"building_name": "１８３４（豊浜郵便局私書箱第６号）",
+					"organization_name": "森孵卵場　株式会社"
+				}
+			}
+		},
+		"7691696": {
+			"postcode": "7691696",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Kanonji-shi",
+			"ward_name": "",
+			"town_name": "豊浜町和田浜",
+			"building_name": "１６１０−２",
+			"organization_name": "第一衛材　株式会社",
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "観音寺市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "観音寺市",
+					"ward_name": "",
+					"town_name": "豊浜町和田浜",
+					"building_name": "１６１０−２",
+					"organization_name": "第一衛材　株式会社"
+				}
+			}
+		},
+		"7691695": {
+			"postcode": "7691695",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Kanonji-shi",
+			"ward_name": "",
+			"town_name": "豊浜町姫浜",
+			"building_name": "７０８",
+			"organization_name": "三豊総合病院",
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "観音寺市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "観音寺市",
+					"ward_name": "",
+					"town_name": "豊浜町姫浜",
+					"building_name": "７０８",
+					"organization_name": "三豊総合病院"
+				}
+			}
+		},
+		"7691694": {
+			"postcode": "7691694",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Kanonji-shi",
+			"ward_name": "",
+			"town_name": "豊浜町姫浜",
+			"building_name": "３２５",
+			"organization_name": "富士紡績　豊浜工場",
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "観音寺市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "観音寺市",
+					"ward_name": "",
+					"town_name": "豊浜町姫浜",
+					"building_name": "３２５",
+					"organization_name": "富士紡績　豊浜工場"
+				}
+			}
+		},
+		"7691689": {
+			"postcode": "7691689",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Kanonji-shi",
+			"ward_name": "",
+			"town_name": "大野原町大野原",
+			"building_name": "５５３７",
+			"organization_name": "香川県立　三豊工業高等学校",
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "観音寺市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "観音寺市",
+					"ward_name": "",
+					"town_name": "大野原町大野原",
+					"building_name": "５５３７",
+					"organization_name": "香川県立　三豊工業高等学校"
+				}
+			}
+		},
+		"7691625": {
+			"postcode": "7691625",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Kanonji-shi",
+			"ward_name": "",
+			"town_name": "Onoharacho",
+			"building_name": "Ebisukui",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "観音寺市",
+					"ward_name": "",
+					"town_name": "大野原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "観音寺市"
+		},
+		"7691624": {
+			"postcode": "7691624",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Kanonji-shi",
+			"ward_name": "",
+			"town_name": "Onoharacho",
+			"building_name": "Ariki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "観音寺市",
+					"ward_name": "",
+					"town_name": "大野原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "観音寺市"
+		},
+		"7691623": {
+			"postcode": "7691623",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Kanonji-shi",
+			"ward_name": "",
+			"town_name": "Onoharacho",
+			"building_name": "Tanono",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "観音寺市",
+					"ward_name": "",
+					"town_name": "大野原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "観音寺市"
+		},
+		"7691622": {
+			"postcode": "7691622",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Kanonji-shi",
+			"ward_name": "",
+			"town_name": "Onoharacho",
+			"building_name": "Uchinono",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "観音寺市",
+					"ward_name": "",
+					"town_name": "大野原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "観音寺市"
+		},
+		"7691621": {
+			"postcode": "7691621",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Kanonji-shi",
+			"ward_name": "",
+			"town_name": "Onoharacho",
+			"building_name": "Iseki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "観音寺市",
+					"ward_name": "",
+					"town_name": "大野原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "観音寺市"
+		},
+		"7691617": {
+			"postcode": "7691617",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Kanonji-shi",
+			"ward_name": "",
+			"town_name": "Onoharacho",
+			"building_name": "Aoka",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "観音寺市",
+					"ward_name": "",
+					"town_name": "大野原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "観音寺市"
+		},
+		"7691616": {
+			"postcode": "7691616",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Kanonji-shi",
+			"ward_name": "",
+			"town_name": "Onoharacho",
+			"building_name": "Fukudahara",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "観音寺市",
+					"ward_name": "",
+					"town_name": "大野原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "観音寺市"
+		},
+		"7691615": {
+			"postcode": "7691615",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Kanonji-shi",
+			"ward_name": "",
+			"town_name": "Onoharacho",
+			"building_name": "Marui",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "観音寺市",
+					"ward_name": "",
+					"town_name": "大野原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "観音寺市"
+		},
+		"7691614": {
+			"postcode": "7691614",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Kanonji-shi",
+			"ward_name": "",
+			"town_name": "Onoharacho",
+			"building_name": "Hagiwara",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "観音寺市",
+					"ward_name": "",
+					"town_name": "大野原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "観音寺市"
+		},
+		"7691613": {
+			"postcode": "7691613",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Kanonji-shi",
+			"ward_name": "",
+			"town_name": "Onoharacho",
+			"building_name": "Hanaina",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "観音寺市",
+					"ward_name": "",
+					"town_name": "大野原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "観音寺市"
+		},
+		"7691612": {
+			"postcode": "7691612",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Kanonji-shi",
+			"ward_name": "",
+			"town_name": "Onoharacho",
+			"building_name": "Nakahime",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "観音寺市",
+					"ward_name": "",
+					"town_name": "大野原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "観音寺市"
+		},
+		"7691611": {
+			"postcode": "7691611",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Kanonji-shi",
+			"ward_name": "",
+			"town_name": "Onoharacho",
+			"building_name": "Onohara",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "観音寺市",
+					"ward_name": "",
+					"town_name": "大野原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "観音寺市"
+		},
+		"7691604": {
+			"postcode": "7691604",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Kanonji-shi",
+			"ward_name": "",
+			"town_name": "Toyohamacho",
+			"building_name": "Minora",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "観音寺市",
+					"ward_name": "",
+					"town_name": "豊浜町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "観音寺市"
+		},
+		"7691603": {
+			"postcode": "7691603",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Kanonji-shi",
+			"ward_name": "",
+			"town_name": "Toyohamacho",
+			"building_name": "Wada",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "観音寺市",
+					"ward_name": "",
+					"town_name": "豊浜町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "観音寺市"
+		},
+		"7691602": {
+			"postcode": "7691602",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Kanonji-shi",
+			"ward_name": "",
+			"town_name": "Toyohamacho",
+			"building_name": "Wadahama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "観音寺市",
+					"ward_name": "",
+					"town_name": "豊浜町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "観音寺市"
+		},
+		"7691601": {
+			"postcode": "7691601",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Kanonji-shi",
+			"ward_name": "",
+			"town_name": "Toyohamacho",
+			"building_name": "Himehama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "観音寺市",
+					"ward_name": "",
+					"town_name": "豊浜町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "観音寺市"
+		},
+		"7691593": {
+			"postcode": "7691593",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Mitoyo-shi",
+			"ward_name": "",
+			"town_name": "豊中町本山甲",
+			"building_name": "２０１−１",
+			"organization_name": "三豊市役所　豊中庁舎",
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "三豊市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "三豊市",
+					"ward_name": "",
+					"town_name": "豊中町本山甲",
+					"building_name": "２０１−１",
+					"organization_name": "三豊市役所　豊中庁舎"
+				}
+			}
+		},
+		"7691508": {
+			"postcode": "7691508",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Mitoyo-shi",
+			"ward_name": "",
+			"town_name": "Toyonakacho",
+			"building_name": "Shimodakano",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "三豊市",
+					"ward_name": "",
+					"town_name": "豊中町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "三豊市"
+		},
+		"7691507": {
+			"postcode": "7691507",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Mitoyo-shi",
+			"ward_name": "",
+			"town_name": "Toyonakacho",
+			"building_name": "Okamoto",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "三豊市",
+					"ward_name": "",
+					"town_name": "豊中町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "三豊市"
+		},
+		"7691506": {
+			"postcode": "7691506",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Mitoyo-shi",
+			"ward_name": "",
+			"town_name": "Toyonakacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "三豊市",
+					"ward_name": "",
+					"town_name": "豊中町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "三豊市"
+		},
+		"7691505": {
+			"postcode": "7691505",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Mitoyo-shi",
+			"ward_name": "",
+			"town_name": "Toyonakacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "三豊市",
+					"ward_name": "",
+					"town_name": "豊中町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "三豊市"
+		},
+		"7691504": {
+			"postcode": "7691504",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Mitoyo-shi",
+			"ward_name": "",
+			"town_name": "Toyonakacho",
+			"building_name": "Kamidakano",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "三豊市",
+					"ward_name": "",
+					"town_name": "豊中町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "三豊市"
+		},
+		"7691503": {
+			"postcode": "7691503",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Mitoyo-shi",
+			"ward_name": "",
+			"town_name": "Toyonakacho",
+			"building_name": "Kasadatakeda",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "三豊市",
+					"ward_name": "",
+					"town_name": "豊中町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "三豊市"
+		},
+		"7691502": {
+			"postcode": "7691502",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Mitoyo-shi",
+			"ward_name": "",
+			"town_name": "Toyonakacho",
+			"building_name": "Kasadakasaoka",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "三豊市",
+					"ward_name": "",
+					"town_name": "豊中町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "三豊市"
+		},
+		"7691501": {
+			"postcode": "7691501",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Mitoyo-shi",
+			"ward_name": "",
+			"town_name": "Toyonakacho",
+			"building_name": "Hijidai",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "三豊市",
+					"ward_name": "",
+					"town_name": "豊中町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "三豊市"
+		},
+		"7691410": {
+			"postcode": "7691410",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Mitoyo-shi",
+			"ward_name": "",
+			"town_name": "Niocho",
+			"building_name": "Ienora",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "三豊市",
+					"ward_name": "",
+					"town_name": "仁尾町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "三豊市"
+		},
+		"7691408": {
+			"postcode": "7691408",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Mitoyo-shi",
+			"ward_name": "",
+			"town_name": "Niocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "三豊市",
+					"ward_name": "",
+					"town_name": "仁尾町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "三豊市"
+		},
+		"7691407": {
+			"postcode": "7691407",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Mitoyo-shi",
+			"ward_name": "",
+			"town_name": "Niocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "三豊市",
+					"ward_name": "",
+					"town_name": "仁尾町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "三豊市"
+		},
+		"7691406": {
+			"postcode": "7691406",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Mitoyo-shi",
+			"ward_name": "",
+			"town_name": "Niocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "三豊市",
+					"ward_name": "",
+					"town_name": "仁尾町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "三豊市"
+		},
+		"7691405": {
+			"postcode": "7691405",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Mitoyo-shi",
+			"ward_name": "",
+			"town_name": "Niocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "三豊市",
+					"ward_name": "",
+					"town_name": "仁尾町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "三豊市"
+		},
+		"7691404": {
+			"postcode": "7691404",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Mitoyo-shi",
+			"ward_name": "",
+			"town_name": "Niocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "三豊市",
+					"ward_name": "",
+					"town_name": "仁尾町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "三豊市"
+		},
+		"7691403": {
+			"postcode": "7691403",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Mitoyo-shi",
+			"ward_name": "",
+			"town_name": "Niocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "三豊市",
+					"ward_name": "",
+					"town_name": "仁尾町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "三豊市"
+		},
+		"7691402": {
+			"postcode": "7691402",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Mitoyo-shi",
+			"ward_name": "",
+			"town_name": "Niocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "三豊市",
+					"ward_name": "",
+					"town_name": "仁尾町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "三豊市"
+		},
+		"7691401": {
+			"postcode": "7691401",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Mitoyo-shi",
+			"ward_name": "",
+			"town_name": "Niocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "三豊市",
+					"ward_name": "",
+					"town_name": "仁尾町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "三豊市"
+		},
+		"7691192": {
+			"postcode": "7691192",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Mitoyo-shi",
+			"ward_name": "",
+			"town_name": "詫間町香田",
+			"building_name": "５５１番地",
+			"organization_name": "香川高等専門学校　詫間キャンパス",
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "三豊市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "三豊市",
+					"ward_name": "",
+					"town_name": "詫間町香田",
+					"building_name": "５５１番地",
+					"organization_name": "香川高等専門学校　詫間キャンパス"
+				}
+			}
+		},
+		"7691109": {
+			"postcode": "7691109",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Mitoyo-shi",
+			"ward_name": "",
+			"town_name": "Takumacho",
+			"building_name": "Shishijima",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "三豊市",
+					"ward_name": "",
+					"town_name": "詫間町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "三豊市"
+		},
+		"7691108": {
+			"postcode": "7691108",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Mitoyo-shi",
+			"ward_name": "",
+			"town_name": "Takumacho",
+			"building_name": "Awashima",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "三豊市",
+					"ward_name": "",
+					"town_name": "詫間町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "三豊市"
+		},
+		"7691107": {
+			"postcode": "7691107",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Mitoyo-shi",
+			"ward_name": "",
+			"town_name": "Takumacho",
+			"building_name": "Namari",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "三豊市",
+					"ward_name": "",
+					"town_name": "詫間町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "三豊市"
+		},
+		"7691106": {
+			"postcode": "7691106",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Mitoyo-shi",
+			"ward_name": "",
+			"town_name": "Takumacho",
+			"building_name": "Hako",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "三豊市",
+					"ward_name": "",
+					"town_name": "詫間町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "三豊市"
+		},
+		"7691105": {
+			"postcode": "7691105",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Mitoyo-shi",
+			"ward_name": "",
+			"town_name": "Takumacho",
+			"building_name": "Tsumu",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "三豊市",
+					"ward_name": "",
+					"town_name": "詫間町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "三豊市"
+		},
+		"7691104": {
+			"postcode": "7691104",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Mitoyo-shi",
+			"ward_name": "",
+			"town_name": "Takumacho",
+			"building_name": "Ohama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "三豊市",
+					"ward_name": "",
+					"town_name": "詫間町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "三豊市"
+		},
+		"7691103": {
+			"postcode": "7691103",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Mitoyo-shi",
+			"ward_name": "",
+			"town_name": "Takumacho",
+			"building_name": "Koda",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "三豊市",
+					"ward_name": "",
+					"town_name": "詫間町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "三豊市"
+		},
+		"7691102": {
+			"postcode": "7691102",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Mitoyo-shi",
+			"ward_name": "",
+			"town_name": "Takumacho",
+			"building_name": "Matsusaki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "三豊市",
+					"ward_name": "",
+					"town_name": "詫間町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "三豊市"
+		},
+		"7691101": {
+			"postcode": "7691101",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Mitoyo-shi",
+			"ward_name": "",
+			"town_name": "Takumacho",
+			"building_name": "Takuma",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "三豊市",
+					"ward_name": "",
+					"town_name": "詫間町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "三豊市"
+		},
+		"7690402": {
+			"postcode": "7690402",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Mitoyo-shi",
+			"ward_name": "",
+			"town_name": "Saitacho",
+			"building_name": "Saitanaka",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "三豊市",
+					"ward_name": "",
+					"town_name": "財田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "三豊市"
+		},
+		"7690401": {
+			"postcode": "7690401",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Mitoyo-shi",
+			"ward_name": "",
+			"town_name": "Saitacho",
+			"building_name": "Saitakami",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "三豊市",
+					"ward_name": "",
+					"town_name": "財田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "三豊市"
+		},
+		"7690319": {
+			"postcode": "7690319",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Nakatado-gun",
+			"ward_name": "Manno-cho",
+			"town_name": "Oiage",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "仲多度郡",
+					"ward_name": "まんのう町",
+					"town_name": "追上",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "仲多度郡"
+		},
+		"7690318": {
+			"postcode": "7690318",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Nakatado-gun",
+			"ward_name": "Manno-cho",
+			"town_name": "Yamawaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "仲多度郡",
+					"ward_name": "まんのう町",
+					"town_name": "山脇",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "仲多度郡"
+		},
+		"7690317": {
+			"postcode": "7690317",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Nakatado-gun",
+			"ward_name": "Manno-cho",
+			"town_name": "Shimme",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "仲多度郡",
+					"ward_name": "まんのう町",
+					"town_name": "新目",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "仲多度郡"
+		},
+		"7690316": {
+			"postcode": "7690316",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Nakatado-gun",
+			"ward_name": "Manno-cho",
+			"town_name": "Okuchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "仲多度郡",
+					"ward_name": "まんのう町",
+					"town_name": "大口",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "仲多度郡"
+		},
+		"7690315": {
+			"postcode": "7690315",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Nakatado-gun",
+			"ward_name": "Manno-cho",
+			"town_name": "Ushiroyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "仲多度郡",
+					"ward_name": "まんのう町",
+					"town_name": "後山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "仲多度郡"
+		},
+		"7690314": {
+			"postcode": "7690314",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Nakatado-gun",
+			"ward_name": "Manno-cho",
+			"town_name": "Honoyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "仲多度郡",
+					"ward_name": "まんのう町",
+					"town_name": "帆山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "仲多度郡"
+		},
+		"7690313": {
+			"postcode": "7690313",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Nakatado-gun",
+			"ward_name": "Manno-cho",
+			"town_name": "Ikama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "仲多度郡",
+					"ward_name": "まんのう町",
+					"town_name": "生間",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "仲多度郡"
+		},
+		"7690312": {
+			"postcode": "7690312",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Nakatado-gun",
+			"ward_name": "Manno-cho",
+			"town_name": "Miyada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "仲多度郡",
+					"ward_name": "まんのう町",
+					"town_name": "宮田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "仲多度郡"
+		},
+		"7690311": {
+			"postcode": "7690311",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Nakatado-gun",
+			"ward_name": "Manno-cho",
+			"town_name": "Kaita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "仲多度郡",
+					"ward_name": "まんのう町",
+					"town_name": "買田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "仲多度郡"
+		},
+		"7690303": {
+			"postcode": "7690303",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Nakatado-gun",
+			"ward_name": "Manno-cho",
+			"town_name": "Shichika",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "仲多度郡",
+					"ward_name": "まんのう町",
+					"town_name": "七箇",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "仲多度郡"
+		},
+		"7690302": {
+			"postcode": "7690302",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Nakatado-gun",
+			"ward_name": "Manno-cho",
+			"town_name": "Shioiri",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "仲多度郡",
+					"ward_name": "まんのう町",
+					"town_name": "塩入",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "仲多度郡"
+		},
+		"7690301": {
+			"postcode": "7690301",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Nakatado-gun",
+			"ward_name": "Manno-cho",
+			"town_name": "Sabumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "仲多度郡",
+					"ward_name": "まんのう町",
+					"town_name": "佐文",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "仲多度郡"
+		},
+		"7690296": {
+			"postcode": "7690296",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Ayauta-gun",
+			"ward_name": "Utazu-cho",
+			"town_name": "",
+			"building_name": "１４３５（宇多津郵便局私書箱第２号）",
+			"organization_name": "郷照寺",
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "綾歌郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "綾歌郡",
+					"ward_name": "宇多津町",
+					"town_name": "",
+					"building_name": "１４３５（宇多津郵便局私書箱第２号）",
+					"organization_name": "郷照寺"
+				}
+			}
+		},
+		"7690295": {
+			"postcode": "7690295",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Ayauta-gun",
+			"ward_name": "Utazu-cho",
+			"town_name": "",
+			"building_name": "吉田",
+			"organization_name": "トラスコ中山　（株）　高松営業所",
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "綾歌郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "綾歌郡",
+					"ward_name": "宇多津町",
+					"town_name": "",
+					"building_name": "吉田",
+					"organization_name": "トラスコ中山　（株）　高松営業所"
+				}
+			}
+		},
+		"7690293": {
+			"postcode": "7690293",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Ayauta-gun",
+			"ward_name": "Utazu-cho",
+			"town_name": "吉田",
+			"building_name": "４０００",
+			"organization_name": "ＹＫＫＡＰ　株式会社　四国事業所",
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "綾歌郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "綾歌郡",
+					"ward_name": "宇多津町",
+					"town_name": "吉田",
+					"building_name": "４０００",
+					"organization_name": "ＹＫＫＡＰ　株式会社　四国事業所"
+				}
+			}
+		},
+		"7690292": {
+			"postcode": "7690292",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Ayauta-gun",
+			"ward_name": "Utazu-cho",
+			"town_name": "",
+			"building_name": "１８８１",
+			"organization_name": "宇多津町役場",
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "綾歌郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "綾歌郡",
+					"ward_name": "宇多津町",
+					"town_name": "",
+					"building_name": "１８８１",
+					"organization_name": "宇多津町役場"
+				}
+			}
+		},
+		"7690228": {
+			"postcode": "7690228",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Ayauta-gun",
+			"ward_name": "Utazu-cho",
+			"town_name": "Mukauyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "綾歌郡",
+					"ward_name": "宇多津町",
+					"town_name": "向山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "綾歌郡"
+		},
+		"7690227": {
+			"postcode": "7690227",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Ayauta-gun",
+			"ward_name": "Utazu-cho",
+			"town_name": "Iwaya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "綾歌郡",
+					"ward_name": "宇多津町",
+					"town_name": "岩屋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "綾歌郡"
+		},
+		"7690226": {
+			"postcode": "7690226",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Ayauta-gun",
+			"ward_name": "Utazu-cho",
+			"town_name": "Sakashita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "綾歌郡",
+					"ward_name": "宇多津町",
+					"town_name": "坂下",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "綾歌郡"
+		},
+		"7690225": {
+			"postcode": "7690225",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Ayauta-gun",
+			"ward_name": "Utazu-cho",
+			"town_name": "Shimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "綾歌郡",
+					"ward_name": "宇多津町",
+					"town_name": "新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "綾歌郡"
+		},
+		"7690224": {
+			"postcode": "7690224",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Ayauta-gun",
+			"ward_name": "Utazu-cho",
+			"town_name": "Hirayama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "綾歌郡",
+					"ward_name": "宇多津町",
+					"town_name": "平山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "綾歌郡"
+		},
+		"7690223": {
+			"postcode": "7690223",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Ayauta-gun",
+			"ward_name": "Utazu-cho",
+			"town_name": "Shingai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "綾歌郡",
+					"ward_name": "宇多津町",
+					"town_name": "新開",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "綾歌郡"
+		},
+		"7690222": {
+			"postcode": "7690222",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Ayauta-gun",
+			"ward_name": "Utazu-cho",
+			"town_name": "Ohashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "綾歌郡",
+					"ward_name": "宇多津町",
+					"town_name": "大橋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "綾歌郡"
+		},
+		"7690221": {
+			"postcode": "7690221",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Ayauta-gun",
+			"ward_name": "Utazu-cho",
+			"town_name": "Yoshida",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "綾歌郡",
+					"ward_name": "宇多津町",
+					"town_name": "吉田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "綾歌郡"
+		},
+		"7690213": {
+			"postcode": "7690213",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Ayauta-gun",
+			"ward_name": "Utazu-cho",
+			"town_name": "Higashibun",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "綾歌郡",
+					"ward_name": "宇多津町",
+					"town_name": "東分",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "綾歌郡"
+		},
+		"7690212": {
+			"postcode": "7690212",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Ayauta-gun",
+			"ward_name": "Utazu-cho",
+			"town_name": "Numanoike",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "綾歌郡",
+					"ward_name": "宇多津町",
+					"town_name": "沼ノ池",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "綾歌郡"
+		},
+		"7690211": {
+			"postcode": "7690211",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Ayauta-gun",
+			"ward_name": "Utazu-cho",
+			"town_name": "Jurakuji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "綾歌郡",
+					"ward_name": "宇多津町",
+					"town_name": "十楽寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "綾歌郡"
+		},
+		"7690210": {
+			"postcode": "7690210",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Ayauta-gun",
+			"ward_name": "Utazu-cho",
+			"town_name": "Utazuchonotsuginibanchigakurubaai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "綾歌郡",
+					"ward_name": "宇多津町",
+					"town_name": "宇多津町の次に番地がくる場合",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "綾歌郡"
+		},
+		"7690209": {
+			"postcode": "7690209",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Ayauta-gun",
+			"ward_name": "Utazu-cho",
+			"town_name": "Hama9-bancho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "綾歌郡",
+					"ward_name": "宇多津町",
+					"town_name": "浜九番丁",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "綾歌郡"
+		},
+		"7690208": {
+			"postcode": "7690208",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Ayauta-gun",
+			"ward_name": "Utazu-cho",
+			"town_name": "Hama8-bancho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "綾歌郡",
+					"ward_name": "宇多津町",
+					"town_name": "浜八番丁",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "綾歌郡"
+		},
+		"7690207": {
+			"postcode": "7690207",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Ayauta-gun",
+			"ward_name": "Utazu-cho",
+			"town_name": "Hama7-bancho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "綾歌郡",
+					"ward_name": "宇多津町",
+					"town_name": "浜七番丁",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "綾歌郡"
+		},
+		"7690206": {
+			"postcode": "7690206",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Ayauta-gun",
+			"ward_name": "Utazu-cho",
+			"town_name": "Hama6-bancho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "綾歌郡",
+					"ward_name": "宇多津町",
+					"town_name": "浜六番丁",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "綾歌郡"
+		},
+		"7690205": {
+			"postcode": "7690205",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Ayauta-gun",
+			"ward_name": "Utazu-cho",
+			"town_name": "Hama5-bancho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "綾歌郡",
+					"ward_name": "宇多津町",
+					"town_name": "浜五番丁",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "綾歌郡"
+		},
+		"7690204": {
+			"postcode": "7690204",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Ayauta-gun",
+			"ward_name": "Utazu-cho",
+			"town_name": "Hama4-bancho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "綾歌郡",
+					"ward_name": "宇多津町",
+					"town_name": "浜四番丁",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "綾歌郡"
+		},
+		"7690203": {
+			"postcode": "7690203",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Ayauta-gun",
+			"ward_name": "Utazu-cho",
+			"town_name": "Hama3-bancho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "綾歌郡",
+					"ward_name": "宇多津町",
+					"town_name": "浜三番丁",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "綾歌郡"
+		},
+		"7690202": {
+			"postcode": "7690202",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Ayauta-gun",
+			"ward_name": "Utazu-cho",
+			"town_name": "Hama2-bancho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "綾歌郡",
+					"ward_name": "宇多津町",
+					"town_name": "浜二番丁",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "綾歌郡"
+		},
+		"7690201": {
+			"postcode": "7690201",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Ayauta-gun",
+			"ward_name": "Utazu-cho",
+			"town_name": "Hama1-bancho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "綾歌郡",
+					"ward_name": "宇多津町",
+					"town_name": "浜一番丁",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "綾歌郡"
+		},
+		"7690200": {
+			"postcode": "7690200",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Ayauta-gun",
+			"ward_name": "Utazu-cho",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "綾歌郡",
+					"ward_name": "宇多津町",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "綾歌郡"
+		},
+		"7690198": {
+			"postcode": "7690198",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Takamatsu-shi",
+			"ward_name": "",
+			"town_name": "国分寺町国分",
+			"building_name": "３６７−１",
+			"organization_name": "株式会社　マルヨシセンター",
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "高松市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "高松市",
+					"ward_name": "",
+					"town_name": "国分寺町国分",
+					"building_name": "３６７−１",
+					"organization_name": "株式会社　マルヨシセンター"
+				}
+			}
+		},
+		"7690197": {
+			"postcode": "7690197",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Takamatsu-shi",
+			"ward_name": "",
+			"town_name": "国分寺町国分",
+			"building_name": "８９０−１",
+			"organization_name": "（株）　カワイ",
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "高松市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "高松市",
+					"ward_name": "",
+					"town_name": "国分寺町国分",
+					"building_name": "８９０−１",
+					"organization_name": "（株）　カワイ"
+				}
+			}
+		},
+		"7690195": {
+			"postcode": "7690195",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Takamatsu-shi",
+			"ward_name": "",
+			"town_name": "国分寺町新居",
+			"building_name": "１４１６",
+			"organization_name": "加藤産業　株式会社　高松支店",
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "高松市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "高松市",
+					"ward_name": "",
+					"town_name": "国分寺町新居",
+					"building_name": "１４１６",
+					"organization_name": "加藤産業　株式会社　高松支店"
+				}
+			}
+		},
+		"7690194": {
+			"postcode": "7690194",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Takamatsu-shi",
+			"ward_name": "",
+			"town_name": "国分寺町新名",
+			"building_name": "６６３−１",
+			"organization_name": "四国松下ライフエレクトロニクス　株式会社",
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "高松市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "高松市",
+					"ward_name": "",
+					"town_name": "国分寺町新名",
+					"building_name": "６６３−１",
+					"organization_name": "四国松下ライフエレクトロニクス　株式会社"
+				}
+			}
+		},
+		"7690193": {
+			"postcode": "7690193",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Takamatsu-shi",
+			"ward_name": "",
+			"town_name": "国分寺町福家",
+			"building_name": "甲１２５５番地１０",
+			"organization_name": "四国アルフレッサ　株式会社",
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "高松市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "高松市",
+					"ward_name": "",
+					"town_name": "国分寺町福家",
+					"building_name": "甲１２５５番地１０",
+					"organization_name": "四国アルフレッサ　株式会社"
+				}
+			}
+		},
+		"7690192": {
+			"postcode": "7690192",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Takamatsu-shi",
+			"ward_name": "",
+			"town_name": "国分寺町新居",
+			"building_name": "１２９８番地",
+			"organization_name": "高松市役所　国分寺支所",
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "高松市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "高松市",
+					"ward_name": "",
+					"town_name": "国分寺町新居",
+					"building_name": "１２９８番地",
+					"organization_name": "高松市役所　国分寺支所"
+				}
+			}
+		},
+		"7690105": {
+			"postcode": "7690105",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Takamatsu-shi",
+			"ward_name": "",
+			"town_name": "Kokubunjicho",
+			"building_name": "Kashihara",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "高松市",
+					"ward_name": "",
+					"town_name": "国分寺町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "高松市"
+		},
+		"7690104": {
+			"postcode": "7690104",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Takamatsu-shi",
+			"ward_name": "",
+			"town_name": "Kokubunjicho",
+			"building_name": "Shimmyo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "高松市",
+					"ward_name": "",
+					"town_name": "国分寺町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "高松市"
+		},
+		"7690103": {
+			"postcode": "7690103",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Takamatsu-shi",
+			"ward_name": "",
+			"town_name": "Kokubunjicho",
+			"building_name": "Fuke",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "高松市",
+					"ward_name": "",
+					"town_name": "国分寺町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "高松市"
+		},
+		"7690102": {
+			"postcode": "7690102",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Takamatsu-shi",
+			"ward_name": "",
+			"town_name": "Kokubunjicho",
+			"building_name": "Kokubu",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "高松市",
+					"ward_name": "",
+					"town_name": "国分寺町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "高松市"
+		},
+		"7690101": {
+			"postcode": "7690101",
+			"prefecture_name": "Kagawa-ken",
+			"city_name": "Takamatsu-shi",
+			"ward_name": "",
+			"town_name": "Kokubunjicho",
+			"building_name": "Nii",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "香川県",
+					"city_name": "高松市",
+					"ward_name": "",
+					"town_name": "国分寺町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "香川県",
+			"city_code": "高松市"
+		}
+	}
+}

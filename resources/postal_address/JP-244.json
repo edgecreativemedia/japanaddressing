@@ -1,0 +1,975 @@
+{
+	"country_code": "JP",
+	"parent_id": "244",
+	"locale": "ja-Latn",
+	"address": {
+		"2448601": {
+			"postcode": "2448601",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Totsuka-ku",
+			"town_name": "戸塚町",
+			"building_name": "４１００（戸塚郵便局私書箱第３０号）",
+			"organization_name": "大和証券　株式会社　戸塚支店",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "戸塚区",
+					"town_name": "戸塚町",
+					"building_name": "４１００（戸塚郵便局私書箱第３０号）",
+					"organization_name": "大和証券　株式会社　戸塚支店"
+				}
+			}
+		},
+		"2448589": {
+			"postcode": "2448589",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Sakae-ku",
+			"town_name": "田谷町",
+			"building_name": "１",
+			"organization_name": "ＳＥＩオプティフロンティア　株式会社　本社・横浜事業所",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "栄区",
+					"town_name": "田谷町",
+					"building_name": "１",
+					"organization_name": "ＳＥＩオプティフロンティア　株式会社　本社・横浜事業所"
+				}
+			}
+		},
+		"2448588": {
+			"postcode": "2448588",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Sakae-ku",
+			"town_name": "田谷町",
+			"building_name": "１",
+			"organization_name": "住友電気工業　株式会社　横浜製作所",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "栄区",
+					"town_name": "田谷町",
+					"building_name": "１",
+					"organization_name": "住友電気工業　株式会社　横浜製作所"
+				}
+			}
+		},
+		"2448585": {
+			"postcode": "2448585",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Totsuka-ku",
+			"town_name": "品濃町",
+			"building_name": "８８１−１６",
+			"organization_name": "株式会社　有隣堂",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "戸塚区",
+					"town_name": "品濃町",
+					"building_name": "８８１−１６",
+					"organization_name": "株式会社　有隣堂"
+				}
+			}
+		},
+		"2448577": {
+			"postcode": "2448577",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Sakae-ku",
+			"town_name": "飯島町",
+			"building_name": "１０９−１",
+			"organization_name": "株式会社　ファンケル",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "栄区",
+					"town_name": "飯島町",
+					"building_name": "１０９−１",
+					"organization_name": "株式会社　ファンケル"
+				}
+			}
+		},
+		"2448571": {
+			"postcode": "2448571",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Totsuka-ku",
+			"town_name": "前田町",
+			"building_name": "１００番地",
+			"organization_name": "コイト電工　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "戸塚区",
+					"town_name": "前田町",
+					"building_name": "１００番地",
+					"organization_name": "コイト電工　株式会社"
+				}
+			}
+		},
+		"2448569": {
+			"postcode": "2448569",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Totsuka-ku",
+			"town_name": "前田町",
+			"building_name": "１００番地",
+			"organization_name": "ＫＩホールディングス　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "戸塚区",
+					"town_name": "前田町",
+					"building_name": "１００番地",
+					"organization_name": "ＫＩホールディングス　株式会社"
+				}
+			}
+		},
+		"2448567": {
+			"postcode": "2448567",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Totsuka-ku",
+			"town_name": "戸塚町",
+			"building_name": "２１６",
+			"organization_name": "株式会社　日立製作所　通信ネットワーク事業部",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "戸塚区",
+					"town_name": "戸塚町",
+					"building_name": "２１６",
+					"organization_name": "株式会社　日立製作所　通信ネットワーク事業部"
+				}
+			}
+		},
+		"2448566": {
+			"postcode": "2448566",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Totsuka-ku",
+			"town_name": "戸塚町",
+			"building_name": "４１３０",
+			"organization_name": "ＪＣＮ神奈川エリア",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "戸塚区",
+					"town_name": "戸塚町",
+					"building_name": "４１３０",
+					"organization_name": "ＪＣＮ神奈川エリア"
+				}
+			}
+		},
+		"2448558": {
+			"postcode": "2448558",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Totsuka-ku",
+			"town_name": "戸塚町",
+			"building_name": "１５７",
+			"organization_name": "大洋建設　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "戸塚区",
+					"town_name": "戸塚町",
+					"building_name": "１５７",
+					"organization_name": "大洋建設　株式会社"
+				}
+			}
+		},
+		"2448555": {
+			"postcode": "2448555",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Totsuka-ku",
+			"town_name": "戸塚町",
+			"building_name": "５０３０",
+			"organization_name": "（株）　日立製作所ソフトウェア事業部",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "戸塚区",
+					"town_name": "戸塚町",
+					"building_name": "５０３０",
+					"organization_name": "（株）　日立製作所ソフトウェア事業部"
+				}
+			}
+		},
+		"2448550": {
+			"postcode": "2448550",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Totsuka-ku",
+			"town_name": "吉田町",
+			"building_name": "２００１",
+			"organization_name": "戸塚税務署",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "戸塚区",
+					"town_name": "吉田町",
+					"building_name": "２００１",
+					"organization_name": "戸塚税務署"
+				}
+			}
+		},
+		"2448539": {
+			"postcode": "2448539",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Totsuka-ku",
+			"town_name": "上倉田町",
+			"building_name": "１５１８",
+			"organization_name": "明治学院大学　横浜校舎",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "戸塚区",
+					"town_name": "上倉田町",
+					"building_name": "１５１８",
+					"organization_name": "明治学院大学　横浜校舎"
+				}
+			}
+		},
+		"2448533": {
+			"postcode": "2448533",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Sakae-ku",
+			"town_name": "長尾台町",
+			"building_name": "４７１",
+			"organization_name": "株式会社　ニコン　横浜製作所",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "栄区",
+					"town_name": "長尾台町",
+					"building_name": "４７１",
+					"organization_name": "株式会社　ニコン　横浜製作所"
+				}
+			}
+		},
+		"2448530": {
+			"postcode": "2448530",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Totsuka-ku",
+			"town_name": "品濃町",
+			"building_name": "５３７−１",
+			"organization_name": "株式会社　西武百貨店　東戸塚店",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "戸塚区",
+					"town_name": "品濃町",
+					"building_name": "５３７−１",
+					"organization_name": "株式会社　西武百貨店　東戸塚店"
+				}
+			}
+		},
+		"2448528": {
+			"postcode": "2448528",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Totsuka-ku",
+			"town_name": "品濃町",
+			"building_name": "５３５−１",
+			"organization_name": "ダイエー　東戸塚店",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "戸塚区",
+					"town_name": "品濃町",
+					"building_name": "５３５−１",
+					"organization_name": "ダイエー　東戸塚店"
+				}
+			}
+		},
+		"2448522": {
+			"postcode": "2448522",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Totsuka-ku",
+			"town_name": "舞岡町",
+			"building_name": "１８４−１",
+			"organization_name": "株式会社　ニフコ",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "戸塚区",
+					"town_name": "舞岡町",
+					"building_name": "１８４−１",
+					"organization_name": "株式会社　ニフコ"
+				}
+			}
+		},
+		"2448510": {
+			"postcode": "2448510",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Totsuka-ku",
+			"town_name": "柏尾町",
+			"building_name": "１",
+			"organization_name": "株式会社　ブリヂストン横浜工場",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "戸塚区",
+					"town_name": "柏尾町",
+					"building_name": "１",
+					"organization_name": "株式会社　ブリヂストン横浜工場"
+				}
+			}
+		},
+		"2448503": {
+			"postcode": "2448503",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Totsuka-ku",
+			"town_name": "品濃町",
+			"building_name": "５０３−１０",
+			"organization_name": "グラフテック　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "戸塚区",
+					"town_name": "品濃町",
+					"building_name": "５０３−１０",
+					"organization_name": "グラフテック　株式会社"
+				}
+			}
+		},
+		"2448502": {
+			"postcode": "2448502",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Totsuka-ku",
+			"town_name": "戸塚町",
+			"building_name": "３９３",
+			"organization_name": "日立ハイブリッドネットワーク　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "戸塚区",
+					"town_name": "戸塚町",
+					"building_name": "３９３",
+					"organization_name": "日立ハイブリッドネットワーク　株式会社"
+				}
+			}
+		},
+		"2448501": {
+			"postcode": "2448501",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Sakae-ku",
+			"town_name": "飯島町",
+			"building_name": "２００",
+			"organization_name": "株式会社　タツノ・メカトロニクス　横浜工場",
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "栄区",
+					"town_name": "飯島町",
+					"building_name": "２００",
+					"organization_name": "株式会社　タツノ・メカトロニクス　横浜工場"
+				}
+			}
+		},
+		"2440845": {
+			"postcode": "2440845",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Sakae-ku",
+			"town_name": "Kanaicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "栄区",
+					"town_name": "金井町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2440844": {
+			"postcode": "2440844",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Sakae-ku",
+			"town_name": "Tayacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "栄区",
+					"town_name": "田谷町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2440843": {
+			"postcode": "2440843",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Sakae-ku",
+			"town_name": "Nagaodaicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "栄区",
+					"town_name": "長尾台町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2440842": {
+			"postcode": "2440842",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Sakae-ku",
+			"town_name": "Iijimacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "栄区",
+					"town_name": "飯島町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2440841": {
+			"postcode": "2440841",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Sakae-ku",
+			"town_name": "Naganumacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "栄区",
+					"town_name": "長沼町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2440817": {
+			"postcode": "2440817",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Totsuka-ku",
+			"town_name": "Yoshidacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "戸塚区",
+					"town_name": "吉田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2440816": {
+			"postcode": "2440816",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Totsuka-ku",
+			"town_name": "Kamikuratacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "戸塚区",
+					"town_name": "上倉田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2440815": {
+			"postcode": "2440815",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Totsuka-ku",
+			"town_name": "Shimokuratacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "戸塚区",
+					"town_name": "下倉田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2440814": {
+			"postcode": "2440814",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Totsuka-ku",
+			"town_name": "Minamimaioka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "戸塚区",
+					"town_name": "南舞岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2440813": {
+			"postcode": "2440813",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Totsuka-ku",
+			"town_name": "Maiokacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "戸塚区",
+					"town_name": "舞岡町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2440812": {
+			"postcode": "2440812",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Totsuka-ku",
+			"town_name": "Kashiocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "戸塚区",
+					"town_name": "柏尾町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2440811": {
+			"postcode": "2440811",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Totsuka-ku",
+			"town_name": "Kamikashiocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "戸塚区",
+					"town_name": "上柏尾町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2440806": {
+			"postcode": "2440806",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Totsuka-ku",
+			"town_name": "Kamishinano",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "戸塚区",
+					"town_name": "上品濃",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2440805": {
+			"postcode": "2440805",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Totsuka-ku",
+			"town_name": "Kawakamicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "戸塚区",
+					"town_name": "川上町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2440804": {
+			"postcode": "2440804",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Totsuka-ku",
+			"town_name": "Maedacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "戸塚区",
+					"town_name": "前田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2440803": {
+			"postcode": "2440803",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Totsuka-ku",
+			"town_name": "Hiradocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "戸塚区",
+					"town_name": "平戸町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2440802": {
+			"postcode": "2440802",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Totsuka-ku",
+			"town_name": "Hirado",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "戸塚区",
+					"town_name": "平戸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2440801": {
+			"postcode": "2440801",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Totsuka-ku",
+			"town_name": "Shinanocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "戸塚区",
+					"town_name": "品濃町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2440004": {
+			"postcode": "2440004",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Totsuka-ku",
+			"town_name": "Kosuzumecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "戸塚区",
+					"town_name": "小雀町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2440003": {
+			"postcode": "2440003",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Totsuka-ku",
+			"town_name": "Totsukacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "戸塚区",
+					"town_name": "戸塚町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2440002": {
+			"postcode": "2440002",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Totsuka-ku",
+			"town_name": "Yabecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "戸塚区",
+					"town_name": "矢部町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2440001": {
+			"postcode": "2440001",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Totsuka-ku",
+			"town_name": "Torigaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "戸塚区",
+					"town_name": "鳥が丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		},
+		"2440000": {
+			"postcode": "2440000",
+			"prefecture_name": "Kanagawa-ken",
+			"city_name": "Yokohama-shi",
+			"ward_name": "Totsuka-ku",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "神奈川県",
+					"city_name": "横浜市",
+					"ward_name": "戸塚区",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "神奈川県",
+			"city_code": "横浜市"
+		}
+	}
+}

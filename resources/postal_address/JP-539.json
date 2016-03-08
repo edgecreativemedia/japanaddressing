@@ -1,0 +1,51 @@
+{
+	"country_code": "JP",
+	"parent_id": "539",
+	"locale": "ja-Latn",
+	"address": {
+		"5398794": {
+			"postcode": "5398794",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Tennoji-ku",
+			"town_name": "城南寺町",
+			"building_name": "９−８",
+			"organization_name": "大阪貯金事務センター",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "天王寺区",
+					"town_name": "城南寺町",
+					"building_name": "９−８",
+					"organization_name": "大阪貯金事務センター"
+				}
+			}
+		},
+		"5390000": {
+			"postcode": "5390000",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Osaka-shi",
+			"ward_name": "Chuo-ku",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "大阪市",
+					"ward_name": "中央区",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "大阪市"
+		}
+	}
+}

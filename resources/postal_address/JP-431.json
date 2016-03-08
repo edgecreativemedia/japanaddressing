@@ -1,0 +1,4715 @@
+{
+	"country_code": "JP",
+	"parent_id": "431",
+	"locale": "ja-Latn",
+	"address": {
+		"4314195": {
+			"postcode": "4314195",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "水窪町奥領家",
+			"building_name": "２９５５の１",
+			"organization_name": "水窪協働センター",
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "水窪町奥領家",
+					"building_name": "２９５５の１",
+					"organization_name": "水窪協働センター"
+				}
+			}
+		},
+		"4314121": {
+			"postcode": "4314121",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Kitashitara-gun",
+			"ward_name": "Toyone-mura",
+			"town_name": "Tomiyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "北設楽郡",
+					"ward_name": "豊根村",
+					"town_name": "富山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "北設楽郡"
+		},
+		"4314112": {
+			"postcode": "4314112",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Sakumacho",
+			"building_name": "Okuryoke",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "佐久間町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4314111": {
+			"postcode": "4314111",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Sakumacho",
+			"building_name": "Aizuki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "佐久間町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4314103": {
+			"postcode": "4314103",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Misakubocho",
+			"building_name": "Yamazumi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "水窪町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4314102": {
+			"postcode": "4314102",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Misakubocho",
+			"building_name": "Jitogata",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "水窪町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4314101": {
+			"postcode": "4314101",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Misakubocho",
+			"building_name": "Okuryoke",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "水窪町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313908": {
+			"postcode": "4313908",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Sakumacho",
+			"building_name": "Nakabe",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "佐久間町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313907": {
+			"postcode": "4313907",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Sakumacho",
+			"building_name": "Kawai",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "佐久間町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313906": {
+			"postcode": "4313906",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Sakumacho",
+			"building_name": "Urakawa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "佐久間町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313905": {
+			"postcode": "4313905",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Sakumacho",
+			"building_name": "Hamba",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "佐久間町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313904": {
+			"postcode": "4313904",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Sakumacho",
+			"building_name": "Toguchi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "佐久間町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313903": {
+			"postcode": "4313903",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Sakumacho",
+			"building_name": "Kamihirayama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "佐久間町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313902": {
+			"postcode": "4313902",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Sakumacho",
+			"building_name": "Oi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "佐久間町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313901": {
+			"postcode": "4313901",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Sakumacho",
+			"building_name": "Sakuma",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "佐久間町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313804": {
+			"postcode": "4313804",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Tatsuyamacho",
+			"building_name": "Omine",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "龍山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313803": {
+			"postcode": "4313803",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Tatsuyamacho",
+			"building_name": "Tokura",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "龍山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313802": {
+			"postcode": "4313802",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Tatsuyamacho",
+			"building_name": "Shimohirayama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "龍山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313801": {
+			"postcode": "4313801",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Tatsuyamacho",
+			"building_name": "Sejiri",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "龍山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313764": {
+			"postcode": "4313764",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Yokoyamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "横山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313763": {
+			"postcode": "4313763",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Tsuki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "月",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313762": {
+			"postcode": "4313762",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Isuka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "伊砂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313761": {
+			"postcode": "4313761",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Nishiunna",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "西雲名",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313756": {
+			"postcode": "4313756",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Yayama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "谷山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313755": {
+			"postcode": "4313755",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Okawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "大川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313754": {
+			"postcode": "4313754",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Sozu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "相津",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313753": {
+			"postcode": "4313753",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Saku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "佐久",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313752": {
+			"postcode": "4313752",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Ogawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "小川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313751": {
+			"postcode": "4313751",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Higashiunna",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "東雲名",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313643": {
+			"postcode": "4313643",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Kanzawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "神沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313642": {
+			"postcode": "4313642",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Oguriyasu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "大栗安",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313641": {
+			"postcode": "4313641",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Kuma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "熊",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313536": {
+			"postcode": "4313536",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Atera",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "阿寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313535": {
+			"postcode": "4313535",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Ashikubo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "芦窪",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313534": {
+			"postcode": "4313534",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Futokoroyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "懐山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313533": {
+			"postcode": "4313533",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Nagasawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "長沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313532": {
+			"postcode": "4313532",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Nishifujidaira",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "西藤平",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313531": {
+			"postcode": "4313531",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Higashifujidaira",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "東藤平",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313492": {
+			"postcode": "4313492",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "渡ケ島",
+			"building_name": "２１７−３",
+			"organization_name": "天竜厚生会",
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "渡ケ島",
+					"building_name": "２１７−３",
+					"organization_name": "天竜厚生会"
+				}
+			}
+		},
+		"4313428": {
+			"postcode": "4313428",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Ishigami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "石神",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313427": {
+			"postcode": "4313427",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Kamino",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "上野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313426": {
+			"postcode": "4313426",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Ryoshima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "両島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313425": {
+			"postcode": "4313425",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Aoya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "青谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313424": {
+			"postcode": "4313424",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Ryokukeidai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "緑恵台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313423": {
+			"postcode": "4313423",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Watagashima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "渡ケ島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313422": {
+			"postcode": "4313422",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Minazawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "米沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313421": {
+			"postcode": "4313421",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Hiari",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "日明",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313393": {
+			"postcode": "4313393",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "二俣町南鹿島",
+			"building_name": "２３番地",
+			"organization_name": "矢崎エナジーシステム　株式会社　天竜工場",
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "二俣町南鹿島",
+					"building_name": "２３番地",
+					"organization_name": "矢崎エナジーシステム　株式会社　天竜工場"
+				}
+			}
+		},
+		"4313392": {
+			"postcode": "4313392",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "二俣町二俣",
+			"building_name": "４８１",
+			"organization_name": "浜松市天竜区役所",
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "二俣町二俣",
+					"building_name": "４８１",
+					"organization_name": "浜松市天竜区役所"
+				}
+			}
+		},
+		"4313315": {
+			"postcode": "4313315",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Futamatacho",
+			"building_name": "Osono",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "二俣町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313314": {
+			"postcode": "4313314",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Futamatacho",
+			"building_name": "Futamata",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "二俣町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313313": {
+			"postcode": "4313313",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Futamatacho",
+			"building_name": "Kajima",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "二俣町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313312": {
+			"postcode": "4313312",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Futamatacho",
+			"building_name": "Minamikajima",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "二俣町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313311": {
+			"postcode": "4313311",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Futamatacho",
+			"building_name": "Akura",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "二俣町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313306": {
+			"postcode": "4313306",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Funagira",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "船明",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313305": {
+			"postcode": "4313305",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Oya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "大谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313304": {
+			"postcode": "4313304",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Jirohachishinden",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "次郎八新田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313303": {
+			"postcode": "4313303",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Yamahigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "山東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313302": {
+			"postcode": "4313302",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Tadarai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "只来",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313301": {
+			"postcode": "4313301",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Tenryu-ku",
+			"town_name": "Yokokawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "天竜区",
+					"town_name": "横川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313196": {
+			"postcode": "4313196",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "常光町",
+			"building_name": "８１２",
+			"organization_name": "浜松ホトニクス　株式会社　常光製作所",
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "東区",
+					"town_name": "常光町",
+					"building_name": "８１２",
+					"organization_name": "浜松ホトニクス　株式会社　常光製作所"
+				}
+			}
+		},
+		"4313195": {
+			"postcode": "4313195",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "有玉西町",
+			"building_name": "３００",
+			"organization_name": "株式会社　日進機械製作所",
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "東区",
+					"town_name": "有玉西町",
+					"building_name": "３００",
+					"organization_name": "株式会社　日進機械製作所"
+				}
+			}
+		},
+		"4313194": {
+			"postcode": "4313194",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "豊町",
+			"building_name": "５０８−１",
+			"organization_name": "株式会社　ユタカ技研",
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "東区",
+					"town_name": "豊町",
+					"building_name": "５０８−１",
+					"organization_name": "株式会社　ユタカ技研"
+				}
+			}
+		},
+		"4313193": {
+			"postcode": "4313193",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "有玉南町",
+			"building_name": "１９７５",
+			"organization_name": "とぴあ浜松農業協同組合",
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "東区",
+					"town_name": "有玉南町",
+					"building_name": "１９７５",
+					"organization_name": "とぴあ浜松農業協同組合"
+				}
+			}
+		},
+		"4313192": {
+			"postcode": "4313192",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "半田山",
+			"building_name": "１丁目２０−１",
+			"organization_name": "浜松医科大学",
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "東区",
+					"town_name": "半田山",
+					"building_name": "１丁目２０−１",
+					"organization_name": "浜松医科大学"
+				}
+			}
+		},
+		"4313126": {
+			"postcode": "4313126",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Aritamadai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "東区",
+					"town_name": "有玉台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313125": {
+			"postcode": "4313125",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Handayama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "東区",
+					"town_name": "半田山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313124": {
+			"postcode": "4313124",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Handacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "東区",
+					"town_name": "半田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313123": {
+			"postcode": "4313123",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Aritama",
+			"building_name": "Nishimachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "東区",
+					"town_name": "有玉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313122": {
+			"postcode": "4313122",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Aritama",
+			"building_name": "Minamimachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "東区",
+					"town_name": "有玉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313121": {
+			"postcode": "4313121",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Aritama",
+			"building_name": "Kitamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "東区",
+					"town_name": "有玉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313115": {
+			"postcode": "4313115",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Nishigasakicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "東区",
+					"town_name": "西ケ崎町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313114": {
+			"postcode": "4313114",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Sekishicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "東区",
+					"town_name": "積志町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313113": {
+			"postcode": "4313113",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Osecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "東区",
+					"town_name": "大瀬町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313112": {
+			"postcode": "4313112",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Oshimacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "東区",
+					"town_name": "大島町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313111": {
+			"postcode": "4313111",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Nakagoricho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "東区",
+					"town_name": "中郡町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313108": {
+			"postcode": "4313108",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Tsunetakecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "東区",
+					"town_name": "恒武町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313107": {
+			"postcode": "4313107",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Kasaicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "東区",
+					"town_name": "笠井町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313106": {
+			"postcode": "4313106",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Kasai",
+			"building_name": "Kamimachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "東区",
+					"town_name": "笠井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313105": {
+			"postcode": "4313105",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Kasai",
+			"building_name": "Shindencho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "東区",
+					"town_name": "笠井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313104": {
+			"postcode": "4313104",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Kiheicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "東区",
+					"town_name": "貴平町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313103": {
+			"postcode": "4313103",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Jokocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "東区",
+					"town_name": "常光町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313102": {
+			"postcode": "4313102",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Toyonishicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "東区",
+					"town_name": "豊西町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4313101": {
+			"postcode": "4313101",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Yutakacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "東区",
+					"town_name": "豊町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4312537": {
+			"postcode": "4312537",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Inasacho",
+			"building_name": "Shibukawa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "引佐町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4312536": {
+			"postcode": "4312536",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Inasacho",
+			"building_name": "Tazawa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "引佐町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4312535": {
+			"postcode": "4312535",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Inasacho",
+			"building_name": "Matoba",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "引佐町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4312534": {
+			"postcode": "4312534",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Inasacho",
+			"building_name": "Besshiyo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "引佐町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4312533": {
+			"postcode": "4312533",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Inasacho",
+			"building_name": "Shihojo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "引佐町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4312532": {
+			"postcode": "4312532",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Inasacho",
+			"building_name": "Nishikurumeki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "引佐町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4312531": {
+			"postcode": "4312531",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Inasacho",
+			"building_name": "Higashikurumeki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "引佐町",
+					"building_name": "東久留女木",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4312295": {
+			"postcode": "4312295",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "引佐町井伊谷",
+			"building_name": "６１６−５",
+			"organization_name": "引佐地域自治センター",
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "引佐町井伊谷",
+					"building_name": "６１６−５",
+					"organization_name": "引佐地域自治センター"
+				}
+			}
+		},
+		"4312226": {
+			"postcode": "4312226",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Inasacho",
+			"building_name": "Yazawa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "引佐町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4312225": {
+			"postcode": "4312225",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Inasacho",
+			"building_name": "Karishuku",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "引佐町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4312224": {
+			"postcode": "4312224",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Inasacho",
+			"building_name": "Okuyama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "引佐町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4312223": {
+			"postcode": "4312223",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Inasacho",
+			"building_name": "Tochikubo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "引佐町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4312222": {
+			"postcode": "4312222",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Inasacho",
+			"building_name": "Kurobuchi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "引佐町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4312221": {
+			"postcode": "4312221",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Inasacho",
+			"building_name": "Tabatake",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "引佐町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4312216": {
+			"postcode": "4312216",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Jingujicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "神宮寺町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4312215": {
+			"postcode": "4312215",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Inasacho",
+			"building_name": "Shiraiwa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "引佐町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4312214": {
+			"postcode": "4312214",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Inasacho",
+			"building_name": "Yoko",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "引佐町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4312213": {
+			"postcode": "4312213",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Inasacho",
+			"building_name": "Kanasashi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "引佐町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4312212": {
+			"postcode": "4312212",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Inasacho",
+			"building_name": "Iinoya",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "引佐町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4312211": {
+			"postcode": "4312211",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Inasacho",
+			"building_name": "Hanadaira",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "引佐町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4312207": {
+			"postcode": "4312207",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Inasacho",
+			"building_name": "Higashikuroda",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "引佐町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4312206": {
+			"postcode": "4312206",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Inasacho",
+			"building_name": "Nishikuroda",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "引佐町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4312205": {
+			"postcode": "4312205",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Inasacho",
+			"building_name": "Idaira",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "引佐町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4312204": {
+			"postcode": "4312204",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Inasacho",
+			"building_name": "Tokka",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "引佐町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4312203": {
+			"postcode": "4312203",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Inasacho",
+			"building_name": "Mitake",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "引佐町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4312202": {
+			"postcode": "4312202",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Inasacho",
+			"building_name": "Kawana",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "引佐町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4312201": {
+			"postcode": "4312201",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Inasacho",
+			"building_name": "Higashikurumeki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "引佐町",
+					"building_name": "東久留女木",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4312104": {
+			"postcode": "4312104",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Washizawacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "鷲沢町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4312103": {
+			"postcode": "4312103",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Shimmiyakoda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "新都田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4312102": {
+			"postcode": "4312102",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Miyakodacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "都田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4312101": {
+			"postcode": "4312101",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Takisawacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "滝沢町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4311497": {
+			"postcode": "4311497",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "三ヶ日町三ヶ日",
+			"building_name": "８８５",
+			"organization_name": "三ケ日町　農業協同組合",
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "三ヶ日町三ヶ日",
+					"building_name": "８８５",
+					"organization_name": "三ケ日町　農業協同組合"
+				}
+			}
+		},
+		"4311496": {
+			"postcode": "4311496",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "三ヶ日町都筑",
+			"building_name": "２９７７−２",
+			"organization_name": "浜名湖三ケ日簡易保険保養センター",
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "三ヶ日町都筑",
+					"building_name": "２９７７−２",
+					"organization_name": "浜名湖三ケ日簡易保険保養センター"
+				}
+			}
+		},
+		"4311495": {
+			"postcode": "4311495",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "三ヶ日町三ヶ日",
+			"building_name": "５００−１（三ヶ日郵便局私書箱第２号）",
+			"organization_name": "北区三ヶ日地域自治センター",
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "三ヶ日町三ヶ日",
+					"building_name": "５００−１（三ヶ日郵便局私書箱第２号）",
+					"organization_name": "北区三ヶ日地域自治センター"
+				}
+			}
+		},
+		"4311425": {
+			"postcode": "4311425",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Mikkabicho",
+			"building_name": "Kamiona",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "三ヶ日町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4311424": {
+			"postcode": "4311424",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Mikkabicho",
+			"building_name": "Shimona",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "三ヶ日町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4311423": {
+			"postcode": "4311423",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Mikkabicho",
+			"building_name": "Nueshiro",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "三ヶ日町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4311422": {
+			"postcode": "4311422",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Mikkabicho",
+			"building_name": "Hibisawa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "三ヶ日町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4311421": {
+			"postcode": "4311421",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Mikkabicho",
+			"building_name": "Honzaka",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "三ヶ日町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4311417": {
+			"postcode": "4311417",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Mikkabicho",
+			"building_name": "Hirayama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "三ヶ日町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4311416": {
+			"postcode": "4311416",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Mikkabicho",
+			"building_name": "Tsuri",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "三ヶ日町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4311415": {
+			"postcode": "4311415",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Mikkabicho",
+			"building_name": "Okamoto",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "三ヶ日町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4311414": {
+			"postcode": "4311414",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Mikkabicho",
+			"building_name": "Mikkabi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "三ヶ日町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4311413": {
+			"postcode": "4311413",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Mikkabicho",
+			"building_name": "Makaya",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "三ヶ日町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4311412": {
+			"postcode": "4311412",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Mikkabicho",
+			"building_name": "Tadaki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "三ヶ日町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4311411": {
+			"postcode": "4311411",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Mikkabicho",
+			"building_name": "Fukunaga",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "三ヶ日町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4311407": {
+			"postcode": "4311407",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Mikkabicho",
+			"building_name": "Oya",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "三ヶ日町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4311406": {
+			"postcode": "4311406",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Mikkabicho",
+			"building_name": "Komaba",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "三ヶ日町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4311405": {
+			"postcode": "4311405",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Mikkabicho",
+			"building_name": "Tsuzusaki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "三ヶ日町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4311404": {
+			"postcode": "4311404",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Mikkabicho",
+			"building_name": "Ushi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "三ヶ日町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4311403": {
+			"postcode": "4311403",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Mikkabicho",
+			"building_name": "Osaki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "三ヶ日町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4311402": {
+			"postcode": "4311402",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Mikkabicho",
+			"building_name": "Tsuzuki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "三ヶ日町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4311401": {
+			"postcode": "4311401",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Mikkabicho",
+			"building_name": "Sakume",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "三ヶ日町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4311395": {
+			"postcode": "4311395",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "細江町気賀",
+			"building_name": "３０５",
+			"organization_name": "浜松市北区役所・細江地域自治センター",
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "細江町気賀",
+					"building_name": "３０５",
+					"organization_name": "浜松市北区役所・細江地域自治センター"
+				}
+			}
+		},
+		"4311394": {
+			"postcode": "4311394",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "細江町中川",
+			"building_name": "７０００−３６",
+			"organization_name": "株式会社　エフ・シー・シー",
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "細江町中川",
+					"building_name": "７０００−３６",
+					"organization_name": "株式会社　エフ・シー・シー"
+				}
+			}
+		},
+		"4311393": {
+			"postcode": "4311393",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "細江町中川",
+			"building_name": "７３９９",
+			"organization_name": "財団法人　日本老人福祉財団　浜松ゆうゆうの里",
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "細江町中川",
+					"building_name": "７３９９",
+					"organization_name": "財団法人　日本老人福祉財団　浜松ゆうゆうの里"
+				}
+			}
+		},
+		"4311392": {
+			"postcode": "4311392",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "細江町中川",
+			"building_name": "７２２０−９９",
+			"organization_name": "社会福祉法人　聖隷福祉事業団　浜名湖エデンの園",
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "細江町中川",
+					"building_name": "７２２０−９９",
+					"organization_name": "社会福祉法人　聖隷福祉事業団　浜名湖エデンの園"
+				}
+			}
+		},
+		"4311305": {
+			"postcode": "4311305",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Hosoecho",
+			"building_name": "Kiga",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "細江町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4311304": {
+			"postcode": "4311304",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Hosoecho",
+			"building_name": "Nakagawa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "細江町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4311303": {
+			"postcode": "4311303",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Hosoecho",
+			"building_name": "Miwa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "細江町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4311302": {
+			"postcode": "4311302",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Hosoecho",
+			"building_name": "Hiroka",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "細江町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4311301": {
+			"postcode": "4311301",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Kita-ku",
+			"town_name": "Hosoecho",
+			"building_name": "Ono",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "北区",
+					"town_name": "細江町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4311209": {
+			"postcode": "4311209",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Kanzanjicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "西区",
+					"town_name": "舘山寺町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4311208": {
+			"postcode": "4311208",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Shonaicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "西区",
+					"town_name": "庄内町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4311207": {
+			"postcode": "4311207",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Murakushicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "西区",
+					"town_name": "村櫛町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4311206": {
+			"postcode": "4311206",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Showacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "西区",
+					"town_name": "庄和町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4311205": {
+			"postcode": "4311205",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Kyowacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "西区",
+					"town_name": "協和町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4311204": {
+			"postcode": "4311204",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Shirasucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "西区",
+					"town_name": "白洲町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4311203": {
+			"postcode": "4311203",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Hiramatsucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "西区",
+					"town_name": "平松町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4311202": {
+			"postcode": "4311202",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Kurematsucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "西区",
+					"town_name": "呉松町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4311201": {
+			"postcode": "4311201",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Fukahagicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "西区",
+					"town_name": "深萩町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4311115": {
+			"postcode": "4311115",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Wajicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "西区",
+					"town_name": "和地町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4311114": {
+			"postcode": "4311114",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Sahamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "西区",
+					"town_name": "佐浜町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4311113": {
+			"postcode": "4311113",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Kohitomicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "西区",
+					"town_name": "古人見町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4311112": {
+			"postcode": "4311112",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Ohitomicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "西区",
+					"town_name": "大人見町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4311111": {
+			"postcode": "4311111",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Isajicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "西区",
+					"town_name": "伊左地町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4311104": {
+			"postcode": "4311104",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Sakuradai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "西区",
+					"town_name": "桜台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4311103": {
+			"postcode": "4311103",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Kotocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "西区",
+					"town_name": "湖東町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4311102": {
+			"postcode": "4311102",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Oyamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "西区",
+					"town_name": "大山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4311101": {
+			"postcode": "4311101",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Wakocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "西区",
+					"town_name": "和光町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4310496": {
+			"postcode": "4310496",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kosai-shi",
+			"ward_name": "",
+			"town_name": "境宿",
+			"building_name": "５５４",
+			"organization_name": "ソニーブロードキャストプロダクツ　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "湖西市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "湖西市",
+					"ward_name": "",
+					"town_name": "境宿",
+					"building_name": "５５４",
+					"organization_name": "ソニーブロードキャストプロダクツ　株式会社"
+				}
+			}
+		},
+		"4310495": {
+			"postcode": "4310495",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kosai-shi",
+			"ward_name": "",
+			"town_name": "鷲津",
+			"building_name": "２２８１番地",
+			"organization_name": "ＦＤＫ　株式会社　湖西工場",
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "湖西市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "湖西市",
+					"ward_name": "",
+					"town_name": "鷲津",
+					"building_name": "２２８１番地",
+					"organization_name": "ＦＤＫ　株式会社　湖西工場"
+				}
+			}
+		},
+		"4310494": {
+			"postcode": "4310494",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kosai-shi",
+			"ward_name": "",
+			"town_name": "鷲津",
+			"building_name": "２４１８",
+			"organization_name": "株式会社　ユニバンス",
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "湖西市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "湖西市",
+					"ward_name": "",
+					"town_name": "鷲津",
+					"building_name": "２４１８",
+					"organization_name": "株式会社　ユニバンス"
+				}
+			}
+		},
+		"4310493": {
+			"postcode": "4310493",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kosai-shi",
+			"ward_name": "",
+			"town_name": "梅田",
+			"building_name": "３９０",
+			"organization_name": "アスモ　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "湖西市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "湖西市",
+					"ward_name": "",
+					"town_name": "梅田",
+					"building_name": "３９０",
+					"organization_name": "アスモ　株式会社"
+				}
+			}
+		},
+		"4310492": {
+			"postcode": "4310492",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kosai-shi",
+			"ward_name": "",
+			"town_name": "吉美",
+			"building_name": "３２６８",
+			"organization_name": "湖西市役所",
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "湖西市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "湖西市",
+					"ward_name": "",
+					"town_name": "吉美",
+					"building_name": "３２６８",
+					"organization_name": "湖西市役所"
+				}
+			}
+		},
+		"4310452": {
+			"postcode": "4310452",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kosai-shi",
+			"ward_name": "",
+			"town_name": "Sakaijuku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "湖西市",
+					"ward_name": "",
+					"town_name": "境宿",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "湖西市"
+		},
+		"4310451": {
+			"postcode": "4310451",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kosai-shi",
+			"ward_name": "",
+			"town_name": "Shirasuka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "湖西市",
+					"ward_name": "",
+					"town_name": "白須賀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "湖西市"
+		},
+		"4310444": {
+			"postcode": "4310444",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kosai-shi",
+			"ward_name": "",
+			"town_name": "Boze",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "湖西市",
+					"ward_name": "",
+					"town_name": "坊瀬",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "湖西市"
+		},
+		"4310443": {
+			"postcode": "4310443",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kosai-shi",
+			"ward_name": "",
+			"town_name": "Yamaguchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "湖西市",
+					"ward_name": "",
+					"town_name": "山口",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "湖西市"
+		},
+		"4310442": {
+			"postcode": "4310442",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kosai-shi",
+			"ward_name": "",
+			"town_name": "Komi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "湖西市",
+					"ward_name": "",
+					"town_name": "古見",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "湖西市"
+		},
+		"4310441": {
+			"postcode": "4310441",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kosai-shi",
+			"ward_name": "",
+			"town_name": "Kibi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "湖西市",
+					"ward_name": "",
+					"town_name": "吉美",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "湖西市"
+		},
+		"4310432": {
+			"postcode": "4310432",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kosai-shi",
+			"ward_name": "",
+			"town_name": "Kazenomori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "湖西市",
+					"ward_name": "",
+					"town_name": "風の杜",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "湖西市"
+		},
+		"4310431": {
+			"postcode": "4310431",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kosai-shi",
+			"ward_name": "",
+			"town_name": "Washizu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "湖西市",
+					"ward_name": "",
+					"town_name": "鷲津",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "湖西市"
+		},
+		"4310429": {
+			"postcode": "4310429",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kosai-shi",
+			"ward_name": "",
+			"town_name": "Minamidai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "湖西市",
+					"ward_name": "",
+					"town_name": "南台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "湖西市"
+		},
+		"4310428": {
+			"postcode": "4310428",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kosai-shi",
+			"ward_name": "",
+			"town_name": "Tokiwa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "湖西市",
+					"ward_name": "",
+					"town_name": "ときわ",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "湖西市"
+		},
+		"4310427": {
+			"postcode": "4310427",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kosai-shi",
+			"ward_name": "",
+			"town_name": "Ekiminami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "湖西市",
+					"ward_name": "",
+					"town_name": "駅南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "湖西市"
+		},
+		"4310426": {
+			"postcode": "4310426",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kosai-shi",
+			"ward_name": "",
+			"town_name": "Shinjohara",
+			"building_name": "Higashi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "湖西市",
+					"ward_name": "",
+					"town_name": "新所原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "湖西市"
+		},
+		"4310425": {
+			"postcode": "4310425",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kosai-shi",
+			"ward_name": "",
+			"town_name": "Umeda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "湖西市",
+					"ward_name": "",
+					"town_name": "梅田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "湖西市"
+		},
+		"4310424": {
+			"postcode": "4310424",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kosai-shi",
+			"ward_name": "",
+			"town_name": "Shinjohara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "湖西市",
+					"ward_name": "",
+					"town_name": "新所原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "湖西市"
+		},
+		"4310423": {
+			"postcode": "4310423",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kosai-shi",
+			"ward_name": "",
+			"town_name": "Shinjo.okasaki.umedanyukaichi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "湖西市",
+					"ward_name": "",
+					"town_name": "新所・岡崎・梅田入会地",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "湖西市"
+		},
+		"4310422": {
+			"postcode": "4310422",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kosai-shi",
+			"ward_name": "",
+			"town_name": "Okasaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "湖西市",
+					"ward_name": "",
+					"town_name": "岡崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "湖西市"
+		},
+		"4310421": {
+			"postcode": "4310421",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kosai-shi",
+			"ward_name": "",
+			"town_name": "Shinjo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "湖西市",
+					"ward_name": "",
+					"town_name": "新所",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "湖西市"
+		},
+		"4310412": {
+			"postcode": "4310412",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kosai-shi",
+			"ward_name": "",
+			"town_name": "Uchiura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "湖西市",
+					"ward_name": "",
+					"town_name": "内浦",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "湖西市"
+		},
+		"4310411": {
+			"postcode": "4310411",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kosai-shi",
+			"ward_name": "",
+			"town_name": "Iride",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "湖西市",
+					"ward_name": "",
+					"town_name": "入出",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "湖西市"
+		},
+		"4310405": {
+			"postcode": "4310405",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kosai-shi",
+			"ward_name": "",
+			"town_name": "Kanza",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "湖西市",
+					"ward_name": "",
+					"town_name": "神座",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "湖西市"
+		},
+		"4310404": {
+			"postcode": "4310404",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kosai-shi",
+			"ward_name": "",
+			"town_name": "Ota",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "湖西市",
+					"ward_name": "",
+					"town_name": "太田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "湖西市"
+		},
+		"4310403": {
+			"postcode": "4310403",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kosai-shi",
+			"ward_name": "",
+			"town_name": "Ochiba",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "湖西市",
+					"ward_name": "",
+					"town_name": "大知波",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "湖西市"
+		},
+		"4310402": {
+			"postcode": "4310402",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kosai-shi",
+			"ward_name": "",
+			"town_name": "Riki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "湖西市",
+					"ward_name": "",
+					"town_name": "利木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "湖西市"
+		},
+		"4310401": {
+			"postcode": "4310401",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kosai-shi",
+			"ward_name": "",
+			"town_name": "Yokoyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "湖西市",
+					"ward_name": "",
+					"town_name": "横山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "湖西市"
+		},
+		"4310400": {
+			"postcode": "4310400",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kosai-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "湖西市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "湖西市"
+		},
+		"4310395": {
+			"postcode": "4310395",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kosai-shi",
+			"ward_name": "",
+			"town_name": "新居町浜名",
+			"building_name": "５１９−１",
+			"organization_name": "湖西市　新居支所",
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "湖西市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "湖西市",
+					"ward_name": "",
+					"town_name": "新居町浜名",
+					"building_name": "５１９−１",
+					"organization_name": "湖西市　新居支所"
+				}
+			}
+		},
+		"4310304": {
+			"postcode": "4310304",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kosai-shi",
+			"ward_name": "",
+			"town_name": "Araicho",
+			"building_name": "Uchiyama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "湖西市",
+					"ward_name": "",
+					"town_name": "新居町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "湖西市"
+		},
+		"4310303": {
+			"postcode": "4310303",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kosai-shi",
+			"ward_name": "",
+			"town_name": "Araicho",
+			"building_name": "Hamana",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "湖西市",
+					"ward_name": "",
+					"town_name": "新居町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "湖西市"
+		},
+		"4310302": {
+			"postcode": "4310302",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kosai-shi",
+			"ward_name": "",
+			"town_name": "Araicho",
+			"building_name": "Arai",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "湖西市",
+					"ward_name": "",
+					"town_name": "新居町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "湖西市"
+		},
+		"4310301": {
+			"postcode": "4310301",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Kosai-shi",
+			"ward_name": "",
+			"town_name": "Araicho",
+			"building_name": "Nakanogo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "湖西市",
+					"ward_name": "",
+					"town_name": "新居町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "湖西市"
+		},
+		"4310298": {
+			"postcode": "4310298",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "篠原町",
+			"building_name": "２１３３９番地",
+			"organization_name": "スズキ直納　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "西区",
+					"town_name": "篠原町",
+					"building_name": "２１３３９番地",
+					"organization_name": "スズキ直納　株式会社"
+				}
+			}
+		},
+		"4310295": {
+			"postcode": "4310295",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "篠原町",
+			"building_name": "１８３０３−９",
+			"organization_name": "大和養魚　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "西区",
+					"town_name": "篠原町",
+					"building_name": "１８３０３−９",
+					"organization_name": "大和養魚　株式会社"
+				}
+			}
+		},
+		"4310292": {
+			"postcode": "4310292",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "舞阪町舞阪",
+			"building_name": "２７０１番地の９",
+			"organization_name": "舞阪地域自治センター",
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "西区",
+					"town_name": "舞阪町舞阪",
+					"building_name": "２７０１番地の９",
+					"organization_name": "舞阪地域自治センター"
+				}
+			}
+		},
+		"4310214": {
+			"postcode": "4310214",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Maisakacho",
+			"building_name": "Bentenjima",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "西区",
+					"town_name": "舞阪町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4310213": {
+			"postcode": "4310213",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Maisakacho",
+			"building_name": "Hamada",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "西区",
+					"town_name": "舞阪町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4310212": {
+			"postcode": "4310212",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Maisakacho",
+			"building_name": "Chojushinden",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "西区",
+					"town_name": "舞阪町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4310211": {
+			"postcode": "4310211",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Maisakacho",
+			"building_name": "Maisaka",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "西区",
+					"town_name": "舞阪町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4310203": {
+			"postcode": "4310203",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Magoricho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "西区",
+					"town_name": "馬郡町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4310202": {
+			"postcode": "4310202",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Tsuboicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "西区",
+					"town_name": "坪井町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4310201": {
+			"postcode": "4310201",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Shinoharacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "西区",
+					"town_name": "篠原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4310193": {
+			"postcode": "4310193",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "雄踏",
+			"building_name": "１丁目３１番１号",
+			"organization_name": "浜松西区役所　雄踏地域自治センター",
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "西区",
+					"town_name": "雄踏",
+					"building_name": "１丁目３１番１号",
+					"organization_name": "浜松西区役所　雄踏地域自治センター"
+				}
+			}
+		},
+		"4310192": {
+			"postcode": "4310192",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "雄踏町宇布見",
+			"building_name": "７１１１",
+			"organization_name": "株式会社　アツミテック",
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "西区",
+					"town_name": "雄踏町宇布見",
+					"building_name": "７１１１",
+					"organization_name": "株式会社　アツミテック"
+				}
+			}
+		},
+		"4310103": {
+			"postcode": "4310103",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Yuto",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "西区",
+					"town_name": "雄踏",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4310102": {
+			"postcode": "4310102",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Yutocho",
+			"building_name": "Ubumi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "西区",
+					"town_name": "雄踏町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		},
+		"4310101": {
+			"postcode": "4310101",
+			"prefecture_name": "Shizuoka-ken",
+			"city_name": "Hamamatsu-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Yutocho",
+			"building_name": "Yamazaki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "静岡県",
+					"city_name": "浜松市",
+					"ward_name": "西区",
+					"town_name": "雄踏町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "静岡県",
+			"city_code": "浜松市"
+		}
+	}
+}

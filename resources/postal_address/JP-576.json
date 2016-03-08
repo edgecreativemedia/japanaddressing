@@ -1,0 +1,799 @@
+{
+	"country_code": "JP",
+	"parent_id": "576",
+	"locale": "ja-Latn",
+	"address": {
+		"5768501": {
+			"postcode": "5768501",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Katano-shi",
+			"ward_name": "",
+			"town_name": "私部",
+			"building_name": "１丁目１−１",
+			"organization_name": "交野市役所",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "交野市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "交野市",
+					"ward_name": "",
+					"town_name": "私部",
+					"building_name": "１丁目１−１",
+					"organization_name": "交野市役所"
+				}
+			}
+		},
+		"5760066": {
+			"postcode": "5760066",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Katano-shi",
+			"ward_name": "",
+			"town_name": "Aoyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "交野市",
+					"ward_name": "",
+					"town_name": "青山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "交野市"
+		},
+		"5760065": {
+			"postcode": "5760065",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Katano-shi",
+			"ward_name": "",
+			"town_name": "Mukaida",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "交野市",
+					"ward_name": "",
+					"town_name": "向井田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "交野市"
+		},
+		"5760064": {
+			"postcode": "5760064",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Katano-shi",
+			"ward_name": "",
+			"town_name": "Teraminamino",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "交野市",
+					"ward_name": "",
+					"town_name": "寺南野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "交野市"
+		},
+		"5760063": {
+			"postcode": "5760063",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Katano-shi",
+			"ward_name": "",
+			"town_name": "Tera",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "交野市",
+					"ward_name": "",
+					"town_name": "寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "交野市"
+		},
+		"5760062": {
+			"postcode": "5760062",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Katano-shi",
+			"ward_name": "",
+			"town_name": "Jinguji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "交野市",
+					"ward_name": "",
+					"town_name": "神宮寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "交野市"
+		},
+		"5760061": {
+			"postcode": "5760061",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Katano-shi",
+			"ward_name": "",
+			"town_name": "Higashikuraji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "交野市",
+					"ward_name": "",
+					"town_name": "東倉治",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "交野市"
+		},
+		"5760054": {
+			"postcode": "5760054",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Katano-shi",
+			"ward_name": "",
+			"town_name": "Ikuno",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "交野市",
+					"ward_name": "",
+					"town_name": "幾野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "交野市"
+		},
+		"5760053": {
+			"postcode": "5760053",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Katano-shi",
+			"ward_name": "",
+			"town_name": "Kozu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "交野市",
+					"ward_name": "",
+					"town_name": "郡津",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "交野市"
+		},
+		"5760052": {
+			"postcode": "5760052",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Katano-shi",
+			"ward_name": "",
+			"town_name": "Kisabe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "交野市",
+					"ward_name": "",
+					"town_name": "私部",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "交野市"
+		},
+		"5760051": {
+			"postcode": "5760051",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Katano-shi",
+			"ward_name": "",
+			"town_name": "Kuraji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "交野市",
+					"ward_name": "",
+					"town_name": "倉治",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "交野市"
+		},
+		"5760043": {
+			"postcode": "5760043",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Katano-shi",
+			"ward_name": "",
+			"town_name": "Matsuzuka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "交野市",
+					"ward_name": "",
+					"town_name": "松塚",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "交野市"
+		},
+		"5760042": {
+			"postcode": "5760042",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Katano-shi",
+			"ward_name": "",
+			"town_name": "Umegae",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "交野市",
+					"ward_name": "",
+					"town_name": "梅が枝",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "交野市"
+		},
+		"5760041": {
+			"postcode": "5760041",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Katano-shi",
+			"ward_name": "",
+			"town_name": "Kisabenishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "交野市",
+					"ward_name": "",
+					"town_name": "私部西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "交野市"
+		},
+		"5760036": {
+			"postcode": "5760036",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Katano-shi",
+			"ward_name": "",
+			"town_name": "Mori",
+			"building_name": "Kita",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "交野市",
+					"ward_name": "",
+					"town_name": "森",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "交野市"
+		},
+		"5760035": {
+			"postcode": "5760035",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Katano-shi",
+			"ward_name": "",
+			"town_name": "Kisabeminami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "交野市",
+					"ward_name": "",
+					"town_name": "私部南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "交野市"
+		},
+		"5760034": {
+			"postcode": "5760034",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Katano-shi",
+			"ward_name": "",
+			"town_name": "Amanogaharacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "交野市",
+					"ward_name": "",
+					"town_name": "天野が原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "交野市"
+		},
+		"5760033": {
+			"postcode": "5760033",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Katano-shi",
+			"ward_name": "",
+			"town_name": "Kisaichi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "交野市",
+					"ward_name": "",
+					"town_name": "私市",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "交野市"
+		},
+		"5760032": {
+			"postcode": "5760032",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Katano-shi",
+			"ward_name": "",
+			"town_name": "Kisaichiyamate",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "交野市",
+					"ward_name": "",
+					"town_name": "私市山手",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "交野市"
+		},
+		"5760031": {
+			"postcode": "5760031",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Katano-shi",
+			"ward_name": "",
+			"town_name": "Mori",
+			"building_name": "Minami",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "交野市",
+					"ward_name": "",
+					"town_name": "森",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "交野市"
+		},
+		"5760022": {
+			"postcode": "5760022",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Katano-shi",
+			"ward_name": "",
+			"town_name": "Fujigao",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "交野市",
+					"ward_name": "",
+					"town_name": "藤が尾",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "交野市"
+		},
+		"5760021": {
+			"postcode": "5760021",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Katano-shi",
+			"ward_name": "",
+			"town_name": "Myokenzaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "交野市",
+					"ward_name": "",
+					"town_name": "妙見坂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "交野市"
+		},
+		"5760017": {
+			"postcode": "5760017",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Katano-shi",
+			"ward_name": "",
+			"town_name": "Hoshidakita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "交野市",
+					"ward_name": "",
+					"town_name": "星田北",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "交野市"
+		},
+		"5760016": {
+			"postcode": "5760016",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Katano-shi",
+			"ward_name": "",
+			"town_name": "Hoshida",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "交野市",
+					"ward_name": "",
+					"town_name": "星田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "交野市"
+		},
+		"5760015": {
+			"postcode": "5760015",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Katano-shi",
+			"ward_name": "",
+			"town_name": "Hoshidanishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "交野市",
+					"ward_name": "",
+					"town_name": "星田西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "交野市"
+		},
+		"5760014": {
+			"postcode": "5760014",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Katano-shi",
+			"ward_name": "",
+			"town_name": "Hoshidayamate",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "交野市",
+					"ward_name": "",
+					"town_name": "星田山手",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "交野市"
+		},
+		"5760013": {
+			"postcode": "5760013",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Katano-shi",
+			"ward_name": "",
+			"town_name": "Nanseidai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "交野市",
+					"ward_name": "",
+					"town_name": "南星台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "交野市"
+		},
+		"5760012": {
+			"postcode": "5760012",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Katano-shi",
+			"ward_name": "",
+			"town_name": "Myokenhigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "交野市",
+					"ward_name": "",
+					"town_name": "妙見東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "交野市"
+		},
+		"5760011": {
+			"postcode": "5760011",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Katano-shi",
+			"ward_name": "",
+			"town_name": "Hoshida",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "交野市",
+					"ward_name": "",
+					"town_name": "星田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "交野市"
+		},
+		"5760006": {
+			"postcode": "5760006",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Katano-shi",
+			"ward_name": "",
+			"town_name": "Tera",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "交野市",
+					"ward_name": "",
+					"town_name": "寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "交野市"
+		},
+		"5760005": {
+			"postcode": "5760005",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Katano-shi",
+			"ward_name": "",
+			"town_name": "Mori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "交野市",
+					"ward_name": "",
+					"town_name": "森",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "交野市"
+		},
+		"5760004": {
+			"postcode": "5760004",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Katano-shi",
+			"ward_name": "",
+			"town_name": "Kisaichi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "交野市",
+					"ward_name": "",
+					"town_name": "私市",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "交野市"
+		},
+		"5760003": {
+			"postcode": "5760003",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Katano-shi",
+			"ward_name": "",
+			"town_name": "Hoji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "交野市",
+					"ward_name": "",
+					"town_name": "傍示",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "交野市"
+		},
+		"5760002": {
+			"postcode": "5760002",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Katano-shi",
+			"ward_name": "",
+			"town_name": "Kisabe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "交野市",
+					"ward_name": "",
+					"town_name": "私部",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "交野市"
+		},
+		"5760001": {
+			"postcode": "5760001",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Katano-shi",
+			"ward_name": "",
+			"town_name": "Kuraji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "交野市",
+					"ward_name": "",
+					"town_name": "倉治",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "交野市"
+		},
+		"5760000": {
+			"postcode": "5760000",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Katano-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "交野市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "交野市"
+		}
+	}
+}

@@ -1,0 +1,667 @@
+{
+	"country_code": "JP",
+	"parent_id": "045",
+	"locale": "ja-Latn",
+	"address": {
+		"0458609": {
+			"postcode": "0458609",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwanai-gun",
+			"ward_name": "Iwanai-cho",
+			"town_name": "字相生",
+			"building_name": "１９９番地の１",
+			"organization_name": "岩内公共職業安定所",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩内郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩内郡",
+					"ward_name": "岩内町",
+					"town_name": "字相生",
+					"building_name": "１９９番地の１",
+					"organization_name": "岩内公共職業安定所"
+				}
+			}
+		},
+		"0458555": {
+			"postcode": "0458555",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwanai-gun",
+			"ward_name": "Iwanai-cho",
+			"town_name": "字清住",
+			"building_name": "２５８番地",
+			"organization_name": "岩内町役場",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩内郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩内郡",
+					"ward_name": "岩内町",
+					"town_name": "字清住",
+					"building_name": "２５８番地",
+					"organization_name": "岩内町役場"
+				}
+			}
+		},
+		"0450303": {
+			"postcode": "0450303",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furu-gun",
+			"ward_name": "Kamoenai-mura",
+			"town_name": "Sannaimura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "古宇郡",
+					"ward_name": "神恵内村",
+					"town_name": "珊内村",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "古宇郡"
+		},
+		"0450302": {
+			"postcode": "0450302",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furu-gun",
+			"ward_name": "Kamoenai-mura",
+			"town_name": "Akaishimura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "古宇郡",
+					"ward_name": "神恵内村",
+					"town_name": "赤石村",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "古宇郡"
+		},
+		"0450301": {
+			"postcode": "0450301",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furu-gun",
+			"ward_name": "Kamoenai-mura",
+			"town_name": "Kamoenaimura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "古宇郡",
+					"ward_name": "神恵内村",
+					"town_name": "神恵内村",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "古宇郡"
+		},
+		"0450300": {
+			"postcode": "0450300",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furu-gun",
+			"ward_name": "Kamoenai-mura",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "古宇郡",
+					"ward_name": "神恵内村",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "古宇郡"
+		},
+		"0450205": {
+			"postcode": "0450205",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furu-gun",
+			"ward_name": "Tomari-mura",
+			"town_name": "Okishinaimura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "古宇郡",
+					"ward_name": "泊村",
+					"town_name": "興志内村",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "古宇郡"
+		},
+		"0450204": {
+			"postcode": "0450204",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furu-gun",
+			"ward_name": "Tomari-mura",
+			"town_name": "Sakazukimura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "古宇郡",
+					"ward_name": "泊村",
+					"town_name": "盃村",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "古宇郡"
+		},
+		"0450203": {
+			"postcode": "0450203",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furu-gun",
+			"ward_name": "Tomari-mura",
+			"town_name": "Tomarimura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "古宇郡",
+					"ward_name": "泊村",
+					"town_name": "泊村",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "古宇郡"
+		},
+		"0450202": {
+			"postcode": "0450202",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furu-gun",
+			"ward_name": "Tomari-mura",
+			"town_name": "Kayanumamura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "古宇郡",
+					"ward_name": "泊村",
+					"town_name": "茅沼村",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "古宇郡"
+		},
+		"0450201": {
+			"postcode": "0450201",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furu-gun",
+			"ward_name": "Tomari-mura",
+			"town_name": "Horikappumura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "古宇郡",
+					"ward_name": "泊村",
+					"town_name": "堀株村",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "古宇郡"
+		},
+		"0450200": {
+			"postcode": "0450200",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Furu-gun",
+			"ward_name": "Tomari-mura",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "古宇郡",
+					"ward_name": "泊村",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "古宇郡"
+		},
+		"0450123": {
+			"postcode": "0450123",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwanai-gun",
+			"ward_name": "Kyowa-cho",
+			"town_name": "Miyaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩内郡",
+					"ward_name": "共和町",
+					"town_name": "宮丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩内郡"
+		},
+		"0450122": {
+			"postcode": "0450122",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwanai-gun",
+			"ward_name": "Kyowa-cho",
+			"town_name": "Hattari",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩内郡",
+					"ward_name": "共和町",
+					"town_name": "発足",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩内郡"
+		},
+		"0450121": {
+			"postcode": "0450121",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwanai-gun",
+			"ward_name": "Kyowa-cho",
+			"town_name": "Horoni",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩内郡",
+					"ward_name": "共和町",
+					"town_name": "幌似",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩内郡"
+		},
+		"0450032": {
+			"postcode": "0450032",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwanai-gun",
+			"ward_name": "Kyowa-cho",
+			"town_name": "Oikomi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩内郡",
+					"ward_name": "共和町",
+					"town_name": "老古美",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩内郡"
+		},
+		"0450031": {
+			"postcode": "0450031",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwanai-gun",
+			"ward_name": "Kyowa-cho",
+			"town_name": "Riyamunai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩内郡",
+					"ward_name": "共和町",
+					"town_name": "梨野舞納",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩内郡"
+		},
+		"0450026": {
+			"postcode": "0450026",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwanai-gun",
+			"ward_name": "Iwanai-cho",
+			"town_name": "Misaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩内郡",
+					"ward_name": "岩内町",
+					"town_name": "御崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩内郡"
+		},
+		"0450025": {
+			"postcode": "0450025",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwanai-gun",
+			"ward_name": "Iwanai-cho",
+			"town_name": "Shikishimanai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩内郡",
+					"ward_name": "岩内町",
+					"town_name": "敷島内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩内郡"
+		},
+		"0450024": {
+			"postcode": "0450024",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwanai-gun",
+			"ward_name": "Iwanai-cho",
+			"town_name": "Nozuka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩内郡",
+					"ward_name": "岩内町",
+					"town_name": "野束",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩内郡"
+		},
+		"0450023": {
+			"postcode": "0450023",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwanai-gun",
+			"ward_name": "Iwanai-cho",
+			"town_name": "Aioi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩内郡",
+					"ward_name": "岩内町",
+					"town_name": "相生",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩内郡"
+		},
+		"0450022": {
+			"postcode": "0450022",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwanai-gun",
+			"ward_name": "Iwanai-cho",
+			"town_name": "Kiyozumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩内郡",
+					"ward_name": "岩内町",
+					"town_name": "清住",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩内郡"
+		},
+		"0450021": {
+			"postcode": "0450021",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwanai-gun",
+			"ward_name": "Iwanai-cho",
+			"town_name": "Yamato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩内郡",
+					"ward_name": "岩内町",
+					"town_name": "大和",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩内郡"
+		},
+		"0450013": {
+			"postcode": "0450013",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwanai-gun",
+			"ward_name": "Iwanai-cho",
+			"town_name": "Takadai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩内郡",
+					"ward_name": "岩内町",
+					"town_name": "高台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩内郡"
+		},
+		"0450012": {
+			"postcode": "0450012",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwanai-gun",
+			"ward_name": "Iwanai-cho",
+			"town_name": "Miyazono",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩内郡",
+					"ward_name": "岩内町",
+					"town_name": "宮園",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩内郡"
+		},
+		"0450011": {
+			"postcode": "0450011",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwanai-gun",
+			"ward_name": "Iwanai-cho",
+			"town_name": "Sakae",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩内郡",
+					"ward_name": "岩内町",
+					"town_name": "栄",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩内郡"
+		},
+		"0450003": {
+			"postcode": "0450003",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwanai-gun",
+			"ward_name": "Iwanai-cho",
+			"town_name": "Mandai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩内郡",
+					"ward_name": "岩内町",
+					"town_name": "万代",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩内郡"
+		},
+		"0450002": {
+			"postcode": "0450002",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwanai-gun",
+			"ward_name": "Iwanai-cho",
+			"town_name": "Higashiyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩内郡",
+					"ward_name": "岩内町",
+					"town_name": "東山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩内郡"
+		},
+		"0450001": {
+			"postcode": "0450001",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwanai-gun",
+			"ward_name": "Iwanai-cho",
+			"town_name": "Ohama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩内郡",
+					"ward_name": "岩内町",
+					"town_name": "大浜",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩内郡"
+		},
+		"0450000": {
+			"postcode": "0450000",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwanai-gun",
+			"ward_name": "Iwanai-cho",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩内郡",
+					"ward_name": "岩内町",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩内郡"
+		}
+	}
+}

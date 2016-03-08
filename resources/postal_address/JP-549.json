@@ -1,0 +1,139 @@
+{
+	"country_code": "JP",
+	"parent_id": "549",
+	"locale": "ja-Latn",
+	"address": {
+		"5498585": {
+			"postcode": "5498585",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sennan-gun",
+			"ward_name": "Tajiri-cho",
+			"town_name": "泉州空港中",
+			"building_name": "１番地エアロプラザ３Ｆ",
+			"organization_name": "Ｐｅａｃｈ・Ａｖｉａｔｉｏｎ　株式会社",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "泉南郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "泉南郡",
+					"ward_name": "田尻町",
+					"town_name": "泉州空港中",
+					"building_name": "１番地エアロプラザ３Ｆ",
+					"organization_name": "Ｐｅａｃｈ・Ａｖｉａｔｉｏｎ　株式会社"
+				}
+			}
+		},
+		"5498522": {
+			"postcode": "5498522",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Izumisano-shi",
+			"ward_name": "",
+			"town_name": "泉州空港北",
+			"building_name": "１番地",
+			"organization_name": "北カウンター　関西空港ターミナル　４Ｆ国際線出発ロビー・１Ｆ国際線到着ロビー",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "泉佐野市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "泉佐野市",
+					"ward_name": "",
+					"town_name": "泉州空港北",
+					"building_name": "１番地",
+					"organization_name": "北カウンター　関西空港ターミナル　４Ｆ国際線出発ロビー・１Ｆ国際線到着ロビー"
+				}
+			}
+		},
+		"5498511": {
+			"postcode": "5498511",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sennan-gun",
+			"ward_name": "Tajiri-cho",
+			"town_name": "泉州空港中",
+			"building_name": "１番地",
+			"organization_name": "中カウンター　関西空港ターミナル　４Ｆ国際線出発ロビー・１Ｆ国際線到着ロビー",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "泉南郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "泉南郡",
+					"ward_name": "田尻町",
+					"town_name": "泉州空港中",
+					"building_name": "１番地",
+					"organization_name": "中カウンター　関西空港ターミナル　４Ｆ国際線出発ロビー・１Ｆ国際線到着ロビー"
+				}
+			}
+		},
+		"5490021": {
+			"postcode": "5490021",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sennan-shi",
+			"ward_name": "",
+			"town_name": "Senshukuko",
+			"building_name": "Minami",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "泉南市",
+					"ward_name": "",
+					"town_name": "泉州空港",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "泉南市"
+		},
+		"5490011": {
+			"postcode": "5490011",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sennan-gun",
+			"ward_name": "Tajiri-cho",
+			"town_name": "Senshukuko",
+			"building_name": "Naka",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "泉南郡",
+					"ward_name": "田尻町",
+					"town_name": "泉州空港",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "泉南郡"
+		},
+		"5490001": {
+			"postcode": "5490001",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Izumisano-shi",
+			"ward_name": "",
+			"town_name": "Senshukuko",
+			"building_name": "Kita",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "泉佐野市",
+					"ward_name": "",
+					"town_name": "泉州空港",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "泉佐野市"
+		}
+	}
+}

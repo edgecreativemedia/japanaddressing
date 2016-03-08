@@ -1,0 +1,4275 @@
+{
+	"country_code": "JP",
+	"parent_id": "787",
+	"locale": "ja-Latn",
+	"address": {
+		"7878501": {
+			"postcode": "7878501",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "中村大橋通",
+			"building_name": "４丁目１０",
+			"organization_name": "四万十市役所",
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "中村大橋通",
+					"building_name": "４丁目１０",
+					"organization_name": "四万十市役所"
+				}
+			}
+		},
+		"7871618": {
+			"postcode": "7871618",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nishitosa",
+			"building_name": "Nakaieji",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "西土佐",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871617": {
+			"postcode": "7871617",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nishitosa",
+			"building_name": "Shimoieji",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "西土佐",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871616": {
+			"postcode": "7871616",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nishitosa",
+			"building_name": "Susaki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "西土佐",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871615": {
+			"postcode": "7871615",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nishitosa",
+			"building_name": "Omiya",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "西土佐",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871614": {
+			"postcode": "7871614",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nishitosa",
+			"building_name": "Yabugaichi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "西土佐",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871613": {
+			"postcode": "7871613",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nishitosa",
+			"building_name": "Tsuga",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "西土佐",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871612": {
+			"postcode": "7871612",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nishitosa",
+			"building_name": "Tsunokawa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "西土佐",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871611": {
+			"postcode": "7871611",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nishitosa",
+			"building_name": "Tachibana",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "西土佐",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871607": {
+			"postcode": "7871607",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nishitosa",
+			"building_name": "Ekawa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "西土佐",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871606": {
+			"postcode": "7871606",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nishitosa",
+			"building_name": "Hage",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "西土佐",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871605": {
+			"postcode": "7871605",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nishitosa",
+			"building_name": "Nagaoi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "西土佐",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871604": {
+			"postcode": "7871604",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nishitosa",
+			"building_name": "Fujinokawa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "西土佐",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871603": {
+			"postcode": "7871603",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nishitosa",
+			"building_name": "Mochii",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "西土佐",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871602": {
+			"postcode": "7871602",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nishitosa",
+			"building_name": "Nishigaho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "西土佐",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871601": {
+			"postcode": "7871601",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nishitosa",
+			"building_name": "Ekawasaki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "西土佐",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871559": {
+			"postcode": "7871559",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Takeyashiki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "竹屋敷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871558": {
+			"postcode": "7871558",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Kobi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "古尾",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871557": {
+			"postcode": "7871557",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Onishinokawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "大西ノ川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871556": {
+			"postcode": "7871556",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Konishinokawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "小西ノ川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871555": {
+			"postcode": "7871555",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Mitsumata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "三ツ又",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871554": {
+			"postcode": "7871554",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Joroku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "常六",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871553": {
+			"postcode": "7871553",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Oyashiki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "大屋敷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871552": {
+			"postcode": "7871552",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Katauo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "片魚",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871551": {
+			"postcode": "7871551",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Jujiro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "住次郎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871550": {
+			"postcode": "7871550",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Oyu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "大用",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871444": {
+			"postcode": "7871444",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Fuji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "藤",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871443": {
+			"postcode": "7871443",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Warabioka",
+			"building_name": "Otsu",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "蕨岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871442": {
+			"postcode": "7871442",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Warabioka",
+			"building_name": "Ko",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "蕨岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871441": {
+			"postcode": "7871441",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Isaibara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "伊才原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871326": {
+			"postcode": "7871326",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nishitosa",
+			"building_name": "Okuyanai",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "西土佐",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871325": {
+			"postcode": "7871325",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nishitosa",
+			"building_name": "Kuki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "西土佐",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871324": {
+			"postcode": "7871324",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nishitosa",
+			"building_name": "Kuchiyanai",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "西土佐",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871323": {
+			"postcode": "7871323",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nishitosa",
+			"building_name": "Nakaba",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "西土佐",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871322": {
+			"postcode": "7871322",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nishitosa",
+			"building_name": "Kayo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "西土佐",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871321": {
+			"postcode": "7871321",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nishitosa",
+			"building_name": "Iwama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "西土佐",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871229": {
+			"postcode": "7871229",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Tadenokawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "田出ノ川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871228": {
+			"postcode": "7871228",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Takase",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "高瀬",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871227": {
+			"postcode": "7871227",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Kusu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "楠",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871226": {
+			"postcode": "7871226",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Unoe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "鵜ノ江",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871225": {
+			"postcode": "7871225",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Kubokawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "久保川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871224": {
+			"postcode": "7871224",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Katsuma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "勝間",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871223": {
+			"postcode": "7871223",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Katsuma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "勝間",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871222": {
+			"postcode": "7871222",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Taraigawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "手洗川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871221": {
+			"postcode": "7871221",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Misato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "三里",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871220": {
+			"postcode": "7871220",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Kawanobori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "川登",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871109": {
+			"postcode": "7871109",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Tanokawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "田野川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871108": {
+			"postcode": "7871108",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Shikiji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "敷地",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871107": {
+			"postcode": "7871107",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Iwata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "岩田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871106": {
+			"postcode": "7871106",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Sada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "佐田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871105": {
+			"postcode": "7871105",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Toshioka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "利岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871104": {
+			"postcode": "7871104",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Wakafuji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "若藤",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871103": {
+			"postcode": "7871103",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Itanokawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "板ノ川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871102": {
+			"postcode": "7871102",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Kuchikamogawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "口鴨川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7871101": {
+			"postcode": "7871101",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Okukamogawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "奥鴨川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870892": {
+			"postcode": "7870892",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Hata-gun",
+			"ward_name": "Mihara-mura",
+			"town_name": "大字来栖野",
+			"building_name": "３４６",
+			"organization_name": "三原村役場",
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "幡多郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "幡多郡",
+					"ward_name": "三原村",
+					"town_name": "大字来栖野",
+					"building_name": "３４６",
+					"organization_name": "三原村役場"
+				}
+			}
+		},
+		"7870816": {
+			"postcode": "7870816",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Hata-gun",
+			"ward_name": "Mihara-mura",
+			"town_name": "Shitagiri",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "幡多郡",
+					"ward_name": "三原村",
+					"town_name": "下切",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "幡多郡"
+		},
+		"7870815": {
+			"postcode": "7870815",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Hata-gun",
+			"ward_name": "Mihara-mura",
+			"town_name": "Kamenokawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "幡多郡",
+					"ward_name": "三原村",
+					"town_name": "亀ノ川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "幡多郡"
+		},
+		"7870814": {
+			"postcode": "7870814",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Hata-gun",
+			"ward_name": "Mihara-mura",
+			"town_name": "Hirono",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "幡多郡",
+					"ward_name": "三原村",
+					"town_name": "広野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "幡多郡"
+		},
+		"7870813": {
+			"postcode": "7870813",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Hata-gun",
+			"ward_name": "Mihara-mura",
+			"town_name": "Minao",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "幡多郡",
+					"ward_name": "三原村",
+					"town_name": "皆尾",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "幡多郡"
+		},
+		"7870812": {
+			"postcode": "7870812",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Hata-gun",
+			"ward_name": "Mihara-mura",
+			"town_name": "Shimonagatani",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "幡多郡",
+					"ward_name": "三原村",
+					"town_name": "下長谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "幡多郡"
+		},
+		"7870811": {
+			"postcode": "7870811",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Hata-gun",
+			"ward_name": "Mihara-mura",
+			"town_name": "Yoshii",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "幡多郡",
+					"ward_name": "三原村",
+					"town_name": "芳井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "幡多郡"
+		},
+		"7870807": {
+			"postcode": "7870807",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Hata-gun",
+			"ward_name": "Mihara-mura",
+			"town_name": "Naruyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "幡多郡",
+					"ward_name": "三原村",
+					"town_name": "成山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "幡多郡"
+		},
+		"7870806": {
+			"postcode": "7870806",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Hata-gun",
+			"ward_name": "Mihara-mura",
+			"town_name": "Okamiuchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "幡多郡",
+					"ward_name": "三原村",
+					"town_name": "狼内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "幡多郡"
+		},
+		"7870805": {
+			"postcode": "7870805",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Hata-gun",
+			"ward_name": "Mihara-mura",
+			"town_name": "Kaminagatani",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "幡多郡",
+					"ward_name": "三原村",
+					"town_name": "上長谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "幡多郡"
+		},
+		"7870804": {
+			"postcode": "7870804",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Hata-gun",
+			"ward_name": "Mihara-mura",
+			"town_name": "Kamishimonagatani",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "幡多郡",
+					"ward_name": "三原村",
+					"town_name": "上下長谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "幡多郡"
+		},
+		"7870803": {
+			"postcode": "7870803",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Hata-gun",
+			"ward_name": "Mihara-mura",
+			"town_name": "Kurusuno",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "幡多郡",
+					"ward_name": "三原村",
+					"town_name": "来栖野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "幡多郡"
+		},
+		"7870802": {
+			"postcode": "7870802",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Hata-gun",
+			"ward_name": "Mihara-mura",
+			"town_name": "Miyanokawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "幡多郡",
+					"ward_name": "三原村",
+					"town_name": "宮ノ川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "幡多郡"
+		},
+		"7870801": {
+			"postcode": "7870801",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Hata-gun",
+			"ward_name": "Mihara-mura",
+			"town_name": "Yunoki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "幡多郡",
+					"ward_name": "三原村",
+					"town_name": "柚ノ木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "幡多郡"
+		},
+		"7870800": {
+			"postcode": "7870800",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Hata-gun",
+			"ward_name": "Mihara-mura",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "幡多郡",
+					"ward_name": "三原村",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "幡多郡"
+		},
+		"7870776": {
+			"postcode": "7870776",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Kaminodoi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "上ノ土居",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870775": {
+			"postcode": "7870775",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Kuju",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "九樹",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870774": {
+			"postcode": "7870774",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Oinokawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "生ノ川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870773": {
+			"postcode": "7870773",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Isonokawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "磯ノ川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870772": {
+			"postcode": "7870772",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Yokoze",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "横瀬",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870771": {
+			"postcode": "7870771",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Arioka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "有岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870669": {
+			"postcode": "7870669",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Enomura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "江ノ村",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870668": {
+			"postcode": "7870668",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Arakawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "荒川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870667": {
+			"postcode": "7870667",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Kunimi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "国見",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870666": {
+			"postcode": "7870666",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Kusushima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "楠島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870665": {
+			"postcode": "7870665",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Morisawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "森沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870563": {
+			"postcode": "7870563",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Soro",
+			"building_name": "Ko",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "宗呂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870562": {
+			"postcode": "7870562",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Otsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "大津",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870561": {
+			"postcode": "7870561",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Kainokawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "貝ノ川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870560": {
+			"postcode": "7870560",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Katakasu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "片粕",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870559": {
+			"postcode": "7870559",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Shimokawaguchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "下川口",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870558": {
+			"postcode": "7870558",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Soro",
+			"building_name": "Hei",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "宗呂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870557": {
+			"postcode": "7870557",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Soro",
+			"building_name": "Otsu",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "宗呂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870556": {
+			"postcode": "7870556",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Arinaga",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "有永",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870453": {
+			"postcode": "7870453",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Tsumajiro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "爪白",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870452": {
+			"postcode": "7870452",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Tatsukushi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "竜串",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870451": {
+			"postcode": "7870451",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Misakiura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "三崎浦",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870450": {
+			"postcode": "7870450",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Misaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "三崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870447": {
+			"postcode": "7870447",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Ueno",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "上野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870446": {
+			"postcode": "7870446",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Onozumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "斧積",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870445": {
+			"postcode": "7870445",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Shimomashino",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "下益野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870392": {
+			"postcode": "7870392",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "天神町",
+			"building_name": "１１−２",
+			"organization_name": "土佐清水市役所",
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "天神町",
+					"building_name": "１１−２",
+					"organization_name": "土佐清水市役所"
+				}
+			}
+		},
+		"7870339": {
+			"postcode": "7870339",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Yokomichi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "横道",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870338": {
+			"postcode": "7870338",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Kagumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "加久見",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870337": {
+			"postcode": "7870337",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Yoro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "養老",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870336": {
+			"postcode": "7870336",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Kagumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "加久見",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870335": {
+			"postcode": "7870335",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Kagumishimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "加久見新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870334": {
+			"postcode": "7870334",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Kagumiirisawacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "加久見入沢町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870333": {
+			"postcode": "7870333",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Nishimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "西町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870332": {
+			"postcode": "7870332",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Shiomicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "汐見町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870331": {
+			"postcode": "7870331",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Echizencho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "越前町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870328": {
+			"postcode": "7870328",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Ebisucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "戎町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870327": {
+			"postcode": "7870327",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Ichibacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "市場町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870326": {
+			"postcode": "7870326",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Hommachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870325": {
+			"postcode": "7870325",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Sakaemachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "栄町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870324": {
+			"postcode": "7870324",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Chuocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "中央町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870323": {
+			"postcode": "7870323",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Kotobukicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "寿町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870322": {
+			"postcode": "7870322",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Koecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "小江町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870321": {
+			"postcode": "7870321",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Hamamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "浜町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870320": {
+			"postcode": "7870320",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Shimizu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "清水",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870318": {
+			"postcode": "7870318",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Nakanohama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "中浜",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870317": {
+			"postcode": "7870317",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Ohama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "大浜",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870316": {
+			"postcode": "7870316",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Matsuo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "松尾",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870315": {
+			"postcode": "7870315",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Ashizurimisaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "足摺岬",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870314": {
+			"postcode": "7870314",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Otani",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "大谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870313": {
+			"postcode": "7870313",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Tsuro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "津呂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870312": {
+			"postcode": "7870312",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Kubotsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "窪津",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870311": {
+			"postcode": "7870311",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Gurinhaitsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "グリーンハイツ",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870310": {
+			"postcode": "7870310",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Urajiri",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "浦尻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870308": {
+			"postcode": "7870308",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Koseicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "厚生町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870307": {
+			"postcode": "7870307",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Midorigaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "緑ケ丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870306": {
+			"postcode": "7870306",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Saiwaicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "幸町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870305": {
+			"postcode": "7870305",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Tenjimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "天神町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870304": {
+			"postcode": "7870304",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Motomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "元町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870303": {
+			"postcode": "7870303",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Asahimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "旭町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870302": {
+			"postcode": "7870302",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Iburi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "以布利",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870301": {
+			"postcode": "7870301",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Oki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "大岐",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870300": {
+			"postcode": "7870300",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870244": {
+			"postcode": "7870244",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Kumomo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "久百々",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870243": {
+			"postcode": "7870243",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Kaikake",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "鍵掛",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870242": {
+			"postcode": "7870242",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Shimonokae",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "下ノ加江",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870241": {
+			"postcode": "7870241",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Nuno",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "布",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870240": {
+			"postcode": "7870240",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Tosashimizu-shi",
+			"ward_name": "",
+			"town_name": "Tateishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "土佐清水市",
+					"ward_name": "",
+					"town_name": "立石",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "土佐清水市"
+		},
+		"7870163": {
+			"postcode": "7870163",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nashishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "名鹿",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870162": {
+			"postcode": "7870162",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Hatsuzaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "初崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870161": {
+			"postcode": "7870161",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Tsukurabuchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "津蔵渕",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870160": {
+			"postcode": "7870160",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Masaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "間崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870159": {
+			"postcode": "7870159",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Fukaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "深木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870158": {
+			"postcode": "7870158",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Sanzaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "実崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870157": {
+			"postcode": "7870157",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Yamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "山路",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870156": {
+			"postcode": "7870156",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Sakamoto",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "坂本",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870155": {
+			"postcode": "7870155",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Shimoda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "下田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870154": {
+			"postcode": "7870154",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Hirano",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "平野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870153": {
+			"postcode": "7870153",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Futami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "双海",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870152": {
+			"postcode": "7870152",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nabeshima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "鍋島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870151": {
+			"postcode": "7870151",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Takeshima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "竹島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870150": {
+			"postcode": "7870150",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Isawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "井沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870052": {
+			"postcode": "7870052",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Akamatsucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "赤松町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870051": {
+			"postcode": "7870051",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Gudotaguro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "具同田黒",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870050": {
+			"postcode": "7870050",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Watarigawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "渡川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870038": {
+			"postcode": "7870038",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nakamura",
+			"building_name": "Domekicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "中村",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870037": {
+			"postcode": "7870037",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nakamura",
+			"building_name": "Shimantocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "中村",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870036": {
+			"postcode": "7870036",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nakamura",
+			"building_name": "Iwasakicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "中村",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870035": {
+			"postcode": "7870035",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nakamura",
+			"building_name": "Habushoji",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "中村",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870034": {
+			"postcode": "7870034",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nakamura",
+			"building_name": "Yayoicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "中村",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870033": {
+			"postcode": "7870033",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nakamura",
+			"building_name": "Ohashidori",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "中村",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870032": {
+			"postcode": "7870032",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nakamura",
+			"building_name": "Sakaemachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "中村",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870031": {
+			"postcode": "7870031",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nakamura",
+			"building_name": "Higashishimomachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "中村",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870030": {
+			"postcode": "7870030",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nakamura",
+			"building_name": "Kamikoshomachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "中村",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870029": {
+			"postcode": "7870029",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nakamura",
+			"building_name": "Koshomachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "中村",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870028": {
+			"postcode": "7870028",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nakamura",
+			"building_name": "Yamatedori",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "中村",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870027": {
+			"postcode": "7870027",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nakamura",
+			"building_name": "Tenjimbashi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "中村",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870026": {
+			"postcode": "7870026",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nakamura",
+			"building_name": "Atagomachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "中村",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870025": {
+			"postcode": "7870025",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nakamura",
+			"building_name": "Ichijodori",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "中村",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870024": {
+			"postcode": "7870024",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nakamura",
+			"building_name": "Ohigashicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "中村",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870023": {
+			"postcode": "7870023",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nakamura",
+			"building_name": "Higashimachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "中村",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870022": {
+			"postcode": "7870022",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nakamura",
+			"building_name": "Shimmachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "中村",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870021": {
+			"postcode": "7870021",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nakamura",
+			"building_name": "Kyomachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "中村",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870020": {
+			"postcode": "7870020",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nyuta",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "入田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870019": {
+			"postcode": "7870019",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Gudo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "具同",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870018": {
+			"postcode": "7870018",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Fubakamimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "不破上町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870017": {
+			"postcode": "7870017",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Fuba",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "不破",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870016": {
+			"postcode": "7870016",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Tsunosaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "角崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870015": {
+			"postcode": "7870015",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Uyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "右山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870014": {
+			"postcode": "7870014",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Ekimaecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "駅前町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870013": {
+			"postcode": "7870013",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Uyamatenjincho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "右山天神町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870012": {
+			"postcode": "7870012",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Uyamasatsukicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "右山五月町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870011": {
+			"postcode": "7870011",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Uyamamotomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "右山元町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870010": {
+			"postcode": "7870010",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Kotsuka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "古津賀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870009": {
+			"postcode": "7870009",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Saoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "佐岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870008": {
+			"postcode": "7870008",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Yasunami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "安並",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870007": {
+			"postcode": "7870007",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Aida",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "秋田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870006": {
+			"postcode": "7870006",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Aso",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "麻生",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870005": {
+			"postcode": "7870005",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nakamura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "中村",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870004": {
+			"postcode": "7870004",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nakamura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "中村",
+					"building_name": "丸の内",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870003": {
+			"postcode": "7870003",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nakamura",
+			"building_name": "Marunochi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "中村",
+					"building_name": "丸の内",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870002": {
+			"postcode": "7870002",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nakamura",
+			"building_name": "Sakuramachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "中村",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870001": {
+			"postcode": "7870001",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "Nakamura",
+			"building_name": "Hommachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "中村",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		},
+		"7870000": {
+			"postcode": "7870000",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Shimanto-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "四万十市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "四万十市"
+		}
+	}
+}

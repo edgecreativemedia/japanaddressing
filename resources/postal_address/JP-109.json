@@ -1,0 +1,29 @@
+{
+	"country_code": "JP",
+	"parent_id": "109",
+	"locale": "ja-Latn",
+	"address": {
+		"1098792": {
+			"postcode": "1098792",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Minato-ku",
+			"ward_name": "",
+			"town_name": "三田",
+			"building_name": "１丁目４−６０",
+			"organization_name": "株式会社　かんぽ生命保険　東京サービスセンター",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "港区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "港区",
+					"ward_name": "",
+					"town_name": "三田",
+					"building_name": "１丁目４−６０",
+					"organization_name": "株式会社　かんぽ生命保険　東京サービスセンター"
+				}
+			}
+		}
+	}
+}

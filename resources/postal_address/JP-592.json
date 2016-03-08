@@ -1,0 +1,623 @@
+{
+	"country_code": "JP",
+	"parent_id": "592",
+	"locale": "ja-Latn",
+	"address": {
+		"5928585": {
+			"postcode": "5928585",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Takaishi-shi",
+			"ward_name": "",
+			"town_name": "加茂",
+			"building_name": "４丁目１番１号",
+			"organization_name": "高石市役所",
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "高石市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "高石市",
+					"ward_name": "",
+					"town_name": "加茂",
+					"building_name": "４丁目１番１号",
+					"organization_name": "高石市役所"
+				}
+			}
+		},
+		"5928352": {
+			"postcode": "5928352",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Chikkohamaderanishimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "西区",
+					"town_name": "築港浜寺西町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5928351": {
+			"postcode": "5928351",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Chikkohamaderacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "西区",
+					"town_name": "築港浜寺町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5928349": {
+			"postcode": "5928349",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Hamaderasuwanomorichohigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "西区",
+					"town_name": "浜寺諏訪森町東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5928348": {
+			"postcode": "5928348",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Hamaderasuwanomorichonaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "西区",
+					"town_name": "浜寺諏訪森町中",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5928347": {
+			"postcode": "5928347",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Hamaderasuwanomorichonishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "西区",
+					"town_name": "浜寺諏訪森町西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5928346": {
+			"postcode": "5928346",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Hamaderakoencho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "西区",
+					"town_name": "浜寺公園町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5928345": {
+			"postcode": "5928345",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Hamaderashowacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "西区",
+					"town_name": "浜寺昭和町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5928344": {
+			"postcode": "5928344",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Hamaderaminamimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "西区",
+					"town_name": "浜寺南町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5928343": {
+			"postcode": "5928343",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Hamaderamotomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "西区",
+					"town_name": "浜寺元町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5928342": {
+			"postcode": "5928342",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Hamaderafunaochonishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "西区",
+					"town_name": "浜寺船尾町西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5928341": {
+			"postcode": "5928341",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Hamaderafunaochohigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "西区",
+					"town_name": "浜寺船尾町東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5928335": {
+			"postcode": "5928335",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Hamaderaishizuchohigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "西区",
+					"town_name": "浜寺石津町東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5928334": {
+			"postcode": "5928334",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Hamaderaishizuchonaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "西区",
+					"town_name": "浜寺石津町中",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5928333": {
+			"postcode": "5928333",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Hamaderaishizuchonishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "西区",
+					"town_name": "浜寺石津町西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5928332": {
+			"postcode": "5928332",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Ishizunishimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "西区",
+					"town_name": "石津西町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5928331": {
+			"postcode": "5928331",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Sakai-shi",
+			"ward_name": "Nishi-ku",
+			"town_name": "Chikkoshimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "堺市",
+					"ward_name": "西区",
+					"town_name": "築港新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "堺市"
+		},
+		"5920014": {
+			"postcode": "5920014",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Takaishi-shi",
+			"ward_name": "",
+			"town_name": "Ayazono",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "高石市",
+					"ward_name": "",
+					"town_name": "綾園",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "高石市"
+		},
+		"5920013": {
+			"postcode": "5920013",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Takaishi-shi",
+			"ward_name": "",
+			"town_name": "Toriishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "高石市",
+					"ward_name": "",
+					"town_name": "取石",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "高石市"
+		},
+		"5920012": {
+			"postcode": "5920012",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Takaishi-shi",
+			"ward_name": "",
+			"town_name": "Nishitoriishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "高石市",
+					"ward_name": "",
+					"town_name": "西取石",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "高石市"
+		},
+		"5920011": {
+			"postcode": "5920011",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Takaishi-shi",
+			"ward_name": "",
+			"town_name": "Kamo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "高石市",
+					"ward_name": "",
+					"town_name": "加茂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "高石市"
+		},
+		"5920006": {
+			"postcode": "5920006",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Takaishi-shi",
+			"ward_name": "",
+			"town_name": "Takashinohamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "高石市",
+					"ward_name": "",
+					"town_name": "高師浜丁",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "高石市"
+		},
+		"5920005": {
+			"postcode": "5920005",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Takaishi-shi",
+			"ward_name": "",
+			"town_name": "Chiyoda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "高石市",
+					"ward_name": "",
+					"town_name": "千代田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "高石市"
+		},
+		"5920004": {
+			"postcode": "5920004",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Takaishi-shi",
+			"ward_name": "",
+			"town_name": "Takashinohama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "高石市",
+					"ward_name": "",
+					"town_name": "高師浜",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "高石市"
+		},
+		"5920003": {
+			"postcode": "5920003",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Takaishi-shi",
+			"ward_name": "",
+			"town_name": "Higashihagoromo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "高石市",
+					"ward_name": "",
+					"town_name": "東羽衣",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "高石市"
+		},
+		"5920002": {
+			"postcode": "5920002",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Takaishi-shi",
+			"ward_name": "",
+			"town_name": "Hagoromo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "高石市",
+					"ward_name": "",
+					"town_name": "羽衣",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "高石市"
+		},
+		"5920001": {
+			"postcode": "5920001",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Takaishi-shi",
+			"ward_name": "",
+			"town_name": "Takasago",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "高石市",
+					"ward_name": "",
+					"town_name": "高砂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "高石市"
+		},
+		"5920000": {
+			"postcode": "5920000",
+			"prefecture_name": "Osaka-fu",
+			"city_name": "Takaishi-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "大阪府",
+					"city_name": "高石市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "大阪府",
+			"city_code": "高石市"
+		}
+	}
+}

@@ -1,0 +1,2669 @@
+{
+	"country_code": "JP",
+	"parent_id": "513",
+	"locale": "ja-Latn",
+	"address": {
+		"5138701": {
+			"postcode": "5138701",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "神戸",
+			"building_name": "１丁目１８−１８（鈴鹿郵便局私書箱第１１号）",
+			"organization_name": "鈴鹿市役所",
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "神戸",
+					"building_name": "１丁目１８−１８（鈴鹿郵便局私書箱第１１号）",
+					"organization_name": "鈴鹿市役所"
+				}
+			}
+		},
+		"5138686": {
+			"postcode": "5138686",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "算所",
+			"building_name": "２丁目５−１",
+			"organization_name": "株式会社　鈴鹿ハンター",
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "算所",
+					"building_name": "２丁目５−１",
+					"organization_name": "株式会社　鈴鹿ハンター"
+				}
+			}
+		},
+		"5138680": {
+			"postcode": "5138680",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "住吉町",
+			"building_name": "８９４７番地",
+			"organization_name": "株式会社　鈴鹿メディアパーク",
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "住吉町",
+					"building_name": "８９４７番地",
+					"organization_name": "株式会社　鈴鹿メディアパーク"
+				}
+			}
+		},
+		"5138670": {
+			"postcode": "5138670",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "南玉垣町",
+			"building_name": "３５００番地３",
+			"organization_name": "鈴鹿医療科学大学　白子キャンパス",
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "南玉垣町",
+					"building_name": "３５００番地３",
+					"organization_name": "鈴鹿医療科学大学　白子キャンパス"
+				}
+			}
+		},
+		"5138666": {
+			"postcode": "5138666",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "平田町",
+			"building_name": "１９０７",
+			"organization_name": "本田技研工業　株式会社　鈴鹿製作所",
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "平田町",
+					"building_name": "１９０７",
+					"organization_name": "本田技研工業　株式会社　鈴鹿製作所"
+				}
+			}
+		},
+		"5138661": {
+			"postcode": "5138661",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "庄野羽山",
+			"building_name": "４丁目１−１",
+			"organization_name": "カネボウウール　株式会社　鈴鹿工場",
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "庄野羽山",
+					"building_name": "４丁目１−１",
+					"organization_name": "カネボウウール　株式会社　鈴鹿工場"
+				}
+			}
+		},
+		"5138660": {
+			"postcode": "5138660",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "平田中町",
+			"building_name": "１−１",
+			"organization_name": "旭化成工業　株式会社　鈴鹿工場",
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "平田中町",
+					"building_name": "１−１",
+					"organization_name": "旭化成工業　株式会社　鈴鹿工場"
+				}
+			}
+		},
+		"5138650": {
+			"postcode": "5138650",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "地子町",
+			"building_name": "１２６８",
+			"organization_name": "鈴鹿農業　協同組合",
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "地子町",
+					"building_name": "１２６８",
+					"organization_name": "鈴鹿農業　協同組合"
+				}
+			}
+		},
+		"5138633": {
+			"postcode": "5138633",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "南玉垣町",
+			"building_name": "５５２０",
+			"organization_name": "富士電機　株式会社　鈴鹿工場",
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "南玉垣町",
+					"building_name": "５５２０",
+					"organization_name": "富士電機　株式会社　鈴鹿工場"
+				}
+			}
+		},
+		"5138632": {
+			"postcode": "5138632",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "南玉垣町",
+			"building_name": "６４１０",
+			"organization_name": "味の素ゼネラルフーヅ　株式会社　鈴鹿工場",
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "南玉垣町",
+					"building_name": "６４１０",
+					"organization_name": "味の素ゼネラルフーヅ　株式会社　鈴鹿工場"
+				}
+			}
+		},
+		"5138631": {
+			"postcode": "5138631",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "三日市町",
+			"building_name": "字中の池１８２０",
+			"organization_name": "住友電装　株式会社　鈴鹿製作所",
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "三日市町",
+					"building_name": "字中の池１８２０",
+					"organization_name": "住友電装　株式会社　鈴鹿製作所"
+				}
+			}
+		},
+		"5138630": {
+			"postcode": "5138630",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "安塚町",
+			"building_name": "山之花１２７５−５３",
+			"organization_name": "鈴鹿中央総合病院",
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "安塚町",
+					"building_name": "山之花１２７５−５３",
+					"organization_name": "鈴鹿中央総合病院"
+				}
+			}
+		},
+		"5138601": {
+			"postcode": "5138601",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "国府町",
+			"building_name": "７７５４−１",
+			"organization_name": "株式会社　ホンダ・エクスプレス",
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "国府町",
+					"building_name": "７７５４−１",
+					"organization_name": "株式会社　ホンダ・エクスプレス"
+				}
+			}
+		},
+		"5138530": {
+			"postcode": "5138530",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "上野町",
+			"building_name": "字助町４８",
+			"organization_name": "株式会社　サンケイ",
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "上野町",
+					"building_name": "字助町４８",
+					"organization_name": "株式会社　サンケイ"
+				}
+			}
+		},
+		"5138520": {
+			"postcode": "5138520",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "庄野町",
+			"building_name": "１２５０",
+			"organization_name": "鈴鹿短期大学",
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "庄野町",
+					"building_name": "１２５０",
+					"organization_name": "鈴鹿短期大学"
+				}
+			}
+		},
+		"5138510": {
+			"postcode": "5138510",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "神戸",
+			"building_name": "１丁目２４−３",
+			"organization_name": "津地方法務局　鈴鹿出張所",
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "神戸",
+					"building_name": "１丁目２４−３",
+					"organization_name": "津地方法務局　鈴鹿出張所"
+				}
+			}
+		},
+		"5138505": {
+			"postcode": "5138505",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "国府町",
+			"building_name": "字保子里１１２番地１",
+			"organization_name": "鈴鹿回生総合病院",
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "国府町",
+					"building_name": "字保子里１１２番地１",
+					"organization_name": "鈴鹿回生総合病院"
+				}
+			}
+		},
+		"5138501": {
+			"postcode": "5138501",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "加佐登",
+			"building_name": "３丁目２番２号",
+			"organization_name": "独立行政法人　国立病院機構　鈴鹿病院",
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "加佐登",
+					"building_name": "３丁目２番２号",
+					"organization_name": "独立行政法人　国立病院機構　鈴鹿病院"
+				}
+			}
+		},
+		"5131124": {
+			"postcode": "5131124",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Jiyugaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "自由ヶ丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5131123": {
+			"postcode": "5131123",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Shimookubocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "下大久保町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5131122": {
+			"postcode": "5131122",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Hanagawacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "花川町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5131121": {
+			"postcode": "5131121",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Kishitacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "岸田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130855": {
+			"postcode": "5130855",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Ishigaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "石垣",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130854": {
+			"postcode": "5130854",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Suehirokita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "末広北",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130853": {
+			"postcode": "5130853",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Suehirominami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "末広南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130852": {
+			"postcode": "5130852",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Suehironishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "末広西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130851": {
+			"postcode": "5130851",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Suehirohigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "末広東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130848": {
+			"postcode": "5130848",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Hiratahommachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "平田本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130847": {
+			"postcode": "5130847",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Hiratacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "平田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130846": {
+			"postcode": "5130846",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Hiratanakamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "平田中町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130845": {
+			"postcode": "5130845",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Hiratashimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "平田新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130844": {
+			"postcode": "5130844",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Hirata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "平田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130843": {
+			"postcode": "5130843",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Hiratahigashimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "平田東町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130842": {
+			"postcode": "5130842",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Yuge",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "弓削",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130841": {
+			"postcode": "5130841",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Yugecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "弓削町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130837": {
+			"postcode": "5130837",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Hachinocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "八野町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130836": {
+			"postcode": "5130836",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Kocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "国府町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130835": {
+			"postcode": "5130835",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Hiranocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "平野町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130834": {
+			"postcode": "5130834",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Shono",
+			"building_name": "Hayama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "庄野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130833": {
+			"postcode": "5130833",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Shono",
+			"building_name": "Kyoshin",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "庄野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130832": {
+			"postcode": "5130832",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Shono",
+			"building_name": "Higashi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "庄野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130831": {
+			"postcode": "5130831",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Shonocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "庄野町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130828": {
+			"postcode": "5130828",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Akosocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "阿古曽町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130827": {
+			"postcode": "5130827",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Oike",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "大池",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130826": {
+			"postcode": "5130826",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Sumiyoshi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "住吉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130825": {
+			"postcode": "5130825",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Sumiyoshicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "住吉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130824": {
+			"postcode": "5130824",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Dohakucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "道伯町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130823": {
+			"postcode": "5130823",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Dohaku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "道伯",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130822": {
+			"postcode": "5130822",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Suehirocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "末広町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130821": {
+			"postcode": "5130821",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Jishimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "地子町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130819": {
+			"postcode": "5130819",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Hidacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "肥田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130818": {
+			"postcode": "5130818",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Yasuzukacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "安塚町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130817": {
+			"postcode": "5130817",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Sakurajimacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "桜島町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130816": {
+			"postcode": "5130816",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Minamitamagakicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "南玉垣町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130815": {
+			"postcode": "5130815",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Nishitamagakicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "西玉垣町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130814": {
+			"postcode": "5130814",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Higashitamagakicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "東玉垣町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130813": {
+			"postcode": "5130813",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Kitatamagakicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "北玉垣町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130812": {
+			"postcode": "5130812",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Hazecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "土師町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130811": {
+			"postcode": "5130811",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Yanagicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "柳町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130809": {
+			"postcode": "5130809",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Nishijo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "西条",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130808": {
+			"postcode": "5130808",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Nishijocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "西條町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130807": {
+			"postcode": "5130807",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Mikkaichi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "三日市",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130806": {
+			"postcode": "5130806",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Sanjo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "算所",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130805": {
+			"postcode": "5130805",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Sanjocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "算所町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130804": {
+			"postcode": "5130804",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Mikkaichiminami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "三日市南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130803": {
+			"postcode": "5130803",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Mikkaichicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "三日市町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130802": {
+			"postcode": "5130802",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Iinojikecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "飯野寺家町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130801": {
+			"postcode": "5130801",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Kambe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "神戸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130059": {
+			"postcode": "5130059",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Hayasakicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "林崎町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130058": {
+			"postcode": "5130058",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Hayasaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "林崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130057": {
+			"postcode": "5130057",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Minamihayasakicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "南林崎町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130056": {
+			"postcode": "5130056",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Kamimida",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "上箕田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130055": {
+			"postcode": "5130055",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Kamimidacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "上箕田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130054": {
+			"postcode": "5130054",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Nakamida",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "中箕田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130053": {
+			"postcode": "5130053",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Nakamidacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "中箕田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130052": {
+			"postcode": "5130052",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Shimomida",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "下箕田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130051": {
+			"postcode": "5130051",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Shimomidacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "下箕田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130049": {
+			"postcode": "5130049",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Kitanagocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "北長太町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130048": {
+			"postcode": "5130048",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Minaminagocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "南長太町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130047": {
+			"postcode": "5130047",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Minamihoriecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "南堀江町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130046": {
+			"postcode": "5130046",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Minamihorie",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "南堀江",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130045": {
+			"postcode": "5130045",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Kitahorie",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "北堀江",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130044": {
+			"postcode": "5130044",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Kitahoriecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "北堀江町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130043": {
+			"postcode": "5130043",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Nago",
+			"building_name": "Sakaemachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "長太",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130042": {
+			"postcode": "5130042",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Nago",
+			"building_name": "Asahimachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "長太",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130041": {
+			"postcode": "5130041",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Nago",
+			"building_name": "Shimmachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "長太",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130038": {
+			"postcode": "5130038",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Tomiyacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "十宮町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130037": {
+			"postcode": "5130037",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Tomiya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "十宮",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130036": {
+			"postcode": "5130036",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Yabase",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "矢橋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130035": {
+			"postcode": "5130035",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Yabasecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "矢橋町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130034": {
+			"postcode": "5130034",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Suka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "須賀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130033": {
+			"postcode": "5130033",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Sukacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "須賀町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130032": {
+			"postcode": "5130032",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Ikedacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "池田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130031": {
+			"postcode": "5130031",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Ichinomiyacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "一ノ宮町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130028": {
+			"postcode": "5130028",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Okadacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "岡田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130027": {
+			"postcode": "5130027",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Okada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "岡田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130026": {
+			"postcode": "5130026",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Takenocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "竹野町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130025": {
+			"postcode": "5130025",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Takeno",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "竹野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130024": {
+			"postcode": "5130024",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Nombe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "野辺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130023": {
+			"postcode": "5130023",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Kodacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "河田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130022": {
+			"postcode": "5130022",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Nombecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "野辺町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130021": {
+			"postcode": "5130021",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Kaicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "甲斐町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130019": {
+			"postcode": "5130019",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Takaokadai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "高岡台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130018": {
+			"postcode": "5130018",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Uedacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "上田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130017": {
+			"postcode": "5130017",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Uenocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "上野町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130016": {
+			"postcode": "5130016",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Yamabecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "山辺町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130015": {
+			"postcode": "5130015",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Kidacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "木田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130014": {
+			"postcode": "5130014",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Takaokacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "高岡町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130013": {
+			"postcode": "5130013",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Kokubucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "国分町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130012": {
+			"postcode": "5130012",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Ishiyakushicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "石薬師町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130011": {
+			"postcode": "5130011",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Takatsukacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "高塚町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130009": {
+			"postcode": "5130009",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Nakatomidacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "中冨田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130008": {
+			"postcode": "5130008",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Nishitomidacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "西冨田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130007": {
+			"postcode": "5130007",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Odacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "小田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130006": {
+			"postcode": "5130006",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Izumicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "和泉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130005": {
+			"postcode": "5130005",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Kumigawaracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "汲川原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130004": {
+			"postcode": "5130004",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Kasado",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "加佐登",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130003": {
+			"postcode": "5130003",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Kasadocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "加佐登町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130002": {
+			"postcode": "5130002",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Tsugacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "津賀町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130001": {
+			"postcode": "5130001",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "Hirosecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "広瀬町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		},
+		"5130000": {
+			"postcode": "5130000",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Suzuka-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "鈴鹿市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "鈴鹿市"
+		}
+	}
+}

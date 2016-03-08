@@ -1,0 +1,6453 @@
+{
+	"country_code": "JP",
+	"parent_id": "607",
+	"locale": "ja-Latn",
+	"address": {
+		"6078571": {
+			"postcode": "6078571",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "東野中井ノ上町",
+			"building_name": "１１−１７",
+			"organization_name": "全家研ポピー",
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "東野中井ノ上町",
+					"building_name": "１１−１７",
+					"organization_name": "全家研ポピー"
+				}
+			}
+		},
+		"6078511": {
+			"postcode": "6078511",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "椥辻池尻町",
+			"building_name": "１４番地２",
+			"organization_name": "京都市　山科区役所",
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "椥辻池尻町",
+					"building_name": "１４番地２",
+					"organization_name": "京都市　山科区役所"
+				}
+			}
+		},
+		"6078501": {
+			"postcode": "6078501",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "東野中井ノ上町",
+			"building_name": "１１−３９",
+			"organization_name": "株式会社　新学社",
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "東野中井ノ上町",
+					"building_name": "１１−３９",
+					"organization_name": "株式会社　新学社"
+				}
+			}
+		},
+		"6078498": {
+			"postcode": "6078498",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Hinoka",
+			"building_name": "Ishizukacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "日ノ岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078497": {
+			"postcode": "6078497",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Hinoka",
+			"building_name": "Hopparacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "日ノ岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078496": {
+			"postcode": "6078496",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Hinoka",
+			"building_name": "Sakawakicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "日ノ岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078495": {
+			"postcode": "6078495",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Hinoka",
+			"building_name": "Kamodocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "日ノ岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078494": {
+			"postcode": "6078494",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Hinoka",
+			"building_name": "Tsutsumidanicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "日ノ岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078493": {
+			"postcode": "6078493",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Hinoka",
+			"building_name": "Asadacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "日ノ岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078492": {
+			"postcode": "6078492",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Hinoka",
+			"building_name": "Ebisudanicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "日ノ岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078491": {
+			"postcode": "6078491",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Hinoka",
+			"building_name": "Issaikyodanicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "日ノ岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078485": {
+			"postcode": "6078485",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kitakazan",
+			"building_name": "Kamichigogaike",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "北花山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078484": {
+			"postcode": "6078484",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kitakazan",
+			"building_name": "Nishinonocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "北花山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078483": {
+			"postcode": "6078483",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kitakazan",
+			"building_name": "Ichidacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "北花山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078482": {
+			"postcode": "6078482",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kitakazan",
+			"building_name": "Ohayashicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "北花山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078481": {
+			"postcode": "6078481",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kitakazan",
+			"building_name": "Nakamichicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "北花山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078476": {
+			"postcode": "6078476",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kitakazan",
+			"building_name": "Kawaracho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "北花山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078475": {
+			"postcode": "6078475",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kitakazan",
+			"building_name": "Yokotacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "北花山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078474": {
+			"postcode": "6078474",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kitakazan",
+			"building_name": "Terauchicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "北花山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078473": {
+			"postcode": "6078473",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kitakazan",
+			"building_name": "Rokutandacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "北花山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078472": {
+			"postcode": "6078472",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kitakazan",
+			"building_name": "Yamadacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "北花山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078471": {
+			"postcode": "6078471",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kitakazan",
+			"building_name": "Ominecho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "北花山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078466": {
+			"postcode": "6078466",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kamikazan",
+			"building_name": "Sakuradani",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "上花山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078465": {
+			"postcode": "6078465",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kamikazan",
+			"building_name": "Sakajiri",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "上花山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078464": {
+			"postcode": "6078464",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kamikazan",
+			"building_name": "Kubocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "上花山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078463": {
+			"postcode": "6078463",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kamikazan",
+			"building_name": "Kodacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "上花山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078462": {
+			"postcode": "6078462",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kamikazan",
+			"building_name": "Hananokacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "上花山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078461": {
+			"postcode": "6078461",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kamikazan",
+			"building_name": "Asahiyamacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "上花山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078456": {
+			"postcode": "6078456",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Zushioku",
+			"building_name": "Kachocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "厨子奥",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078455": {
+			"postcode": "6078455",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Zushioku",
+			"building_name": "Nagamichi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "厨子奥",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078454": {
+			"postcode": "6078454",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Zushioku",
+			"building_name": "Nawashiromotocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "厨子奥",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078453": {
+			"postcode": "6078453",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Zushioku",
+			"building_name": "Onoecho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "厨子奥",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078452": {
+			"postcode": "6078452",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Zushioku",
+			"building_name": "Yakuracho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "厨子奥",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078451": {
+			"postcode": "6078451",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Zushioku",
+			"building_name": "Wakabayashicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "厨子奥",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078443": {
+			"postcode": "6078443",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Ueno",
+			"building_name": "Teraicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "上野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078442": {
+			"postcode": "6078442",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Ueno",
+			"building_name": "Yamada",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "上野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078441": {
+			"postcode": "6078441",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Ueno",
+			"building_name": "Goshonochicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "上野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078433": {
+			"postcode": "6078433",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Misasagi",
+			"building_name": "Iketsutsumicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "御陵",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078432": {
+			"postcode": "6078432",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Misasagi",
+			"building_name": "Kamotocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "御陵",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078431": {
+			"postcode": "6078431",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Misasagi",
+			"building_name": "Okacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "御陵",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078429": {
+			"postcode": "6078429",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Misasagi",
+			"building_name": "Aramakicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "御陵",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078428": {
+			"postcode": "6078428",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Misasagi",
+			"building_name": "Chiaraicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "御陵",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078427": {
+			"postcode": "6078427",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Misasagi",
+			"building_name": "Kubocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "御陵",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078426": {
+			"postcode": "6078426",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Misasagi",
+			"building_name": "Shimogobyonocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "御陵",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078425": {
+			"postcode": "6078425",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Misasagi",
+			"building_name": "Kamigobyonocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "御陵",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078424": {
+			"postcode": "6078424",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Misasagi",
+			"building_name": "Haranishicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "御陵",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078423": {
+			"postcode": "6078423",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Misasagi",
+			"building_name": "Yamanotani",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "御陵",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078422": {
+			"postcode": "6078422",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Misasagi",
+			"building_name": "Fujiyamacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "御陵",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078421": {
+			"postcode": "6078421",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Misasagi",
+			"building_name": "Okanonishicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "御陵",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078419": {
+			"postcode": "6078419",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Misasagi",
+			"building_name": "Dannoshiro",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "御陵",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078418": {
+			"postcode": "6078418",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Misasagi",
+			"building_name": "Ushiocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "御陵",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078417": {
+			"postcode": "6078417",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Misasagi",
+			"building_name": "Besshocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "御陵",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078416": {
+			"postcode": "6078416",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Misasagi",
+			"building_name": "Shindocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "御陵",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078415": {
+			"postcode": "6078415",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Misasagi",
+			"building_name": "Nakasujicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "御陵",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078414": {
+			"postcode": "6078414",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Misasagi",
+			"building_name": "Nakauchicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "御陵",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078413": {
+			"postcode": "6078413",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Misasagi",
+			"building_name": "Sanzocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "御陵",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078412": {
+			"postcode": "6078412",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Misasagi",
+			"building_name": "Shichonocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "御陵",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078411": {
+			"postcode": "6078411",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Misasagi",
+			"building_name": "Otsubatacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "御陵",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078409": {
+			"postcode": "6078409",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Misasagi",
+			"building_name": "Tentokucho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "御陵",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078408": {
+			"postcode": "6078408",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Misasagi",
+			"building_name": "Torinomukaicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "御陵",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078407": {
+			"postcode": "6078407",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Misasagi",
+			"building_name": "Anshojicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "御陵",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078406": {
+			"postcode": "6078406",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Misasagi",
+			"building_name": "Hirabayashicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "御陵",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078405": {
+			"postcode": "6078405",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Misasagi",
+			"building_name": "Tayamacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "御陵",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078404": {
+			"postcode": "6078404",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Misasagi",
+			"building_name": "Otanicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "御陵",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078403": {
+			"postcode": "6078403",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Misasagi",
+			"building_name": "Oiwa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "御陵",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078402": {
+			"postcode": "6078402",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Misasagi",
+			"building_name": "Kuroiwa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "御陵",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078401": {
+			"postcode": "6078401",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Misasagi",
+			"building_name": "Sawanokawacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "御陵",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078358": {
+			"postcode": "6078358",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Nishino",
+			"building_name": "Mumemotocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "西野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078357": {
+			"postcode": "6078357",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Nishino",
+			"building_name": "Hitsugawacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "西野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078356": {
+			"postcode": "6078356",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Nishino",
+			"building_name": "Goto",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "西野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078355": {
+			"postcode": "6078355",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Nishino",
+			"building_name": "Otoriicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "西野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078354": {
+			"postcode": "6078354",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Nishino",
+			"building_name": "Koyanagicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "西野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078353": {
+			"postcode": "6078353",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Nishino",
+			"building_name": "Noirocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "西野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078352": {
+			"postcode": "6078352",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Nishino",
+			"building_name": "Kishinoshitacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "西野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078351": {
+			"postcode": "6078351",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Nishino",
+			"building_name": "Hachimandencho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "西野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078348": {
+			"postcode": "6078348",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Nishino",
+			"building_name": "Hiromicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "西野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078347": {
+			"postcode": "6078347",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Nishino",
+			"building_name": "Sagichocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "西野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078346": {
+			"postcode": "6078346",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Nishino",
+			"building_name": "Sankaicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "西野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078345": {
+			"postcode": "6078345",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Nishino",
+			"building_name": "Rikyucho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "西野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078344": {
+			"postcode": "6078344",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Nishino",
+			"building_name": "Otesakicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "西野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078343": {
+			"postcode": "6078343",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Nishino",
+			"building_name": "Agezawacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "西野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078342": {
+			"postcode": "6078342",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Nishino",
+			"building_name": "Yosumicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "西野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078341": {
+			"postcode": "6078341",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Nishino",
+			"building_name": "Imayashikicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "西野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078337": {
+			"postcode": "6078337",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kawata",
+			"building_name": "Hishioda",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "川田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078336": {
+			"postcode": "6078336",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kawata",
+			"building_name": "Nakabatacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "川田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078335": {
+			"postcode": "6078335",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kawata",
+			"building_name": "Minamibatacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "川田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078334": {
+			"postcode": "6078334",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kawata",
+			"building_name": "Kakenoe",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "川田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078333": {
+			"postcode": "6078333",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kawata",
+			"building_name": "Maehatacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "川田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078332": {
+			"postcode": "6078332",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kawata",
+			"building_name": "Nishiuracho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "川田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078331": {
+			"postcode": "6078331",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kawata",
+			"building_name": "Mikoshizukacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "川田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078329": {
+			"postcode": "6078329",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kawata",
+			"building_name": "Umegatanicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "川田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078328": {
+			"postcode": "6078328",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kawata",
+			"building_name": "Minamiyama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "川田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078327": {
+			"postcode": "6078327",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kawata",
+			"building_name": "Yamada",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "川田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078326": {
+			"postcode": "6078326",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kawata",
+			"building_name": "Oidecho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "川田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078325": {
+			"postcode": "6078325",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kawata",
+			"building_name": "Tsuchibotoke",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "川田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078324": {
+			"postcode": "6078324",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kawata",
+			"building_name": "Dodo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "川田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078323": {
+			"postcode": "6078323",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kawata",
+			"building_name": "Okanonishi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "川田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078322": {
+			"postcode": "6078322",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kawata",
+			"building_name": "Kiyomizuyakidanchicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "川田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078321": {
+			"postcode": "6078321",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kawata",
+			"building_name": "Iwagatani",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "川田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078311": {
+			"postcode": "6078311",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Nishinoyama",
+			"building_name": "Yamada",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "西野山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078309": {
+			"postcode": "6078309",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Nishinoyama",
+			"building_name": "Iwagatanicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "西野山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078308": {
+			"postcode": "6078308",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Nishinoyama",
+			"building_name": "Sakuranobabacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "西野山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078307": {
+			"postcode": "6078307",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Nishinoyama",
+			"building_name": "Ibanoecho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "西野山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078306": {
+			"postcode": "6078306",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Nishinoyama",
+			"building_name": "Nakatoriicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "西野山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078305": {
+			"postcode": "6078305",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Nishinoyama",
+			"building_name": "Nakatomicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "西野山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078304": {
+			"postcode": "6078304",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Nishinoyama",
+			"building_name": "Minamihatacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "西野山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078303": {
+			"postcode": "6078303",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Nishinoyama",
+			"building_name": "Nakahatacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "西野山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078302": {
+			"postcode": "6078302",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Nishinoyama",
+			"building_name": "Kakenoecho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "西野山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078301": {
+			"postcode": "6078301",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Nishinoyama",
+			"building_name": "Dodocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "西野山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078261": {
+			"postcode": "6078261",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Ono",
+			"building_name": "Kanetsukidencho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "小野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078259": {
+			"postcode": "6078259",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Ono",
+			"building_name": "Tsuzurajiricho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "小野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078258": {
+			"postcode": "6078258",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Ono",
+			"building_name": "Nishiura",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "小野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078257": {
+			"postcode": "6078257",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Ono",
+			"building_name": "Goryocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "小野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078256": {
+			"postcode": "6078256",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Ono",
+			"building_name": "Shojicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "小野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078255": {
+			"postcode": "6078255",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Ono",
+			"building_name": "Goshonochicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "小野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078254": {
+			"postcode": "6078254",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Ono",
+			"building_name": "Takashibacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "小野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078253": {
+			"postcode": "6078253",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Ono",
+			"building_name": "Yumidencho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "小野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078252": {
+			"postcode": "6078252",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Ono",
+			"building_name": "Kawaracho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "小野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078251": {
+			"postcode": "6078251",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Ono",
+			"building_name": "Kagase",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "小野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078242": {
+			"postcode": "6078242",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kanshuji",
+			"building_name": "Shibayama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "勧修寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078241": {
+			"postcode": "6078241",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kanshuji",
+			"building_name": "Hiejiri",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "勧修寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078239": {
+			"postcode": "6078239",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kanshuji",
+			"building_name": "Maruyamacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "勧修寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078238": {
+			"postcode": "6078238",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kanshuji",
+			"building_name": "Kitadainichi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "勧修寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078237": {
+			"postcode": "6078237",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kanshuji",
+			"building_name": "Kitadainichicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "勧修寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078236": {
+			"postcode": "6078236",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kanshuji",
+			"building_name": "Komatsubaracho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "勧修寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078235": {
+			"postcode": "6078235",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kanshuji",
+			"building_name": "Minamidainichi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "勧修寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078234": {
+			"postcode": "6078234",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kanshuji",
+			"building_name": "Minamidainichicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "勧修寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078233": {
+			"postcode": "6078233",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kanshuji",
+			"building_name": "Minamidanicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "勧修寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078232": {
+			"postcode": "6078232",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kanshuji",
+			"building_name": "Fukuokacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "勧修寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078231": {
+			"postcode": "6078231",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kanshuji",
+			"building_name": "Doden",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "勧修寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078229": {
+			"postcode": "6078229",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kanshuji",
+			"building_name": "Sengyoku",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "勧修寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078228": {
+			"postcode": "6078228",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kanshuji",
+			"building_name": "Hondoyamacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "勧修寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078227": {
+			"postcode": "6078227",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kanshuji",
+			"building_name": "Shimonochayacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "勧修寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078226": {
+			"postcode": "6078226",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kanshuji",
+			"building_name": "Niodocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "勧修寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078225": {
+			"postcode": "6078225",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kanshuji",
+			"building_name": "Nishikitadecho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "勧修寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078224": {
+			"postcode": "6078224",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kanshuji",
+			"building_name": "Higashikitadecho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "勧修寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078223": {
+			"postcode": "6078223",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kanshuji",
+			"building_name": "Setogawara",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "勧修寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078222": {
+			"postcode": "6078222",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kanshuji",
+			"building_name": "Higashidodencho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "勧修寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078221": {
+			"postcode": "6078221",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kanshuji",
+			"building_name": "Nishikanagasaki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "勧修寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078219": {
+			"postcode": "6078219",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kanshuji",
+			"building_name": "Furojiricho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "勧修寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078218": {
+			"postcode": "6078218",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kanshuji",
+			"building_name": "Goshochicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "勧修寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078217": {
+			"postcode": "6078217",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kanshuji",
+			"building_name": "Kanrinji",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "勧修寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078216": {
+			"postcode": "6078216",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kanshuji",
+			"building_name": "Higashidecho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "勧修寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078215": {
+			"postcode": "6078215",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kanshuji",
+			"building_name": "Nawatecho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "勧修寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078214": {
+			"postcode": "6078214",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kanshuji",
+			"building_name": "Hirata",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "勧修寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078213": {
+			"postcode": "6078213",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kanshuji",
+			"building_name": "Higashikanagasaki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "勧修寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078212": {
+			"postcode": "6078212",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kanshuji",
+			"building_name": "Nishikurisunocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "勧修寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078211": {
+			"postcode": "6078211",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kanshuji",
+			"building_name": "Higashikurisunocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "勧修寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078204": {
+			"postcode": "6078204",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kurisuno",
+			"building_name": "Hananokicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "栗栖野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078203": {
+			"postcode": "6078203",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kurisuno",
+			"building_name": "Uchikoshicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "栗栖野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078202": {
+			"postcode": "6078202",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kurisuno",
+			"building_name": "Nakatomicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "栗栖野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078201": {
+			"postcode": "6078201",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Kurisuno",
+			"building_name": "Kitsunezuka",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "栗栖野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078194": {
+			"postcode": "6078194",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Oyake",
+			"building_name": "Sajiki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "大宅",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078193": {
+			"postcode": "6078193",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Oyake",
+			"building_name": "Sawacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "大宅",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078192": {
+			"postcode": "6078192",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Oyake",
+			"building_name": "Gokudencho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "大宅",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078191": {
+			"postcode": "6078191",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Oyake",
+			"building_name": "Karasudacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "大宅",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078189": {
+			"postcode": "6078189",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Oyake",
+			"building_name": "Hosodacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "大宅",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078188": {
+			"postcode": "6078188",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Oyake",
+			"building_name": "Sekishocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "大宅",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078187": {
+			"postcode": "6078187",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Oyake",
+			"building_name": "Ishigoricho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "大宅",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078186": {
+			"postcode": "6078186",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Oyake",
+			"building_name": "Wasenochicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "大宅",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078185": {
+			"postcode": "6078185",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Oyake",
+			"building_name": "Kannocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "大宅",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078184": {
+			"postcode": "6078184",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Oyake",
+			"building_name": "Konotsujicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "大宅",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078183": {
+			"postcode": "6078183",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Oyake",
+			"building_name": "Tsujiwakicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "大宅",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078182": {
+			"postcode": "6078182",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Oyake",
+			"building_name": "Sakanotsujicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "大宅",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078181": {
+			"postcode": "6078181",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Oyake",
+			"building_name": "Uchiakecho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "大宅",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078179": {
+			"postcode": "6078179",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Oyake",
+			"building_name": "Goshodencho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "大宅",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078178": {
+			"postcode": "6078178",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Oyake",
+			"building_name": "Gotambatacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "大宅",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078177": {
+			"postcode": "6078177",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Oyake",
+			"building_name": "Furukaidocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "大宅",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078176": {
+			"postcode": "6078176",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Oyake",
+			"building_name": "Nakakojicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "大宅",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078175": {
+			"postcode": "6078175",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Oyake",
+			"building_name": "Yamada",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "大宅",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078174": {
+			"postcode": "6078174",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Oyake",
+			"building_name": "Toriiwakicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "大宅",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078173": {
+			"postcode": "6078173",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Oyake",
+			"building_name": "Okuyamada",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "大宅",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078172": {
+			"postcode": "6078172",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Oyake",
+			"building_name": "Iwayaden",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "大宅",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078171": {
+			"postcode": "6078171",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Oyake",
+			"building_name": "Goshoyama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "大宅",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078170": {
+			"postcode": "6078170",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Oyake",
+			"building_name": "Mukaiyama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "大宅",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078169": {
+			"postcode": "6078169",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Nagitsuji",
+			"building_name": "Nishiuracho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "椥辻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078168": {
+			"postcode": "6078168",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Nagitsuji",
+			"building_name": "Ikejiricho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "椥辻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078167": {
+			"postcode": "6078167",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Nagitsuji",
+			"building_name": "Fushigawacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "椥辻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078166": {
+			"postcode": "6078166",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Nagitsuji",
+			"building_name": "Banshogaguchicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "椥辻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078165": {
+			"postcode": "6078165",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Nagitsuji",
+			"building_name": "Hiratacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "椥辻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078164": {
+			"postcode": "6078164",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Nagitsuji",
+			"building_name": "Nishitsubushi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "椥辻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078163": {
+			"postcode": "6078163",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Nagitsuji",
+			"building_name": "Higashitsubushi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "椥辻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078162": {
+			"postcode": "6078162",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Nagitsuji",
+			"building_name": "Kusakaidocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "椥辻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078161": {
+			"postcode": "6078161",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Nagitsuji",
+			"building_name": "Chuzaikecho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "椥辻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078160": {
+			"postcode": "6078160",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Nagitsuji",
+			"building_name": "Higashiuracho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "椥辻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078156": {
+			"postcode": "6078156",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Higashino",
+			"building_name": "Katasagaricho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "東野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078155": {
+			"postcode": "6078155",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Higashino",
+			"building_name": "Kitsuneyabucho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "東野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078154": {
+			"postcode": "6078154",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Higashino",
+			"building_name": "Monguchicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "東野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078153": {
+			"postcode": "6078153",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Higashino",
+			"building_name": "Hyakubyoshicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "東野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078152": {
+			"postcode": "6078152",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Higashino",
+			"building_name": "Yashiro",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "東野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078151": {
+			"postcode": "6078151",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Higashino",
+			"building_name": "Takeda",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "東野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078147": {
+			"postcode": "6078147",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Higashino",
+			"building_name": "Morinocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "東野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078146": {
+			"postcode": "6078146",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Higashino",
+			"building_name": "Butaicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "東野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078145": {
+			"postcode": "6078145",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Higashino",
+			"building_name": "Hattambatacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "東野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078144": {
+			"postcode": "6078144",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Higashino",
+			"building_name": "Inoecho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "東野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078143": {
+			"postcode": "6078143",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Higashino",
+			"building_name": "Minamiinoecho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "東野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078142": {
+			"postcode": "6078142",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Higashino",
+			"building_name": "Nakainoecho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "東野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078141": {
+			"postcode": "6078141",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Higashino",
+			"building_name": "Kitainoecho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "東野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078136": {
+			"postcode": "6078136",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Otsuka",
+			"building_name": "Tanda",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "大塚",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078135": {
+			"postcode": "6078135",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Otsuka",
+			"building_name": "Nomizocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "大塚",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078134": {
+			"postcode": "6078134",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Otsuka",
+			"building_name": "Kitamizocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "大塚",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078133": {
+			"postcode": "6078133",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Otsuka",
+			"building_name": "Nakamizo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "大塚",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078132": {
+			"postcode": "6078132",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Otsuka",
+			"building_name": "Moricho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "大塚",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078131": {
+			"postcode": "6078131",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Otsuka",
+			"building_name": "Minamimizocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "大塚",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078126": {
+			"postcode": "6078126",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Otsuka",
+			"building_name": "Motoyashikicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "大塚",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078125": {
+			"postcode": "6078125",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Otsuka",
+			"building_name": "Nishiuracho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "大塚",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078124": {
+			"postcode": "6078124",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Otsuka",
+			"building_name": "Dannora",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "大塚",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078123": {
+			"postcode": "6078123",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Otsuka",
+			"building_name": "Oiwa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "大塚",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078122": {
+			"postcode": "6078122",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Otsuka",
+			"building_name": "Takaiwa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "大塚",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078121": {
+			"postcode": "6078121",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Otsuka",
+			"building_name": "Mukaibatacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "大塚",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078116": {
+			"postcode": "6078116",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Koyama",
+			"building_name": "Chinjucho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "小山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078115": {
+			"postcode": "6078115",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Koyama",
+			"building_name": "Kitabayashicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "小山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078114": {
+			"postcode": "6078114",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Koyama",
+			"building_name": "Himekocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "小山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078113": {
+			"postcode": "6078113",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Koyama",
+			"building_name": "Kitamizocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "小山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078112": {
+			"postcode": "6078112",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Koyama",
+			"building_name": "Nakanokawacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "小山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078111": {
+			"postcode": "6078111",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Koyama",
+			"building_name": "Minamimizocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "小山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078109": {
+			"postcode": "6078109",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Koyama",
+			"building_name": "Nishigoshocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "小山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078108": {
+			"postcode": "6078108",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Koyama",
+			"building_name": "Nakajimacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "小山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078107": {
+			"postcode": "6078107",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Koyama",
+			"building_name": "Ogawacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "小山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078106": {
+			"postcode": "6078106",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Koyama",
+			"building_name": "Gobonochicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "小山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078105": {
+			"postcode": "6078105",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Koyama",
+			"building_name": "Matsuharabatacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "小山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078104": {
+			"postcode": "6078104",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Koyama",
+			"building_name": "Tanidacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "小山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078103": {
+			"postcode": "6078103",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Koyama",
+			"building_name": "Ikkokubata",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "小山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078102": {
+			"postcode": "6078102",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Koyama",
+			"building_name": "Shimonoike",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "小山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078101": {
+			"postcode": "6078101",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Koyama",
+			"building_name": "Kaminashimoricho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "小山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078091": {
+			"postcode": "6078091",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Hachikenyashikicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "八軒屋敷町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078089": {
+			"postcode": "6078089",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Takehana",
+			"building_name": "Nishinoguchicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "竹鼻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078088": {
+			"postcode": "6078088",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Takehana",
+			"building_name": "Jizojiminamicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "竹鼻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078087": {
+			"postcode": "6078087",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Takehana",
+			"building_name": "Saikashicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "竹鼻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078086": {
+			"postcode": "6078086",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Takehana",
+			"building_name": "Shichonocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "竹鼻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078085": {
+			"postcode": "6078085",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Takehana",
+			"building_name": "Donomaecho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "竹鼻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078084": {
+			"postcode": "6078084",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Takehana",
+			"building_name": "Tateharacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "竹鼻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078083": {
+			"postcode": "6078083",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Takehana",
+			"building_name": "Kinomotocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "竹鼻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078082": {
+			"postcode": "6078082",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Takehana",
+			"building_name": "Ogicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "竹鼻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078081": {
+			"postcode": "6078081",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Takehana",
+			"building_name": "Sotodacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "竹鼻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078080": {
+			"postcode": "6078080",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Takehana",
+			"building_name": "Takenokaidocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "竹鼻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078079": {
+			"postcode": "6078079",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Otowa",
+			"building_name": "Maedecho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "音羽",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078078": {
+			"postcode": "6078078",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Otowa",
+			"building_name": "Hatsudacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "音羽",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078077": {
+			"postcode": "6078077",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Otowa",
+			"building_name": "Sawacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "音羽",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078076": {
+			"postcode": "6078076",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Otowa",
+			"building_name": "Yakudecho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "音羽",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078075": {
+			"postcode": "6078075",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Otowa",
+			"building_name": "Nodacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "音羽",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078074": {
+			"postcode": "6078074",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Otowa",
+			"building_name": "Otsudecho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "音羽",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078073": {
+			"postcode": "6078073",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Otowa",
+			"building_name": "Nishibayashi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "音羽",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078072": {
+			"postcode": "6078072",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Otowa",
+			"building_name": "Isejukucho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "音羽",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078071": {
+			"postcode": "6078071",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Otowa",
+			"building_name": "Semboncho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "音羽",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078069": {
+			"postcode": "6078069",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Otowa",
+			"building_name": "Nakashibacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "音羽",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078068": {
+			"postcode": "6078068",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Otowa",
+			"building_name": "Inashiba",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "音羽",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078067": {
+			"postcode": "6078067",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Otowa",
+			"building_name": "Maedacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "音羽",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078066": {
+			"postcode": "6078066",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Otowa",
+			"building_name": "Morimawaricho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "音羽",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078065": {
+			"postcode": "6078065",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Otowa",
+			"building_name": "Santoji",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "音羽",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078064": {
+			"postcode": "6078064",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Otowa",
+			"building_name": "Hachinotsubo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "音羽",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078063": {
+			"postcode": "6078063",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Otowa",
+			"building_name": "Hirabayashicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "音羽",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078062": {
+			"postcode": "6078062",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Otowa",
+			"building_name": "Chinjicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "音羽",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078061": {
+			"postcode": "6078061",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Otowa",
+			"building_name": "Kusadacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "音羽",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078052": {
+			"postcode": "6078052",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Higechaya",
+			"building_name": "Yashikicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "髭茶屋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078051": {
+			"postcode": "6078051",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Higechaya",
+			"building_name": "Chochincho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "髭茶屋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078045": {
+			"postcode": "6078045",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Shinomiya",
+			"building_name": "Donogocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "四ノ宮",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078044": {
+			"postcode": "6078044",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Shinomiya",
+			"building_name": "Sensuicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "四ノ宮",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078043": {
+			"postcode": "6078043",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Shinomiya",
+			"building_name": "Chuzaijicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "四ノ宮",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078042": {
+			"postcode": "6078042",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Shinomiya",
+			"building_name": "Minamigawaracho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "四ノ宮",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078041": {
+			"postcode": "6078041",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Shinomiya",
+			"building_name": "Kakinochicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "四ノ宮",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078035": {
+			"postcode": "6078035",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Shinomiya",
+			"building_name": "Kandacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "四ノ宮",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078034": {
+			"postcode": "6078034",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Shinomiya",
+			"building_name": "Fuke",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "四ノ宮",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078033": {
+			"postcode": "6078033",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Shinomiya",
+			"building_name": "Shibahatacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "四ノ宮",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078032": {
+			"postcode": "6078032",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Shinomiya",
+			"building_name": "Naranocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "四ノ宮",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078031": {
+			"postcode": "6078031",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Shinomiya",
+			"building_name": "Kamatecho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "四ノ宮",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078029": {
+			"postcode": "6078029",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Shinomiya",
+			"building_name": "Taishoguncho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "四ノ宮",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078028": {
+			"postcode": "6078028",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Shinomiya",
+			"building_name": "Iwakubocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "四ノ宮",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078027": {
+			"postcode": "6078027",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Shinomiya",
+			"building_name": "Kawaracho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "四ノ宮",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078026": {
+			"postcode": "6078026",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Shinomiya",
+			"building_name": "Yamadacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "四ノ宮",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078025": {
+			"postcode": "6078025",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Shinomiya",
+			"building_name": "Yanagiyamacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "四ノ宮",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078024": {
+			"postcode": "6078024",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Shinomiya",
+			"building_name": "Kumagadani",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "四ノ宮",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078023": {
+			"postcode": "6078023",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Shinomiya",
+			"building_name": "Shinkaibata",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "四ノ宮",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078022": {
+			"postcode": "6078022",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Shinomiya",
+			"building_name": "Koganezuka",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "四ノ宮",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078021": {
+			"postcode": "6078021",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Shinomiya",
+			"building_name": "Gyojadani",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "四ノ宮",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078018": {
+			"postcode": "6078018",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Anshu",
+			"building_name": "Okunoda",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "安朱",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078017": {
+			"postcode": "6078017",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Anshu",
+			"building_name": "Kawamukaicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "安朱",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078016": {
+			"postcode": "6078016",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Anshu",
+			"building_name": "Nakamizocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "安朱",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078015": {
+			"postcode": "6078015",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Anshu",
+			"building_name": "Yamakawacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "安朱",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078014": {
+			"postcode": "6078014",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Anshu",
+			"building_name": "Yamada",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "安朱",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078013": {
+			"postcode": "6078013",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Anshu",
+			"building_name": "Nakakojicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "安朱",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078012": {
+			"postcode": "6078012",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Anshu",
+			"building_name": "Sajikicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "安朱",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078011": {
+			"postcode": "6078011",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Anshu",
+			"building_name": "Minamiyashikicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "安朱",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078009": {
+			"postcode": "6078009",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Anshu",
+			"building_name": "Kitayashikicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "安朱",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078008": {
+			"postcode": "6078008",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Anshu",
+			"building_name": "Higashikaidocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "安朱",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078007": {
+			"postcode": "6078007",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Anshu",
+			"building_name": "Babanonishicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "安朱",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078006": {
+			"postcode": "6078006",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Anshu",
+			"building_name": "Babanohigashicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "安朱",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078005": {
+			"postcode": "6078005",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Anshu",
+			"building_name": "Donoshirocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "安朱",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078004": {
+			"postcode": "6078004",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Anshu",
+			"building_name": "Yashikicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "安朱",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078003": {
+			"postcode": "6078003",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Anshu",
+			"building_name": "Inariyamacho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "安朱",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078002": {
+			"postcode": "6078002",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Anshu",
+			"building_name": "Higashidani",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "安朱",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6078001": {
+			"postcode": "6078001",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "Anshu",
+			"building_name": "Bishamondocho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "安朱",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6070000": {
+			"postcode": "6070000",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Yamashina-ku",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "山科区",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		}
+	}
+}

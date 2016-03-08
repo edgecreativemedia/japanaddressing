@@ -1,0 +1,953 @@
+{
+	"country_code": "JP",
+	"parent_id": "907",
+	"locale": "ja-Latn",
+	"address": {
+		"9078503": {
+			"postcode": "9078503",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Ishigaki-shi",
+			"ward_name": "",
+			"town_name": "美崎町",
+			"building_name": "１１",
+			"organization_name": "竹富町役場",
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "石垣市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "石垣市",
+					"ward_name": "",
+					"town_name": "美崎町",
+					"building_name": "１１",
+					"organization_name": "竹富町役場"
+				}
+			}
+		},
+		"9078502": {
+			"postcode": "9078502",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Ishigaki-shi",
+			"ward_name": "",
+			"town_name": "字登野城",
+			"building_name": "８",
+			"organization_name": "石垣税務署",
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "石垣市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "石垣市",
+					"ward_name": "",
+					"town_name": "字登野城",
+					"building_name": "８",
+					"organization_name": "石垣税務署"
+				}
+			}
+		},
+		"9078501": {
+			"postcode": "9078501",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Ishigaki-shi",
+			"ward_name": "",
+			"town_name": "美崎町",
+			"building_name": "１４",
+			"organization_name": "石垣市役所",
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "石垣市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "石垣市",
+					"ward_name": "",
+					"town_name": "美崎町",
+					"building_name": "１４",
+					"organization_name": "石垣市役所"
+				}
+			}
+		},
+		"9071892": {
+			"postcode": "9071892",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Yaeyama-gun",
+			"ward_name": "Yonaguni-cho",
+			"town_name": "字与那国",
+			"building_name": "１２９",
+			"organization_name": "与那国町役場",
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "八重山郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "八重山郡",
+					"ward_name": "与那国町",
+					"town_name": "字与那国",
+					"building_name": "１２９",
+					"organization_name": "与那国町役場"
+				}
+			}
+		},
+		"9071801": {
+			"postcode": "9071801",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Yaeyama-gun",
+			"ward_name": "Yonaguni-cho",
+			"town_name": "Yonaguni",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "八重山郡",
+					"ward_name": "与那国町",
+					"town_name": "与那国",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "八重山郡"
+		},
+		"9071800": {
+			"postcode": "9071800",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Yaeyama-gun",
+			"ward_name": "Yonaguni-cho",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "八重山郡",
+					"ward_name": "与那国町",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "八重山郡"
+		},
+		"9071751": {
+			"postcode": "9071751",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Yaeyama-gun",
+			"ward_name": "Taketomi-cho",
+			"town_name": "Hateruma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "八重山郡",
+					"ward_name": "竹富町",
+					"town_name": "波照間",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "八重山郡"
+		},
+		"9071544": {
+			"postcode": "9071544",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Yaeyama-gun",
+			"ward_name": "Taketomi-cho",
+			"town_name": "Hatoma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "八重山郡",
+					"ward_name": "竹富町",
+					"town_name": "鳩間",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "八重山郡"
+		},
+		"9071543": {
+			"postcode": "9071543",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Yaeyama-gun",
+			"ward_name": "Taketomi-cho",
+			"town_name": "Sakiyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "八重山郡",
+					"ward_name": "竹富町",
+					"town_name": "崎山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "八重山郡"
+		},
+		"9071542": {
+			"postcode": "9071542",
+			"prefecture_name": "Yaeyama gun taketomi cho",
+			"city_name": "Iriomote",
+			"ward_name": "",
+			"town_name": null,
+			"building_name": null,
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "八重山郡",
+					"ward_name": "竹富町",
+					"town_name": "西表\",OKINAWA KEN\"",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "八重山郡"
+		},
+		"9071541": {
+			"postcode": "9071541",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Yaeyama-gun",
+			"ward_name": "Taketomi-cho",
+			"town_name": "Uehara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "八重山郡",
+					"ward_name": "竹富町",
+					"town_name": "上原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "八重山郡"
+		},
+		"9071435": {
+			"postcode": "9071435",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Yaeyama-gun",
+			"ward_name": "Taketomi-cho",
+			"town_name": "Aragusuku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "八重山郡",
+					"ward_name": "竹富町",
+					"town_name": "新城",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "八重山郡"
+		},
+		"9071434": {
+			"postcode": "9071434",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Yaeyama-gun",
+			"ward_name": "Taketomi-cho",
+			"town_name": "Haimi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "八重山郡",
+					"ward_name": "竹富町",
+					"town_name": "南風見",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "八重山郡"
+		},
+		"9071433": {
+			"postcode": "9071433",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Yaeyama-gun",
+			"ward_name": "Taketomi-cho",
+			"town_name": "Haiminaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "八重山郡",
+					"ward_name": "竹富町",
+					"town_name": "南風見仲",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "八重山郡"
+		},
+		"9071432": {
+			"postcode": "9071432",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Yaeyama-gun",
+			"ward_name": "Taketomi-cho",
+			"town_name": "Komi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "八重山郡",
+					"ward_name": "竹富町",
+					"town_name": "古見",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "八重山郡"
+		},
+		"9071431": {
+			"postcode": "9071431",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Yaeyama-gun",
+			"ward_name": "Taketomi-cho",
+			"town_name": "Takana",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "八重山郡",
+					"ward_name": "竹富町",
+					"town_name": "高那",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "八重山郡"
+		},
+		"9071311": {
+			"postcode": "9071311",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Yaeyama-gun",
+			"ward_name": "Taketomi-cho",
+			"town_name": "Kuroshima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "八重山郡",
+					"ward_name": "竹富町",
+					"town_name": "黒島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "八重山郡"
+		},
+		"9071292": {
+			"postcode": "9071292",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Yaeyama-gun",
+			"ward_name": "Taketomi-cho",
+			"town_name": "字小浜",
+			"building_name": "２９３０",
+			"organization_name": "株式会社　はいむるぶし",
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "八重山郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "八重山郡",
+					"ward_name": "竹富町",
+					"town_name": "字小浜",
+					"building_name": "２９３０",
+					"organization_name": "株式会社　はいむるぶし"
+				}
+			}
+		},
+		"9071221": {
+			"postcode": "9071221",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Yaeyama-gun",
+			"ward_name": "Taketomi-cho",
+			"town_name": "Kohama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "八重山郡",
+					"ward_name": "竹富町",
+					"town_name": "小浜",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "八重山郡"
+		},
+		"9071101": {
+			"postcode": "9071101",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Yaeyama-gun",
+			"ward_name": "Taketomi-cho",
+			"town_name": "Taketomi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "八重山郡",
+					"ward_name": "竹富町",
+					"town_name": "竹富",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "八重山郡"
+		},
+		"9070453": {
+			"postcode": "9070453",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Ishigaki-shi",
+			"ward_name": "",
+			"town_name": "Kabira",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "石垣市",
+					"ward_name": "",
+					"town_name": "川平",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "石垣市"
+		},
+		"9070452": {
+			"postcode": "9070452",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Ishigaki-shi",
+			"ward_name": "",
+			"town_name": "Sakieda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "石垣市",
+					"ward_name": "",
+					"town_name": "崎枝",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "石垣市"
+		},
+		"9070451": {
+			"postcode": "9070451",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Ishigaki-shi",
+			"ward_name": "",
+			"town_name": "Fukai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "石垣市",
+					"ward_name": "",
+					"town_name": "桴海",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "石垣市"
+		},
+		"9070333": {
+			"postcode": "9070333",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Ishigaki-shi",
+			"ward_name": "",
+			"town_name": "Nosoko",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "石垣市",
+					"ward_name": "",
+					"town_name": "野底",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "石垣市"
+		},
+		"9070332": {
+			"postcode": "9070332",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Ishigaki-shi",
+			"ward_name": "",
+			"town_name": "Ibaruma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "石垣市",
+					"ward_name": "",
+					"town_name": "伊原間",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "石垣市"
+		},
+		"9070331": {
+			"postcode": "9070331",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Ishigaki-shi",
+			"ward_name": "",
+			"town_name": "Hirakubo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "石垣市",
+					"ward_name": "",
+					"town_name": "平久保",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "石垣市"
+		},
+		"9070244": {
+			"postcode": "9070244",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Ishigaki-shi",
+			"ward_name": "",
+			"town_name": "Moriyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "石垣市",
+					"ward_name": "",
+					"town_name": "盛山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "石垣市"
+		},
+		"9070243": {
+			"postcode": "9070243",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Ishigaki-shi",
+			"ward_name": "",
+			"town_name": "Miyara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "石垣市",
+					"ward_name": "",
+					"town_name": "宮良",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "石垣市"
+		},
+		"9070242": {
+			"postcode": "9070242",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Ishigaki-shi",
+			"ward_name": "",
+			"town_name": "Shiraho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "石垣市",
+					"ward_name": "",
+					"town_name": "白保",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "石垣市"
+		},
+		"9070241": {
+			"postcode": "9070241",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Ishigaki-shi",
+			"ward_name": "",
+			"town_name": "Tozato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "石垣市",
+					"ward_name": "",
+					"town_name": "桃里",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "石垣市"
+		},
+		"9070024": {
+			"postcode": "9070024",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Ishigaki-shi",
+			"ward_name": "",
+			"town_name": "Arakawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "石垣市",
+					"ward_name": "",
+					"town_name": "新川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "石垣市"
+		},
+		"9070023": {
+			"postcode": "9070023",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Ishigaki-shi",
+			"ward_name": "",
+			"town_name": "Ishigaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "石垣市",
+					"ward_name": "",
+					"town_name": "石垣",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "石垣市"
+		},
+		"9070022": {
+			"postcode": "9070022",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Ishigaki-shi",
+			"ward_name": "",
+			"town_name": "Okawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "石垣市",
+					"ward_name": "",
+					"town_name": "大川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "石垣市"
+		},
+		"9070021": {
+			"postcode": "9070021",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Ishigaki-shi",
+			"ward_name": "",
+			"town_name": "Nagura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "石垣市",
+					"ward_name": "",
+					"town_name": "名蔵",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "石垣市"
+		},
+		"9070014": {
+			"postcode": "9070014",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Ishigaki-shi",
+			"ward_name": "",
+			"town_name": "Shineicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "石垣市",
+					"ward_name": "",
+					"town_name": "新栄町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "石垣市"
+		},
+		"9070013": {
+			"postcode": "9070013",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Ishigaki-shi",
+			"ward_name": "",
+			"town_name": "Hamasakicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "石垣市",
+					"ward_name": "",
+					"town_name": "浜崎町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "石垣市"
+		},
+		"9070012": {
+			"postcode": "9070012",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Ishigaki-shi",
+			"ward_name": "",
+			"town_name": "Misakicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "石垣市",
+					"ward_name": "",
+					"town_name": "美崎町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "石垣市"
+		},
+		"9070011": {
+			"postcode": "9070011",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Ishigaki-shi",
+			"ward_name": "",
+			"town_name": "Yashimacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "石垣市",
+					"ward_name": "",
+					"town_name": "八島町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "石垣市"
+		},
+		"9070004": {
+			"postcode": "9070004",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Ishigaki-shi",
+			"ward_name": "",
+			"town_name": "Tonoshiro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "石垣市",
+					"ward_name": "",
+					"town_name": "登野城",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "石垣市"
+		},
+		"9070003": {
+			"postcode": "9070003",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Ishigaki-shi",
+			"ward_name": "",
+			"town_name": "Hirae",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "石垣市",
+					"ward_name": "",
+					"town_name": "平得",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "石垣市"
+		},
+		"9070002": {
+			"postcode": "9070002",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Ishigaki-shi",
+			"ward_name": "",
+			"town_name": "Maezato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "石垣市",
+					"ward_name": "",
+					"town_name": "真栄里",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "石垣市"
+		},
+		"9070001": {
+			"postcode": "9070001",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Ishigaki-shi",
+			"ward_name": "",
+			"town_name": "Ohama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "石垣市",
+					"ward_name": "",
+					"town_name": "大浜",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "石垣市"
+		},
+		"9070000": {
+			"postcode": "9070000",
+			"prefecture_name": "Okinawa-ken",
+			"city_name": "Ishigaki-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "沖縄県",
+					"city_name": "石垣市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "沖縄県",
+			"city_code": "石垣市"
+		}
+	}
+}

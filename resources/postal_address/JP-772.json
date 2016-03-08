@@ -1,0 +1,777 @@
+{
+	"country_code": "JP",
+	"parent_id": "772",
+	"locale": "ja-Latn",
+	"address": {
+		"7728601": {
+			"postcode": "7728601",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Naruto-shi",
+			"ward_name": "",
+			"town_name": "撫養町立岩",
+			"building_name": "字芥原１１５（鳴門郵便局私書箱第１７号）",
+			"organization_name": "（株）　大塚製薬工場",
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "鳴門市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "鳴門市",
+					"ward_name": "",
+					"town_name": "撫養町立岩",
+					"building_name": "字芥原１１５（鳴門郵便局私書箱第１７号）",
+					"organization_name": "（株）　大塚製薬工場"
+				}
+			}
+		},
+		"7728520": {
+			"postcode": "7728520",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Naruto-shi",
+			"ward_name": "",
+			"town_name": "撫養町黒崎",
+			"building_name": "字松島５３",
+			"organization_name": "鳴門塩業　（株）",
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "鳴門市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "鳴門市",
+					"ward_name": "",
+					"town_name": "撫養町黒崎",
+					"building_name": "字松島５３",
+					"organization_name": "鳴門塩業　（株）"
+				}
+			}
+		},
+		"7728515": {
+			"postcode": "7728515",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Naruto-shi",
+			"ward_name": "",
+			"town_name": "鳴門町土佐泊浦",
+			"building_name": "字高砂２０５番地２９",
+			"organization_name": "医療法人　久仁会　鳴門山上病院",
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "鳴門市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "鳴門市",
+					"ward_name": "",
+					"town_name": "鳴門町土佐泊浦",
+					"building_name": "字高砂２０５番地２９",
+					"organization_name": "医療法人　久仁会　鳴門山上病院"
+				}
+			}
+		},
+		"7728511": {
+			"postcode": "7728511",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Naruto-shi",
+			"ward_name": "",
+			"town_name": "大津町木津野",
+			"building_name": "字東辰巳１",
+			"organization_name": "大塚包装工業　株式会社",
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "鳴門市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "鳴門市",
+					"ward_name": "",
+					"town_name": "大津町木津野",
+					"building_name": "字東辰巳１",
+					"organization_name": "大塚包装工業　株式会社"
+				}
+			}
+		},
+		"7728510": {
+			"postcode": "7728510",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Naruto-shi",
+			"ward_name": "",
+			"town_name": "撫養町大桑島",
+			"building_name": "字すべり岩浜４８",
+			"organization_name": "鳴門市　競艇部",
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "鳴門市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "鳴門市",
+					"ward_name": "",
+					"town_name": "撫養町大桑島",
+					"building_name": "字すべり岩浜４８",
+					"organization_name": "鳴門市　競艇部"
+				}
+			}
+		},
+		"7728503": {
+			"postcode": "7728503",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Naruto-shi",
+			"ward_name": "",
+			"town_name": "撫養町黒崎",
+			"building_name": "字小谷３２−１",
+			"organization_name": "健康保険　鳴門病院",
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "鳴門市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "鳴門市",
+					"ward_name": "",
+					"town_name": "撫養町黒崎",
+					"building_name": "字小谷３２−１",
+					"organization_name": "健康保険　鳴門病院"
+				}
+			}
+		},
+		"7728502": {
+			"postcode": "7728502",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Naruto-shi",
+			"ward_name": "",
+			"town_name": "鳴門町高島",
+			"building_name": "",
+			"organization_name": "鳴門教育大学",
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "鳴門市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "鳴門市",
+					"ward_name": "",
+					"town_name": "鳴門町高島",
+					"building_name": "",
+					"organization_name": "鳴門教育大学"
+				}
+			}
+		},
+		"7728501": {
+			"postcode": "7728501",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Naruto-shi",
+			"ward_name": "",
+			"town_name": "撫養町南浜",
+			"building_name": "字東浜１７０",
+			"organization_name": "鳴門市役所",
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "鳴門市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "鳴門市",
+					"ward_name": "",
+					"town_name": "撫養町南浜",
+					"building_name": "字東浜１７０",
+					"organization_name": "鳴門市役所"
+				}
+			}
+		},
+		"7720060": {
+			"postcode": "7720060",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Naruto-shi",
+			"ward_name": "",
+			"town_name": "Setochoakinokami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "鳴門市",
+					"ward_name": "",
+					"town_name": "瀬戸町明神",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "鳴門市"
+		},
+		"7720053": {
+			"postcode": "7720053",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Naruto-shi",
+			"ward_name": "",
+			"town_name": "Narutocho",
+			"building_name": "Tosadomariura",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "鳴門市",
+					"ward_name": "",
+					"town_name": "鳴門町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "鳴門市"
+		},
+		"7720052": {
+			"postcode": "7720052",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Naruto-shi",
+			"ward_name": "",
+			"town_name": "Narutocho",
+			"building_name": "Mitsuishi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "鳴門市",
+					"ward_name": "",
+					"town_name": "鳴門町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "鳴門市"
+		},
+		"7720051": {
+			"postcode": "7720051",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Naruto-shi",
+			"ward_name": "",
+			"town_name": "Narutocho",
+			"building_name": "Takashima",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "鳴門市",
+					"ward_name": "",
+					"town_name": "鳴門町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "鳴門市"
+		},
+		"7720044": {
+			"postcode": "7720044",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Naruto-shi",
+			"ward_name": "",
+			"town_name": "Otsuchodaiko",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "鳴門市",
+					"ward_name": "",
+					"town_name": "大津町大幸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "鳴門市"
+		},
+		"7720043": {
+			"postcode": "7720043",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Naruto-shi",
+			"ward_name": "",
+			"town_name": "Otsuchodanzeki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "鳴門市",
+					"ward_name": "",
+					"town_name": "大津町段関",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "鳴門市"
+		},
+		"7720042": {
+			"postcode": "7720042",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Naruto-shi",
+			"ward_name": "",
+			"town_name": "Otsuchobizenjima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "鳴門市",
+					"ward_name": "",
+					"town_name": "大津町備前島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "鳴門市"
+		},
+		"7720041": {
+			"postcode": "7720041",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Naruto-shi",
+			"ward_name": "",
+			"town_name": "Otsuchooshiro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "鳴門市",
+					"ward_name": "",
+					"town_name": "大津町大代",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "鳴門市"
+		},
+		"7720035": {
+			"postcode": "7720035",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Naruto-shi",
+			"ward_name": "",
+			"town_name": "Otsuchoyagura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "鳴門市",
+					"ward_name": "",
+					"town_name": "大津町矢倉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "鳴門市"
+		},
+		"7720034": {
+			"postcode": "7720034",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Naruto-shi",
+			"ward_name": "",
+			"town_name": "Otsuchotokunaga",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "鳴門市",
+					"ward_name": "",
+					"town_name": "大津町徳長",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "鳴門市"
+		},
+		"7720033": {
+			"postcode": "7720033",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Naruto-shi",
+			"ward_name": "",
+			"town_name": "Otsuchonagae",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "鳴門市",
+					"ward_name": "",
+					"town_name": "大津町長江",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "鳴門市"
+		},
+		"7720032": {
+			"postcode": "7720032",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Naruto-shi",
+			"ward_name": "",
+			"town_name": "Otsuchoyoshinaga",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "鳴門市",
+					"ward_name": "",
+					"town_name": "大津町吉永",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "鳴門市"
+		},
+		"7720031": {
+			"postcode": "7720031",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Naruto-shi",
+			"ward_name": "",
+			"town_name": "Otsuchokizuno",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "鳴門市",
+					"ward_name": "",
+					"town_name": "大津町木津野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "鳴門市"
+		},
+		"7720022": {
+			"postcode": "7720022",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Naruto-shi",
+			"ward_name": "",
+			"town_name": "Satorachoawazu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "鳴門市",
+					"ward_name": "",
+					"town_name": "里浦町粟津",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "鳴門市"
+		},
+		"7720021": {
+			"postcode": "7720021",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Naruto-shi",
+			"ward_name": "",
+			"town_name": "Satorachosatora",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "鳴門市",
+					"ward_name": "",
+					"town_name": "里浦町里浦",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "鳴門市"
+		},
+		"7720017": {
+			"postcode": "7720017",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Naruto-shi",
+			"ward_name": "",
+			"town_name": "Muyacho",
+			"building_name": "Tateiwa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "鳴門市",
+					"ward_name": "",
+					"town_name": "撫養町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "鳴門市"
+		},
+		"7720016": {
+			"postcode": "7720016",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Naruto-shi",
+			"ward_name": "",
+			"town_name": "Muyacho",
+			"building_name": "Hayasaki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "鳴門市",
+					"ward_name": "",
+					"town_name": "撫養町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "鳴門市"
+		},
+		"7720015": {
+			"postcode": "7720015",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Naruto-shi",
+			"ward_name": "",
+			"town_name": "Muyacho",
+			"building_name": "Kitahama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "鳴門市",
+					"ward_name": "",
+					"town_name": "撫養町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "鳴門市"
+		},
+		"7720014": {
+			"postcode": "7720014",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Naruto-shi",
+			"ward_name": "",
+			"town_name": "Muyacho",
+			"building_name": "Bezaiten",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "鳴門市",
+					"ward_name": "",
+					"town_name": "撫養町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "鳴門市"
+		},
+		"7720013": {
+			"postcode": "7720013",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Naruto-shi",
+			"ward_name": "",
+			"town_name": "Muyacho",
+			"building_name": "Okazaki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "鳴門市",
+					"ward_name": "",
+					"town_name": "撫養町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "鳴門市"
+		},
+		"7720012": {
+			"postcode": "7720012",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Naruto-shi",
+			"ward_name": "",
+			"town_name": "Muyacho",
+			"building_name": "Kokuwajima",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "鳴門市",
+					"ward_name": "",
+					"town_name": "撫養町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "鳴門市"
+		},
+		"7720011": {
+			"postcode": "7720011",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Naruto-shi",
+			"ward_name": "",
+			"town_name": "Muyacho",
+			"building_name": "Okuwajima",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "鳴門市",
+					"ward_name": "",
+					"town_name": "撫養町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "鳴門市"
+		},
+		"7720004": {
+			"postcode": "7720004",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Naruto-shi",
+			"ward_name": "",
+			"town_name": "Muyacho",
+			"building_name": "Kizu",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "鳴門市",
+					"ward_name": "",
+					"town_name": "撫養町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "鳴門市"
+		},
+		"7720003": {
+			"postcode": "7720003",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Naruto-shi",
+			"ward_name": "",
+			"town_name": "Muyacho",
+			"building_name": "Minamihama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "鳴門市",
+					"ward_name": "",
+					"town_name": "撫養町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "鳴門市"
+		},
+		"7720002": {
+			"postcode": "7720002",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Naruto-shi",
+			"ward_name": "",
+			"town_name": "Muyacho",
+			"building_name": "Saita",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "鳴門市",
+					"ward_name": "",
+					"town_name": "撫養町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "鳴門市"
+		},
+		"7720001": {
+			"postcode": "7720001",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Naruto-shi",
+			"ward_name": "",
+			"town_name": "Muyacho",
+			"building_name": "Kurosaki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "鳴門市",
+					"ward_name": "",
+					"town_name": "撫養町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "鳴門市"
+		},
+		"7720000": {
+			"postcode": "7720000",
+			"prefecture_name": "Tokushima-ken",
+			"city_name": "Naruto-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "徳島県",
+					"city_name": "鳴門市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "徳島県",
+			"city_code": "鳴門市"
+		}
+	}
+}

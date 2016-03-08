@@ -1,0 +1,865 @@
+{
+	"country_code": "JP",
+	"parent_id": "705",
+	"locale": "ja-Latn",
+	"address": {
+		"7058615": {
+			"postcode": "7058615",
+			"prefecture_name": "Okayama-ken",
+			"city_name": "Bizen-shi",
+			"ward_name": "",
+			"town_name": "東片上",
+			"building_name": "８８番地",
+			"organization_name": "品川リフラクトリーズ　株式会社　岡山工場",
+			"region_code": "中国",
+			"prefecture_code": "岡山県",
+			"city_code": "備前市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岡山県",
+					"city_name": "備前市",
+					"ward_name": "",
+					"town_name": "東片上",
+					"building_name": "８８番地",
+					"organization_name": "品川リフラクトリーズ　株式会社　岡山工場"
+				}
+			}
+		},
+		"7058614": {
+			"postcode": "7058614",
+			"prefecture_name": "Okayama-ken",
+			"city_name": "Bizen-shi",
+			"ward_name": "",
+			"town_name": "穂浪",
+			"building_name": "３９０４−７（備前郵便局私書箱第１４号）",
+			"organization_name": "興亜耐火工業　株式会社",
+			"region_code": "中国",
+			"prefecture_code": "岡山県",
+			"city_code": "備前市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岡山県",
+					"city_name": "備前市",
+					"ward_name": "",
+					"town_name": "穂浪",
+					"building_name": "３９０４−７（備前郵便局私書箱第１４号）",
+					"organization_name": "興亜耐火工業　株式会社"
+				}
+			}
+		},
+		"7058603": {
+			"postcode": "7058603",
+			"prefecture_name": "Okayama-ken",
+			"city_name": "Bizen-shi",
+			"ward_name": "",
+			"town_name": "伊部",
+			"building_name": "１６６０−７（備前郵便局私書箱第３号）",
+			"organization_name": "備前信用金庫",
+			"region_code": "中国",
+			"prefecture_code": "岡山県",
+			"city_code": "備前市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岡山県",
+					"city_name": "備前市",
+					"ward_name": "",
+					"town_name": "伊部",
+					"building_name": "１６６０−７（備前郵便局私書箱第３号）",
+					"organization_name": "備前信用金庫"
+				}
+			}
+		},
+		"7058602": {
+			"postcode": "7058602",
+			"prefecture_name": "Okayama-ken",
+			"city_name": "Bizen-shi",
+			"ward_name": "",
+			"town_name": "東片上",
+			"building_name": "１２６（備前郵便局私書箱第２号）",
+			"organization_name": "備前市役所",
+			"region_code": "中国",
+			"prefecture_code": "岡山県",
+			"city_code": "備前市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岡山県",
+					"city_name": "備前市",
+					"ward_name": "",
+					"town_name": "東片上",
+					"building_name": "１２６（備前郵便局私書箱第２号）",
+					"organization_name": "備前市役所"
+				}
+			}
+		},
+		"7058588": {
+			"postcode": "7058588",
+			"prefecture_name": "Okayama-ken",
+			"city_name": "Bizen-shi",
+			"ward_name": "",
+			"town_name": "穂浪",
+			"building_name": "３６５１−６",
+			"organization_name": "日生運輸　株式会社",
+			"region_code": "中国",
+			"prefecture_code": "岡山県",
+			"city_code": "備前市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岡山県",
+					"city_name": "備前市",
+					"ward_name": "",
+					"town_name": "穂浪",
+					"building_name": "３６５１−６",
+					"organization_name": "日生運輸　株式会社"
+				}
+			}
+		},
+		"7058585": {
+			"postcode": "7058585",
+			"prefecture_name": "Okayama-ken",
+			"city_name": "Bizen-shi",
+			"ward_name": "",
+			"town_name": "友延",
+			"building_name": "７００番地",
+			"organization_name": "パナソニック　株式会社　オートモーティブ＆インダストリアルシステムズ社　セミコンダクター事業部　岡山工場",
+			"region_code": "中国",
+			"prefecture_code": "岡山県",
+			"city_code": "備前市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岡山県",
+					"city_name": "備前市",
+					"ward_name": "",
+					"town_name": "友延",
+					"building_name": "７００番地",
+					"organization_name": "パナソニック　株式会社　オートモーティブ＆インダストリアルシステムズ社　セミコンダクター事業部　岡山工場"
+				}
+			}
+		},
+		"7058577": {
+			"postcode": "7058577",
+			"prefecture_name": "Okayama-ken",
+			"city_name": "Bizen-shi",
+			"ward_name": "",
+			"town_name": "伊部",
+			"building_name": "７０７",
+			"organization_name": "品川リフラクトリーズ　株式会社　技術研究所",
+			"region_code": "中国",
+			"prefecture_code": "岡山県",
+			"city_code": "備前市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岡山県",
+					"city_name": "備前市",
+					"ward_name": "",
+					"town_name": "伊部",
+					"building_name": "７０７",
+					"organization_name": "品川リフラクトリーズ　株式会社　技術研究所"
+				}
+			}
+		},
+		"7058575": {
+			"postcode": "7058575",
+			"prefecture_name": "Okayama-ken",
+			"city_name": "Bizen-shi",
+			"ward_name": "",
+			"town_name": "香登本",
+			"building_name": "１１３６",
+			"organization_name": "宗教法人　熊山油滝神社",
+			"region_code": "中国",
+			"prefecture_code": "岡山県",
+			"city_code": "備前市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岡山県",
+					"city_name": "備前市",
+					"ward_name": "",
+					"town_name": "香登本",
+					"building_name": "１１３６",
+					"organization_name": "宗教法人　熊山油滝神社"
+				}
+			}
+		},
+		"7058558": {
+			"postcode": "7058558",
+			"prefecture_name": "Okayama-ken",
+			"city_name": "Bizen-shi",
+			"ward_name": "",
+			"town_name": "東片上",
+			"building_name": "２３０",
+			"organization_name": "備前商工会議所",
+			"region_code": "中国",
+			"prefecture_code": "岡山県",
+			"city_code": "備前市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岡山県",
+					"city_name": "備前市",
+					"ward_name": "",
+					"town_name": "東片上",
+					"building_name": "２３０",
+					"organization_name": "備前商工会議所"
+				}
+			}
+		},
+		"7058555": {
+			"postcode": "7058555",
+			"prefecture_name": "Okayama-ken",
+			"city_name": "Bizen-shi",
+			"ward_name": "",
+			"town_name": "久々井",
+			"building_name": "１７７５−１",
+			"organization_name": "岡山大鵬薬品　株式会社",
+			"region_code": "中国",
+			"prefecture_code": "岡山県",
+			"city_code": "備前市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岡山県",
+					"city_name": "備前市",
+					"ward_name": "",
+					"town_name": "久々井",
+					"building_name": "１７７５−１",
+					"organization_name": "岡山大鵬薬品　株式会社"
+				}
+			}
+		},
+		"7058510": {
+			"postcode": "7058510",
+			"prefecture_name": "Okayama-ken",
+			"city_name": "Bizen-shi",
+			"ward_name": "",
+			"town_name": "畠田",
+			"building_name": "５００−１",
+			"organization_name": "ＮＴＮ　株式会社　岡山製作所",
+			"region_code": "中国",
+			"prefecture_code": "岡山県",
+			"city_code": "備前市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岡山県",
+					"city_name": "備前市",
+					"ward_name": "",
+					"town_name": "畠田",
+					"building_name": "５００−１",
+					"organization_name": "ＮＴＮ　株式会社　岡山製作所"
+				}
+			}
+		},
+		"7058507": {
+			"postcode": "7058507",
+			"prefecture_name": "Okayama-ken",
+			"city_name": "Bizen-shi",
+			"ward_name": "",
+			"town_name": "西片上",
+			"building_name": "９１−１",
+			"organization_name": "岡山県立　備前緑陽高等学校",
+			"region_code": "中国",
+			"prefecture_code": "岡山県",
+			"city_code": "備前市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岡山県",
+					"city_name": "備前市",
+					"ward_name": "",
+					"town_name": "西片上",
+					"building_name": "９１−１",
+					"organization_name": "岡山県立　備前緑陽高等学校"
+				}
+			}
+		},
+		"7058502": {
+			"postcode": "7058502",
+			"prefecture_name": "Okayama-ken",
+			"city_name": "Bizen-shi",
+			"ward_name": "",
+			"town_name": "伊部",
+			"building_name": "１３１２−８",
+			"organization_name": "岡山東農業協同組合　備前支店",
+			"region_code": "中国",
+			"prefecture_code": "岡山県",
+			"city_code": "備前市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岡山県",
+					"city_name": "備前市",
+					"ward_name": "",
+					"town_name": "伊部",
+					"building_name": "１３１２−８",
+					"organization_name": "岡山東農業協同組合　備前支店"
+				}
+			}
+		},
+		"7058501": {
+			"postcode": "7058501",
+			"prefecture_name": "Okayama-ken",
+			"city_name": "Bizen-shi",
+			"ward_name": "",
+			"town_name": "伊部",
+			"building_name": "２２４５",
+			"organization_name": "市立備前病院",
+			"region_code": "中国",
+			"prefecture_code": "岡山県",
+			"city_code": "備前市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岡山県",
+					"city_name": "備前市",
+					"ward_name": "",
+					"town_name": "伊部",
+					"building_name": "２２４５",
+					"organization_name": "市立備前病院"
+				}
+			}
+		},
+		"7050133": {
+			"postcode": "7050133",
+			"prefecture_name": "Okayama-ken",
+			"city_name": "Bizen-shi",
+			"ward_name": "",
+			"town_name": "Yakiyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岡山県",
+					"city_name": "備前市",
+					"ward_name": "",
+					"town_name": "八木山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "岡山県",
+			"city_code": "備前市"
+		},
+		"7050132": {
+			"postcode": "7050132",
+			"prefecture_name": "Okayama-ken",
+			"city_name": "Bizen-shi",
+			"ward_name": "",
+			"town_name": "Mitsuishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岡山県",
+					"city_name": "備前市",
+					"ward_name": "",
+					"town_name": "三石",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "岡山県",
+			"city_code": "備前市"
+		},
+		"7050131": {
+			"postcode": "7050131",
+			"prefecture_name": "Okayama-ken",
+			"city_name": "Bizen-shi",
+			"ward_name": "",
+			"town_name": "Nodani",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岡山県",
+					"city_name": "備前市",
+					"ward_name": "",
+					"town_name": "野谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "岡山県",
+			"city_code": "備前市"
+		},
+		"7050036": {
+			"postcode": "7050036",
+			"prefecture_name": "Okayama-ken",
+			"city_name": "Bizen-shi",
+			"ward_name": "",
+			"town_name": "Shizutani",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岡山県",
+					"city_name": "備前市",
+					"ward_name": "",
+					"town_name": "閑谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "岡山県",
+			"city_code": "備前市"
+		},
+		"7050035": {
+			"postcode": "7050035",
+			"prefecture_name": "Okayama-ken",
+			"city_name": "Bizen-shi",
+			"ward_name": "",
+			"town_name": "Kidani",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岡山県",
+					"city_name": "備前市",
+					"ward_name": "",
+					"town_name": "木谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "岡山県",
+			"city_code": "備前市"
+		},
+		"7050034": {
+			"postcode": "7050034",
+			"prefecture_name": "Okayama-ken",
+			"city_name": "Bizen-shi",
+			"ward_name": "",
+			"town_name": "Tomonobu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岡山県",
+					"city_name": "備前市",
+					"ward_name": "",
+					"town_name": "友延",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "岡山県",
+			"city_code": "備前市"
+		},
+		"7050033": {
+			"postcode": "7050033",
+			"prefecture_name": "Okayama-ken",
+			"city_name": "Bizen-shi",
+			"ward_name": "",
+			"town_name": "Honami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岡山県",
+					"city_name": "備前市",
+					"ward_name": "",
+					"town_name": "穂浪",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "岡山県",
+			"city_code": "備前市"
+		},
+		"7050032": {
+			"postcode": "7050032",
+			"prefecture_name": "Okayama-ken",
+			"city_name": "Bizen-shi",
+			"ward_name": "",
+			"town_name": "Asona",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岡山県",
+					"city_name": "備前市",
+					"ward_name": "",
+					"town_name": "麻宇那",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "岡山県",
+			"city_code": "備前市"
+		},
+		"7050031": {
+			"postcode": "7050031",
+			"prefecture_name": "Okayama-ken",
+			"city_name": "Bizen-shi",
+			"ward_name": "",
+			"town_name": "Shigeyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岡山県",
+					"city_name": "備前市",
+					"ward_name": "",
+					"town_name": "蕃山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "岡山県",
+			"city_code": "備前市"
+		},
+		"7050026": {
+			"postcode": "7050026",
+			"prefecture_name": "Okayama-ken",
+			"city_name": "Bizen-shi",
+			"ward_name": "",
+			"town_name": "Sayama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岡山県",
+					"city_name": "備前市",
+					"ward_name": "",
+					"town_name": "佐山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "岡山県",
+			"city_code": "備前市"
+		},
+		"7050025": {
+			"postcode": "7050025",
+			"prefecture_name": "Okayama-ken",
+			"city_name": "Bizen-shi",
+			"ward_name": "",
+			"town_name": "Tsurumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岡山県",
+					"city_name": "備前市",
+					"ward_name": "",
+					"town_name": "鶴海",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "岡山県",
+			"city_code": "備前市"
+		},
+		"7050024": {
+			"postcode": "7050024",
+			"prefecture_name": "Okayama-ken",
+			"city_name": "Bizen-shi",
+			"ward_name": "",
+			"town_name": "Kugui",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岡山県",
+					"city_name": "備前市",
+					"ward_name": "",
+					"town_name": "久々井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "岡山県",
+			"city_code": "備前市"
+		},
+		"7050023": {
+			"postcode": "7050023",
+			"prefecture_name": "Okayama-ken",
+			"city_name": "Bizen-shi",
+			"ward_name": "",
+			"town_name": "Irinaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岡山県",
+					"city_name": "備前市",
+					"ward_name": "",
+					"town_name": "伊里中",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "岡山県",
+			"city_code": "備前市"
+		},
+		"7050022": {
+			"postcode": "7050022",
+			"prefecture_name": "Okayama-ken",
+			"city_name": "Bizen-shi",
+			"ward_name": "",
+			"town_name": "Higashikatakami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岡山県",
+					"city_name": "備前市",
+					"ward_name": "",
+					"town_name": "東片上",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "岡山県",
+			"city_code": "備前市"
+		},
+		"7050021": {
+			"postcode": "7050021",
+			"prefecture_name": "Okayama-ken",
+			"city_name": "Bizen-shi",
+			"ward_name": "",
+			"town_name": "Nishikatakami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岡山県",
+					"city_name": "備前市",
+					"ward_name": "",
+					"town_name": "西片上",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "岡山県",
+			"city_code": "備前市"
+		},
+		"7050016": {
+			"postcode": "7050016",
+			"prefecture_name": "Okayama-ken",
+			"city_name": "Bizen-shi",
+			"ward_name": "",
+			"town_name": "Sakane",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岡山県",
+					"city_name": "備前市",
+					"ward_name": "",
+					"town_name": "坂根",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "岡山県",
+			"city_code": "備前市"
+		},
+		"7050015": {
+			"postcode": "7050015",
+			"prefecture_name": "Okayama-ken",
+			"city_name": "Bizen-shi",
+			"ward_name": "",
+			"town_name": "Hatakeda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岡山県",
+					"city_name": "備前市",
+					"ward_name": "",
+					"town_name": "畠田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "岡山県",
+			"city_code": "備前市"
+		},
+		"7050014": {
+			"postcode": "7050014",
+			"prefecture_name": "Okayama-ken",
+			"city_name": "Bizen-shi",
+			"ward_name": "",
+			"town_name": "Shinjo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岡山県",
+					"city_name": "備前市",
+					"ward_name": "",
+					"town_name": "新庄",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "岡山県",
+			"city_code": "備前市"
+		},
+		"7050013": {
+			"postcode": "7050013",
+			"prefecture_name": "Okayama-ken",
+			"city_name": "Bizen-shi",
+			"ward_name": "",
+			"town_name": "Fukuda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岡山県",
+					"city_name": "備前市",
+					"ward_name": "",
+					"town_name": "福田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "岡山県",
+			"city_code": "備前市"
+		},
+		"7050012": {
+			"postcode": "7050012",
+			"prefecture_name": "Okayama-ken",
+			"city_name": "Bizen-shi",
+			"ward_name": "",
+			"town_name": "Kagato",
+			"building_name": "Moto",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岡山県",
+					"city_name": "備前市",
+					"ward_name": "",
+					"town_name": "香登",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "岡山県",
+			"city_code": "備前市"
+		},
+		"7050011": {
+			"postcode": "7050011",
+			"prefecture_name": "Okayama-ken",
+			"city_name": "Bizen-shi",
+			"ward_name": "",
+			"town_name": "Kagato",
+			"building_name": "Nishi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岡山県",
+					"city_name": "備前市",
+					"ward_name": "",
+					"town_name": "香登",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "岡山県",
+			"city_code": "備前市"
+		},
+		"7050003": {
+			"postcode": "7050003",
+			"prefecture_name": "Okayama-ken",
+			"city_name": "Bizen-shi",
+			"ward_name": "",
+			"town_name": "Ochi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岡山県",
+					"city_name": "備前市",
+					"ward_name": "",
+					"town_name": "大内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "岡山県",
+			"city_code": "備前市"
+		},
+		"7050002": {
+			"postcode": "7050002",
+			"prefecture_name": "Okayama-ken",
+			"city_name": "Bizen-shi",
+			"ward_name": "",
+			"town_name": "Uraimbe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岡山県",
+					"city_name": "備前市",
+					"ward_name": "",
+					"town_name": "浦伊部",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "岡山県",
+			"city_code": "備前市"
+		},
+		"7050001": {
+			"postcode": "7050001",
+			"prefecture_name": "Okayama-ken",
+			"city_name": "Bizen-shi",
+			"ward_name": "",
+			"town_name": "Imbe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岡山県",
+					"city_name": "備前市",
+					"ward_name": "",
+					"town_name": "伊部",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "岡山県",
+			"city_code": "備前市"
+		},
+		"7050000": {
+			"postcode": "7050000",
+			"prefecture_name": "Okayama-ken",
+			"city_name": "Bizen-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "岡山県",
+					"city_name": "備前市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中国",
+			"prefecture_code": "岡山県",
+			"city_code": "備前市"
+		}
+	}
+}

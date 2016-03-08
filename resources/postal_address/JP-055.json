@@ -1,0 +1,997 @@
+{
+	"country_code": "JP",
+	"parent_id": "055",
+	"locale": "ja-Latn",
+	"address": {
+		"0552316": {
+			"postcode": "0552316",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Hidaka-cho",
+			"town_name": "Mitsuiwa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "日高町",
+					"town_name": "三岩",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡"
+		},
+		"0552315": {
+			"postcode": "0552315",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Hidaka-cho",
+			"town_name": "Tomioka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "日高町",
+					"town_name": "富岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡"
+		},
+		"0552314": {
+			"postcode": "0552314",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Hidaka-cho",
+			"town_name": "Chisaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "日高町",
+					"town_name": "千栄",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡"
+		},
+		"0552313": {
+			"postcode": "0552313",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Hidaka-cho",
+			"town_name": "Hidaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "日高町",
+					"town_name": "日高",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡"
+		},
+		"0552312": {
+			"postcode": "0552312",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Hidaka-cho",
+			"town_name": "Hidaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "日高町",
+					"town_name": "日高",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡"
+		},
+		"0552311": {
+			"postcode": "0552311",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Hidaka-cho",
+			"town_name": "Hidaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "日高町",
+					"town_name": "日高",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡"
+		},
+		"0552309": {
+			"postcode": "0552309",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Hidaka-cho",
+			"town_name": "Wakabacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "日高町",
+					"town_name": "若葉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡"
+		},
+		"0552308": {
+			"postcode": "0552308",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Hidaka-cho",
+			"town_name": "Yamatecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "日高町",
+					"town_name": "山手町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡"
+		},
+		"0552307": {
+			"postcode": "0552307",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Hidaka-cho",
+			"town_name": "Matsukazecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "日高町",
+					"town_name": "松風町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡"
+		},
+		"0552306": {
+			"postcode": "0552306",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Hidaka-cho",
+			"town_name": "Miyashitacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "日高町",
+					"town_name": "宮下町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡"
+		},
+		"0552305": {
+			"postcode": "0552305",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Hidaka-cho",
+			"town_name": "Shimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "日高町",
+					"town_name": "新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡"
+		},
+		"0552304": {
+			"postcode": "0552304",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Hidaka-cho",
+			"town_name": "Sakaemachinishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "日高町",
+					"town_name": "栄町西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡"
+		},
+		"0552303": {
+			"postcode": "0552303",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Hidaka-cho",
+			"town_name": "Sakaemachihigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "日高町",
+					"town_name": "栄町東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡"
+		},
+		"0552302": {
+			"postcode": "0552302",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Hidaka-cho",
+			"town_name": "Honchonishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "日高町",
+					"town_name": "本町西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡"
+		},
+		"0552301": {
+			"postcode": "0552301",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Hidaka-cho",
+			"town_name": "Honchohigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "日高町",
+					"town_name": "本町東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡"
+		},
+		"0550415": {
+			"postcode": "0550415",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Biratori-cho",
+			"town_name": "Toyonuka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "平取町",
+					"town_name": "豊糠",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡"
+		},
+		"0550414": {
+			"postcode": "0550414",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Biratori-cho",
+			"town_name": "Iwachishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "平取町",
+					"town_name": "岩知志",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡"
+		},
+		"0550413": {
+			"postcode": "0550413",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Biratori-cho",
+			"town_name": "Niseu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "平取町",
+					"town_name": "仁世宇",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡"
+		},
+		"0550412": {
+			"postcode": "0550412",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Biratori-cho",
+			"town_name": "Horokeshi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "平取町",
+					"town_name": "幌毛志",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡"
+		},
+		"0550411": {
+			"postcode": "0550411",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Biratori-cho",
+			"town_name": "Furenaicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "平取町",
+					"town_name": "振内町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡"
+		},
+		"0550325": {
+			"postcode": "0550325",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Biratori-cho",
+			"town_name": "Osachinai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "平取町",
+					"town_name": "長知内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡"
+		},
+		"0550324": {
+			"postcode": "0550324",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Biratori-cho",
+			"town_name": "Nioi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "平取町",
+					"town_name": "荷負",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡"
+		},
+		"0550323": {
+			"postcode": "0550323",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Biratori-cho",
+			"town_name": "Memu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "平取町",
+					"town_name": "芽生",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡"
+		},
+		"0550322": {
+			"postcode": "0550322",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Biratori-cho",
+			"town_name": "Asahi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "平取町",
+					"town_name": "旭",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡"
+		},
+		"0550321": {
+			"postcode": "0550321",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Biratori-cho",
+			"town_name": "Nukibetsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "平取町",
+					"town_name": "貫気別",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡"
+		},
+		"0550195": {
+			"postcode": "0550195",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Biratori-cho",
+			"town_name": "本町",
+			"building_name": "３５番地１",
+			"organization_name": "ふれあいセンターびらとり",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "平取町",
+					"town_name": "本町",
+					"building_name": "３５番地１",
+					"organization_name": "ふれあいセンターびらとり"
+				}
+			}
+		},
+		"0550193": {
+			"postcode": "0550193",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Biratori-cho",
+			"town_name": "本町",
+			"building_name": "４０−１",
+			"organization_name": "びらとり農業協同組合",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "平取町",
+					"town_name": "本町",
+					"building_name": "４０−１",
+					"organization_name": "びらとり農業協同組合"
+				}
+			}
+		},
+		"0550192": {
+			"postcode": "0550192",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Biratori-cho",
+			"town_name": "本町",
+			"building_name": "２８",
+			"organization_name": "平取町役場",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "平取町",
+					"town_name": "本町",
+					"building_name": "２８",
+					"organization_name": "平取町役場"
+				}
+			}
+		},
+		"0550107": {
+			"postcode": "0550107",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Biratori-cho",
+			"town_name": "Honcho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "平取町",
+					"town_name": "本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡"
+		},
+		"0550106": {
+			"postcode": "0550106",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Biratori-cho",
+			"town_name": "Nina",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "平取町",
+					"town_name": "荷菜",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡"
+		},
+		"0550105": {
+			"postcode": "0550105",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Biratori-cho",
+			"town_name": "Saruba",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "平取町",
+					"town_name": "去場",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡"
+		},
+		"0550104": {
+			"postcode": "0550104",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Biratori-cho",
+			"town_name": "Shiunkotsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "平取町",
+					"town_name": "紫雲古津",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡"
+		},
+		"0550103": {
+			"postcode": "0550103",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Biratori-cho",
+			"town_name": "Kawamukai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "平取町",
+					"town_name": "川向",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡"
+		},
+		"0550102": {
+			"postcode": "0550102",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Biratori-cho",
+			"town_name": "Kobira",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "平取町",
+					"town_name": "小平",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡"
+		},
+		"0550101": {
+			"postcode": "0550101",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Biratori-cho",
+			"town_name": "Nibutani",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "平取町",
+					"town_name": "二風谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡"
+		},
+		"0550100": {
+			"postcode": "0550100",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Biratori-cho",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "平取町",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡"
+		},
+		"0550008": {
+			"postcode": "0550008",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Hidaka-cho",
+			"town_name": "Tomikawa",
+			"building_name": "Komaoka",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "日高町",
+					"town_name": "富川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡"
+		},
+		"0550007": {
+			"postcode": "0550007",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Hidaka-cho",
+			"town_name": "Tomikawa",
+			"building_name": "Nishi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "日高町",
+					"town_name": "富川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡"
+		},
+		"0550006": {
+			"postcode": "0550006",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Hidaka-cho",
+			"town_name": "Tomikawa",
+			"building_name": "Minami",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "日高町",
+					"town_name": "富川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡"
+		},
+		"0550005": {
+			"postcode": "0550005",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Hidaka-cho",
+			"town_name": "Tomihama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "日高町",
+					"town_name": "富浜",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡"
+		},
+		"0550004": {
+			"postcode": "0550004",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Hidaka-cho",
+			"town_name": "Tomikawa",
+			"building_name": "Higashi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "日高町",
+					"town_name": "富川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡"
+		},
+		"0550003": {
+			"postcode": "0550003",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Hidaka-cho",
+			"town_name": "Fukumitsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "日高町",
+					"town_name": "福満",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡"
+		},
+		"0550002": {
+			"postcode": "0550002",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Hidaka-cho",
+			"town_name": "Biraga",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "日高町",
+					"town_name": "平賀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡"
+		},
+		"0550001": {
+			"postcode": "0550001",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Hidaka-cho",
+			"town_name": "Tomikawa",
+			"building_name": "Kita",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "日高町",
+					"town_name": "富川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡"
+		},
+		"0550000": {
+			"postcode": "0550000",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Saru-gun",
+			"ward_name": "Hidaka-cho",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "沙流郡",
+					"ward_name": "日高町",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "沙流郡"
+		}
+	}
+}

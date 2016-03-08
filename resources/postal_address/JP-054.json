@@ -1,0 +1,865 @@
+{
+	"country_code": "JP",
+	"parent_id": "054",
+	"locale": "ja-Latn",
+	"address": {
+		"0548660": {
+			"postcode": "0548660",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yufutsu-gun",
+			"ward_name": "Mukawa-cho",
+			"town_name": "美幸",
+			"building_name": "２丁目８８番地（鵡川郵便局私書箱第５号）",
+			"organization_name": "むかわ町役場",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "勇払郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "勇払郡",
+					"ward_name": "むかわ町",
+					"town_name": "美幸",
+					"building_name": "２丁目８８番地（鵡川郵便局私書箱第５号）",
+					"organization_name": "むかわ町役場"
+				}
+			}
+		},
+		"0540364": {
+			"postcode": "0540364",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yufutsu-gun",
+			"ward_name": "Mukawa-cho",
+			"town_name": "Hobetsu",
+			"building_name": "Tomiuchi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "勇払郡",
+					"ward_name": "むかわ町",
+					"town_name": "穂別",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "勇払郡"
+		},
+		"0540363": {
+			"postcode": "0540363",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yufutsu-gun",
+			"ward_name": "Mukawa-cho",
+			"town_name": "Hobetsu",
+			"building_name": "Hiraoka",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "勇払郡",
+					"ward_name": "むかわ町",
+					"town_name": "穂別",
+					"building_name": "平丘",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "勇払郡"
+		},
+		"0540362": {
+			"postcode": "0540362",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yufutsu-gun",
+			"ward_name": "Mukawa-cho",
+			"town_name": "Hobetsu",
+			"building_name": "Azumi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "勇払郡",
+					"ward_name": "むかわ町",
+					"town_name": "穂別",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "勇払郡"
+		},
+		"0540361": {
+			"postcode": "0540361",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yufutsu-gun",
+			"ward_name": "Mukawa-cho",
+			"town_name": "Hobetsu",
+			"building_name": "Fukuyama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "勇払郡",
+					"ward_name": "むかわ町",
+					"town_name": "穂別",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "勇払郡"
+		},
+		"0540211": {
+			"postcode": "0540211",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yufutsu-gun",
+			"ward_name": "Mukawa-cho",
+			"town_name": "Hobetsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "勇払郡",
+					"ward_name": "むかわ町",
+					"town_name": "穂別",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "勇払郡"
+		},
+		"0540204": {
+			"postcode": "0540204",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yufutsu-gun",
+			"ward_name": "Mukawa-cho",
+			"town_name": "Hobetsu",
+			"building_name": "Hiraoka",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "勇払郡",
+					"ward_name": "むかわ町",
+					"town_name": "穂別",
+					"building_name": "平丘",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "勇払郡"
+		},
+		"0540203": {
+			"postcode": "0540203",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yufutsu-gun",
+			"ward_name": "Mukawa-cho",
+			"town_name": "Hobetsu",
+			"building_name": "Toyota",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "勇払郡",
+					"ward_name": "むかわ町",
+					"town_name": "穂別",
+					"building_name": "豊田",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "勇払郡"
+		},
+		"0540202": {
+			"postcode": "0540202",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yufutsu-gun",
+			"ward_name": "Mukawa-cho",
+			"town_name": "Hobetsu",
+			"building_name": "Osawa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "勇払郡",
+					"ward_name": "むかわ町",
+					"town_name": "穂別",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "勇払郡"
+		},
+		"0540201": {
+			"postcode": "0540201",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yufutsu-gun",
+			"ward_name": "Mukawa-cho",
+			"town_name": "Hobetsu",
+			"building_name": "Inasato",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "勇払郡",
+					"ward_name": "むかわ町",
+					"town_name": "穂別",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "勇払郡"
+		},
+		"0540144": {
+			"postcode": "0540144",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yufutsu-gun",
+			"ward_name": "Mukawa-cho",
+			"town_name": "Hobetsu",
+			"building_name": "Toyota",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "勇払郡",
+					"ward_name": "むかわ町",
+					"town_name": "穂別",
+					"building_name": "豊田",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "勇払郡"
+		},
+		"0540143": {
+			"postcode": "0540143",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yufutsu-gun",
+			"ward_name": "Mukawa-cho",
+			"town_name": "Hobetsu",
+			"building_name": "Izumi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "勇払郡",
+					"ward_name": "むかわ町",
+					"town_name": "穂別",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "勇払郡"
+		},
+		"0540142": {
+			"postcode": "0540142",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yufutsu-gun",
+			"ward_name": "Mukawa-cho",
+			"town_name": "Hobetsu",
+			"building_name": "Niwa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "勇払郡",
+					"ward_name": "むかわ町",
+					"town_name": "穂別",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "勇払郡"
+		},
+		"0540141": {
+			"postcode": "0540141",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yufutsu-gun",
+			"ward_name": "Mukawa-cho",
+			"town_name": "Hobetsu",
+			"building_name": "Sakae",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "勇払郡",
+					"ward_name": "むかわ町",
+					"town_name": "穂別",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "勇払郡"
+		},
+		"0540064": {
+			"postcode": "0540064",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yufutsu-gun",
+			"ward_name": "Mukawa-cho",
+			"town_name": "Harumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "勇払郡",
+					"ward_name": "むかわ町",
+					"town_name": "晴海",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "勇払郡"
+		},
+		"0540063": {
+			"postcode": "0540063",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yufutsu-gun",
+			"ward_name": "Mukawa-cho",
+			"town_name": "Komaba",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "勇払郡",
+					"ward_name": "むかわ町",
+					"town_name": "駒場",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "勇払郡"
+		},
+		"0540062": {
+			"postcode": "0540062",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yufutsu-gun",
+			"ward_name": "Mukawa-cho",
+			"town_name": "Wakakusa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "勇払郡",
+					"ward_name": "むかわ町",
+					"town_name": "若草",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "勇払郡"
+		},
+		"0540061": {
+			"postcode": "0540061",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yufutsu-gun",
+			"ward_name": "Mukawa-cho",
+			"town_name": "Yoko",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "勇払郡",
+					"ward_name": "むかわ町",
+					"town_name": "洋光",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "勇払郡"
+		},
+		"0540052": {
+			"postcode": "0540052",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yufutsu-gun",
+			"ward_name": "Mukawa-cho",
+			"town_name": "Taisei",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "勇払郡",
+					"ward_name": "むかわ町",
+					"town_name": "大成",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "勇払郡"
+		},
+		"0540051": {
+			"postcode": "0540051",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yufutsu-gun",
+			"ward_name": "Mukawa-cho",
+			"town_name": "Bunkyo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "勇払郡",
+					"ward_name": "むかわ町",
+					"town_name": "文京",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "勇払郡"
+		},
+		"0540042": {
+			"postcode": "0540042",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yufutsu-gun",
+			"ward_name": "Mukawa-cho",
+			"town_name": "Miyuki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "勇払郡",
+					"ward_name": "むかわ町",
+					"town_name": "美幸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "勇払郡"
+		},
+		"0540041": {
+			"postcode": "0540041",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yufutsu-gun",
+			"ward_name": "Mukawa-cho",
+			"town_name": "Matsukaze",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "勇払郡",
+					"ward_name": "むかわ町",
+					"town_name": "松風",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "勇払郡"
+		},
+		"0540032": {
+			"postcode": "0540032",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yufutsu-gun",
+			"ward_name": "Mukawa-cho",
+			"town_name": "Fukuzumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "勇払郡",
+					"ward_name": "むかわ町",
+					"town_name": "福住",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "勇払郡"
+		},
+		"0540031": {
+			"postcode": "0540031",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yufutsu-gun",
+			"ward_name": "Mukawa-cho",
+			"town_name": "Aoba",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "勇払郡",
+					"ward_name": "むかわ町",
+					"town_name": "青葉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "勇払郡"
+		},
+		"0540023": {
+			"postcode": "0540023",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yufutsu-gun",
+			"ward_name": "Mukawa-cho",
+			"town_name": "Suehiro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "勇払郡",
+					"ward_name": "むかわ町",
+					"town_name": "末広",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "勇払郡"
+		},
+		"0540022": {
+			"postcode": "0540022",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yufutsu-gun",
+			"ward_name": "Mukawa-cho",
+			"town_name": "Hanazono",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "勇払郡",
+					"ward_name": "むかわ町",
+					"town_name": "花園",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "勇払郡"
+		},
+		"0540021": {
+			"postcode": "0540021",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yufutsu-gun",
+			"ward_name": "Mukawa-cho",
+			"town_name": "Ohara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "勇払郡",
+					"ward_name": "むかわ町",
+					"town_name": "大原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "勇払郡"
+		},
+		"0540016": {
+			"postcode": "0540016",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yufutsu-gun",
+			"ward_name": "Mukawa-cho",
+			"town_name": "Miyato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "勇払郡",
+					"ward_name": "むかわ町",
+					"town_name": "宮戸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "勇払郡"
+		},
+		"0540015": {
+			"postcode": "0540015",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yufutsu-gun",
+			"ward_name": "Mukawa-cho",
+			"town_name": "Shiomi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "勇払郡",
+					"ward_name": "むかわ町",
+					"town_name": "汐見",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "勇払郡"
+		},
+		"0540014": {
+			"postcode": "0540014",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yufutsu-gun",
+			"ward_name": "Mukawa-cho",
+			"town_name": "Yonehara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "勇払郡",
+					"ward_name": "むかわ町",
+					"town_name": "米原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "勇払郡"
+		},
+		"0540013": {
+			"postcode": "0540013",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yufutsu-gun",
+			"ward_name": "Mukawa-cho",
+			"town_name": "Hanaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "勇払郡",
+					"ward_name": "むかわ町",
+					"town_name": "花岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "勇払郡"
+		},
+		"0540012": {
+			"postcode": "0540012",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yufutsu-gun",
+			"ward_name": "Mukawa-cho",
+			"town_name": "Ikuta",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "勇払郡",
+					"ward_name": "むかわ町",
+					"town_name": "生田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "勇払郡"
+		},
+		"0540011": {
+			"postcode": "0540011",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yufutsu-gun",
+			"ward_name": "Mukawa-cho",
+			"town_name": "Ariake",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "勇払郡",
+					"ward_name": "むかわ町",
+					"town_name": "有明",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "勇払郡"
+		},
+		"0540005": {
+			"postcode": "0540005",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yufutsu-gun",
+			"ward_name": "Mukawa-cho",
+			"town_name": "Ninomiya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "勇払郡",
+					"ward_name": "むかわ町",
+					"town_name": "二宮",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "勇払郡"
+		},
+		"0540004": {
+			"postcode": "0540004",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yufutsu-gun",
+			"ward_name": "Mukawa-cho",
+			"town_name": "Taura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "勇払郡",
+					"ward_name": "むかわ町",
+					"town_name": "田浦",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "勇払郡"
+		},
+		"0540003": {
+			"postcode": "0540003",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yufutsu-gun",
+			"ward_name": "Mukawa-cho",
+			"town_name": "Toyoshiro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "勇払郡",
+					"ward_name": "むかわ町",
+					"town_name": "豊城",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "勇払郡"
+		},
+		"0540002": {
+			"postcode": "0540002",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yufutsu-gun",
+			"ward_name": "Mukawa-cho",
+			"town_name": "Kasuga",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "勇払郡",
+					"ward_name": "むかわ町",
+					"town_name": "春日",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "勇払郡"
+		},
+		"0540001": {
+			"postcode": "0540001",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yufutsu-gun",
+			"ward_name": "Mukawa-cho",
+			"town_name": "Asahioka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "勇払郡",
+					"ward_name": "むかわ町",
+					"town_name": "旭岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "勇払郡"
+		},
+		"0540000": {
+			"postcode": "0540000",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yufutsu-gun",
+			"ward_name": "Mukawa-cho",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "勇払郡",
+					"ward_name": "むかわ町",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "勇払郡"
+		}
+	}
+}

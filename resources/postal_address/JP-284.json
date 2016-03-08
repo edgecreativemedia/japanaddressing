@@ -1,0 +1,799 @@
+{
+	"country_code": "JP",
+	"parent_id": "284",
+	"locale": "ja-Latn",
+	"address": {
+		"2848555": {
+			"postcode": "2848555",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Yotsukaido-shi",
+			"ward_name": "",
+			"town_name": "鹿渡",
+			"building_name": "無番地",
+			"organization_name": "四街道市役所",
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "四街道市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "四街道市",
+					"ward_name": "",
+					"town_name": "鹿渡",
+					"building_name": "無番地",
+					"organization_name": "四街道市役所"
+				}
+			}
+		},
+		"2840045": {
+			"postcode": "2840045",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Yotsukaido-shi",
+			"ward_name": "",
+			"town_name": "Utsukushigaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "四街道市",
+					"ward_name": "",
+					"town_name": "美しが丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "四街道市"
+		},
+		"2840044": {
+			"postcode": "2840044",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Yotsukaido-shi",
+			"ward_name": "",
+			"town_name": "Warabi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "四街道市",
+					"ward_name": "",
+					"town_name": "和良比",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "四街道市"
+		},
+		"2840043": {
+			"postcode": "2840043",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Yotsukaido-shi",
+			"ward_name": "",
+			"town_name": "Meiwa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "四街道市",
+					"ward_name": "",
+					"town_name": "めいわ",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "四街道市"
+		},
+		"2840042": {
+			"postcode": "2840042",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Yotsukaido-shi",
+			"ward_name": "",
+			"town_name": "Onagi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "四街道市",
+					"ward_name": "",
+					"town_name": "小名木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "四街道市"
+		},
+		"2840041": {
+			"postcode": "2840041",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Yotsukaido-shi",
+			"ward_name": "",
+			"town_name": "Ueno",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "四街道市",
+					"ward_name": "",
+					"town_name": "上野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "四街道市"
+		},
+		"2840037": {
+			"postcode": "2840037",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Yotsukaido-shi",
+			"ward_name": "",
+			"town_name": "Nakadai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "四街道市",
+					"ward_name": "",
+					"town_name": "中台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "四街道市"
+		},
+		"2840036": {
+			"postcode": "2840036",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Yotsukaido-shi",
+			"ward_name": "",
+			"town_name": "Nakano",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "四街道市",
+					"ward_name": "",
+					"town_name": "中野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "四街道市"
+		},
+		"2840035": {
+			"postcode": "2840035",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Yotsukaido-shi",
+			"ward_name": "",
+			"town_name": "Wada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "四街道市",
+					"ward_name": "",
+					"town_name": "和田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "四街道市"
+		},
+		"2840034": {
+			"postcode": "2840034",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Yotsukaido-shi",
+			"ward_name": "",
+			"town_name": "Nabasama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "四街道市",
+					"ward_name": "",
+					"town_name": "南波佐間",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "四街道市"
+		},
+		"2840033": {
+			"postcode": "2840033",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Yotsukaido-shi",
+			"ward_name": "",
+			"town_name": "Takanodai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "四街道市",
+					"ward_name": "",
+					"town_name": "鷹の台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "四街道市"
+		},
+		"2840032": {
+			"postcode": "2840032",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Yotsukaido-shi",
+			"ward_name": "",
+			"town_name": "Yoshioka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "四街道市",
+					"ward_name": "",
+					"town_name": "吉岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "四街道市"
+		},
+		"2840031": {
+			"postcode": "2840031",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Yotsukaido-shi",
+			"ward_name": "",
+			"town_name": "Nariyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "四街道市",
+					"ward_name": "",
+					"town_name": "成山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "四街道市"
+		},
+		"2840027": {
+			"postcode": "2840027",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Yotsukaido-shi",
+			"ward_name": "",
+			"town_name": "Kuriyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "四街道市",
+					"ward_name": "",
+					"town_name": "栗山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "四街道市"
+		},
+		"2840026": {
+			"postcode": "2840026",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Yotsukaido-shi",
+			"ward_name": "",
+			"town_name": "Tsukushiza",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "四街道市",
+					"ward_name": "",
+					"town_name": "つくし座",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "四街道市"
+		},
+		"2840025": {
+			"postcode": "2840025",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Yotsukaido-shi",
+			"ward_name": "",
+			"town_name": "Sachigaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "四街道市",
+					"ward_name": "",
+					"town_name": "さちが丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "四街道市"
+		},
+		"2840024": {
+			"postcode": "2840024",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Yotsukaido-shi",
+			"ward_name": "",
+			"town_name": "Asahigaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "四街道市",
+					"ward_name": "",
+					"town_name": "旭ケ丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "四街道市"
+		},
+		"2840023": {
+			"postcode": "2840023",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Yotsukaido-shi",
+			"ward_name": "",
+			"town_name": "Misora",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "四街道市",
+					"ward_name": "",
+					"town_name": "みそら",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "四街道市"
+		},
+		"2840022": {
+			"postcode": "2840022",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Yotsukaido-shi",
+			"ward_name": "",
+			"town_name": "Yamanashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "四街道市",
+					"ward_name": "",
+					"town_name": "山梨",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "四街道市"
+		},
+		"2840021": {
+			"postcode": "2840021",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Yotsukaido-shi",
+			"ward_name": "",
+			"town_name": "Nagaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "四街道市",
+					"ward_name": "",
+					"town_name": "長岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "四街道市"
+		},
+		"2840016": {
+			"postcode": "2840016",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Yotsukaido-shi",
+			"ward_name": "",
+			"town_name": "Monenosato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "四街道市",
+					"ward_name": "",
+					"town_name": "もねの里",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "四街道市"
+		},
+		"2840015": {
+			"postcode": "2840015",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Yotsukaido-shi",
+			"ward_name": "",
+			"town_name": "Chiyoda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "四街道市",
+					"ward_name": "",
+					"town_name": "千代田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "四街道市"
+		},
+		"2840014": {
+			"postcode": "2840014",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Yotsukaido-shi",
+			"ward_name": "",
+			"town_name": "Ikehana",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "四街道市",
+					"ward_name": "",
+					"town_name": "池花",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "四街道市"
+		},
+		"2840013": {
+			"postcode": "2840013",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Yotsukaido-shi",
+			"ward_name": "",
+			"town_name": "Uchikuroda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "四街道市",
+					"ward_name": "",
+					"town_name": "内黒田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "四街道市"
+		},
+		"2840012": {
+			"postcode": "2840012",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Yotsukaido-shi",
+			"ward_name": "",
+			"town_name": "Monoi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "四街道市",
+					"ward_name": "",
+					"town_name": "物井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "四街道市"
+		},
+		"2840011": {
+			"postcode": "2840011",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Yotsukaido-shi",
+			"ward_name": "",
+			"town_name": "Kamezaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "四街道市",
+					"ward_name": "",
+					"town_name": "亀崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "四街道市"
+		},
+		"2840009": {
+			"postcode": "2840009",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Yotsukaido-shi",
+			"ward_name": "",
+			"town_name": "Chuo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "四街道市",
+					"ward_name": "",
+					"town_name": "中央",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "四街道市"
+		},
+		"2840008": {
+			"postcode": "2840008",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Yotsukaido-shi",
+			"ward_name": "",
+			"town_name": "Roppogaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "四街道市",
+					"ward_name": "",
+					"town_name": "鹿放ケ丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "四街道市"
+		},
+		"2840007": {
+			"postcode": "2840007",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Yotsukaido-shi",
+			"ward_name": "",
+			"town_name": "Satsukigaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "四街道市",
+					"ward_name": "",
+					"town_name": "さつきケ丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "四街道市"
+		},
+		"2840006": {
+			"postcode": "2840006",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Yotsukaido-shi",
+			"ward_name": "",
+			"town_name": "Shimoshizu",
+			"building_name": "Shinden",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "四街道市",
+					"ward_name": "",
+					"town_name": "下志津",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "四街道市"
+		},
+		"2840005": {
+			"postcode": "2840005",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Yotsukaido-shi",
+			"ward_name": "",
+			"town_name": "Yotsukaido",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "四街道市",
+					"ward_name": "",
+					"town_name": "四街道",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "四街道市"
+		},
+		"2840004": {
+			"postcode": "2840004",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Yotsukaido-shi",
+			"ward_name": "",
+			"town_name": "Minoricho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "四街道市",
+					"ward_name": "",
+					"town_name": "みのり町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "四街道市"
+		},
+		"2840003": {
+			"postcode": "2840003",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Yotsukaido-shi",
+			"ward_name": "",
+			"town_name": "Shikawatashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "四街道市",
+					"ward_name": "",
+					"town_name": "鹿渡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "四街道市"
+		},
+		"2840002": {
+			"postcode": "2840002",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Yotsukaido-shi",
+			"ward_name": "",
+			"town_name": "Kayahashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "四街道市",
+					"ward_name": "",
+					"town_name": "萱橋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "四街道市"
+		},
+		"2840001": {
+			"postcode": "2840001",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Yotsukaido-shi",
+			"ward_name": "",
+			"town_name": "Dainichi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "四街道市",
+					"ward_name": "",
+					"town_name": "大日",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "四街道市"
+		},
+		"2840000": {
+			"postcode": "2840000",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Yotsukaido-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "四街道市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "四街道市"
+		}
+	}
+}

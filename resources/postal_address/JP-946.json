@@ -1,0 +1,2273 @@
+{
+	"country_code": "JP",
+	"parent_id": "946",
+	"locale": "ja-Latn",
+	"address": {
+		"9468601": {
+			"postcode": "9468601",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "小出島",
+			"building_name": "１３０−１",
+			"organization_name": "魚沼市役所　小出庁舎",
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "小出島",
+					"building_name": "１３０−１",
+					"organization_name": "魚沼市役所　小出庁舎"
+				}
+			}
+		},
+		"9468555": {
+			"postcode": "9468555",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "今泉",
+			"building_name": "１４８８−１",
+			"organization_name": "魚沼市役所　広神庁舎",
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "今泉",
+					"building_name": "１４８８−１",
+					"organization_name": "魚沼市役所　広神庁舎"
+				}
+			}
+		},
+		"9468513": {
+			"postcode": "9468513",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "小出島",
+			"building_name": "１１７７",
+			"organization_name": "アルプス電気　株式会社　磁気応用事業部　小出工場",
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "小出島",
+					"building_name": "１１７７",
+					"organization_name": "アルプス電気　株式会社　磁気応用事業部　小出工場"
+				}
+			}
+		},
+		"9468511": {
+			"postcode": "9468511",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "大沢",
+			"building_name": "２１３−１",
+			"organization_name": "魚沼市役所　湯之谷庁舎",
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "大沢",
+					"building_name": "２１３−１",
+					"organization_name": "魚沼市役所　湯之谷庁舎"
+				}
+			}
+		},
+		"9460307": {
+			"postcode": "9460307",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Yokone",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "横根",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460306": {
+			"postcode": "9460306",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Hiranomata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "平野又",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460305": {
+			"postcode": "9460305",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Otochiyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "大栃山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460304": {
+			"postcode": "9460304",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Anazawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "穴沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460303": {
+			"postcode": "9460303",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Oshirakawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "大白川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460302": {
+			"postcode": "9460302",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Imozaya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "芋鞘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460301": {
+			"postcode": "9460301",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Tagoya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "田小屋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460292": {
+			"postcode": "9460292",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "須原",
+			"building_name": "５２０番地",
+			"organization_name": "魚沼市役所　守門庁舎",
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "須原",
+					"building_name": "５２０番地",
+					"organization_name": "魚沼市役所　守門庁舎"
+				}
+			}
+		},
+		"9460226": {
+			"postcode": "9460226",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Okura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "大倉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460225": {
+			"postcode": "9460225",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Mifuchisawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "三渕沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460224": {
+			"postcode": "9460224",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Akatsuchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "赤土",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460223": {
+			"postcode": "9460223",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Okurasawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "大倉沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460222": {
+			"postcode": "9460222",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Fukudashinden",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "福田新田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460221": {
+			"postcode": "9460221",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Sugawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "須川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460216": {
+			"postcode": "9460216",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Suhara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "須原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460215": {
+			"postcode": "9460215",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Oharashinden",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "大原新田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460214": {
+			"postcode": "9460214",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Matsukawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "松川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460213": {
+			"postcode": "9460213",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Hosono",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "細野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460212": {
+			"postcode": "9460212",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Nagatori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "長鳥",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460211": {
+			"postcode": "9460211",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Kaminagatorishinden",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "上長鳥新田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460207": {
+			"postcode": "9460207",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Fukuyamashinden",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "福山新田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460206": {
+			"postcode": "9460206",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Nishimyoshinden",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "西名新田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460205": {
+			"postcode": "9460205",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Miyatsubakishinden",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "宮椿新田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460204": {
+			"postcode": "9460204",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Nishimyo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "西名",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460203": {
+			"postcode": "9460203",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Shibukawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "渋川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460202": {
+			"postcode": "9460202",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Higashinomyo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "東野名",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460201": {
+			"postcode": "9460201",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Takakura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "高倉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460125": {
+			"postcode": "9460125",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Koshimata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "越又",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460124": {
+			"postcode": "9460124",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Oimogawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "大芋川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460123": {
+			"postcode": "9460123",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Mizusawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "水沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460122": {
+			"postcode": "9460122",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Yoshiwara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "吉原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460121": {
+			"postcode": "9460121",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Kotemmyo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "小庭名",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460115": {
+			"postcode": "9460115",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Yamaguchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "山口",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460114": {
+			"postcode": "9460114",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Izumisawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "泉沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460113": {
+			"postcode": "9460113",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Higashinaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "東中",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460112": {
+			"postcode": "9460112",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Tajiri",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "田尻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460111": {
+			"postcode": "9460111",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Namiyanagi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "並柳",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460109": {
+			"postcode": "9460109",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Wada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "和田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460108": {
+			"postcode": "9460108",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Oyagara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "親柄",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460107": {
+			"postcode": "9460107",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Ganzakashita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "雁坂下",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460106": {
+			"postcode": "9460106",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Tanaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "田中",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460105": {
+			"postcode": "9460105",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Kanegasawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "金ケ沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460104": {
+			"postcode": "9460104",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Kuriyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "栗山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460103": {
+			"postcode": "9460103",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Takinomata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "滝之又",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460102": {
+			"postcode": "9460102",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Sodeyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "外山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460101": {
+			"postcode": "9460101",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Obiro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "小平尾",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460088": {
+			"postcode": "9460088",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Oyuonsen",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "大湯温泉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460087": {
+			"postcode": "9460087",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Kamioritate",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "上折立",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460086": {
+			"postcode": "9460086",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Oritatematashinden",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "折立又新田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460085": {
+			"postcode": "9460085",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Shimoritate",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "下折立",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460084": {
+			"postcode": "9460084",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Utsuno",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "宇津野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460083": {
+			"postcode": "9460083",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Minowada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "蓑和田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460082": {
+			"postcode": "9460082",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Yunotaniimogawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "湯之谷芋川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460081": {
+			"postcode": "9460081",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Mugurazawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "葎沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460076": {
+			"postcode": "9460076",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Inokuchishinden",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "井口新田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460075": {
+			"postcode": "9460075",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Yoshida",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "吉田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460073": {
+			"postcode": "9460073",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Osawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "大沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460072": {
+			"postcode": "9460072",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Nanokaichishinden",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "七日市新田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460071": {
+			"postcode": "9460071",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Nanokaichi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "七日市",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460066": {
+			"postcode": "9460066",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Mitsumata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "三ツ又",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460065": {
+			"postcode": "9460065",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Chushizawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "中子沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460064": {
+			"postcode": "9460064",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Ikedaira",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "池平",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460063": {
+			"postcode": "9460063",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Chuka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "中家",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460062": {
+			"postcode": "9460062",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Hitoichi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "一日市",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460061": {
+			"postcode": "9460061",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Shimbo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "新保",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460058": {
+			"postcode": "9460058",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Nakajimashinden",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "中島新田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460057": {
+			"postcode": "9460057",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Nakajima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "中島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460056": {
+			"postcode": "9460056",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Yamadashita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "山田下",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460055": {
+			"postcode": "9460055",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Yamada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "山田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460054": {
+			"postcode": "9460054",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Yonezawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "米沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460053": {
+			"postcode": "9460053",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Nagamatsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "長松",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460052": {
+			"postcode": "9460052",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Eguchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "江口",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460051": {
+			"postcode": "9460051",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Imaizumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "今泉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460043": {
+			"postcode": "9460043",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Aoshima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "青島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460042": {
+			"postcode": "9460042",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Yanagihara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "柳原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460041": {
+			"postcode": "9460041",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Honcho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460038": {
+			"postcode": "9460038",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Isejima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "伊勢島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460037": {
+			"postcode": "9460037",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Mushino",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "虫野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460036": {
+			"postcode": "9460036",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Okashinden",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "岡新田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460035": {
+			"postcode": "9460035",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Tokamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "十日町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460034": {
+			"postcode": "9460034",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Ourashinden",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "大浦新田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460033": {
+			"postcode": "9460033",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Oura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "大浦",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460032": {
+			"postcode": "9460032",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Itagi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "板木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460031": {
+			"postcode": "9460031",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Haramushino",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "原虫野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460025": {
+			"postcode": "9460025",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Koshinden",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "古新田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460024": {
+			"postcode": "9460024",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Nakahara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "中原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460023": {
+			"postcode": "9460023",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Himizo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "干溝",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460022": {
+			"postcode": "9460022",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Kamihara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "上原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460021": {
+			"postcode": "9460021",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Sanashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "佐梨",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460012": {
+			"postcode": "9460012",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Uramachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "浦町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460011": {
+			"postcode": "9460011",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Koidejima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "小出島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460007": {
+			"postcode": "9460007",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Yokkamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "四日町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460006": {
+			"postcode": "9460006",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Nakanoshima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "中之島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460005": {
+			"postcode": "9460005",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Yokocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "横町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460004": {
+			"postcode": "9460004",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Ozukashinden",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "大塚新田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460003": {
+			"postcode": "9460003",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Suwacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "諏訪町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460002": {
+			"postcode": "9460002",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Inaricho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "稲荷町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460001": {
+			"postcode": "9460001",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "Hiwatashishinden",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "日渡新田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		},
+		"9460000": {
+			"postcode": "9460000",
+			"prefecture_name": "Niigata-ken",
+			"city_name": "Uonuma-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "新潟県",
+					"city_name": "魚沼市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "新潟県",
+			"city_code": "魚沼市"
+		}
+	}
+}

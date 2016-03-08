@@ -1,0 +1,447 @@
+{
+	"country_code": "JP",
+	"parent_id": "282",
+	"locale": "ja-Latn",
+	"address": {
+		"2828610": {
+			"postcode": "2828610",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narita-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "（成田国際空港郵便局私書箱第１００１号）",
+			"organization_name": "日本航空インターナショナル　成田空港支店",
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "成田市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "成田市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "（成田国際空港郵便局私書箱第１００１号）",
+					"organization_name": "日本航空インターナショナル　成田空港支店"
+				}
+			}
+		},
+		"2828602": {
+			"postcode": "2828602",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narita-shi",
+			"ward_name": "",
+			"town_name": "古込",
+			"building_name": "字込前１３３",
+			"organization_name": "東京航空局　成田空港事務所",
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "成田市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "成田市",
+					"ward_name": "",
+					"town_name": "古込",
+					"building_name": "字込前１３３",
+					"organization_name": "東京航空局　成田空港事務所"
+				}
+			}
+		},
+		"2820035": {
+			"postcode": "2820035",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Sambu-gun",
+			"ward_name": "Shibayama-machi",
+			"town_name": "Iwayama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "山武郡",
+					"ward_name": "芝山町",
+					"town_name": "岩山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "山武郡"
+		},
+		"2820034": {
+			"postcode": "2820034",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Sambu-gun",
+			"ward_name": "Shibayama-machi",
+			"town_name": "Osato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "山武郡",
+					"ward_name": "芝山町",
+					"town_name": "大里",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "山武郡"
+		},
+		"2820033": {
+			"postcode": "2820033",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Sambu-gun",
+			"ward_name": "Shibayama-machi",
+			"town_name": "Hishida",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "山武郡",
+					"ward_name": "芝山町",
+					"town_name": "菱田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "山武郡"
+		},
+		"2820032": {
+			"postcode": "2820032",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Sambu-gun",
+			"ward_name": "Shibayama-machi",
+			"town_name": "Kayamashinden",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "山武郡",
+					"ward_name": "芝山町",
+					"town_name": "香山新田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "山武郡"
+		},
+		"2820031": {
+			"postcode": "2820031",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Katori-gun",
+			"ward_name": "Tako-machi",
+			"town_name": "Hitokuwada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "香取郡",
+					"ward_name": "多古町",
+					"town_name": "一鍬田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "香取郡"
+		},
+		"2820027": {
+			"postcode": "2820027",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narita-shi",
+			"ward_name": "",
+			"town_name": "Kosuge",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "成田市",
+					"ward_name": "",
+					"town_name": "小菅",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "成田市"
+		},
+		"2820021": {
+			"postcode": "2820021",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narita-shi",
+			"ward_name": "",
+			"town_name": "Komaino",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "成田市",
+					"ward_name": "",
+					"town_name": "駒井野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "成田市"
+		},
+		"2820012": {
+			"postcode": "2820012",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narita-shi",
+			"ward_name": "",
+			"town_name": "Higashisanrizuka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "成田市",
+					"ward_name": "",
+					"town_name": "東三里塚",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "成田市"
+		},
+		"2820011": {
+			"postcode": "2820011",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narita-shi",
+			"ward_name": "",
+			"town_name": "Sanrizuka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "成田市",
+					"ward_name": "",
+					"town_name": "三里塚",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "成田市"
+		},
+		"2820010": {
+			"postcode": "2820010",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narita-shi",
+			"ward_name": "",
+			"town_name": "Kichioka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "成田市",
+					"ward_name": "",
+					"town_name": "吉岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "成田市"
+		},
+		"2820009": {
+			"postcode": "2820009",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narita-shi",
+			"ward_name": "",
+			"town_name": "Toyomi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "成田市",
+					"ward_name": "",
+					"town_name": "十余三",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "成田市"
+		},
+		"2820007": {
+			"postcode": "2820007",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narita-shi",
+			"ward_name": "",
+			"town_name": "Horinochi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "成田市",
+					"ward_name": "",
+					"town_name": "堀之内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "成田市"
+		},
+		"2820006": {
+			"postcode": "2820006",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narita-shi",
+			"ward_name": "",
+			"town_name": "Tokko",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "成田市",
+					"ward_name": "",
+					"town_name": "取香",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "成田市"
+		},
+		"2820005": {
+			"postcode": "2820005",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narita-shi",
+			"ward_name": "",
+			"town_name": "Kinone",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "成田市",
+					"ward_name": "",
+					"town_name": "木の根",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "成田市"
+		},
+		"2820004": {
+			"postcode": "2820004",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narita-shi",
+			"ward_name": "",
+			"town_name": "Furugome",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "成田市",
+					"ward_name": "",
+					"town_name": "古込",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "成田市"
+		},
+		"2820003": {
+			"postcode": "2820003",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narita-shi",
+			"ward_name": "",
+			"town_name": "Toho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "成田市",
+					"ward_name": "",
+					"town_name": "東峰",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "成田市"
+		},
+		"2820002": {
+			"postcode": "2820002",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narita-shi",
+			"ward_name": "",
+			"town_name": "Tenjimmine",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "成田市",
+					"ward_name": "",
+					"town_name": "天神峰",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "成田市"
+		},
+		"2820001": {
+			"postcode": "2820001",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Narita-shi",
+			"ward_name": "",
+			"town_name": "Tennami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "成田市",
+					"ward_name": "",
+					"town_name": "天浪",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "成田市"
+		}
+	}
+}

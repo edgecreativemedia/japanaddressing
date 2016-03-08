@@ -1,0 +1,6145 @@
+{
+	"country_code": "JP",
+	"parent_id": "102",
+	"locale": "ja-Latn",
+	"address": {
+		"1028798": {
+			"postcode": "1028798",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "富士見",
+			"building_name": "２丁目１４−２３",
+			"organization_name": "東京逓信病院",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "富士見",
+					"building_name": "２丁目１４−２３",
+					"organization_name": "東京逓信病院"
+				}
+			}
+		},
+		"1028795": {
+			"postcode": "1028795",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段南",
+			"building_name": "１丁目２−１",
+			"organization_name": "総務省　関東総合通信局",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段南",
+					"building_name": "１丁目２−１",
+					"organization_name": "総務省　関東総合通信局"
+				}
+			}
+		},
+		"1028689": {
+			"postcode": "1028689",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "一番町",
+			"building_name": "１５−２１（麹町郵便局私書箱第４４号）",
+			"organization_name": "株式会社　第一学習社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "一番町",
+					"building_name": "１５−２１（麹町郵便局私書箱第４４号）",
+					"organization_name": "株式会社　第一学習社"
+				}
+			}
+		},
+		"1028688": {
+			"postcode": "1028688",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段南",
+			"building_name": "１丁目２−１（麹町郵便局私書箱第９号）",
+			"organization_name": "東京都千代田区役所",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段南",
+					"building_name": "１丁目２−１（麹町郵便局私書箱第９号）",
+					"organization_name": "東京都千代田区役所"
+				}
+			}
+		},
+		"1028685": {
+			"postcode": "1028685",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "紀尾井町",
+			"building_name": "３−６紀尾井町パークビル８Ｆ",
+			"organization_name": "株式会社　角川ヘラルド・ピクチャーズ",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "紀尾井町",
+					"building_name": "３−６紀尾井町パークビル８Ｆ",
+					"organization_name": "株式会社　角川ヘラルド・ピクチャーズ"
+				}
+			}
+		},
+		"1028680": {
+			"postcode": "1028680",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段北",
+			"building_name": "４丁目２−２９（麹町郵便局私書箱第５７号）",
+			"organization_name": "株式会社　世界文化社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段北",
+					"building_name": "４丁目２−２９（麹町郵便局私書箱第５７号）",
+					"organization_name": "株式会社　世界文化社"
+				}
+			}
+		},
+		"1028679": {
+			"postcode": "1028679",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "五番町",
+			"building_name": "１２−１（麹町郵便局私書箱第７９号）",
+			"organization_name": "株式会社　ソニー・マガジンズ",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "五番町",
+					"building_name": "１２−１（麹町郵便局私書箱第７９号）",
+					"organization_name": "株式会社　ソニー・マガジンズ"
+				}
+			}
+		},
+		"1028678": {
+			"postcode": "1028678",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "一番町",
+			"building_name": "３１（麹町郵便局私書箱第１８号）",
+			"organization_name": "株式会社　錢高組　東京本社・支社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "一番町",
+					"building_name": "３１（麹町郵便局私書箱第１８号）",
+					"organization_name": "株式会社　錢高組　東京本社・支社"
+				}
+			}
+		},
+		"1028677": {
+			"postcode": "1028677",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段南",
+			"building_name": "４丁目３−１５（麹町郵便局私書箱第６０号）",
+			"organization_name": "株式会社　日本金融通信社　（ニッキン）",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段南",
+					"building_name": "４丁目３−１５（麹町郵便局私書箱第６０号）",
+					"organization_name": "株式会社　日本金融通信社　（ニッキン）"
+				}
+			}
+		},
+		"1028671": {
+			"postcode": "1028671",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段南",
+			"building_name": "３丁目５−９（麹町郵便局私書箱第９８号）",
+			"organization_name": "株式会社　エルヴィジョン",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段南",
+					"building_name": "３丁目５−９（麹町郵便局私書箱第９８号）",
+					"organization_name": "株式会社　エルヴィジョン"
+				}
+			}
+		},
+		"1028668": {
+			"postcode": "1028668",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "五番町",
+			"building_name": "７−２（麹町郵便局私書箱第２０号）",
+			"organization_name": "財団法人　日本棋院",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "五番町",
+					"building_name": "７−２（麹町郵便局私書箱第２０号）",
+					"organization_name": "財団法人　日本棋院"
+				}
+			}
+		},
+		"1028667": {
+			"postcode": "1028667",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段北",
+			"building_name": "１丁目１３−１２",
+			"organization_name": "万有製薬　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段北",
+					"building_name": "１丁目１３−１２",
+					"organization_name": "万有製薬　株式会社"
+				}
+			}
+		},
+		"1028666": {
+			"postcode": "1028666",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "四番町",
+			"building_name": "５−３（麹町郵便局私書箱第２号）",
+			"organization_name": "独立行政法人　科学技術振興機構",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "四番町",
+					"building_name": "５−３（麹町郵便局私書箱第２号）",
+					"organization_name": "独立行政法人　科学技術振興機構"
+				}
+			}
+		},
+		"1028660": {
+			"postcode": "1028660",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段南",
+			"building_name": "１丁目３−１（麹町郵便局私書箱第７号）",
+			"organization_name": "株式会社　あおぞら銀行",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段南",
+					"building_name": "１丁目３−１（麹町郵便局私書箱第７号）",
+					"organization_name": "株式会社　あおぞら銀行"
+				}
+			}
+		},
+		"1028656": {
+			"postcode": "1028656",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "隼町",
+			"building_name": "４−１",
+			"organization_name": "日本芸術文化振興会",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "隼町",
+					"building_name": "４−１",
+					"organization_name": "日本芸術文化振興会"
+				}
+			}
+		},
+		"1028655": {
+			"postcode": "1028655",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "平河町",
+			"building_name": "２丁目１番１号住友不動産平河町ビル",
+			"organization_name": "パルファン・クリスチャン・ディオール・ジャポン　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "平河町",
+					"building_name": "２丁目１番１号住友不動産平河町ビル",
+					"organization_name": "パルファン・クリスチャン・ディオール・ジャポン　株式会社"
+				}
+			}
+		},
+		"1028651": {
+			"postcode": "1028651",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "隼町",
+			"building_name": "４−２",
+			"organization_name": "最高裁判所",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "隼町",
+					"building_name": "４−２",
+					"organization_name": "最高裁判所"
+				}
+			}
+		},
+		"1028650": {
+			"postcode": "1028650",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "麹町",
+			"building_name": "５丁目１番地",
+			"organization_name": "財形住宅金融　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "麹町",
+					"building_name": "５丁目１番地",
+					"organization_name": "財形住宅金融　株式会社"
+				}
+			}
+		},
+		"1028645": {
+			"postcode": "1028645",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "平河町",
+			"building_name": "２丁目６−２",
+			"organization_name": "セコム損害保険　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "平河町",
+					"building_name": "２丁目６−２",
+					"organization_name": "セコム損害保険　株式会社"
+				}
+			}
+		},
+		"1028644": {
+			"postcode": "1028644",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "二番町",
+			"building_name": "１４番地日テレ麹町ビル南館３Ｆ",
+			"organization_name": "株式会社　ビーエス日本（ビーエス日テレ）",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "二番町",
+					"building_name": "１４番地日テレ麹町ビル南館３Ｆ",
+					"organization_name": "株式会社　ビーエス日本（ビーエス日テレ）"
+				}
+			}
+		},
+		"1028642": {
+			"postcode": "1028642",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "平河町",
+			"building_name": "２丁目７−４",
+			"organization_name": "株式会社　ユーラシア旅行社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "平河町",
+					"building_name": "２丁目７−４",
+					"organization_name": "株式会社　ユーラシア旅行社"
+				}
+			}
+		},
+		"1028639": {
+			"postcode": "1028639",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "平河町",
+			"building_name": "１丁目６−８平河町貝坂ビル",
+			"organization_name": "あしなが育英会",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "平河町",
+					"building_name": "１丁目６−８平河町貝坂ビル",
+					"organization_name": "あしなが育英会"
+				}
+			}
+		},
+		"1028637": {
+			"postcode": "1028637",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段南",
+			"building_name": "３丁目５−９",
+			"organization_name": "株式会社　日本通信販売連合会",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段南",
+					"building_name": "３丁目５−９",
+					"organization_name": "株式会社　日本通信販売連合会"
+				}
+			}
+		},
+		"1028635": {
+			"postcode": "1028635",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "平河町",
+			"building_name": "２丁目４−２",
+			"organization_name": "全国市長会",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "平河町",
+					"building_name": "２丁目４−２",
+					"organization_name": "全国市長会"
+				}
+			}
+		},
+		"1028633": {
+			"postcode": "1028633",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "平河町",
+			"building_name": "２丁目３−６",
+			"organization_name": "株式会社　たいよう共済",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "平河町",
+					"building_name": "２丁目３−６",
+					"organization_name": "株式会社　たいよう共済"
+				}
+			}
+		},
+		"1028632": {
+			"postcode": "1028632",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段南",
+			"building_name": "３丁目５−９（麹町郵便局私書箱第１０４号）",
+			"organization_name": "プリメイト",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段南",
+					"building_name": "３丁目５−９（麹町郵便局私書箱第１０４号）",
+					"organization_name": "プリメイト"
+				}
+			}
+		},
+		"1028631": {
+			"postcode": "1028631",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "平河町",
+			"building_name": "１丁目１−１ニューワダビル",
+			"organization_name": "野村貿易　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "平河町",
+					"building_name": "１丁目１−１ニューワダビル",
+					"organization_name": "野村貿易　株式会社"
+				}
+			}
+		},
+		"1028630": {
+			"postcode": "1028630",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "平河町",
+			"building_name": "２丁目７番９号ＪＡ共済ビル",
+			"organization_name": "全国共済農業協同組合連合会　全国本部",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "平河町",
+					"building_name": "２丁目７番９号ＪＡ共済ビル",
+					"organization_name": "全国共済農業協同組合連合会　全国本部"
+				}
+			}
+		},
+		"1028628": {
+			"postcode": "1028628",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段南",
+			"building_name": "２丁目１−２１",
+			"organization_name": "きんでん　東京本社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段南",
+					"building_name": "２丁目１−２１",
+					"organization_name": "きんでん　東京本社"
+				}
+			}
+		},
+		"1028627": {
+			"postcode": "1028627",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段南",
+			"building_name": "３丁目５−９",
+			"organization_name": "株式会社　日本通信教育連合会",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段南",
+					"building_name": "３丁目５−９",
+					"organization_name": "株式会社　日本通信教育連合会"
+				}
+			}
+		},
+		"1028626": {
+			"postcode": "1028626",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段南",
+			"building_name": "３丁目５−９（麹町郵便局私書箱第１００号）",
+			"organization_name": "日本能力科学アカデミー",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段南",
+					"building_name": "３丁目５−９（麹町郵便局私書箱第１００号）",
+					"organization_name": "日本能力科学アカデミー"
+				}
+			}
+		},
+		"1028621": {
+			"postcode": "1028621",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "平河町",
+			"building_name": "１丁目４−９",
+			"organization_name": "株式会社　みらい建設グループ",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "平河町",
+					"building_name": "１丁目４−９",
+					"organization_name": "株式会社　みらい建設グループ"
+				}
+			}
+		},
+		"1028620": {
+			"postcode": "1028620",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "平河町",
+			"building_name": "１丁目８−３",
+			"organization_name": "株式会社　ブティック社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "平河町",
+					"building_name": "１丁目８−３",
+					"organization_name": "株式会社　ブティック社"
+				}
+			}
+		},
+		"1028619": {
+			"postcode": "1028619",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "平河町",
+			"building_name": "２丁目１３−３読売情報開発ビル５Ｆ",
+			"organization_name": "（株）　読売ハートサービス",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "平河町",
+					"building_name": "２丁目１３−３読売情報開発ビル５Ｆ",
+					"organization_name": "（株）　読売ハートサービス"
+				}
+			}
+		},
+		"1028618": {
+			"postcode": "1028618",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "平河町",
+			"building_name": "２丁目１３−３",
+			"organization_name": "（株）　読売情報開発",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "平河町",
+					"building_name": "２丁目１３−３",
+					"organization_name": "（株）　読売情報開発"
+				}
+			}
+		},
+		"1028617": {
+			"postcode": "1028617",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段南",
+			"building_name": "３丁目５−９",
+			"organization_name": "株式会社　ディー・エム・ジェイ",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段南",
+					"building_name": "３丁目５−９",
+					"organization_name": "株式会社　ディー・エム・ジェイ"
+				}
+			}
+		},
+		"1028614": {
+			"postcode": "1028614",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "平河町",
+			"building_name": "１丁目１−８",
+			"organization_name": "住銀保証　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "平河町",
+					"building_name": "１丁目１−８",
+					"organization_name": "住銀保証　株式会社"
+				}
+			}
+		},
+		"1028613": {
+			"postcode": "1028613",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "平河町",
+			"building_name": "１丁目２−１０",
+			"organization_name": "伊藤忠フアインケミカル　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "平河町",
+					"building_name": "１丁目２−１０",
+					"organization_name": "伊藤忠フアインケミカル　株式会社"
+				}
+			}
+		},
+		"1028612": {
+			"postcode": "1028612",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "平河町",
+			"building_name": "２丁目１０−１",
+			"organization_name": "株式会社　水中造形センター",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "平河町",
+					"building_name": "２丁目１０−１",
+					"organization_name": "株式会社　水中造形センター"
+				}
+			}
+		},
+		"1028611": {
+			"postcode": "1028611",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "平河町",
+			"building_name": "２丁目４−１６",
+			"organization_name": "株式会社　システム収納センター",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "平河町",
+					"building_name": "２丁目４−１６",
+					"organization_name": "株式会社　システム収納センター"
+				}
+			}
+		},
+		"1028610": {
+			"postcode": "1028610",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "平河町",
+			"building_name": "２丁目４−２全国都市会館内",
+			"organization_name": "生活協同組合全国都市職員災害共済会",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "平河町",
+					"building_name": "２丁目４−２全国都市会館内",
+					"organization_name": "生活協同組合全国都市職員災害共済会"
+				}
+			}
+		},
+		"1028609": {
+			"postcode": "1028609",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "平河町",
+			"building_name": "２丁目１３−３",
+			"organization_name": "株式会社　読売情報開発　読売ファミリー・サークル",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "平河町",
+					"building_name": "２丁目１３−３",
+					"organization_name": "株式会社　読売情報開発　読売ファミリー・サークル"
+				}
+			}
+		},
+		"1028607": {
+			"postcode": "1028607",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "三番町",
+			"building_name": "６−８警察共済ビル",
+			"organization_name": "警察職員生活協同組合",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "三番町",
+					"building_name": "６−８警察共済ビル",
+					"organization_name": "警察職員生活協同組合"
+				}
+			}
+		},
+		"1028606": {
+			"postcode": "1028606",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "平河町",
+			"building_name": "２丁目１番１号住友不動産平河町ビル",
+			"organization_name": "ＬＶＭＨフレグランスブランズ　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "平河町",
+					"building_name": "２丁目１番１号住友不動産平河町ビル",
+					"organization_name": "ＬＶＭＨフレグランスブランズ　株式会社"
+				}
+			}
+		},
+		"1028604": {
+			"postcode": "1028604",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "麹町",
+			"building_name": "３丁目７−４秩父屋ビル７階",
+			"organization_name": "株式会社　放送出版エージェンシー",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "麹町",
+					"building_name": "３丁目７−４秩父屋ビル７階",
+					"organization_name": "株式会社　放送出版エージェンシー"
+				}
+			}
+		},
+		"1028603": {
+			"postcode": "1028603",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "平河町",
+			"building_name": "２丁目６−４",
+			"organization_name": "社団法人　日本船主協会",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "平河町",
+					"building_name": "２丁目６−４",
+					"organization_name": "社団法人　日本船主協会"
+				}
+			}
+		},
+		"1028602": {
+			"postcode": "1028602",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "麹町",
+			"building_name": "３丁目７−４秩父屋ビル７階",
+			"organization_name": "株式会社　放送出版プロモーション",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "麹町",
+					"building_name": "３丁目７−４秩父屋ビル７階",
+					"organization_name": "株式会社　放送出版プロモーション"
+				}
+			}
+		},
+		"1028601": {
+			"postcode": "1028601",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "平河町",
+			"building_name": "２丁目４−９地共済センタービル",
+			"organization_name": "地方職員　共済組合",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "平河町",
+					"building_name": "２丁目４−９地共済センタービル",
+					"organization_name": "地方職員　共済組合"
+				}
+			}
+		},
+		"1028588": {
+			"postcode": "1028588",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "三番町",
+			"building_name": "６−８警察共済ビル",
+			"organization_name": "警察共済組合　本部",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "三番町",
+					"building_name": "６−８警察共済ビル",
+					"organization_name": "警察共済組合　本部"
+				}
+			}
+		},
+		"1028585": {
+			"postcode": "1028585",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "紀尾井町",
+			"building_name": "１−２",
+			"organization_name": "赤坂プリンスホテル",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "紀尾井町",
+					"building_name": "１−２",
+					"organization_name": "赤坂プリンスホテル"
+				}
+			}
+		},
+		"1028584": {
+			"postcode": "1028584",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "富士見",
+			"building_name": "１丁目８番１９号",
+			"organization_name": "株式会社　ＫＡＤＯＫＡＷＡ　アスキー・メディアワークス事業局",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "富士見",
+					"building_name": "１丁目８番１９号",
+					"organization_name": "株式会社　ＫＡＤＯＫＡＷＡ　アスキー・メディアワークス事業局"
+				}
+			}
+		},
+		"1028580": {
+			"postcode": "1028580",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "紀尾井町",
+			"building_name": "６−１２紀尾井町福田家ビル",
+			"organization_name": "株式会社　インフィニトラベルインフォメーション",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "紀尾井町",
+					"building_name": "６−１２紀尾井町福田家ビル",
+					"organization_name": "株式会社　インフィニトラベルインフォメーション"
+				}
+			}
+		},
+		"1028578": {
+			"postcode": "1028578",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "紀尾井町",
+			"building_name": "４番１号",
+			"organization_name": "株式会社　ニュー・オータニ",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "紀尾井町",
+					"building_name": "４番１号",
+					"organization_name": "株式会社　ニュー・オータニ"
+				}
+			}
+		},
+		"1028577": {
+			"postcode": "1028577",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "紀尾井町",
+			"building_name": "３−２３",
+			"organization_name": "社団法人　日本民間放送連盟",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "紀尾井町",
+					"building_name": "３−２３",
+					"organization_name": "社団法人　日本民間放送連盟"
+				}
+			}
+		},
+		"1028575": {
+			"postcode": "1028575",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段北",
+			"building_name": "４丁目２−１市ヶ谷東急ビル",
+			"organization_name": "全国健康保険協会",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段北",
+					"building_name": "４丁目２−１市ヶ谷東急ビル",
+					"organization_name": "全国健康保険協会"
+				}
+			}
+		},
+		"1028573": {
+			"postcode": "1028573",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "飯田橋",
+			"building_name": "２丁目１８−４",
+			"organization_name": "株式会社　大塚商会",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "飯田橋",
+					"building_name": "２丁目１８−４",
+					"organization_name": "株式会社　大塚商会"
+				}
+			}
+		},
+		"1028571": {
+			"postcode": "1028571",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "紀尾井町",
+			"building_name": "７−１",
+			"organization_name": "ＳＪハウス",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "紀尾井町",
+					"building_name": "７−１",
+					"organization_name": "ＳＪハウス"
+				}
+			}
+		},
+		"1028570": {
+			"postcode": "1028570",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "紀尾井町",
+			"building_name": "３−３",
+			"organization_name": "ビーエーエスエフジャパン　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "紀尾井町",
+					"building_name": "３−３",
+					"organization_name": "ビーエーエスエフジャパン　株式会社"
+				}
+			}
+		},
+		"1028569": {
+			"postcode": "1028569",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "紀尾井町",
+			"building_name": "３−６",
+			"organization_name": "株式会社　ニッポン放送プロジェクト",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "紀尾井町",
+					"building_name": "３−６",
+					"organization_name": "株式会社　ニッポン放送プロジェクト"
+				}
+			}
+		},
+		"1028567": {
+			"postcode": "1028567",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "紀尾井町",
+			"building_name": "４−７",
+			"organization_name": "財団法人　日本海事協会",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "紀尾井町",
+					"building_name": "４−７",
+					"organization_name": "財団法人　日本海事協会"
+				}
+			}
+		},
+		"1028560": {
+			"postcode": "1028560",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "紀尾井町",
+			"building_name": "６−３",
+			"organization_name": "ハウス食品　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "紀尾井町",
+					"building_name": "６−３",
+					"organization_name": "ハウス食品　株式会社"
+				}
+			}
+		},
+		"1028559": {
+			"postcode": "1028559",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "紀尾井町",
+			"building_name": "３−２３文藝春秋ビル新館",
+			"organization_name": "公益社団法人　日本文藝家協会",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "紀尾井町",
+					"building_name": "３−２３文藝春秋ビル新館",
+					"organization_name": "公益社団法人　日本文藝家協会"
+				}
+			}
+		},
+		"1028558": {
+			"postcode": "1028558",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "紀尾井町",
+			"building_name": "３−１２",
+			"organization_name": "株式会社　スタッフ・サービス　千代田支社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "紀尾井町",
+					"building_name": "３−１２",
+					"organization_name": "株式会社　スタッフ・サービス　千代田支社"
+				}
+			}
+		},
+		"1028557": {
+			"postcode": "1028557",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "紀尾井町",
+			"building_name": "３−２８",
+			"organization_name": "ＭＢＥ　紀尾井町店",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "紀尾井町",
+					"building_name": "３−２８",
+					"organization_name": "ＭＢＥ　紀尾井町店"
+				}
+			}
+		},
+		"1028556": {
+			"postcode": "1028556",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "紀尾井町",
+			"building_name": "３−２７",
+			"organization_name": "社団法人　全国自治体病院協議会",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "紀尾井町",
+					"building_name": "３−２７",
+					"organization_name": "社団法人　全国自治体病院協議会"
+				}
+			}
+		},
+		"1028555": {
+			"postcode": "1028555",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "紀尾井町",
+			"building_name": "３−６秀和紀尾井町パークビル６Ｆ",
+			"organization_name": "財団法人　新エネルギー財団",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "紀尾井町",
+					"building_name": "３−６秀和紀尾井町パークビル６Ｆ",
+					"organization_name": "財団法人　新エネルギー財団"
+				}
+			}
+		},
+		"1028554": {
+			"postcode": "1028554",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "紀尾井町",
+			"building_name": "７−１",
+			"organization_name": "上智大学　（上智学院）",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "紀尾井町",
+					"building_name": "７−１",
+					"organization_name": "上智大学　（上智学院）"
+				}
+			}
+		},
+		"1028553": {
+			"postcode": "1028553",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "紀尾井町",
+			"building_name": "３−２３",
+			"organization_name": "伊藤園　新俳句大賞事務局",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "紀尾井町",
+					"building_name": "３−２３",
+					"organization_name": "伊藤園　新俳句大賞事務局"
+				}
+			}
+		},
+		"1028552": {
+			"postcode": "1028552",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "富士見",
+			"building_name": "２丁目１３−１２",
+			"organization_name": "株式会社　ＫＡＤＯＫＡＷＡ",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "富士見",
+					"building_name": "２丁目１３−１２",
+					"organization_name": "株式会社　ＫＡＤＯＫＡＷＡ"
+				}
+			}
+		},
+		"1028550": {
+			"postcode": "1028550",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "二番町",
+			"building_name": "３番地麹町スクエア７Ｆ",
+			"organization_name": "三菱伸銅　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "二番町",
+					"building_name": "３番地麹町スクエア７Ｆ",
+					"organization_name": "三菱伸銅　株式会社"
+				}
+			}
+		},
+		"1028543": {
+			"postcode": "1028543",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "紀尾井町",
+			"building_name": "３−１２",
+			"organization_name": "扶桑レクセル　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "紀尾井町",
+					"building_name": "３−１２",
+					"organization_name": "扶桑レクセル　株式会社"
+				}
+			}
+		},
+		"1028541": {
+			"postcode": "1028541",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "紀尾井町",
+			"building_name": "３−２７",
+			"organization_name": "海洋水産資源開発センター",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "紀尾井町",
+					"building_name": "３−２７",
+					"organization_name": "海洋水産資源開発センター"
+				}
+			}
+		},
+		"1028540": {
+			"postcode": "1028540",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "麹町",
+			"building_name": "４丁目１−４西脇ビル",
+			"organization_name": "株式会社　かんき出版",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "麹町",
+					"building_name": "４丁目１−４西脇ビル",
+					"organization_name": "株式会社　かんき出版"
+				}
+			}
+		},
+		"1028539": {
+			"postcode": "1028539",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段北",
+			"building_name": "１−１４−６九段坂上ＫＳビル",
+			"organization_name": "日本工営　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段北",
+					"building_name": "１−１４−６九段坂上ＫＳビル",
+					"organization_name": "日本工営　株式会社"
+				}
+			}
+		},
+		"1028533": {
+			"postcode": "1028533",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "麹町",
+			"building_name": "４丁目４−１ＴＫ麹町ビル８Ｆ",
+			"organization_name": "株式会社　エスコム",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "麹町",
+					"building_name": "４丁目４−１ＴＫ麹町ビル８Ｆ",
+					"organization_name": "株式会社　エスコム"
+				}
+			}
+		},
+		"1028532": {
+			"postcode": "1028532",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "麹町",
+			"building_name": "３丁目２麹町共同ビル",
+			"organization_name": "全国土木建築　国民健康保険組合　関東事務所",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "麹町",
+					"building_name": "３丁目２麹町共同ビル",
+					"organization_name": "全国土木建築　国民健康保険組合　関東事務所"
+				}
+			}
+		},
+		"1028531": {
+			"postcode": "1028531",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "麹町",
+			"building_name": "１丁目６−９",
+			"organization_name": "クレジット債権管理組合",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "麹町",
+					"building_name": "１丁目６−９",
+					"organization_name": "クレジット債権管理組合"
+				}
+			}
+		},
+		"1028530": {
+			"postcode": "1028530",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "麹町",
+			"building_name": "５丁目７−２（第３１森ビル６階）",
+			"organization_name": "サントリー　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "麹町",
+					"building_name": "５丁目７−２（第３１森ビル６階）",
+					"organization_name": "サントリー　株式会社"
+				}
+			}
+		},
+		"1028529": {
+			"postcode": "1028529",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "麹町",
+			"building_name": "５丁目１−６",
+			"organization_name": "真柄建設　株式会社　東京支店",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "麹町",
+					"building_name": "５丁目１−６",
+					"organization_name": "真柄建設　株式会社　東京支店"
+				}
+			}
+		},
+		"1028528": {
+			"postcode": "1028528",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "麹町",
+			"building_name": "３−２",
+			"organization_name": "株式会社　生産日本社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "麹町",
+					"building_name": "３−２",
+					"organization_name": "株式会社　生産日本社"
+				}
+			}
+		},
+		"1028522": {
+			"postcode": "1028522",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "三番町",
+			"building_name": "３−８泉館三番町",
+			"organization_name": "株式会社　協同宣伝",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "三番町",
+					"building_name": "３−８泉館三番町",
+					"organization_name": "株式会社　協同宣伝"
+				}
+			}
+		},
+		"1028520": {
+			"postcode": "1028520",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "麹町",
+			"building_name": "１丁目１０−１",
+			"organization_name": "株式会社　ミカミ",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "麹町",
+					"building_name": "１丁目１０−１",
+					"organization_name": "株式会社　ミカミ"
+				}
+			}
+		},
+		"1028516": {
+			"postcode": "1028516",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "麹町",
+			"building_name": "１丁目４",
+			"organization_name": "松井証券　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "麹町",
+					"building_name": "１丁目４",
+					"organization_name": "松井証券　株式会社"
+				}
+			}
+		},
+		"1028515": {
+			"postcode": "1028515",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "紀尾井町",
+			"building_name": "３−２３文芸春秋ビル新館",
+			"organization_name": "株式会社　サンケイリビング新聞社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "紀尾井町",
+					"building_name": "３−２３文芸春秋ビル新館",
+					"organization_name": "株式会社　サンケイリビング新聞社"
+				}
+			}
+		},
+		"1028512": {
+			"postcode": "1028512",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段南",
+			"building_name": "４−６−１３−７０４",
+			"organization_name": "株式会社　日本エディターズ",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段南",
+					"building_name": "４−６−１３−７０４",
+					"organization_name": "株式会社　日本エディターズ"
+				}
+			}
+		},
+		"1028511": {
+			"postcode": "1028511",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "麹町",
+			"building_name": "４丁目５",
+			"organization_name": "株式会社　アダック",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "麹町",
+					"building_name": "４丁目５",
+					"organization_name": "株式会社　アダック"
+				}
+			}
+		},
+		"1028510": {
+			"postcode": "1028510",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "一番町",
+			"building_name": "２１番地",
+			"organization_name": "ジブラルタ生命保険　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "一番町",
+					"building_name": "２１番地",
+					"organization_name": "ジブラルタ生命保険　株式会社"
+				}
+			}
+		},
+		"1028508": {
+			"postcode": "1028508",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "飯田橋",
+			"building_name": "３丁目６番５号",
+			"organization_name": "医療法人社団　こころとからだの元氣プラザ",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "飯田橋",
+					"building_name": "３丁目６番５号",
+					"organization_name": "医療法人社団　こころとからだの元氣プラザ"
+				}
+			}
+		},
+		"1028506": {
+			"postcode": "1028506",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "麹町",
+			"building_name": "１丁目１−１",
+			"organization_name": "株式会社　ワコール　東京支社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "麹町",
+					"building_name": "１丁目１−１",
+					"organization_name": "株式会社　ワコール　東京支社"
+				}
+			}
+		},
+		"1028504": {
+			"postcode": "1028504",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "麹町",
+			"building_name": "５丁目２−１",
+			"organization_name": "株式会社　オリエントコーポレーション　首都圏管理センター",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "麹町",
+					"building_name": "５丁目２−１",
+					"organization_name": "株式会社　オリエントコーポレーション　首都圏管理センター"
+				}
+			}
+		},
+		"1028503": {
+			"postcode": "1028503",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "麹町",
+			"building_name": "５丁目２−１",
+			"organization_name": "株式会社　オリエントコーポレーション",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "麹町",
+					"building_name": "５丁目２−１",
+					"organization_name": "株式会社　オリエントコーポレーション"
+				}
+			}
+		},
+		"1028502": {
+			"postcode": "1028502",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段北",
+			"building_name": "４−１−２０",
+			"organization_name": "一般財団法人　歯科医療振興財団",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段北",
+					"building_name": "４−１−２０",
+					"organization_name": "一般財団法人　歯科医療振興財団"
+				}
+			}
+		},
+		"1028489": {
+			"postcode": "1028489",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "麹町",
+			"building_name": "２−４−１麹町大通りビル８階",
+			"organization_name": "日東紡績　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "麹町",
+					"building_name": "２−４−１麹町大通りビル８階",
+					"organization_name": "日東紡績　株式会社"
+				}
+			}
+		},
+		"1028488": {
+			"postcode": "1028488",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段北",
+			"building_name": "１丁目１１−５森会館",
+			"organization_name": "株式会社　スポーツマーケティングプロパティーズ",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段北",
+					"building_name": "１丁目１１−５森会館",
+					"organization_name": "株式会社　スポーツマーケティングプロパティーズ"
+				}
+			}
+		},
+		"1028484": {
+			"postcode": "1028484",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "麹町",
+			"building_name": "１丁目１０麹町広洋ビル",
+			"organization_name": "トラベラー　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "麹町",
+					"building_name": "１丁目１０麹町広洋ビル",
+					"organization_name": "トラベラー　株式会社"
+				}
+			}
+		},
+		"1028483": {
+			"postcode": "1028483",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "麹町",
+			"building_name": "１丁目４−４",
+			"organization_name": "三菱電機情報ネットワーク　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "麹町",
+					"building_name": "１丁目４−４",
+					"organization_name": "三菱電機情報ネットワーク　株式会社"
+				}
+			}
+		},
+		"1028481": {
+			"postcode": "1028481",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "麹町",
+			"building_name": "５丁目１",
+			"organization_name": "株式会社　コングレ",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "麹町",
+					"building_name": "５丁目１",
+					"organization_name": "株式会社　コングレ"
+				}
+			}
+		},
+		"1028477": {
+			"postcode": "1028477",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "麹町",
+			"building_name": "１丁目７",
+			"organization_name": "プルデンシャル生命保険　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "麹町",
+					"building_name": "１丁目７",
+					"organization_name": "プルデンシャル生命保険　株式会社"
+				}
+			}
+		},
+		"1028474": {
+			"postcode": "1028474",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "麹町",
+			"building_name": "１丁目３",
+			"organization_name": "財団法人　河川情報センター",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "麹町",
+					"building_name": "１丁目３",
+					"organization_name": "財団法人　河川情報センター"
+				}
+			}
+		},
+		"1028470": {
+			"postcode": "1028470",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "六番町",
+			"building_name": "１４−１",
+			"organization_name": "学校法人　雙葉学園",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "六番町",
+					"building_name": "１４−１",
+					"organization_name": "学校法人　雙葉学園"
+				}
+			}
+		},
+		"1028468": {
+			"postcode": "1028468",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "六番町",
+			"building_name": "４番地",
+			"organization_name": "バクスター　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "六番町",
+					"building_name": "４番地",
+					"organization_name": "バクスター　株式会社"
+				}
+			}
+		},
+		"1028466": {
+			"postcode": "1028466",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "二番町",
+			"building_name": "８−８",
+			"organization_name": "株式会社　セブンドリーム・ドットコム",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "二番町",
+					"building_name": "８−８",
+					"organization_name": "株式会社　セブンドリーム・ドットコム"
+				}
+			}
+		},
+		"1028465": {
+			"postcode": "1028465",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "六番町",
+			"building_name": "６−２８",
+			"organization_name": "住友大阪セメント　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "六番町",
+					"building_name": "６−２８",
+					"organization_name": "住友大阪セメント　株式会社"
+				}
+			}
+		},
+		"1028464": {
+			"postcode": "1028464",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "六番町",
+			"building_name": "１",
+			"organization_name": "全日本自治団体　労働組合",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "六番町",
+					"building_name": "１",
+					"organization_name": "全日本自治団体　労働組合"
+				}
+			}
+		},
+		"1028462": {
+			"postcode": "1028462",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "飯田橋",
+			"building_name": "３丁目１０−１０",
+			"organization_name": "ＫＤＤＩ　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "飯田橋",
+					"building_name": "３丁目１０−１０",
+					"organization_name": "ＫＤＤＩ　株式会社"
+				}
+			}
+		},
+		"1028461": {
+			"postcode": "1028461",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "飯田橋",
+			"building_name": "３丁目１０−１０",
+			"organization_name": "ＫＤＤＩ　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "飯田橋",
+					"building_name": "３丁目１０−１０",
+					"organization_name": "ＫＤＤＩ　株式会社"
+				}
+			}
+		},
+		"1028460": {
+			"postcode": "1028460",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "飯田橋",
+			"building_name": "３丁目１０−１０",
+			"organization_name": "ＫＤＤＩ　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "飯田橋",
+					"building_name": "３丁目１０−１０",
+					"organization_name": "ＫＤＤＩ　株式会社"
+				}
+			}
+		},
+		"1028459": {
+			"postcode": "1028459",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "四番町",
+			"building_name": "７",
+			"organization_name": "興研　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "四番町",
+					"building_name": "７",
+					"organization_name": "興研　株式会社"
+				}
+			}
+		},
+		"1028455": {
+			"postcode": "1028455",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "二番町",
+			"building_name": "８−８",
+			"organization_name": "株式会社　セブン―イレブン・ジャパン",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "二番町",
+					"building_name": "８−８",
+					"organization_name": "株式会社　セブン―イレブン・ジャパン"
+				}
+			}
+		},
+		"1028452": {
+			"postcode": "1028452",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "二番町",
+			"building_name": "８−８",
+			"organization_name": "株式会社　セブン＆アイ・ホールディングス",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "二番町",
+					"building_name": "８−８",
+					"organization_name": "株式会社　セブン＆アイ・ホールディングス"
+				}
+			}
+		},
+		"1028451": {
+			"postcode": "1028451",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "四番町",
+			"building_name": "５",
+			"organization_name": "東亜建設工業　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "四番町",
+					"building_name": "５",
+					"organization_name": "東亜建設工業　株式会社"
+				}
+			}
+		},
+		"1028450": {
+			"postcode": "1028450",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "二番町",
+			"building_name": "８−８",
+			"organization_name": "（株）　イトーヨーカ堂",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "二番町",
+					"building_name": "８−８",
+					"organization_name": "（株）　イトーヨーカ堂"
+				}
+			}
+		},
+		"1028447": {
+			"postcode": "1028447",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "四番町",
+			"building_name": "２番地１２",
+			"organization_name": "東洋鋼鈑　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "四番町",
+					"building_name": "２番地１２",
+					"organization_name": "東洋鋼鈑　株式会社"
+				}
+			}
+		},
+		"1028445": {
+			"postcode": "1028445",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "富士見",
+			"building_name": "２丁目１７−１",
+			"organization_name": "法政大学　通信教育部",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "富士見",
+					"building_name": "２丁目１７−１",
+					"organization_name": "法政大学　通信教育部"
+				}
+			}
+		},
+		"1028440": {
+			"postcode": "1028440",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "二番町",
+			"building_name": "３−１３",
+			"organization_name": "株式会社　サンテック",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "二番町",
+					"building_name": "３−１３",
+					"organization_name": "株式会社　サンテック"
+				}
+			}
+		},
+		"1028438": {
+			"postcode": "1028438",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "二番町",
+			"building_name": "１２−８ロイヤルビルディング",
+			"organization_name": "株式会社　セブン＆アイ出版",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "二番町",
+					"building_name": "１２−８ロイヤルビルディング",
+					"organization_name": "株式会社　セブン＆アイ出版"
+				}
+			}
+		},
+		"1028437": {
+			"postcode": "1028437",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "二番町",
+			"building_name": "８−８",
+			"organization_name": "株式会社　アイワイ・カード・サービス",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "二番町",
+					"building_name": "８−８",
+					"organization_name": "株式会社　アイワイ・カード・サービス"
+				}
+			}
+		},
+		"1028435": {
+			"postcode": "1028435",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "二番町",
+			"building_name": "８−８",
+			"organization_name": "株式会社　セブン・フィナンシャルサービス",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "二番町",
+					"building_name": "８−８",
+					"organization_name": "株式会社　セブン・フィナンシャルサービス"
+				}
+			}
+		},
+		"1028433": {
+			"postcode": "1028433",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "二番町",
+			"building_name": "１１−５",
+			"organization_name": "株式会社　細川洋行",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "二番町",
+					"building_name": "１１−５",
+					"organization_name": "株式会社　細川洋行"
+				}
+			}
+		},
+		"1028432": {
+			"postcode": "1028432",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "二番町",
+			"building_name": "８−８",
+			"organization_name": "株式会社　ヨークインシュアランス",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "二番町",
+					"building_name": "８−８",
+					"organization_name": "株式会社　ヨークインシュアランス"
+				}
+			}
+		},
+		"1028430": {
+			"postcode": "1028430",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "二番町",
+			"building_name": "５−１",
+			"organization_name": "第一火災海上保険　相互会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "二番町",
+					"building_name": "５−１",
+					"organization_name": "第一火災海上保険　相互会社"
+				}
+			}
+		},
+		"1028429": {
+			"postcode": "1028429",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "二番町",
+			"building_name": "８−８",
+			"organization_name": "株式会社　メリーアン",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "二番町",
+					"building_name": "８−８",
+					"organization_name": "株式会社　メリーアン"
+				}
+			}
+		},
+		"1028427": {
+			"postcode": "1028427",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "二番町",
+			"building_name": "８−８",
+			"organization_name": "株式会社　オッシュマンズ・ジャパン",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "二番町",
+					"building_name": "８−８",
+					"organization_name": "株式会社　オッシュマンズ・ジャパン"
+				}
+			}
+		},
+		"1028426": {
+			"postcode": "1028426",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "二番町",
+			"building_name": "８−８",
+			"organization_name": "株式会社　セブン・ミールサービス",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "二番町",
+					"building_name": "８−８",
+					"organization_name": "株式会社　セブン・ミールサービス"
+				}
+			}
+		},
+		"1028424": {
+			"postcode": "1028424",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "飯田橋",
+			"building_name": "２丁目１−１１",
+			"organization_name": "大日本商事　（株）",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "飯田橋",
+					"building_name": "２丁目１−１１",
+					"organization_name": "大日本商事　（株）"
+				}
+			}
+		},
+		"1028421": {
+			"postcode": "1028421",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "二番町",
+			"building_name": "４−２",
+			"organization_name": "電設工業　健康保険組合",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "二番町",
+					"building_name": "４−２",
+					"organization_name": "電設工業　健康保険組合"
+				}
+			}
+		},
+		"1028420": {
+			"postcode": "1028420",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "一番町",
+			"building_name": "１０オーロラビル",
+			"organization_name": "オーロラ　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "一番町",
+					"building_name": "１０オーロラビル",
+					"organization_name": "オーロラ　株式会社"
+				}
+			}
+		},
+		"1028419": {
+			"postcode": "1028419",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "一番町",
+			"building_name": "２５番地",
+			"organization_name": "地方公共団体情報システム機構",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "一番町",
+					"building_name": "２５番地",
+					"organization_name": "地方公共団体情報システム機構"
+				}
+			}
+		},
+		"1028417": {
+			"postcode": "1028417",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "二番町",
+			"building_name": "８−８",
+			"organization_name": "株式会社　ヨークマート",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "二番町",
+					"building_name": "８−８",
+					"organization_name": "株式会社　ヨークマート"
+				}
+			}
+		},
+		"1028415": {
+			"postcode": "1028415",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "二番町",
+			"building_name": "８−８",
+			"organization_name": "株式会社　セブン＆アイ・フードシステムズ",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "二番町",
+					"building_name": "８−８",
+					"organization_name": "株式会社　セブン＆アイ・フードシステムズ"
+				}
+			}
+		},
+		"1028414": {
+			"postcode": "1028414",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "三番町",
+			"building_name": "９−１５ホスピタルプラザビル",
+			"organization_name": "一般社団法人　日本病院会",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "三番町",
+					"building_name": "９−１５ホスピタルプラザビル",
+					"organization_name": "一般社団法人　日本病院会"
+				}
+			}
+		},
+		"1028411": {
+			"postcode": "1028411",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "一番町",
+			"building_name": "１９",
+			"organization_name": "社団法人　全国農業共済協会",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "一番町",
+					"building_name": "１９",
+					"organization_name": "社団法人　全国農業共済協会"
+				}
+			}
+		},
+		"1028410": {
+			"postcode": "1028410",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "一番町",
+			"building_name": "２２−１一番町セントラルビル",
+			"organization_name": "三進興産　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "一番町",
+					"building_name": "２２−１一番町セントラルビル",
+					"organization_name": "三進興産　株式会社"
+				}
+			}
+		},
+		"1028407": {
+			"postcode": "1028407",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "一番町",
+			"building_name": "２９−６",
+			"organization_name": "株式会社　ぶんか社　編集局",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "一番町",
+					"building_name": "２９−６",
+					"organization_name": "株式会社　ぶんか社　編集局"
+				}
+			}
+		},
+		"1028406": {
+			"postcode": "1028406",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "一番町",
+			"building_name": "２９−６",
+			"organization_name": "株式会社　ぶんか社　営業局",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "一番町",
+					"building_name": "２９−６",
+					"organization_name": "株式会社　ぶんか社　営業局"
+				}
+			}
+		},
+		"1028405": {
+			"postcode": "1028405",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "一番町",
+			"building_name": "２９−６",
+			"organization_name": "株式会社　ぶんか社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "一番町",
+					"building_name": "２９−６",
+					"organization_name": "株式会社　ぶんか社"
+				}
+			}
+		},
+		"1028404": {
+			"postcode": "1028404",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段北",
+			"building_name": "１丁目１３番５号",
+			"organization_name": "三菱電機エンジニアリング　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段北",
+					"building_name": "１丁目１３番５号",
+					"organization_name": "三菱電機エンジニアリング　株式会社"
+				}
+			}
+		},
+		"1028402": {
+			"postcode": "1028402",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "一番町",
+			"building_name": "１６共同ビル",
+			"organization_name": "フェデラルエクスプレスジャパン　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "一番町",
+					"building_name": "１６共同ビル",
+					"organization_name": "フェデラルエクスプレスジャパン　株式会社"
+				}
+			}
+		},
+		"1028401": {
+			"postcode": "1028401",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "紀尾井町",
+			"building_name": "３−２３文芸春秋ビル新館",
+			"organization_name": "株式会社　リビングプロシード",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "紀尾井町",
+					"building_name": "３−２３文芸春秋ビル新館",
+					"organization_name": "株式会社　リビングプロシード"
+				}
+			}
+		},
+		"1028388": {
+			"postcode": "1028388",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "一番町",
+			"building_name": "２５",
+			"organization_name": "株式会社　宝島社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "一番町",
+					"building_name": "２５",
+					"organization_name": "株式会社　宝島社"
+				}
+			}
+		},
+		"1028383": {
+			"postcode": "1028383",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "一番町",
+			"building_name": "２３−３",
+			"organization_name": "コープケミカル　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "一番町",
+					"building_name": "２３−３",
+					"organization_name": "コープケミカル　株式会社"
+				}
+			}
+		},
+		"1028382": {
+			"postcode": "1028382",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "一番町",
+			"building_name": "６−６",
+			"organization_name": "東京硝子　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "一番町",
+					"building_name": "６−６",
+					"organization_name": "東京硝子　株式会社"
+				}
+			}
+		},
+		"1028381": {
+			"postcode": "1028381",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "一番町",
+			"building_name": "１",
+			"organization_name": "英国大使館",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "一番町",
+					"building_name": "１",
+					"organization_name": "英国大使館"
+				}
+			}
+		},
+		"1028377": {
+			"postcode": "1028377",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "五番町",
+			"building_name": "５",
+			"organization_name": "実教出版　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "五番町",
+					"building_name": "５",
+					"organization_name": "実教出版　株式会社"
+				}
+			}
+		},
+		"1028373": {
+			"postcode": "1028373",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "一番町",
+			"building_name": "１２",
+			"organization_name": "冨士機材　（株）",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "一番町",
+					"building_name": "１２",
+					"organization_name": "冨士機材　（株）"
+				}
+			}
+		},
+		"1028372": {
+			"postcode": "1028372",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "五番町",
+			"building_name": "１−１",
+			"organization_name": "株式会社　明光商会",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "五番町",
+					"building_name": "１−１",
+					"organization_name": "株式会社　明光商会"
+				}
+			}
+		},
+		"1028370": {
+			"postcode": "1028370",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "四番町",
+			"building_name": "６−１１",
+			"organization_name": "株式会社　伊勢半",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "四番町",
+					"building_name": "６−１１",
+					"organization_name": "株式会社　伊勢半"
+				}
+			}
+		},
+		"1028364": {
+			"postcode": "1028364",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段南",
+			"building_name": "１丁目２−１",
+			"organization_name": "九段ＰＦＩサービス　（株）",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段南",
+					"building_name": "１丁目２−１",
+					"organization_name": "九段ＰＦＩサービス　（株）"
+				}
+			}
+		},
+		"1028362": {
+			"postcode": "1028362",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "四番町",
+			"building_name": "４−２",
+			"organization_name": "東工コーセン　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "四番町",
+					"building_name": "４−２",
+					"organization_name": "東工コーセン　株式会社"
+				}
+			}
+		},
+		"1028357": {
+			"postcode": "1028357",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "三番町",
+			"building_name": "１２番地",
+			"organization_name": "学校法人　大妻学院　大妻女子大学　大妻女子大学短期大学部　大妻中学校　大妻高等学校",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "三番町",
+					"building_name": "１２番地",
+					"organization_name": "学校法人　大妻学院　大妻女子大学　大妻女子大学短期大学部　大妻中学校　大妻高等学校"
+				}
+			}
+		},
+		"1028356": {
+			"postcode": "1028356",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "三番町",
+			"building_name": "５",
+			"organization_name": "社団法人　第二地方銀行協会",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "三番町",
+					"building_name": "５",
+					"organization_name": "社団法人　第二地方銀行協会"
+				}
+			}
+		},
+		"1028353": {
+			"postcode": "1028353",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "六番町",
+			"building_name": "４−５",
+			"organization_name": "（株）　ソニー・ミュージックエンタテインメント",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "六番町",
+					"building_name": "４−５",
+					"organization_name": "（株）　ソニー・ミュージックエンタテインメント"
+				}
+			}
+		},
+		"1028350": {
+			"postcode": "1028350",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "三番町",
+			"building_name": "５",
+			"organization_name": "株式会社　日新",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "三番町",
+					"building_name": "５",
+					"organization_name": "株式会社　日新"
+				}
+			}
+		},
+		"1028341": {
+			"postcode": "1028341",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "三番町",
+			"building_name": "２２",
+			"organization_name": "学校法人　東京家政学院",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "三番町",
+					"building_name": "２２",
+					"organization_name": "学校法人　東京家政学院"
+				}
+			}
+		},
+		"1028336": {
+			"postcode": "1028336",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "三番町",
+			"building_name": "６−１６",
+			"organization_name": "学校法人　二松学舎",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "三番町",
+					"building_name": "６−１６",
+					"organization_name": "学校法人　二松学舎"
+				}
+			}
+		},
+		"1028335": {
+			"postcode": "1028335",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "三番町",
+			"building_name": "３０−２財協ビル",
+			"organization_name": "財団法人　大蔵財務協会",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "三番町",
+					"building_name": "３０−２財協ビル",
+					"organization_name": "財団法人　大蔵財務協会"
+				}
+			}
+		},
+		"1028333": {
+			"postcode": "1028333",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "三番町",
+			"building_name": "６−５",
+			"organization_name": "三喜商事　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "三番町",
+					"building_name": "６−５",
+					"organization_name": "三喜商事　株式会社"
+				}
+			}
+		},
+		"1028332": {
+			"postcode": "1028332",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "三番町",
+			"building_name": "２番地",
+			"organization_name": "飛島建設　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "三番町",
+					"building_name": "２番地",
+					"organization_name": "飛島建設　株式会社"
+				}
+			}
+		},
+		"1028331": {
+			"postcode": "1028331",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "一番町",
+			"building_name": "２１",
+			"organization_name": "株式会社　ＰＨＰ研究所",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "一番町",
+					"building_name": "２１",
+					"organization_name": "株式会社　ＰＨＰ研究所"
+				}
+			}
+		},
+		"1028324": {
+			"postcode": "1028324",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "紀尾井町",
+			"building_name": "３−２３",
+			"organization_name": "株式会社　ライブリッジ",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "紀尾井町",
+					"building_name": "３−２３",
+					"organization_name": "株式会社　ライブリッジ"
+				}
+			}
+		},
+		"1028322": {
+			"postcode": "1028322",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "北の丸公園",
+			"building_name": "３",
+			"organization_name": "東京国立近代美術館",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "北の丸公園",
+					"building_name": "３",
+					"organization_name": "東京国立近代美術館"
+				}
+			}
+		},
+		"1028321": {
+			"postcode": "1028321",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "北の丸公園",
+			"building_name": "２−３",
+			"organization_name": "財団法人　日本武道館",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "北の丸公園",
+					"building_name": "２−３",
+					"organization_name": "財団法人　日本武道館"
+				}
+			}
+		},
+		"1028320": {
+			"postcode": "1028320",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段南",
+			"building_name": "２丁目３−１８",
+			"organization_name": "株式会社　トヨタレンタリース東京",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段南",
+					"building_name": "２丁目３−１８",
+					"organization_name": "株式会社　トヨタレンタリース東京"
+				}
+			}
+		},
+		"1028314": {
+			"postcode": "1028314",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段南",
+			"building_name": "２丁目３−１４靖国九段南ビル",
+			"organization_name": "丸紅インフォテック　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段南",
+					"building_name": "２丁目３−１４靖国九段南ビル",
+					"organization_name": "丸紅インフォテック　株式会社"
+				}
+			}
+		},
+		"1028313": {
+			"postcode": "1028313",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "麹町",
+			"building_name": "４−３−２９パシフィックシティ麹町３階",
+			"organization_name": "角川シネプレックス　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "麹町",
+					"building_name": "４−３−２９パシフィックシティ麹町３階",
+					"organization_name": "角川シネプレックス　株式会社"
+				}
+			}
+		},
+		"1028311": {
+			"postcode": "1028311",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段南",
+			"building_name": "１丁目１−１５",
+			"organization_name": "麹町税務署",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段南",
+					"building_name": "１丁目１−１５",
+					"organization_name": "麹町税務署"
+				}
+			}
+		},
+		"1028310": {
+			"postcode": "1028310",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段南",
+			"building_name": "４丁目７−１３",
+			"organization_name": "朝日エティック　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段南",
+					"building_name": "４丁目７−１３",
+					"organization_name": "朝日エティック　株式会社"
+				}
+			}
+		},
+		"1028309": {
+			"postcode": "1028309",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段南",
+			"building_name": "１丁目２−１",
+			"organization_name": "厚生労働省　関東信越厚生局　麻薬取締部",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段南",
+					"building_name": "１丁目２−１",
+					"organization_name": "厚生労働省　関東信越厚生局　麻薬取締部"
+				}
+			}
+		},
+		"1028305": {
+			"postcode": "1028305",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段南",
+			"building_name": "１丁目２−１",
+			"organization_name": "厚生労働省　東京労働局",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段南",
+					"building_name": "１丁目２−１",
+					"organization_name": "厚生労働省　東京労働局"
+				}
+			}
+		},
+		"1028303": {
+			"postcode": "1028303",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段南",
+			"building_name": "４丁目６−１３−７０４",
+			"organization_name": "株式会社　プレゼントハウス",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段南",
+					"building_name": "４丁目６−１３−７０４",
+					"organization_name": "株式会社　プレゼントハウス"
+				}
+			}
+		},
+		"1028302": {
+			"postcode": "1028302",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "富士見",
+			"building_name": "１丁目８番１９号",
+			"organization_name": "株式会社　ＫＡＤＯＫＡＷＡ　映像事業局",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "富士見",
+					"building_name": "１丁目８番１９号",
+					"organization_name": "株式会社　ＫＡＤＯＫＡＷＡ　映像事業局"
+				}
+			}
+		},
+		"1028301": {
+			"postcode": "1028301",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段北",
+			"building_name": "４丁目１−１３ニュー原鉄ビル２Ｆ",
+			"organization_name": "株式会社　シティ出版",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段北",
+					"building_name": "４丁目１−１３ニュー原鉄ビル２Ｆ",
+					"organization_name": "株式会社　シティ出版"
+				}
+			}
+		},
+		"1028288": {
+			"postcode": "1028288",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段南",
+			"building_name": "４丁目８−３２",
+			"organization_name": "財団法人　東京顕微鏡院",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段南",
+					"building_name": "４丁目８−３２",
+					"organization_name": "財団法人　東京顕微鏡院"
+				}
+			}
+		},
+		"1028277": {
+			"postcode": "1028277",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段南",
+			"building_name": "４丁目７−３",
+			"organization_name": "能美防災　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段南",
+					"building_name": "４丁目７−３",
+					"organization_name": "能美防災　株式会社"
+				}
+			}
+		},
+		"1028275": {
+			"postcode": "1028275",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段南",
+			"building_name": "４丁目８−２４",
+			"organization_name": "日本大学　本部",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段南",
+					"building_name": "４丁目８−２４",
+					"organization_name": "日本大学　本部"
+				}
+			}
+		},
+		"1028272": {
+			"postcode": "1028272",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段南",
+			"building_name": "１丁目６−１７",
+			"organization_name": "日本鉄鋼建材リース　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段南",
+					"building_name": "１丁目６−１７",
+					"organization_name": "日本鉄鋼建材リース　株式会社"
+				}
+			}
+		},
+		"1028265": {
+			"postcode": "1028265",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段南",
+			"building_name": "４丁目８−１３",
+			"organization_name": "東京乗用旅客自動車厚生年金基金",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段南",
+					"building_name": "４丁目８−１３",
+					"organization_name": "東京乗用旅客自動車厚生年金基金"
+				}
+			}
+		},
+		"1028264": {
+			"postcode": "1028264",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段南",
+			"building_name": "４丁目４−１",
+			"organization_name": "日本公認会計士協会",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段南",
+					"building_name": "４丁目４−１",
+					"organization_name": "日本公認会計士協会"
+				}
+			}
+		},
+		"1028260": {
+			"postcode": "1028260",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段南",
+			"building_name": "４丁目３−１２",
+			"organization_name": "株式会社　培風館",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段南",
+					"building_name": "４丁目３−１２",
+					"organization_name": "株式会社　培風館"
+				}
+			}
+		},
+		"1028255": {
+			"postcode": "1028255",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段南",
+			"building_name": "２丁目３−１４靖国九段南ビル",
+			"organization_name": "富士通　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段南",
+					"building_name": "２丁目３−１４靖国九段南ビル",
+					"organization_name": "富士通　株式会社"
+				}
+			}
+		},
+		"1028251": {
+			"postcode": "1028251",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "五番町",
+			"building_name": "１２−５",
+			"organization_name": "日本大学大学院総合科学研究科",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "五番町",
+					"building_name": "１２−５",
+					"organization_name": "日本大学大学院総合科学研究科"
+				}
+			}
+		},
+		"1028250": {
+			"postcode": "1028250",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段北",
+			"building_name": "４丁目１番７号",
+			"organization_name": "丸紅メタル　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段北",
+					"building_name": "４丁目１番７号",
+					"organization_name": "丸紅メタル　株式会社"
+				}
+			}
+		},
+		"1028246": {
+			"postcode": "1028246",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段北",
+			"building_name": "３−１−１",
+			"organization_name": "靖国神社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段北",
+					"building_name": "３−１−１",
+					"organization_name": "靖国神社"
+				}
+			}
+		},
+		"1028241": {
+			"postcode": "1028241",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段北",
+			"building_name": "４丁目１−２０",
+			"organization_name": "社団法人　東京都歯科医師会",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段北",
+					"building_name": "４丁目１−２０",
+					"organization_name": "社団法人　東京都歯科医師会"
+				}
+			}
+		},
+		"1028240": {
+			"postcode": "1028240",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段北",
+			"building_name": "３丁目３−１２",
+			"organization_name": "法政大学　就職部",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段北",
+					"building_name": "３丁目３−１２",
+					"organization_name": "法政大学　就職部"
+				}
+			}
+		},
+		"1028238": {
+			"postcode": "1028238",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "麹町",
+			"building_name": "３丁目−１",
+			"organization_name": "株式会社　昭文社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "麹町",
+					"building_name": "３丁目−１",
+					"organization_name": "株式会社　昭文社"
+				}
+			}
+		},
+		"1028236": {
+			"postcode": "1028236",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段北",
+			"building_name": "４−２−３５",
+			"organization_name": "ライト工業　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段北",
+					"building_name": "４−２−３５",
+					"organization_name": "ライト工業　株式会社"
+				}
+			}
+		},
+		"1028234": {
+			"postcode": "1028234",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段北",
+			"building_name": "１丁目１２−３０",
+			"organization_name": "社団法人　建設荷役車両安全技術協会",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段北",
+					"building_name": "１丁目１２−３０",
+					"organization_name": "社団法人　建設荷役車両安全技術協会"
+				}
+			}
+		},
+		"1028232": {
+			"postcode": "1028232",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段南",
+			"building_name": "４丁目７番１６号市ヶ谷ＫＴビルＩ",
+			"organization_name": "株式会社　少年写真新聞社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段南",
+					"building_name": "４丁目７番１６号市ヶ谷ＫＴビルＩ",
+					"organization_name": "株式会社　少年写真新聞社"
+				}
+			}
+		},
+		"1028231": {
+			"postcode": "1028231",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段北",
+			"building_name": "１丁目９−１２九段下ビル６Ｆ",
+			"organization_name": "石垣食品　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段北",
+					"building_name": "１丁目９−１２九段下ビル６Ｆ",
+					"organization_name": "石垣食品　株式会社"
+				}
+			}
+		},
+		"1028230": {
+			"postcode": "1028230",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段北",
+			"building_name": "４丁目１番３４号九段明善堂ビル",
+			"organization_name": "株式会社　コーエーテクモゲームス",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段北",
+					"building_name": "４丁目１番３４号九段明善堂ビル",
+					"organization_name": "株式会社　コーエーテクモゲームス"
+				}
+			}
+		},
+		"1028228": {
+			"postcode": "1028228",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段北",
+			"building_name": "１丁目１１−２",
+			"organization_name": "株式会社　カントー",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段北",
+					"building_name": "１丁目１１−２",
+					"organization_name": "株式会社　カントー"
+				}
+			}
+		},
+		"1028226": {
+			"postcode": "1028226",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段南",
+			"building_name": "１丁目１−１５",
+			"organization_name": "東京法務局",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段南",
+					"building_name": "１丁目１−１５",
+					"organization_name": "東京法務局"
+				}
+			}
+		},
+		"1028225": {
+			"postcode": "1028225",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段南",
+			"building_name": "１丁目１−１５九段第２合同庁舎",
+			"organization_name": "東京法務局",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段南",
+					"building_name": "１丁目１−１５九段第２合同庁舎",
+					"organization_name": "東京法務局"
+				}
+			}
+		},
+		"1028222": {
+			"postcode": "1028222",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段北",
+			"building_name": "４丁目３−２９",
+			"organization_name": "ニチレキ　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段北",
+					"building_name": "４丁目３−２９",
+					"organization_name": "ニチレキ　株式会社"
+				}
+			}
+		},
+		"1028218": {
+			"postcode": "1028218",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段北",
+			"building_name": "１丁目６−４日新ビル５Ｆ",
+			"organization_name": "日本中国語検定協会",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段北",
+					"building_name": "１丁目６−４日新ビル５Ｆ",
+					"organization_name": "日本中国語検定協会"
+				}
+			}
+		},
+		"1028215": {
+			"postcode": "1028215",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段北",
+			"building_name": "４丁目３−１一口坂中央ビル",
+			"organization_name": "前田建設工業　株式会社　関東支社・東京支店",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段北",
+					"building_name": "４丁目３−１一口坂中央ビル",
+					"organization_name": "前田建設工業　株式会社　関東支社・東京支店"
+				}
+			}
+		},
+		"1028211": {
+			"postcode": "1028211",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段北",
+			"building_name": "４丁目２−４",
+			"organization_name": "株式会社　千修",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段北",
+					"building_name": "４丁目２−４",
+					"organization_name": "株式会社　千修"
+				}
+			}
+		},
+		"1028205": {
+			"postcode": "1028205",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段北",
+			"building_name": "１丁目１４−１６",
+			"organization_name": "株式会社　テクノ大手",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段北",
+					"building_name": "１丁目１４−１６",
+					"organization_name": "株式会社　テクノ大手"
+				}
+			}
+		},
+		"1028201": {
+			"postcode": "1028201",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段北",
+			"building_name": "１丁目１４−６",
+			"organization_name": "住宅・都市整備公団",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段北",
+					"building_name": "１丁目１４−６",
+					"organization_name": "住宅・都市整備公団"
+				}
+			}
+		},
+		"1028188": {
+			"postcode": "1028188",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段北",
+			"building_name": "１丁目１３−５",
+			"organization_name": "日本地所　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段北",
+					"building_name": "１丁目１３−５",
+					"organization_name": "日本地所　株式会社"
+				}
+			}
+		},
+		"1028187": {
+			"postcode": "1028187",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段北",
+			"building_name": "４丁目２−２９",
+			"organization_name": "株式会社　世界文化社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段北",
+					"building_name": "４丁目２−２９",
+					"organization_name": "株式会社　世界文化社"
+				}
+			}
+		},
+		"1028186": {
+			"postcode": "1028186",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段北",
+			"building_name": "３丁目２−４メヂカルフレンドビル",
+			"organization_name": "株式会社　椿本チエイン　東京支社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段北",
+					"building_name": "３丁目２−４メヂカルフレンドビル",
+					"organization_name": "株式会社　椿本チエイン　東京支社"
+				}
+			}
+		},
+		"1028185": {
+			"postcode": "1028185",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段北",
+			"building_name": "２丁目４−１",
+			"organization_name": "学校法人　白百合学園",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段北",
+					"building_name": "２丁目４−１",
+					"organization_name": "学校法人　白百合学園"
+				}
+			}
+		},
+		"1028184": {
+			"postcode": "1028184",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段北",
+			"building_name": "１丁目１４−１９乳業会館",
+			"organization_name": "社団法人　日本アイスクリーム協会",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段北",
+					"building_name": "１丁目１４−１９乳業会館",
+					"organization_name": "社団法人　日本アイスクリーム協会"
+				}
+			}
+		},
+		"1028182": {
+			"postcode": "1028182",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段北",
+			"building_name": "４丁目２−３８",
+			"organization_name": "常盤工業　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段北",
+					"building_name": "４丁目２−３８",
+					"organization_name": "常盤工業　株式会社"
+				}
+			}
+		},
+		"1028181": {
+			"postcode": "1028181",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段北",
+			"building_name": "１丁目８−１０",
+			"organization_name": "株式会社　日刊工業新聞社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段北",
+					"building_name": "１丁目８−１０",
+					"organization_name": "株式会社　日刊工業新聞社"
+				}
+			}
+		},
+		"1028178": {
+			"postcode": "1028178",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "富士見",
+			"building_name": "２丁目１５−１",
+			"organization_name": "学校法人　嘉悦学園",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "富士見",
+					"building_name": "２丁目１５−１",
+					"organization_name": "学校法人　嘉悦学園"
+				}
+			}
+		},
+		"1028177": {
+			"postcode": "1028177",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "富士見",
+			"building_name": "２丁目１３番３号",
+			"organization_name": "株式会社　ＫＡＤＯＫＡＷＡ",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "富士見",
+					"building_name": "２丁目１３番３号",
+					"organization_name": "株式会社　ＫＡＤＯＫＡＷＡ"
+				}
+			}
+		},
+		"1028176": {
+			"postcode": "1028176",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "富士見",
+			"building_name": "１丁目６−１富士見ビル",
+			"organization_name": "ミシュランタイヤグループ",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "富士見",
+					"building_name": "１丁目６−１富士見ビル",
+					"organization_name": "ミシュランタイヤグループ"
+				}
+			}
+		},
+		"1028175": {
+			"postcode": "1028175",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "富士見",
+			"building_name": "２丁目１５−１０",
+			"organization_name": "ダイダン　株式会社　東京本社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "富士見",
+					"building_name": "２丁目１５−１０",
+					"organization_name": "ダイダン　株式会社　東京本社"
+				}
+			}
+		},
+		"1028172": {
+			"postcode": "1028172",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "富士見",
+			"building_name": "１丁目１１−２",
+			"organization_name": "日本化薬　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "富士見",
+					"building_name": "１丁目１１−２",
+					"organization_name": "日本化薬　株式会社"
+				}
+			}
+		},
+		"1028171": {
+			"postcode": "1028171",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "富士見",
+			"building_name": "１丁目２−２１",
+			"organization_name": "ピー・シー・エー　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "富士見",
+					"building_name": "１丁目２−２１",
+					"organization_name": "ピー・シー・エー　株式会社"
+				}
+			}
+		},
+		"1028170": {
+			"postcode": "1028170",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "富士見",
+			"building_name": "１丁目１１−２１",
+			"organization_name": "高山工業　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "富士見",
+					"building_name": "１丁目１１−２１",
+					"organization_name": "高山工業　株式会社"
+				}
+			}
+		},
+		"1028166": {
+			"postcode": "1028166",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "富士見",
+			"building_name": "１丁目１１−５",
+			"organization_name": "伊藤忠テクノソリューションズ　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "富士見",
+					"building_name": "１丁目１１−５",
+					"organization_name": "伊藤忠テクノソリューションズ　株式会社"
+				}
+			}
+		},
+		"1028161": {
+			"postcode": "1028161",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "富士見",
+			"building_name": "２丁目１０−４１",
+			"organization_name": "東京警察病院",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "富士見",
+					"building_name": "２丁目１０−４１",
+					"organization_name": "東京警察病院"
+				}
+			}
+		},
+		"1028160": {
+			"postcode": "1028160",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "富士見",
+			"building_name": "２丁目１７−１",
+			"organization_name": "法政大学",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "富士見",
+					"building_name": "２丁目１７−１",
+					"organization_name": "法政大学"
+				}
+			}
+		},
+		"1028155": {
+			"postcode": "1028155",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "一番町",
+			"building_name": "４番地４",
+			"organization_name": "株式会社　保健同人社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "一番町",
+					"building_name": "４番地４",
+					"organization_name": "株式会社　保健同人社"
+				}
+			}
+		},
+		"1028152": {
+			"postcode": "1028152",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "富士見",
+			"building_name": "２丁目１１−３",
+			"organization_name": "株式会社　研究社本社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "富士見",
+					"building_name": "２丁目１１−３",
+					"organization_name": "株式会社　研究社本社"
+				}
+			}
+		},
+		"1028151": {
+			"postcode": "1028151",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "富士見",
+			"building_name": "２丁目１０−２",
+			"organization_name": "前田建設工業　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "富士見",
+					"building_name": "２丁目１０−２",
+					"organization_name": "前田建設工業　株式会社"
+				}
+			}
+		},
+		"1028150": {
+			"postcode": "1028150",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "富士見",
+			"building_name": "２丁目１５−１１",
+			"organization_name": "アコム　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "富士見",
+					"building_name": "２丁目１５−１１",
+					"organization_name": "アコム　株式会社"
+				}
+			}
+		},
+		"1028144": {
+			"postcode": "1028144",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "富士見",
+			"building_name": "２−１３−３",
+			"organization_name": "株式会社　富士見書房",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "富士見",
+					"building_name": "２−１３−３",
+					"organization_name": "株式会社　富士見書房"
+				}
+			}
+		},
+		"1028142": {
+			"postcode": "1028142",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "富士見",
+			"building_name": "１丁目４−４",
+			"organization_name": "株式会社　鐵原",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "富士見",
+					"building_name": "１丁目４−４",
+					"organization_name": "株式会社　鐵原"
+				}
+			}
+		},
+		"1028141": {
+			"postcode": "1028141",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "富士見",
+			"building_name": "１丁目２−２７",
+			"organization_name": "株式会社　ＩＤＧコミュニケーションズ",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "富士見",
+					"building_name": "１丁目２−２７",
+					"organization_name": "株式会社　ＩＤＧコミュニケーションズ"
+				}
+			}
+		},
+		"1028140": {
+			"postcode": "1028140",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "富士見",
+			"building_name": "１丁目６−１",
+			"organization_name": "三和電気工業　株式会社　営業本部",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "富士見",
+					"building_name": "１丁目６−１",
+					"organization_name": "三和電気工業　株式会社　営業本部"
+				}
+			}
+		},
+		"1028139": {
+			"postcode": "1028139",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "富士見",
+			"building_name": "１丁目３−８",
+			"organization_name": "株式会社　田中歯科器械店",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "富士見",
+					"building_name": "１丁目３−８",
+					"organization_name": "株式会社　田中歯科器械店"
+				}
+			}
+		},
+		"1028138": {
+			"postcode": "1028138",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "富士見",
+			"building_name": "２丁目１４番１５号",
+			"organization_name": "在日本朝鮮人総聯合会　中央本部　（朝鮮総聯中央本部）",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "富士見",
+					"building_name": "２丁目１４番１５号",
+					"organization_name": "在日本朝鮮人総聯合会　中央本部　（朝鮮総聯中央本部）"
+				}
+			}
+		},
+		"1028132": {
+			"postcode": "1028132",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "富士見",
+			"building_name": "２丁目１５−３",
+			"organization_name": "法政大学　（保健体育部）",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "富士見",
+					"building_name": "２丁目１５−３",
+					"organization_name": "法政大学　（保健体育部）"
+				}
+			}
+		},
+		"1028131": {
+			"postcode": "1028131",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "富士見",
+			"building_name": "１丁目１−８",
+			"organization_name": "トッパン・フォームズ　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "富士見",
+					"building_name": "１丁目１−８",
+					"organization_name": "トッパン・フォームズ　株式会社"
+				}
+			}
+		},
+		"1028130": {
+			"postcode": "1028130",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "飯田橋",
+			"building_name": "３丁目１０−８",
+			"organization_name": "株式会社　ホテルエドモント",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "飯田橋",
+					"building_name": "３丁目１０−８",
+					"organization_name": "株式会社　ホテルエドモント"
+				}
+			}
+		},
+		"1028128": {
+			"postcode": "1028128",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "飯田橋",
+			"building_name": "２丁目１０−１０",
+			"organization_name": "アコム　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "飯田橋",
+					"building_name": "２丁目１０−１０",
+					"organization_name": "アコム　株式会社"
+				}
+			}
+		},
+		"1028125": {
+			"postcode": "1028125",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "飯田橋",
+			"building_name": "１丁目１２−５",
+			"organization_name": "セントラル総合開発　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "飯田橋",
+					"building_name": "１丁目１２−５",
+					"organization_name": "セントラル総合開発　株式会社"
+				}
+			}
+		},
+		"1028123": {
+			"postcode": "1028123",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "飯田橋",
+			"building_name": "３丁目１１−６",
+			"organization_name": "日販アイ・ピー・エス　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "飯田橋",
+					"building_name": "３丁目１１−６",
+					"organization_name": "日販アイ・ピー・エス　株式会社"
+				}
+			}
+		},
+		"1028122": {
+			"postcode": "1028122",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "飯田橋",
+			"building_name": "２丁目１６−９",
+			"organization_name": "東亜販売　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "飯田橋",
+					"building_name": "２丁目１６−９",
+					"organization_name": "東亜販売　株式会社"
+				}
+			}
+		},
+		"1028120": {
+			"postcode": "1028120",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "飯田橋",
+			"building_name": "１丁目１２−７",
+			"organization_name": "ゼネラルエレクトリックキャピタルカーシステム　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "飯田橋",
+					"building_name": "１丁目１２−７",
+					"organization_name": "ゼネラルエレクトリックキャピタルカーシステム　株式会社"
+				}
+			}
+		},
+		"1028118": {
+			"postcode": "1028118",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段北",
+			"building_name": "３丁目３−５",
+			"organization_name": "新村印刷　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段北",
+					"building_name": "３丁目３−５",
+					"organization_name": "新村印刷　株式会社"
+				}
+			}
+		},
+		"1028117": {
+			"postcode": "1028117",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "飯田橋",
+			"building_name": "２丁目１８−３",
+			"organization_name": "株式会社　日建設計",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "飯田橋",
+					"building_name": "２丁目１８−３",
+					"organization_name": "株式会社　日建設計"
+				}
+			}
+		},
+		"1028112": {
+			"postcode": "1028112",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "飯田橋",
+			"building_name": "３丁目１３−１",
+			"organization_name": "大和ハウス工業　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "飯田橋",
+					"building_name": "３丁目１３−１",
+					"organization_name": "大和ハウス工業　株式会社"
+				}
+			}
+		},
+		"1028111": {
+			"postcode": "1028111",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "飯田橋",
+			"building_name": "３丁目６−５",
+			"organization_name": "昭和アルミニウム　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "飯田橋",
+					"building_name": "３丁目６−５",
+					"organization_name": "昭和アルミニウム　株式会社"
+				}
+			}
+		},
+		"1028110": {
+			"postcode": "1028110",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "一番町",
+			"building_name": "６一番町ＳＱＵＡＲＥ",
+			"organization_name": "株式会社　潮出版社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "一番町",
+					"building_name": "６一番町ＳＱＵＡＲＥ",
+					"organization_name": "株式会社　潮出版社"
+				}
+			}
+		},
+		"1028109": {
+			"postcode": "1028109",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段北",
+			"building_name": "４丁目２−１",
+			"organization_name": "株式会社　アシスト",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段北",
+					"building_name": "４丁目２−１",
+					"organization_name": "株式会社　アシスト"
+				}
+			}
+		},
+		"1028103": {
+			"postcode": "1028103",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "飯田橋",
+			"building_name": "４−４−１５",
+			"organization_name": "株式会社　アイ・イーシー",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "飯田橋",
+					"building_name": "４−４−１５",
+					"organization_name": "株式会社　アイ・イーシー"
+				}
+			}
+		},
+		"1028102": {
+			"postcode": "1028102",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "飯田橋",
+			"building_name": "３丁目３−１",
+			"organization_name": "古久根建設　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "飯田橋",
+					"building_name": "３丁目３−１",
+					"organization_name": "古久根建設　株式会社"
+				}
+			}
+		},
+		"1028101": {
+			"postcode": "1028101",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "飯田橋",
+			"building_name": "２丁目１０−８",
+			"organization_name": "株式会社　秋田書店",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "飯田橋",
+					"building_name": "２丁目１０−８",
+					"organization_name": "株式会社　秋田書店"
+				}
+			}
+		},
+		"1028088": {
+			"postcode": "1028088",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段南",
+			"building_name": "４−７−１５ＪＰＲ市ヶ谷ビル４階",
+			"organization_name": "ＪＰ損保サービス　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段南",
+					"building_name": "４−７−１５ＪＰＲ市ヶ谷ビル４階",
+					"organization_name": "ＪＰ損保サービス　株式会社"
+				}
+			}
+		},
+		"1028085": {
+			"postcode": "1028085",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段南",
+			"building_name": "１丁目６−１１",
+			"organization_name": "中央労働基準監督署",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段南",
+					"building_name": "１丁目６−１１",
+					"organization_name": "中央労働基準監督署"
+				}
+			}
+		},
+		"1028083": {
+			"postcode": "1028083",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段南",
+			"building_name": "１丁目１−１０",
+			"organization_name": "国家公務員　共済組合連合会　（旧令年金部）",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段南",
+					"building_name": "１丁目１−１０",
+					"organization_name": "国家公務員　共済組合連合会　（旧令年金部）"
+				}
+			}
+		},
+		"1028082": {
+			"postcode": "1028082",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段南",
+			"building_name": "１丁目１−１０",
+			"organization_name": "国家公務員　共済組合連合会　（年金部）",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段南",
+					"building_name": "１丁目１−１０",
+					"organization_name": "国家公務員　共済組合連合会　（年金部）"
+				}
+			}
+		},
+		"1028081": {
+			"postcode": "1028081",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段南",
+			"building_name": "１丁目１−１０",
+			"organization_name": "国家公務員　共済組合連合会　（連合会代表）",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段南",
+					"building_name": "１丁目１−１０",
+					"organization_name": "国家公務員　共済組合連合会　（連合会代表）"
+				}
+			}
+		},
+		"1028080": {
+			"postcode": "1028080",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "麹町",
+			"building_name": "１丁目７",
+			"organization_name": "株式会社　エフエム東京",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "麹町",
+					"building_name": "１丁目７",
+					"organization_name": "株式会社　エフエム東京"
+				}
+			}
+		},
+		"1028078": {
+			"postcode": "1028078",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "富士見",
+			"building_name": "１丁目８番１９号",
+			"organization_name": "株式会社　ＫＡＤＯＫＡＷＡ",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "富士見",
+					"building_name": "１丁目８番１９号",
+					"organization_name": "株式会社　ＫＡＤＯＫＡＷＡ"
+				}
+			}
+		},
+		"1028077": {
+			"postcode": "1028077",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "五番町",
+			"building_name": "３−１五番町グランドビル",
+			"organization_name": "株式会社　ＫＡＤＯＫＡＷＡ",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "五番町",
+					"building_name": "３−１五番町グランドビル",
+					"organization_name": "株式会社　ＫＡＤＯＫＡＷＡ"
+				}
+			}
+		},
+		"1028030": {
+			"postcode": "1028030",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "麹町",
+			"building_name": "３−３−６",
+			"organization_name": "丸三証券　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "麹町",
+					"building_name": "３−３−６",
+					"organization_name": "丸三証券　株式会社"
+				}
+			}
+		},
+		"1028026": {
+			"postcode": "1028026",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "五番町",
+			"building_name": "４番地５号五番町コスモビル２階",
+			"organization_name": "株式会社　美術出版社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "五番町",
+					"building_name": "４番地５号五番町コスモビル２階",
+					"organization_name": "株式会社　美術出版社"
+				}
+			}
+		},
+		"1028025": {
+			"postcode": "1028025",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "紀尾井町",
+			"building_name": "３−２３",
+			"organization_name": "株式会社　オズマピーアール",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "紀尾井町",
+					"building_name": "３−２３",
+					"organization_name": "株式会社　オズマピーアール"
+				}
+			}
+		},
+		"1028024": {
+			"postcode": "1028024",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "富士見",
+			"building_name": "１丁目８番１９号",
+			"organization_name": "株式会社　ＫＡＤＯＫＡＷＡ　営業企画局",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "富士見",
+					"building_name": "１丁目８番１９号",
+					"organization_name": "株式会社　ＫＡＤＯＫＡＷＡ　営業企画局"
+				}
+			}
+		},
+		"1028019": {
+			"postcode": "1028019",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "五番町",
+			"building_name": "６−２ホーマットホライゾンビル５Ｆ",
+			"organization_name": "株式会社　マッグガーデン",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "五番町",
+					"building_name": "６−２ホーマットホライゾンビル５Ｆ",
+					"organization_name": "株式会社　マッグガーデン"
+				}
+			}
+		},
+		"1028018": {
+			"postcode": "1028018",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "三番町",
+			"building_name": "６−２三番町弥生館４階",
+			"organization_name": "ダイヤル・サービス　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "三番町",
+					"building_name": "６−２三番町弥生館４階",
+					"organization_name": "ダイヤル・サービス　株式会社"
+				}
+			}
+		},
+		"1028016": {
+			"postcode": "1028016",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "富士見",
+			"building_name": "２丁目７−２ステージビルディング１４階",
+			"organization_name": "全国健康保険協会　船員保険部",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "富士見",
+					"building_name": "２丁目７−２ステージビルディング１４階",
+					"organization_name": "全国健康保険協会　船員保険部"
+				}
+			}
+		},
+		"1028015": {
+			"postcode": "1028015",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "一番町",
+			"building_name": "２１",
+			"organization_name": "プルデンシャル　ジブラルタ　ファイナンシャル生命保険　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "一番町",
+					"building_name": "２１",
+					"organization_name": "プルデンシャル　ジブラルタ　ファイナンシャル生命保険　株式会社"
+				}
+			}
+		},
+		"1028012": {
+			"postcode": "1028012",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "二番町",
+			"building_name": "５−２５二番町センタービル１Ｆ〜６Ｆ",
+			"organization_name": "独立行政法人　国際協力機構",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "二番町",
+					"building_name": "５−２５二番町センタービル１Ｆ〜６Ｆ",
+					"organization_name": "独立行政法人　国際協力機構"
+				}
+			}
+		},
+		"1028011": {
+			"postcode": "1028011",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "六番町",
+			"building_name": "４−６",
+			"organization_name": "財団法人　ＪＫＡ",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "六番町",
+					"building_name": "４−６",
+					"organization_name": "財団法人　ＪＫＡ"
+				}
+			}
+		},
+		"1028008": {
+			"postcode": "1028008",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "紀尾井町",
+			"building_name": "３−２３",
+			"organization_name": "株式会社　文藝春秋",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "紀尾井町",
+					"building_name": "３−２３",
+					"organization_name": "株式会社　文藝春秋"
+				}
+			}
+		},
+		"1028005": {
+			"postcode": "1028005",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "九段南",
+			"building_name": "４−８−２８",
+			"organization_name": "日本大学　通信教育部",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段南",
+					"building_name": "４−８−２８",
+					"organization_name": "日本大学　通信教育部"
+				}
+			}
+		},
+		"1020094": {
+			"postcode": "1020094",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "Kioicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "紀尾井町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区"
+		},
+		"1020093": {
+			"postcode": "1020093",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "Hirakawacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "平河町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区"
+		},
+		"1020092": {
+			"postcode": "1020092",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "Hayabusacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "隼町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区"
+		},
+		"1020091": {
+			"postcode": "1020091",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "Kitanomarukoen",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "北の丸公園",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区"
+		},
+		"1020085": {
+			"postcode": "1020085",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "Rokubancho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "六番町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区"
+		},
+		"1020084": {
+			"postcode": "1020084",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "Nibancho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "二番町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区"
+		},
+		"1020083": {
+			"postcode": "1020083",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "Kojimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "麹町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区"
+		},
+		"1020082": {
+			"postcode": "1020082",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "Ichibancho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "一番町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区"
+		},
+		"1020081": {
+			"postcode": "1020081",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "Yombancho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "四番町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区"
+		},
+		"1020076": {
+			"postcode": "1020076",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "Gobancho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "五番町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区"
+		},
+		"1020075": {
+			"postcode": "1020075",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "Sambancho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "三番町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区"
+		},
+		"1020074": {
+			"postcode": "1020074",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "Kudamminami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区"
+		},
+		"1020073": {
+			"postcode": "1020073",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "Kudankita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "九段北",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区"
+		},
+		"1020072": {
+			"postcode": "1020072",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "Iidabashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "飯田橋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区"
+		},
+		"1020071": {
+			"postcode": "1020071",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Chiyoda-ku",
+			"ward_name": "",
+			"town_name": "Fujimi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "千代田区",
+					"ward_name": "",
+					"town_name": "富士見",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "千代田区"
+		}
+	}
+}

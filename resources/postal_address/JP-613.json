@@ -1,0 +1,799 @@
+{
+	"country_code": "JP",
+	"parent_id": "613",
+	"locale": "ja-Latn",
+	"address": {
+		"6138585": {
+			"postcode": "6138585",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kuse-gun",
+			"ward_name": "Kumiyama-cho",
+			"town_name": "大字田井",
+			"building_name": "小字浜代１−２",
+			"organization_name": "久御山町役場",
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "久世郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "久世郡",
+					"ward_name": "久御山町",
+					"town_name": "大字田井",
+					"building_name": "小字浜代１−２",
+					"organization_name": "久御山町役場"
+				}
+			}
+		},
+		"6130916": {
+			"postcode": "6130916",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Fushimi-ku",
+			"town_name": "Yodo",
+			"building_name": "Mizucho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "伏見区",
+					"town_name": "淀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6130915": {
+			"postcode": "6130915",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Fushimi-ku",
+			"town_name": "Yodo",
+			"building_name": "Saimecho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "伏見区",
+					"town_name": "淀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6130914": {
+			"postcode": "6130914",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Fushimi-ku",
+			"town_name": "Yodo",
+			"building_name": "Namazucho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "伏見区",
+					"town_name": "淀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6130913": {
+			"postcode": "6130913",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Fushimi-ku",
+			"town_name": "Mukaijima",
+			"building_name": "Shimogotanda",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "伏見区",
+					"town_name": "向島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6130912": {
+			"postcode": "6130912",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Fushimi-ku",
+			"town_name": "Yodo",
+			"building_name": "Kawazuracho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "伏見区",
+					"town_name": "淀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6130911": {
+			"postcode": "6130911",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Fushimi-ku",
+			"town_name": "Yodo",
+			"building_name": "Kizucho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "伏見区",
+					"town_name": "淀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6130907": {
+			"postcode": "6130907",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Fushimi-ku",
+			"town_name": "Yodo",
+			"building_name": "Oshimozucho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "伏見区",
+					"town_name": "淀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6130906": {
+			"postcode": "6130906",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Fushimi-ku",
+			"town_name": "Yodo",
+			"building_name": "Shimmachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "伏見区",
+					"town_name": "淀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6130905": {
+			"postcode": "6130905",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Fushimi-ku",
+			"town_name": "Yodo",
+			"building_name": "Shimozucho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "伏見区",
+					"town_name": "淀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6130904": {
+			"postcode": "6130904",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Fushimi-ku",
+			"town_name": "Yodo",
+			"building_name": "Ikegamicho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "伏見区",
+					"town_name": "淀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6130903": {
+			"postcode": "6130903",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Fushimi-ku",
+			"town_name": "Yodo",
+			"building_name": "Hommachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "伏見区",
+					"town_name": "淀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6130902": {
+			"postcode": "6130902",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Fushimi-ku",
+			"town_name": "Yodo",
+			"building_name": "Mizutarecho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "伏見区",
+					"town_name": "淀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6130901": {
+			"postcode": "6130901",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kyoto-shi",
+			"ward_name": "Fushimi-ku",
+			"town_name": "Yodo",
+			"building_name": "Hizumecho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "京都市",
+					"ward_name": "伏見区",
+					"town_name": "淀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "京都市"
+		},
+		"6130853": {
+			"postcode": "6130853",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Yawata-shi",
+			"ward_name": "",
+			"town_name": "Yawata",
+			"building_name": "Nagamachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "八幡市",
+					"ward_name": "",
+					"town_name": "八幡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "八幡市"
+		},
+		"6130852": {
+			"postcode": "6130852",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Yawata-shi",
+			"ward_name": "",
+			"town_name": "Yawata",
+			"building_name": "Hinokuchi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "八幡市",
+					"ward_name": "",
+					"town_name": "八幡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "八幡市"
+		},
+		"6130851": {
+			"postcode": "6130851",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Yawata-shi",
+			"ward_name": "",
+			"town_name": "Kawaguchi",
+			"building_name": "Takahara",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "八幡市",
+					"ward_name": "",
+					"town_name": "川口",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "八幡市"
+		},
+		"6130046": {
+			"postcode": "6130046",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kuse-gun",
+			"ward_name": "Kumiyama-cho",
+			"town_name": "Ohashiberi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "久世郡",
+					"ward_name": "久御山町",
+					"town_name": "大橋辺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "久世郡"
+		},
+		"6130045": {
+			"postcode": "6130045",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kuse-gun",
+			"ward_name": "Kumiyama-cho",
+			"town_name": "Kitakawazura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "久世郡",
+					"ward_name": "久御山町",
+					"town_name": "北川顔",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "久世郡"
+		},
+		"6130044": {
+			"postcode": "6130044",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kuse-gun",
+			"ward_name": "Kumiyama-cho",
+			"town_name": "Fujiwada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "久世郡",
+					"ward_name": "久御山町",
+					"town_name": "藤和田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "久世郡"
+		},
+		"6130043": {
+			"postcode": "6130043",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kuse-gun",
+			"ward_name": "Kumiyama-cho",
+			"town_name": "Shimata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "久世郡",
+					"ward_name": "久御山町",
+					"town_name": "島田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "久世郡"
+		},
+		"6130042": {
+			"postcode": "6130042",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kuse-gun",
+			"ward_name": "Kumiyama-cho",
+			"town_name": "Bonoike",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "久世郡",
+					"ward_name": "久御山町",
+					"town_name": "坊之池",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "久世郡"
+		},
+		"6130041": {
+			"postcode": "6130041",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kuse-gun",
+			"ward_name": "Kumiyama-cho",
+			"town_name": "Nakajima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "久世郡",
+					"ward_name": "久御山町",
+					"town_name": "中島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "久世郡"
+		},
+		"6130036": {
+			"postcode": "6130036",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kuse-gun",
+			"ward_name": "Kumiyama-cho",
+			"town_name": "Tai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "久世郡",
+					"ward_name": "久御山町",
+					"town_name": "田井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "久世郡"
+		},
+		"6130035": {
+			"postcode": "6130035",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kuse-gun",
+			"ward_name": "Kumiyama-cho",
+			"town_name": "Shimotsuya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "久世郡",
+					"ward_name": "久御山町",
+					"town_name": "下津屋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "久世郡"
+		},
+		"6130034": {
+			"postcode": "6130034",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kuse-gun",
+			"ward_name": "Kumiyama-cho",
+			"town_name": "Sayama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "久世郡",
+					"ward_name": "久御山町",
+					"town_name": "佐山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "久世郡"
+		},
+		"6130033": {
+			"postcode": "6130033",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kuse-gun",
+			"ward_name": "Kumiyama-cho",
+			"town_name": "Hayashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "久世郡",
+					"ward_name": "久御山町",
+					"town_name": "林",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "久世郡"
+		},
+		"6130032": {
+			"postcode": "6130032",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kuse-gun",
+			"ward_name": "Kumiyama-cho",
+			"town_name": "Sakae",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "久世郡",
+					"ward_name": "久御山町",
+					"town_name": "栄",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "久世郡"
+		},
+		"6130031": {
+			"postcode": "6130031",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kuse-gun",
+			"ward_name": "Kumiyama-cho",
+			"town_name": "Sako",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "久世郡",
+					"ward_name": "久御山町",
+					"town_name": "佐古",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "久世郡"
+		},
+		"6130026": {
+			"postcode": "6130026",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kuse-gun",
+			"ward_name": "Kumiyama-cho",
+			"town_name": "Nishiimoarai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "久世郡",
+					"ward_name": "久御山町",
+					"town_name": "西一口",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "久世郡"
+		},
+		"6130025": {
+			"postcode": "6130025",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kuse-gun",
+			"ward_name": "Kumiyama-cho",
+			"town_name": "Ojima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "久世郡",
+					"ward_name": "久御山町",
+					"town_name": "相島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "久世郡"
+		},
+		"6130024": {
+			"postcode": "6130024",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kuse-gun",
+			"ward_name": "Kumiyama-cho",
+			"town_name": "Mori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "久世郡",
+					"ward_name": "久御山町",
+					"town_name": "森",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "久世郡"
+		},
+		"6130023": {
+			"postcode": "6130023",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kuse-gun",
+			"ward_name": "Kumiyama-cho",
+			"town_name": "Nomura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "久世郡",
+					"ward_name": "久御山町",
+					"town_name": "野村",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "久世郡"
+		},
+		"6130022": {
+			"postcode": "6130022",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kuse-gun",
+			"ward_name": "Kumiyama-cho",
+			"town_name": "Ichida",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "久世郡",
+					"ward_name": "久御山町",
+					"town_name": "市田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "久世郡"
+		},
+		"6130021": {
+			"postcode": "6130021",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kuse-gun",
+			"ward_name": "Kumiyama-cho",
+			"town_name": "Higashiimoarai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "久世郡",
+					"ward_name": "久御山町",
+					"town_name": "東一口",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "久世郡"
+		},
+		"6130000": {
+			"postcode": "6130000",
+			"prefecture_name": "Kyoto-fu",
+			"city_name": "Kuse-gun",
+			"ward_name": "Kumiyama-cho",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "京都府",
+					"city_name": "久世郡",
+					"ward_name": "久御山町",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "京都府",
+			"city_code": "久世郡"
+		}
+	}
+}

@@ -1,0 +1,1745 @@
+{
+	"country_code": "JP",
+	"parent_id": "114",
+	"locale": "ja-Latn",
+	"address": {
+		"1148686": {
+			"postcode": "1148686",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "中里",
+			"building_name": "１丁目１５−７",
+			"organization_name": "中央工学校　生涯学習センター",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "中里",
+					"building_name": "１丁目１５−７",
+					"organization_name": "中央工学校　生涯学習センター"
+				}
+			}
+		},
+		"1148611": {
+			"postcode": "1148611",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "王子",
+			"building_name": "５丁目５−１（王子郵便局私書箱第１号）",
+			"organization_name": "株式会社　なとり",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "王子",
+					"building_name": "５丁目５−１（王子郵便局私書箱第１号）",
+					"organization_name": "株式会社　なとり"
+				}
+			}
+		},
+		"1148606": {
+			"postcode": "1148606",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "豊島",
+			"building_name": "８丁目３−３",
+			"organization_name": "株式会社　なとり　食品総合ラボラトリー",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "豊島",
+					"building_name": "８丁目３−３",
+					"organization_name": "株式会社　なとり　食品総合ラボラトリー"
+				}
+			}
+		},
+		"1148605": {
+			"postcode": "1148605",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "豊島",
+			"building_name": "８丁目３−３",
+			"organization_name": "株式会社　なとりデリカ",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "豊島",
+					"building_name": "８丁目３−３",
+					"organization_name": "株式会社　なとりデリカ"
+				}
+			}
+		},
+		"1148604": {
+			"postcode": "1148604",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "豊島",
+			"building_name": "８丁目３−３",
+			"organization_name": "株式会社　好好飲茶",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "豊島",
+					"building_name": "８丁目３−３",
+					"organization_name": "株式会社　好好飲茶"
+				}
+			}
+		},
+		"1148603": {
+			"postcode": "1148603",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "豊島",
+			"building_name": "８丁目３−３",
+			"organization_name": "株式会社　全珍　東京営業所",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "豊島",
+					"building_name": "８丁目３−３",
+					"organization_name": "株式会社　全珍　東京営業所"
+				}
+			}
+		},
+		"1148602": {
+			"postcode": "1148602",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "豊島",
+			"building_name": "８丁目３−３",
+			"organization_name": "株式会社　なとり　東京営業所",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "豊島",
+					"building_name": "８丁目３−３",
+					"organization_name": "株式会社　なとり　東京営業所"
+				}
+			}
+		},
+		"1148595": {
+			"postcode": "1148595",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "王子",
+			"building_name": "６丁目３−４３",
+			"organization_name": "みどり生命保険　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "王子",
+					"building_name": "６丁目３−４３",
+					"organization_name": "みどり生命保険　株式会社"
+				}
+			}
+		},
+		"1148588": {
+			"postcode": "1148588",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "東田端",
+			"building_name": "２丁目８−６",
+			"organization_name": "吉澤原動機　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "東田端",
+					"building_name": "２丁目８−６",
+					"organization_name": "吉澤原動機　株式会社"
+				}
+			}
+		},
+		"1148585": {
+			"postcode": "1148585",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "王子",
+			"building_name": "１丁目２３−１０",
+			"organization_name": "コーセー化粧品販売　株式会社　東京支社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "王子",
+					"building_name": "１丁目２３−１０",
+					"organization_name": "コーセー化粧品販売　株式会社　東京支社"
+				}
+			}
+		},
+		"1148584": {
+			"postcode": "1148584",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "王子",
+			"building_name": "５丁目１６−７",
+			"organization_name": "日本特殊塗料　（株）",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "王子",
+					"building_name": "５丁目１６−７",
+					"organization_name": "日本特殊塗料　（株）"
+				}
+			}
+		},
+		"1148583": {
+			"postcode": "1148583",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "豊島",
+			"building_name": "６丁目１０−１２",
+			"organization_name": "株式会社　トンボ鉛筆",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "豊島",
+					"building_name": "６丁目１０−１２",
+					"organization_name": "株式会社　トンボ鉛筆"
+				}
+			}
+		},
+		"1148581": {
+			"postcode": "1148581",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "田端",
+			"building_name": "６丁目１−１田端アスカタワー３階",
+			"organization_name": "株式会社　アドバネクス",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "田端",
+					"building_name": "６丁目１−１田端アスカタワー３階",
+					"organization_name": "株式会社　アドバネクス"
+				}
+			}
+		},
+		"1148580": {
+			"postcode": "1148580",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "西ケ原",
+			"building_name": "４丁目５１−２１",
+			"organization_name": "東京外国語大学",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "西ケ原",
+					"building_name": "４丁目５１−２１",
+					"organization_name": "東京外国語大学"
+				}
+			}
+		},
+		"1148577": {
+			"postcode": "1148577",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "滝野川",
+			"building_name": "１丁目９３−５",
+			"organization_name": "株式会社　模範薬品研究所",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "滝野川",
+					"building_name": "１丁目９３−５",
+					"organization_name": "株式会社　模範薬品研究所"
+				}
+			}
+		},
+		"1148574": {
+			"postcode": "1148574",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "中里",
+			"building_name": "３丁目１２−２",
+			"organization_name": "学校法人聖学院　聖学院広報センター　女子聖学院中学校高等学校　聖学院小学校　聖学院幼稚園",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "中里",
+					"building_name": "３丁目１２−２",
+					"organization_name": "学校法人聖学院　聖学院広報センター　女子聖学院中学校高等学校　聖学院小学校　聖学院幼稚園"
+				}
+			}
+		},
+		"1148571": {
+			"postcode": "1148571",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "田端新町",
+			"building_name": "３丁目２５−２",
+			"organization_name": "瀧野川信用金庫",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "田端新町",
+					"building_name": "３丁目２５−２",
+					"organization_name": "瀧野川信用金庫"
+				}
+			}
+		},
+		"1148565": {
+			"postcode": "1148565",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "十条台",
+			"building_name": "１丁目５−７０",
+			"organization_name": "海上自衛隊　需給統制隊",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "十条台",
+					"building_name": "１丁目５−７０",
+					"organization_name": "海上自衛隊　需給統制隊"
+				}
+			}
+		},
+		"1148562": {
+			"postcode": "1148562",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "滝野川",
+			"building_name": "１丁目３−１１",
+			"organization_name": "川田工業　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "滝野川",
+					"building_name": "１丁目３−１１",
+					"organization_name": "川田工業　株式会社"
+				}
+			}
+		},
+		"1148561": {
+			"postcode": "1148561",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "王子",
+			"building_name": "６丁目８−８",
+			"organization_name": "東京都立　飛鳥高等学校",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "王子",
+					"building_name": "６丁目８−８",
+					"organization_name": "東京都立　飛鳥高等学校"
+				}
+			}
+		},
+		"1148560": {
+			"postcode": "1148560",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "王子",
+			"building_name": "３丁目２２−１５",
+			"organization_name": "王子税務署",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "王子",
+					"building_name": "３丁目２２−１５",
+					"organization_name": "王子税務署"
+				}
+			}
+		},
+		"1148557": {
+			"postcode": "1148557",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "滝野川",
+			"building_name": "５丁目１５−４",
+			"organization_name": "株式会社　東洋精機製作所",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "滝野川",
+					"building_name": "５丁目１５−４",
+					"organization_name": "株式会社　東洋精機製作所"
+				}
+			}
+		},
+		"1148555": {
+			"postcode": "1148555",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "堀船",
+			"building_name": "１丁目１−９",
+			"organization_name": "日本製紙総合開発　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "堀船",
+					"building_name": "１丁目１−９",
+					"organization_name": "日本製紙総合開発　株式会社"
+				}
+			}
+		},
+		"1148554": {
+			"postcode": "1148554",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "滝野川",
+			"building_name": "１丁目５１−１２",
+			"organization_name": "学校法人　桜丘女子学園",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "滝野川",
+					"building_name": "１丁目５１−１２",
+					"organization_name": "学校法人　桜丘女子学園"
+				}
+			}
+		},
+		"1148553": {
+			"postcode": "1148553",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "滝野川",
+			"building_name": "５丁目５−３",
+			"organization_name": "サイタ工業　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "滝野川",
+					"building_name": "５丁目５−３",
+					"organization_name": "サイタ工業　株式会社"
+				}
+			}
+		},
+		"1148552": {
+			"postcode": "1148552",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "王子",
+			"building_name": "１丁目９−５京徳ビル６階",
+			"organization_name": "十條木材　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "王子",
+					"building_name": "１丁目９−５京徳ビル６階",
+					"organization_name": "十條木材　株式会社"
+				}
+			}
+		},
+		"1148550": {
+			"postcode": "1148550",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "東田端",
+			"building_name": "２丁目２０−６８",
+			"organization_name": "東日本旅客鉄道　株式会社　東京地域本社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "東田端",
+					"building_name": "２丁目２０−６８",
+					"organization_name": "東日本旅客鉄道　株式会社　東京地域本社"
+				}
+			}
+		},
+		"1148546": {
+			"postcode": "1148546",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "滝野川",
+			"building_name": "２−５２−１０",
+			"organization_name": "東京都北区役所　滝野川分庁舎",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "滝野川",
+					"building_name": "２−５２−１０",
+					"organization_name": "東京都北区役所　滝野川分庁舎"
+				}
+			}
+		},
+		"1148545": {
+			"postcode": "1148545",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "十条台",
+			"building_name": "１丁目４−１５",
+			"organization_name": "トーメン食品　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "十条台",
+					"building_name": "１丁目４−１５",
+					"organization_name": "トーメン食品　株式会社"
+				}
+			}
+		},
+		"1148543": {
+			"postcode": "1148543",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "王子本町",
+			"building_name": "１丁目２６−１７",
+			"organization_name": "学校法人　中央工学校",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "王子本町",
+					"building_name": "１丁目２６−１７",
+					"organization_name": "学校法人　中央工学校"
+				}
+			}
+		},
+		"1148541": {
+			"postcode": "1148541",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "昭和町",
+			"building_name": "２丁目１０−３",
+			"organization_name": "（株）　小泉　中央城北営業所",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "昭和町",
+					"building_name": "２丁目１０−３",
+					"organization_name": "（株）　小泉　中央城北営業所"
+				}
+			}
+		},
+		"1148540": {
+			"postcode": "1148540",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "上十条",
+			"building_name": "２丁目１３−１",
+			"organization_name": "タツミ産業　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "上十条",
+					"building_name": "２丁目１３−１",
+					"organization_name": "タツミ産業　株式会社"
+				}
+			}
+		},
+		"1148539": {
+			"postcode": "1148539",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "東田端",
+			"building_name": "２丁目４−４",
+			"organization_name": "東海商事　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "東田端",
+					"building_name": "２丁目４−４",
+					"organization_name": "東海商事　株式会社"
+				}
+			}
+		},
+		"1148538": {
+			"postcode": "1148538",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "田端新町",
+			"building_name": "３丁目３７−３",
+			"organization_name": "株式会社　三共製作所",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "田端新町",
+					"building_name": "３丁目３７−３",
+					"organization_name": "株式会社　三共製作所"
+				}
+			}
+		},
+		"1148535": {
+			"postcode": "1148535",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "滝野川",
+			"building_name": "５丁目４２",
+			"organization_name": "東京ガス　（株）　北部事業本部",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "滝野川",
+					"building_name": "５丁目４２",
+					"organization_name": "東京ガス　（株）　北部事業本部"
+				}
+			}
+		},
+		"1148534": {
+			"postcode": "1148534",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "西ケ原",
+			"building_name": "１丁目２３−３",
+			"organization_name": "北区滝野川会館",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "西ケ原",
+					"building_name": "１丁目２３−３",
+					"organization_name": "北区滝野川会館"
+				}
+			}
+		},
+		"1148532": {
+			"postcode": "1148532",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "十条台",
+			"building_name": "１丁目６−３８",
+			"organization_name": "フジ電設　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "十条台",
+					"building_name": "１丁目６−３８",
+					"organization_name": "フジ電設　株式会社"
+				}
+			}
+		},
+		"1148531": {
+			"postcode": "1148531",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "王子",
+			"building_name": "６丁目２−６６",
+			"organization_name": "東京法務局　北出張所",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "王子",
+					"building_name": "６丁目２−６６",
+					"organization_name": "東京法務局　北出張所"
+				}
+			}
+		},
+		"1148530": {
+			"postcode": "1148530",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "中里",
+			"building_name": "２丁目９−５",
+			"organization_name": "リーベ　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "中里",
+					"building_name": "２丁目９−５",
+					"organization_name": "リーベ　株式会社"
+				}
+			}
+		},
+		"1148528": {
+			"postcode": "1148528",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "田端新町",
+			"building_name": "１丁目１−１４",
+			"organization_name": "東京フェライト製造　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "田端新町",
+					"building_name": "１丁目１−１４",
+					"organization_name": "東京フェライト製造　株式会社"
+				}
+			}
+		},
+		"1148526": {
+			"postcode": "1148526",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "豊島",
+			"building_name": "８丁目２６−９",
+			"organization_name": "学校法人　東京成徳学園",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "豊島",
+					"building_name": "８丁目２６−９",
+					"organization_name": "学校法人　東京成徳学園"
+				}
+			}
+		},
+		"1148524": {
+			"postcode": "1148524",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "堀船",
+			"building_name": "２丁目１７−１",
+			"organization_name": "東京書籍　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "堀船",
+					"building_name": "２丁目１７−１",
+					"organization_name": "東京書籍　株式会社"
+				}
+			}
+		},
+		"1148522": {
+			"postcode": "1148522",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "豊島",
+			"building_name": "１丁目１０−１０",
+			"organization_name": "城北信用金庫　王子営業部",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "豊島",
+					"building_name": "１丁目１０−１０",
+					"organization_name": "城北信用金庫　王子営業部"
+				}
+			}
+		},
+		"1148521": {
+			"postcode": "1148521",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "豊島",
+			"building_name": "１丁目１１−１",
+			"organization_name": "城北信用金庫　本部",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "豊島",
+					"building_name": "１丁目１１−１",
+					"organization_name": "城北信用金庫　本部"
+				}
+			}
+		},
+		"1148520": {
+			"postcode": "1148520",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "東田端",
+			"building_name": "１丁目１０−８",
+			"organization_name": "京三電線　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "東田端",
+					"building_name": "１丁目１０−８",
+					"organization_name": "京三電線　株式会社"
+				}
+			}
+		},
+		"1148519": {
+			"postcode": "1148519",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "田端",
+			"building_name": "１丁目２５−１９サントル田端１丁目",
+			"organization_name": "株式会社　サーベイリサーチセンター",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "田端",
+					"building_name": "１丁目２５−１９サントル田端１丁目",
+					"organization_name": "株式会社　サーベイリサーチセンター"
+				}
+			}
+		},
+		"1148518": {
+			"postcode": "1148518",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "豊島",
+			"building_name": "５丁目２−８",
+			"organization_name": "リョービ　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "豊島",
+					"building_name": "５丁目２−８",
+					"organization_name": "リョービ　株式会社"
+				}
+			}
+		},
+		"1148517": {
+			"postcode": "1148517",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "中十条",
+			"building_name": "１丁目７−８",
+			"organization_name": "東京都北都税事務所",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "中十条",
+					"building_name": "１丁目７−８",
+					"organization_name": "東京都北都税事務所"
+				}
+			}
+		},
+		"1148515": {
+			"postcode": "1148515",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "滝野川",
+			"building_name": "７丁目５−１１",
+			"organization_name": "株式会社　ヨコオ",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "滝野川",
+					"building_name": "７丁目５−１１",
+					"organization_name": "株式会社　ヨコオ"
+				}
+			}
+		},
+		"1148514": {
+			"postcode": "1148514",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "滝野川",
+			"building_name": "３丁目３−１ユニオンコーポ",
+			"organization_name": "全日本運輸一般　労働組合",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "滝野川",
+					"building_name": "３丁目３−１ユニオンコーポ",
+					"organization_name": "全日本運輸一般　労働組合"
+				}
+			}
+		},
+		"1148512": {
+			"postcode": "1148512",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "西ケ原",
+			"building_name": "１丁目４６−１３",
+			"organization_name": "東京シンコール　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "西ケ原",
+					"building_name": "１丁目４６−１３",
+					"organization_name": "東京シンコール　株式会社"
+				}
+			}
+		},
+		"1148510": {
+			"postcode": "1148510",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "西ケ原",
+			"building_name": "１丁目５２−１０",
+			"organization_name": "日本リーテック　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "西ケ原",
+					"building_name": "１丁目５２−１０",
+					"organization_name": "日本リーテック　株式会社"
+				}
+			}
+		},
+		"1148508": {
+			"postcode": "1148508",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "王子本町",
+			"building_name": "１丁目１５−２２",
+			"organization_name": "東京都北区役所",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "王子本町",
+					"building_name": "１丁目１５−２２",
+					"organization_name": "東京都北区役所"
+				}
+			}
+		},
+		"1148507": {
+			"postcode": "1148507",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "王子",
+			"building_name": "１丁目１３−１４朝日生命王子ビル７Ｆ",
+			"organization_name": "朝日生命保険　相互会社　首都圏第二営業本部　事務センター",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "王子",
+					"building_name": "１丁目１３−１４朝日生命王子ビル７Ｆ",
+					"organization_name": "朝日生命保険　相互会社　首都圏第二営業本部　事務センター"
+				}
+			}
+		},
+		"1148506": {
+			"postcode": "1148506",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "上十条",
+			"building_name": "１丁目９−１７",
+			"organization_name": "東京都水道局　北営業所",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "上十条",
+					"building_name": "１丁目９−１７",
+					"organization_name": "東京都水道局　北営業所"
+				}
+			}
+		},
+		"1148505": {
+			"postcode": "1148505",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "滝野川",
+			"building_name": "６丁目３−１",
+			"organization_name": "川田建設　株式会社",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "滝野川",
+					"building_name": "６丁目３−１",
+					"organization_name": "川田建設　株式会社"
+				}
+			}
+		},
+		"1148503": {
+			"postcode": "1148503",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "王子",
+			"building_name": "１丁目１１−１",
+			"organization_name": "北とぴあ",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "王子",
+					"building_name": "１丁目１１−１",
+					"organization_name": "北とぴあ"
+				}
+			}
+		},
+		"1148502": {
+			"postcode": "1148502",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "中里",
+			"building_name": "３丁目１２−１",
+			"organization_name": "聖学院中学校高等学校",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "中里",
+					"building_name": "３丁目１２−１",
+					"organization_name": "聖学院中学校高等学校"
+				}
+			}
+		},
+		"1148501": {
+			"postcode": "1148501",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "滝野川",
+			"building_name": "７丁目２３−１",
+			"organization_name": "株式会社　コモディイイダ",
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "滝野川",
+					"building_name": "７丁目２３−１",
+					"organization_name": "株式会社　コモディイイダ"
+				}
+			}
+		},
+		"1140034": {
+			"postcode": "1140034",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "Kamijujo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "上十条",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区"
+		},
+		"1140033": {
+			"postcode": "1140033",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "Jujodai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "十条台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区"
+		},
+		"1140032": {
+			"postcode": "1140032",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "Nakajujo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "中十条",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区"
+		},
+		"1140031": {
+			"postcode": "1140031",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "Jujonakahara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "十条仲原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区"
+		},
+		"1140024": {
+			"postcode": "1140024",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "Nishigahara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "西ケ原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区"
+		},
+		"1140023": {
+			"postcode": "1140023",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "Takinogawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "滝野川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区"
+		},
+		"1140022": {
+			"postcode": "1140022",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "Ojihoncho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "王子本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区"
+		},
+		"1140021": {
+			"postcode": "1140021",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "Kishimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "岸町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区"
+		},
+		"1140016": {
+			"postcode": "1140016",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "Kaminakazato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "上中里",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区"
+		},
+		"1140015": {
+			"postcode": "1140015",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "Nakazato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "中里",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区"
+		},
+		"1140014": {
+			"postcode": "1140014",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "Tabata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "田端",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区"
+		},
+		"1140013": {
+			"postcode": "1140013",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "Higashitabata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "東田端",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区"
+		},
+		"1140012": {
+			"postcode": "1140012",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "Tabatashimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "田端新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区"
+		},
+		"1140011": {
+			"postcode": "1140011",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "Showamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "昭和町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区"
+		},
+		"1140005": {
+			"postcode": "1140005",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "Sakaecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "栄町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区"
+		},
+		"1140004": {
+			"postcode": "1140004",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "Horifune",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "堀船",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区"
+		},
+		"1140003": {
+			"postcode": "1140003",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "Toshima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "豊島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区"
+		},
+		"1140002": {
+			"postcode": "1140002",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "Oji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "王子",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区"
+		},
+		"1140001": {
+			"postcode": "1140001",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "Higashijujo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "東十条",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区"
+		},
+		"1140000": {
+			"postcode": "1140000",
+			"prefecture_name": "Tokyo-to",
+			"city_name": "Kita-ku",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "東京都",
+					"city_name": "北区",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "東京都",
+			"city_code": "北区"
+		}
+	}
+}

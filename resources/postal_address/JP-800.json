@@ -1,0 +1,4033 @@
+{
+	"country_code": "JP",
+	"parent_id": "800",
+	"locale": "ja-Latn",
+	"address": {
+		"8008686": {
+			"postcode": "8008686",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "柳町",
+			"building_name": "１丁目３−２５（門司郵便局私書箱第２号）",
+			"organization_name": "大分銀行　門司駅前支店",
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "柳町",
+					"building_name": "１丁目３−２５（門司郵便局私書箱第２号）",
+					"organization_name": "大分銀行　門司駅前支店"
+				}
+			}
+		},
+		"8008611": {
+			"postcode": "8008611",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "中町",
+			"building_name": "１番地２５号（門司郵便局私書箱第２９号）",
+			"organization_name": "株式会社　西日本シティ銀行　門司駅前支店",
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "中町",
+					"building_name": "１番地２５号（門司郵便局私書箱第２９号）",
+					"organization_name": "株式会社　西日本シティ銀行　門司駅前支店"
+				}
+			}
+		},
+		"8008603": {
+			"postcode": "8008603",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "高田",
+			"building_name": "１丁目１−２０（門司郵便局私書箱第２０号）",
+			"organization_name": "株式会社　福岡銀行　門司駅前支店",
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "高田",
+					"building_name": "１丁目１−２０（門司郵便局私書箱第２０号）",
+					"organization_name": "株式会社　福岡銀行　門司駅前支店"
+				}
+			}
+		},
+		"8008601": {
+			"postcode": "8008601",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "中町",
+			"building_name": "１−１４（門司郵便局私書箱第１１号）",
+			"organization_name": "岡野バルブ製造　株式会社",
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "中町",
+					"building_name": "１−１４（門司郵便局私書箱第１１号）",
+					"organization_name": "岡野バルブ製造　株式会社"
+				}
+			}
+		},
+		"8008585": {
+			"postcode": "8008585",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "大里元町",
+			"building_name": "２番１号",
+			"organization_name": "ニッカウヰスキー　株式会社　門司工場",
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "大里元町",
+					"building_name": "２番１号",
+					"organization_name": "ニッカウヰスキー　株式会社　門司工場"
+				}
+			}
+		},
+		"8008555": {
+			"postcode": "8008555",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "社ノ木",
+			"building_name": "１丁目２−１",
+			"organization_name": "株式会社　マツモト",
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "社ノ木",
+					"building_name": "１丁目２−１",
+					"organization_name": "株式会社　マツモト"
+				}
+			}
+		},
+		"8008550": {
+			"postcode": "8008550",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "東新町",
+			"building_name": "１丁目１−３０（門司郵便局私書箱第２４号）",
+			"organization_name": "高藤建設　株式会社",
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "東新町",
+					"building_name": "１丁目１−３０（門司郵便局私書箱第２４号）",
+					"organization_name": "高藤建設　株式会社"
+				}
+			}
+		},
+		"8008510": {
+			"postcode": "8008510",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "大里本町",
+			"building_name": "２丁目２−５",
+			"organization_name": "池田興業　株式会社",
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "大里本町",
+					"building_name": "２丁目２−５",
+					"organization_name": "池田興業　株式会社"
+				}
+			}
+		},
+		"8000396": {
+			"postcode": "8000396",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "松原町",
+			"building_name": "１２番地",
+			"organization_name": "三菱マテリアル　株式会社　九州工場",
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "松原町",
+					"building_name": "１２番地",
+					"organization_name": "三菱マテリアル　株式会社　九州工場"
+				}
+			}
+		},
+		"8000395": {
+			"postcode": "8000395",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "新浜町",
+			"building_name": "１−３",
+			"organization_name": "日産自動車　株式会社　九州工場",
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "新浜町",
+					"building_name": "１−３",
+					"organization_name": "日産自動車　株式会社　九州工場"
+				}
+			}
+		},
+		"8000394": {
+			"postcode": "8000394",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "大字新津",
+			"building_name": "１−１１",
+			"organization_name": "西日本工業大学",
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "大字新津",
+					"building_name": "１−１１",
+					"organization_name": "西日本工業大学"
+				}
+			}
+		},
+		"8000393": {
+			"postcode": "8000393",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "長浜町",
+			"building_name": "３５",
+			"organization_name": "日立金属　株式会社　九州工場",
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "長浜町",
+					"building_name": "３５",
+					"organization_name": "日立金属　株式会社　九州工場"
+				}
+			}
+		},
+		"8000392": {
+			"postcode": "8000392",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "富久町",
+			"building_name": "１丁目１９−１",
+			"organization_name": "苅田町役場",
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "富久町",
+					"building_name": "１丁目１９−１",
+					"organization_name": "苅田町役場"
+				}
+			}
+		},
+		"8000366": {
+			"postcode": "8000366",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "Amakubo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "雨窪",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡"
+		},
+		"8000365": {
+			"postcode": "8000365",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "Kanda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "苅田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡"
+		},
+		"8000364": {
+			"postcode": "8000364",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "Hisage",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "提",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡"
+		},
+		"8000363": {
+			"postcode": "8000363",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "Mitsukuni",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "光国",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡"
+		},
+		"8000362": {
+			"postcode": "8000362",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "Baba",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "馬場",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡"
+		},
+		"8000361": {
+			"postcode": "8000361",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "Jindencho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "神田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡"
+		},
+		"8000357": {
+			"postcode": "8000357",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "Sakuragaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "桜ケ丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡"
+		},
+		"8000356": {
+			"postcode": "8000356",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "Konoegaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "近衛ケ丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡"
+		},
+		"8000355": {
+			"postcode": "8000355",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "Minamibaru",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "南原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡"
+		},
+		"8000354": {
+			"postcode": "8000354",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "Atsumari",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "集",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡"
+		},
+		"8000353": {
+			"postcode": "8000353",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "Ogura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "尾倉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡"
+		},
+		"8000352": {
+			"postcode": "8000352",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "Tomihisacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "富久町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡"
+		},
+		"8000351": {
+			"postcode": "8000351",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "Kyomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "京町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡"
+		},
+		"8000345": {
+			"postcode": "8000345",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "Obase",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "小波瀬",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡"
+		},
+		"8000344": {
+			"postcode": "8000344",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "Aratsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "新津",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡"
+		},
+		"8000343": {
+			"postcode": "8000343",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "Kamikatashima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "上片島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡"
+		},
+		"8000342": {
+			"postcode": "8000342",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "Shimokatashima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "下片島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡"
+		},
+		"8000341": {
+			"postcode": "8000341",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "Shimoaratsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "下新津",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡"
+		},
+		"8000338": {
+			"postcode": "8000338",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "Kuzugawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "葛川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡"
+		},
+		"8000337": {
+			"postcode": "8000337",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "Inamitsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "稲光",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡"
+		},
+		"8000336": {
+			"postcode": "8000336",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "Yamaguchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "山口",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡"
+		},
+		"8000335": {
+			"postcode": "8000335",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "Tani",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡"
+		},
+		"8000334": {
+			"postcode": "8000334",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "Hoshoji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "法正寺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡"
+		},
+		"8000333": {
+			"postcode": "8000333",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "Kurozoe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "黒添",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡"
+		},
+		"8000332": {
+			"postcode": "8000332",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "Sukizaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "鋤崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡"
+		},
+		"8000331": {
+			"postcode": "8000331",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "Okazaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "岡崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡"
+		},
+		"8000324": {
+			"postcode": "8000324",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "Hamamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "浜町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡"
+		},
+		"8000323": {
+			"postcode": "8000323",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "Yobaru",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "与原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡"
+		},
+		"8000322": {
+			"postcode": "8000322",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "Futazaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "二崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡"
+		},
+		"8000321": {
+			"postcode": "8000321",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "Shinhamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "新浜町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡"
+		},
+		"8000315": {
+			"postcode": "8000315",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "Minatomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "港町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡"
+		},
+		"8000314": {
+			"postcode": "8000314",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "Saiwaimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "幸町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡"
+		},
+		"8000313": {
+			"postcode": "8000313",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "Isohamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "磯浜町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡"
+		},
+		"8000312": {
+			"postcode": "8000312",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "Tonogawacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "殿川町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡"
+		},
+		"8000311": {
+			"postcode": "8000311",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "Nagahamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "長浜町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡"
+		},
+		"8000306": {
+			"postcode": "8000306",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Kukokitamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "空港北町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000305": {
+			"postcode": "8000305",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "Kukominamimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "空港南町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡"
+		},
+		"8000304": {
+			"postcode": "8000304",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "Torigoecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "鳥越町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡"
+		},
+		"8000303": {
+			"postcode": "8000303",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "Matsuyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "松山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡"
+		},
+		"8000302": {
+			"postcode": "8000302",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "Wakahisacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "若久町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡"
+		},
+		"8000301": {
+			"postcode": "8000301",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "Matsubaracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "松原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡"
+		},
+		"8000300": {
+			"postcode": "8000300",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Miyako-gun",
+			"ward_name": "Kanda-machi",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "京都郡",
+					"ward_name": "苅田町",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "京都郡"
+		},
+		"8000298": {
+			"postcode": "8000298",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "葛原高松",
+			"building_name": "１丁目５−１",
+			"organization_name": "東筑紫学園　専門学校　九州リハビリテーション大学校",
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "葛原高松",
+					"building_name": "１丁目５−１",
+					"organization_name": "東筑紫学園　専門学校　九州リハビリテーション大学校"
+				}
+			}
+		},
+		"8000297": {
+			"postcode": "8000297",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "葛原",
+			"building_name": "１丁目８−４",
+			"organization_name": "株式会社　七尾製菓",
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "葛原",
+					"building_name": "１丁目８−４",
+					"organization_name": "株式会社　七尾製菓"
+				}
+			}
+		},
+		"8000296": {
+			"postcode": "8000296",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "葛原高松",
+			"building_name": "１丁目３−１",
+			"organization_name": "九州労災病院",
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "葛原高松",
+					"building_name": "１丁目３−１",
+					"organization_name": "九州労災病院"
+				}
+			}
+		},
+		"8000295": {
+			"postcode": "8000295",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "湯川",
+			"building_name": "５丁目１０−１０",
+			"organization_name": "北九州総合病院",
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "湯川",
+					"building_name": "５丁目１０−１０",
+					"organization_name": "北九州総合病院"
+				}
+			}
+		},
+		"8000294": {
+			"postcode": "8000294",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "下曽根",
+			"building_name": "１丁目８−６",
+			"organization_name": "小倉南社会保険事務所",
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "下曽根",
+					"building_name": "１丁目８−６",
+					"organization_name": "小倉南社会保険事務所"
+				}
+			}
+		},
+		"8000293": {
+			"postcode": "8000293",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "朽網東",
+			"building_name": "５丁目１−１",
+			"organization_name": "ＴＯＴＯ　株式会社　小倉第二工場",
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "朽網東",
+					"building_name": "５丁目１−１",
+					"organization_name": "ＴＯＴＯ　株式会社　小倉第二工場"
+				}
+			}
+		},
+		"8000288": {
+			"postcode": "8000288",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "上葛原",
+			"building_name": "２丁目１４番１号",
+			"organization_name": "株式会社　サンリブサンリブシティ　小倉",
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "上葛原",
+					"building_name": "２丁目１４番１号",
+					"organization_name": "株式会社　サンリブサンリブシティ　小倉"
+				}
+			}
+		},
+		"8000284": {
+			"postcode": "8000284",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "上葛原",
+			"building_name": "２丁目１４番１号",
+			"organization_name": "株式会社　サンリブ　商品部",
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "上葛原",
+					"building_name": "２丁目１４番１号",
+					"organization_name": "株式会社　サンリブ　商品部"
+				}
+			}
+		},
+		"8000283": {
+			"postcode": "8000283",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "上葛原",
+			"building_name": "２丁目１４番１号",
+			"organization_name": "株式会社　サンリブ　本社",
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "上葛原",
+					"building_name": "２丁目１４番１号",
+					"organization_name": "株式会社　サンリブ　本社"
+				}
+			}
+		},
+		"8000282": {
+			"postcode": "8000282",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "上葛原",
+			"building_name": "１丁目１８番１号",
+			"organization_name": "明治屋商事　株式会社　北九州店",
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "上葛原",
+					"building_name": "１丁目１８番１号",
+					"organization_name": "明治屋商事　株式会社　北九州店"
+				}
+			}
+		},
+		"8000281": {
+			"postcode": "8000281",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "中曽根東",
+			"building_name": "１丁目３−１１",
+			"organization_name": "クラレイ　株式会社",
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "中曽根東",
+					"building_name": "１丁目３−１１",
+					"organization_name": "クラレイ　株式会社"
+				}
+			}
+		},
+		"8000258": {
+			"postcode": "8000258",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Abeyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "安部山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000257": {
+			"postcode": "8000257",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Yugawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "湯川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000256": {
+			"postcode": "8000256",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Yugawashimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "湯川新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000255": {
+			"postcode": "8000255",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Kamikuzuhara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "上葛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000254": {
+			"postcode": "8000254",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Kuzuharamotomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "葛原元町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000253": {
+			"postcode": "8000253",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Kuzuharahommachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "葛原本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000252": {
+			"postcode": "8000252",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Kuzuharatakamatsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "葛原高松",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000251": {
+			"postcode": "8000251",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Kuzuhara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "葛原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000248": {
+			"postcode": "8000248",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Tsudaminamimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "津田南町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000247": {
+			"postcode": "8000247",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Naganohigashimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "長野東町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000246": {
+			"postcode": "8000246",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Nagano",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "長野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000245": {
+			"postcode": "8000245",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Nuki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "貫",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000244": {
+			"postcode": "8000244",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Kaminuki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "上貫",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000243": {
+			"postcode": "8000243",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Nishinuki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "西貫",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000242": {
+			"postcode": "8000242",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Tsuda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "津田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000241": {
+			"postcode": "8000241",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Naganohommachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "長野本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000237": {
+			"postcode": "8000237",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Nakanuki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "中貫",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000236": {
+			"postcode": "8000236",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Shimonuki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "下貫",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000235": {
+			"postcode": "8000235",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Nakanukihommachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "中貫本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000234": {
+			"postcode": "8000234",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Nukiyayoigaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "貫弥生が丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000233": {
+			"postcode": "8000233",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Kusaminishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "朽網西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000232": {
+			"postcode": "8000232",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Kusamihigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "朽網東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000231": {
+			"postcode": "8000231",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Kusami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "朽網",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000229": {
+			"postcode": "8000229",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Sonekitamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "曽根北町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000228": {
+			"postcode": "8000228",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Nagano",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "長野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000227": {
+			"postcode": "8000227",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Tsudashimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "津田新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000226": {
+			"postcode": "8000226",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Taharashimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "田原新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000225": {
+			"postcode": "8000225",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Tahara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "田原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000224": {
+			"postcode": "8000224",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Higashinuki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "東貫",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000223": {
+			"postcode": "8000223",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Kamisone",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "上曽根",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000222": {
+			"postcode": "8000222",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Nakasone",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "中曽根",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000221": {
+			"postcode": "8000221",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Shimosoneshimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "下曽根新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000220": {
+			"postcode": "8000220",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Soneshindemminami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "曽根新田南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000219": {
+			"postcode": "8000219",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Soneshindenkita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "曽根新田北",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000218": {
+			"postcode": "8000218",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Numashimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "沼新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000217": {
+			"postcode": "8000217",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Shimosone",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "下曽根",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000216": {
+			"postcode": "8000216",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Nakasoneshimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "中曽根新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000215": {
+			"postcode": "8000215",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Kamisoneshimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "上曽根新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000214": {
+			"postcode": "8000214",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Soneshinden",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "曽根新田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000213": {
+			"postcode": "8000213",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Nakasonehigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "中曽根東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000212": {
+			"postcode": "8000212",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Sone",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "曽根",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000211": {
+			"postcode": "8000211",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Shinsone",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "新曽根",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000210": {
+			"postcode": "8000210",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Yoshidanirenokizaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "吉田にれの木坂",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000209": {
+			"postcode": "8000209",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Numa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "沼",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000208": {
+			"postcode": "8000208",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Numahommachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "沼本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000207": {
+			"postcode": "8000207",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Numamidorimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "沼緑町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000206": {
+			"postcode": "8000206",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Kuzuharahigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "葛原東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000205": {
+			"postcode": "8000205",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Numaminamimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "沼南町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000204": {
+			"postcode": "8000204",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Nakayoshida",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "中吉田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000203": {
+			"postcode": "8000203",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Shimoyoshida",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "下吉田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000202": {
+			"postcode": "8000202",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Yoshida",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "吉田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000201": {
+			"postcode": "8000201",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Kokuraminami-ku",
+			"town_name": "Kamiyoshida",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "小倉南区",
+					"town_name": "上吉田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000118": {
+			"postcode": "8000118",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Kishishimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "吉志新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000117": {
+			"postcode": "8000117",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Tsunemi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "恒見",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000116": {
+			"postcode": "8000116",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Tsunemimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "恒見町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000115": {
+			"postcode": "8000115",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Shimmoji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "新門司",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000114": {
+			"postcode": "8000114",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Kishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "吉志",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000113": {
+			"postcode": "8000113",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Shimmojikita",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "新門司北",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000112": {
+			"postcode": "8000112",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Hata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "畑",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000111": {
+			"postcode": "8000111",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Imazu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "今津",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000102": {
+			"postcode": "8000102",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Saruhami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "猿喰",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000101": {
+			"postcode": "8000101",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Ikawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "伊川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000064": {
+			"postcode": "8000064",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Matsubara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "松原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000063": {
+			"postcode": "8000063",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Dairihommachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "大里本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000062": {
+			"postcode": "8000062",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Dairimotomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "大里元町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000061": {
+			"postcode": "8000061",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Katagamikaigan",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "片上海岸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000057": {
+			"postcode": "8000057",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Dairishimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "大里新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000056": {
+			"postcode": "8000056",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Nishishimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "西新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000055": {
+			"postcode": "8000055",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Higashishimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "東新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000054": {
+			"postcode": "8000054",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Shanoki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "社ノ木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000053": {
+			"postcode": "8000053",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Shinharamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "新原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000052": {
+			"postcode": "8000052",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Higashimaiso",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "東馬寄",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000051": {
+			"postcode": "8000051",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Shimomaiso",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "下馬寄",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000048": {
+			"postcode": "8000048",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Inazumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "稲積",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000047": {
+			"postcode": "8000047",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Fujimatsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "藤松",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000046": {
+			"postcode": "8000046",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Hikarimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "光町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000045": {
+			"postcode": "8000045",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Aobadai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "青葉台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000044": {
+			"postcode": "8000044",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Kamifujimatsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "上藤松",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000043": {
+			"postcode": "8000043",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Midorigaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "緑ケ丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000042": {
+			"postcode": "8000042",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Kamimaiso",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "上馬寄",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000041": {
+			"postcode": "8000041",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Izumigaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "泉ケ丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000039": {
+			"postcode": "8000039",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Nakamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "中町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000038": {
+			"postcode": "8000038",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Dairiharamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "大里原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000037": {
+			"postcode": "8000037",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Haramachibetsuin",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "原町別院",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000036": {
+			"postcode": "8000036",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Yanagiharamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "柳原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000035": {
+			"postcode": "8000035",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Betsuin",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "別院",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000034": {
+			"postcode": "8000034",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Komatsucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "小松町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000033": {
+			"postcode": "8000033",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Dairimomoyamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "大里桃山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000032": {
+			"postcode": "8000032",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Furocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "不老町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000031": {
+			"postcode": "8000031",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Takada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "高田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000030": {
+			"postcode": "8000030",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Momoyamadai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "桃山台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000029": {
+			"postcode": "8000029",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Dairihigashiguchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "大里東口",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000028": {
+			"postcode": "8000028",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Shimonijitcho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "下二十町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000027": {
+			"postcode": "8000027",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Koganemachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "黄金町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000026": {
+			"postcode": "8000026",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Umenokicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "梅ノ木町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000025": {
+			"postcode": "8000025",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Yanagimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "柳町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000024": {
+			"postcode": "8000024",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Dairitonoe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "大里戸ノ上",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000023": {
+			"postcode": "8000023",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Nakanijitcho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "中二十町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000022": {
+			"postcode": "8000022",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Dairihigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "大里東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000021": {
+			"postcode": "8000021",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Minamihommachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "南本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000018": {
+			"postcode": "8000018",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Dairisakuragaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "大里桜ケ丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000017": {
+			"postcode": "8000017",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Nagaguro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "永黒",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000016": {
+			"postcode": "8000016",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Kaminijitcho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "上二十町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000015": {
+			"postcode": "8000015",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Jinai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "寺内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000014": {
+			"postcode": "8000014",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Dairi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "大里",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000013": {
+			"postcode": "8000013",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Shiroyamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "城山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000012": {
+			"postcode": "8000012",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Matsuzakicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "松崎町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000011": {
+			"postcode": "8000011",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Okuda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "奥田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000008": {
+			"postcode": "8000008",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Kuzuha",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "葛葉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000007": {
+			"postcode": "8000007",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Komorie",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "小森江",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000006": {
+			"postcode": "8000006",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Yahazumachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "矢筈町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000005": {
+			"postcode": "8000005",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Hayama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "羽山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000004": {
+			"postcode": "8000004",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Kitagawamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "北川町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000003": {
+			"postcode": "8000003",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Katagamimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "片上町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000002": {
+			"postcode": "8000002",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Futamatsucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "二タ松町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000001": {
+			"postcode": "8000001",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "Kazashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "風師",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		},
+		"8000000": {
+			"postcode": "8000000",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Kitakyushu-shi",
+			"ward_name": "Moji-ku",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "北九州市",
+					"ward_name": "門司区",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "北九州市"
+		}
+	}
+}

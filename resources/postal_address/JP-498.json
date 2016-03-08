@@ -1,0 +1,1789 @@
+{
+	"country_code": "JP",
+	"parent_id": "498",
+	"locale": "ja-Latn",
+	"address": {
+		"4988505": {
+			"postcode": "4988505",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "鯏浦町",
+			"building_name": "南前新田２１５",
+			"organization_name": "株式会社　川スミ",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "鯏浦町",
+					"building_name": "南前新田２１５",
+					"organization_name": "株式会社　川スミ"
+				}
+			}
+		},
+		"4988503": {
+			"postcode": "4988503",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Kuwana-gun",
+			"ward_name": "Kisosaki-cho",
+			"town_name": "大字西対海地",
+			"building_name": "２５１",
+			"organization_name": "木曽岬町役場",
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "桑名郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "桑名郡",
+					"ward_name": "木曽岬町",
+					"town_name": "大字西対海地",
+					"building_name": "２５１",
+					"organization_name": "木曽岬町役場"
+				}
+			}
+		},
+		"4988502": {
+			"postcode": "4988502",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "前ケ須町",
+			"building_name": "南本田３９６",
+			"organization_name": "愛知県厚生農業協同組合連合会　海南病院",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "前ケ須町",
+					"building_name": "南本田３９６",
+					"organization_name": "愛知県厚生農業協同組合連合会　海南病院"
+				}
+			}
+		},
+		"4988501": {
+			"postcode": "4988501",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "前ケ須町",
+			"building_name": "南本田３３５",
+			"organization_name": "弥富市役所",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "前ケ須町",
+					"building_name": "南本田３３５",
+					"organization_name": "弥富市役所"
+				}
+			}
+		},
+		"4980823": {
+			"postcode": "4980823",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Kuwana-gun",
+			"ward_name": "Kisosaki-cho",
+			"town_name": "Kazutomi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "桑名郡",
+					"ward_name": "木曽岬町",
+					"town_name": "和富",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "桑名郡"
+		},
+		"4980822": {
+			"postcode": "4980822",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Kuwana-gun",
+			"ward_name": "Kisosaki-cho",
+			"town_name": "Kennyuryusaku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "桑名郡",
+					"ward_name": "木曽岬町",
+					"town_name": "見入流作",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "桑名郡"
+		},
+		"4980821": {
+			"postcode": "4980821",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Kuwana-gun",
+			"ward_name": "Kisosaki-cho",
+			"town_name": "Shinkaroto",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "桑名郡",
+					"ward_name": "木曽岬町",
+					"town_name": "新加路戸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "桑名郡"
+		},
+		"4980819": {
+			"postcode": "4980819",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Kuwana-gun",
+			"ward_name": "Kisosaki-cho",
+			"town_name": "Tashiro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "桑名郡",
+					"ward_name": "木曽岬町",
+					"town_name": "田代",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "桑名郡"
+		},
+		"4980818": {
+			"postcode": "4980818",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Kuwana-gun",
+			"ward_name": "Kisosaki-cho",
+			"town_name": "Gangaji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "桑名郡",
+					"ward_name": "木曽岬町",
+					"town_name": "雁ケ地",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "桑名郡"
+		},
+		"4980817": {
+			"postcode": "4980817",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Kuwana-gun",
+			"ward_name": "Kisosaki-cho",
+			"town_name": "Matsunaga",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "桑名郡",
+					"ward_name": "木曽岬町",
+					"town_name": "松永",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "桑名郡"
+		},
+		"4980816": {
+			"postcode": "4980816",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Kuwana-gun",
+			"ward_name": "Kisosaki-cho",
+			"town_name": "Genrokuwaju",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "桑名郡",
+					"ward_name": "木曽岬町",
+					"town_name": "源緑輪中",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "桑名郡"
+		},
+		"4980815": {
+			"postcode": "4980815",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Kuwana-gun",
+			"ward_name": "Kisosaki-cho",
+			"town_name": "Hakuro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "桑名郡",
+					"ward_name": "木曽岬町",
+					"town_name": "白鷺",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "桑名郡"
+		},
+		"4980814": {
+			"postcode": "4980814",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Kuwana-gun",
+			"ward_name": "Kisosaki-cho",
+			"town_name": "Misaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "桑名郡",
+					"ward_name": "木曽岬町",
+					"town_name": "三崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "桑名郡"
+		},
+		"4980813": {
+			"postcode": "4980813",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Kuwana-gun",
+			"ward_name": "Kisosaki-cho",
+			"town_name": "Tomitane",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "桑名郡",
+					"ward_name": "木曽岬町",
+					"town_name": "富田子",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "桑名郡"
+		},
+		"4980812": {
+			"postcode": "4980812",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Kuwana-gun",
+			"ward_name": "Kisosaki-cho",
+			"town_name": "Nakaizumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "桑名郡",
+					"ward_name": "木曽岬町",
+					"town_name": "中和泉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "桑名郡"
+		},
+		"4980811": {
+			"postcode": "4980811",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Kuwana-gun",
+			"ward_name": "Kisosaki-cho",
+			"town_name": "Sakae",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "桑名郡",
+					"ward_name": "木曽岬町",
+					"town_name": "栄",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "桑名郡"
+		},
+		"4980808": {
+			"postcode": "4980808",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Kuwana-gun",
+			"ward_name": "Kisosaki-cho",
+			"town_name": "Omijima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "桑名郡",
+					"ward_name": "木曽岬町",
+					"town_name": "近江島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "桑名郡"
+		},
+		"4980807": {
+			"postcode": "4980807",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Kuwana-gun",
+			"ward_name": "Kisosaki-cho",
+			"town_name": "Nishitaiganji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "桑名郡",
+					"ward_name": "木曽岬町",
+					"town_name": "西対海地",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "桑名郡"
+		},
+		"4980806": {
+			"postcode": "4980806",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Kuwana-gun",
+			"ward_name": "Kisosaki-cho",
+			"town_name": "Sotobiraki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "桑名郡",
+					"ward_name": "木曽岬町",
+					"town_name": "外平喜",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "桑名郡"
+		},
+		"4980805": {
+			"postcode": "4980805",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Kuwana-gun",
+			"ward_name": "Kisosaki-cho",
+			"town_name": "Kobayashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "桑名郡",
+					"ward_name": "木曽岬町",
+					"town_name": "小林",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "桑名郡"
+		},
+		"4980804": {
+			"postcode": "4980804",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Kuwana-gun",
+			"ward_name": "Kisosaki-cho",
+			"town_name": "Koizumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "桑名郡",
+					"ward_name": "木曽岬町",
+					"town_name": "小和泉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "桑名郡"
+		},
+		"4980803": {
+			"postcode": "4980803",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Kuwana-gun",
+			"ward_name": "Kisosaki-cho",
+			"town_name": "Izumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "桑名郡",
+					"ward_name": "木曽岬町",
+					"town_name": "和泉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "桑名郡"
+		},
+		"4980802": {
+			"postcode": "4980802",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Kuwana-gun",
+			"ward_name": "Kisosaki-cho",
+			"town_name": "Kennyu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "桑名郡",
+					"ward_name": "木曽岬町",
+					"town_name": "見入",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "桑名郡"
+		},
+		"4980801": {
+			"postcode": "4980801",
+			"prefecture_name": "Mie-ken",
+			"city_name": "Kuwana-gun",
+			"ward_name": "Kisosaki-cho",
+			"town_name": "Karoto",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "三重県",
+					"city_name": "桑名郡",
+					"ward_name": "木曽岬町",
+					"town_name": "加路戸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関西",
+			"prefecture_code": "三重県",
+			"city_code": "桑名郡"
+		},
+		"4980069": {
+			"postcode": "4980069",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Tomihama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "富浜",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980068": {
+			"postcode": "4980068",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Nabetacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "鍋田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980067": {
+			"postcode": "4980067",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Uenocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "上野町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980066": {
+			"postcode": "4980066",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Kusunoki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "楠",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980065": {
+			"postcode": "4980065",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Komanocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "駒野町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980064": {
+			"postcode": "4980064",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Nishisuehiro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "西末広",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980063": {
+			"postcode": "4980063",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Higashisuehiro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "東末広",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980062": {
+			"postcode": "4980062",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Otani",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "大谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980061": {
+			"postcode": "4980061",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Kuridashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "操出",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980058": {
+			"postcode": "4980058",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Tomishima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "富島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980057": {
+			"postcode": "4980057",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Nakahara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "中原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980056": {
+			"postcode": "4980056",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Inarizaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "稲荷崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980055": {
+			"postcode": "4980055",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Sakaicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "境町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980054": {
+			"postcode": "4980054",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Santo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "三稲",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980053": {
+			"postcode": "4980053",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Inakocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "稲狐町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980052": {
+			"postcode": "4980052",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Inari",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "稲荷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980051": {
+			"postcode": "4980051",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Kitsuneji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "狐地",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980048": {
+			"postcode": "4980048",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Inayoshi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "稲吉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980047": {
+			"postcode": "4980047",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Kaina",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "加稲",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980046": {
+			"postcode": "4980046",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Miyoshi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "三好",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980045": {
+			"postcode": "4980045",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Inamoto",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "稲元",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980044": {
+			"postcode": "4980044",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Kanzaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "間崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980043": {
+			"postcode": "4980043",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Kanen",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "寛延",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980042": {
+			"postcode": "4980042",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Matsuna",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "松名",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980041": {
+			"postcode": "4980041",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Shibai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "芝井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980038": {
+			"postcode": "4980038",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Nakayamacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "中山町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980037": {
+			"postcode": "4980037",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Kawaragake",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "川原欠",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980036": {
+			"postcode": "4980036",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Morizu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "森津",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980035": {
+			"postcode": "4980035",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Kamajima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "鎌島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980034": {
+			"postcode": "4980034",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Heijimahigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "平島東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980033": {
+			"postcode": "4980033",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Heijimanishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "平島西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980032": {
+			"postcode": "4980032",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Heijimanaka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "平島中",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980031": {
+			"postcode": "4980031",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Heijimacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "平島町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980028": {
+			"postcode": "4980028",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Uguiuracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "鯏浦町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980027": {
+			"postcode": "4980027",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Uguiuracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "鯏浦町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980026": {
+			"postcode": "4980026",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Uguiuracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "鯏浦町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980025": {
+			"postcode": "4980025",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Heijimacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "平島町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980024": {
+			"postcode": "4980024",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Uguiuracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "鯏浦町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980023": {
+			"postcode": "4980023",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Uguiuracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "鯏浦町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980022": {
+			"postcode": "4980022",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Uguiuracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "鯏浦町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980021": {
+			"postcode": "4980021",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Uguiuracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "鯏浦町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980018": {
+			"postcode": "4980018",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Gonosankawahira",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "五之三川平",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980017": {
+			"postcode": "4980017",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Maegasucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "前ケ須町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980016": {
+			"postcode": "4980016",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Kojimacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "小島町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980015": {
+			"postcode": "4980015",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Ebie",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "海老江",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980014": {
+			"postcode": "4980014",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Gomyo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "五明",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980013": {
+			"postcode": "4980013",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Kawahira",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "川平",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980012": {
+			"postcode": "4980012",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Gonosancho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "五之三町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980011": {
+			"postcode": "4980011",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Ninoecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "荷之上町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980007": {
+			"postcode": "4980007",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Kamakuracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "鎌倉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980006": {
+			"postcode": "4980006",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Sakogi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "佐古木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980005": {
+			"postcode": "4980005",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Yoshihira",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "楽平",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980004": {
+			"postcode": "4980004",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Matahachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "又八",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980003": {
+			"postcode": "4980003",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Maegahira",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "前ケ平",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980002": {
+			"postcode": "4980002",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Higashinakaji",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "東中地",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980001": {
+			"postcode": "4980001",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "Nishinakajicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "西中地町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		},
+		"4980000": {
+			"postcode": "4980000",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Yatomi-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "弥富市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "弥富市"
+		}
+	}
+}

@@ -1,0 +1,535 @@
+{
+	"country_code": "JP",
+	"parent_id": "837",
+	"locale": "ja-Latn",
+	"address": {
+		"8378501": {
+			"postcode": "8378501",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Omuta-shi",
+			"ward_name": "",
+			"town_name": "大字今山",
+			"building_name": "２３２４−１",
+			"organization_name": "親仁会　米の山病院",
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "大牟田市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "大牟田市",
+					"ward_name": "",
+					"town_name": "大字今山",
+					"building_name": "２３２４−１",
+					"organization_name": "親仁会　米の山病院"
+				}
+			}
+		},
+		"8370928": {
+			"postcode": "8370928",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Omuta-shi",
+			"ward_name": "",
+			"town_name": "Shimoshirakawamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "大牟田市",
+					"ward_name": "",
+					"town_name": "下白川町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "大牟田市"
+		},
+		"8370927": {
+			"postcode": "8370927",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Omuta-shi",
+			"ward_name": "",
+			"town_name": "Nakashirakawamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "大牟田市",
+					"ward_name": "",
+					"town_name": "中白川町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "大牟田市"
+		},
+		"8370926": {
+			"postcode": "8370926",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Omuta-shi",
+			"ward_name": "",
+			"town_name": "Kamishirakawamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "大牟田市",
+					"ward_name": "",
+					"town_name": "上白川町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "大牟田市"
+		},
+		"8370925": {
+			"postcode": "8370925",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Omuta-shi",
+			"ward_name": "",
+			"town_name": "Shirakawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "大牟田市",
+					"ward_name": "",
+					"town_name": "白川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "大牟田市"
+		},
+		"8370924": {
+			"postcode": "8370924",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Omuta-shi",
+			"ward_name": "",
+			"town_name": "Kunugi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "大牟田市",
+					"ward_name": "",
+					"town_name": "歴木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "大牟田市"
+		},
+		"8370923": {
+			"postcode": "8370923",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Omuta-shi",
+			"ward_name": "",
+			"town_name": "Shimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "大牟田市",
+					"ward_name": "",
+					"town_name": "新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "大牟田市"
+		},
+		"8370922": {
+			"postcode": "8370922",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Omuta-shi",
+			"ward_name": "",
+			"town_name": "Imayama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "大牟田市",
+					"ward_name": "",
+					"town_name": "今山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "大牟田市"
+		},
+		"8370921": {
+			"postcode": "8370921",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Omuta-shi",
+			"ward_name": "",
+			"town_name": "Miike",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "大牟田市",
+					"ward_name": "",
+					"town_name": "三池",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "大牟田市"
+		},
+		"8370917": {
+			"postcode": "8370917",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Omuta-shi",
+			"ward_name": "",
+			"town_name": "Kusagi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "大牟田市",
+					"ward_name": "",
+					"town_name": "草木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "大牟田市"
+		},
+		"8370916": {
+			"postcode": "8370916",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Omuta-shi",
+			"ward_name": "",
+			"town_name": "Takuma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "大牟田市",
+					"ward_name": "",
+					"town_name": "田隈",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "大牟田市"
+		},
+		"8370915": {
+			"postcode": "8370915",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Omuta-shi",
+			"ward_name": "",
+			"town_name": "Kubuki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "大牟田市",
+					"ward_name": "",
+					"town_name": "久福木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "大牟田市"
+		},
+		"8370914": {
+			"postcode": "8370914",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Omuta-shi",
+			"ward_name": "",
+			"town_name": "Miyabe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "大牟田市",
+					"ward_name": "",
+					"town_name": "宮部",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "大牟田市"
+		},
+		"8370913": {
+			"postcode": "8370913",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Omuta-shi",
+			"ward_name": "",
+			"town_name": "Iwamoto",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "大牟田市",
+					"ward_name": "",
+					"town_name": "岩本",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "大牟田市"
+		},
+		"8370912": {
+			"postcode": "8370912",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Omuta-shi",
+			"ward_name": "",
+			"town_name": "Shiragane",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "大牟田市",
+					"ward_name": "",
+					"town_name": "白銀",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "大牟田市"
+		},
+		"8370911": {
+			"postcode": "8370911",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Omuta-shi",
+			"ward_name": "",
+			"town_name": "Tachibana",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "大牟田市",
+					"ward_name": "",
+					"town_name": "橘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "大牟田市"
+		},
+		"8370910": {
+			"postcode": "8370910",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Omuta-shi",
+			"ward_name": "",
+			"town_name": "Iwamotoshimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "大牟田市",
+					"ward_name": "",
+					"town_name": "岩本新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "大牟田市"
+		},
+		"8370907": {
+			"postcode": "8370907",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Omuta-shi",
+			"ward_name": "",
+			"town_name": "Shikashimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "大牟田市",
+					"ward_name": "",
+					"town_name": "四箇新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "大牟田市"
+		},
+		"8370906": {
+			"postcode": "8370906",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Omuta-shi",
+			"ward_name": "",
+			"town_name": "Kuranaga",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "大牟田市",
+					"ward_name": "",
+					"town_name": "倉永",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "大牟田市"
+		},
+		"8370905": {
+			"postcode": "8370905",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Omuta-shi",
+			"ward_name": "",
+			"town_name": "Amagi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "大牟田市",
+					"ward_name": "",
+					"town_name": "甘木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "大牟田市"
+		},
+		"8370904": {
+			"postcode": "8370904",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Omuta-shi",
+			"ward_name": "",
+			"town_name": "Yoshino",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "大牟田市",
+					"ward_name": "",
+					"town_name": "吉野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "大牟田市"
+		},
+		"8370903": {
+			"postcode": "8370903",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Omuta-shi",
+			"ward_name": "",
+			"town_name": "Miyazaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "大牟田市",
+					"ward_name": "",
+					"town_name": "宮崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "大牟田市"
+		},
+		"8370902": {
+			"postcode": "8370902",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Omuta-shi",
+			"ward_name": "",
+			"town_name": "Kamiuchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "大牟田市",
+					"ward_name": "",
+					"town_name": "上内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "大牟田市"
+		},
+		"8370901": {
+			"postcode": "8370901",
+			"prefecture_name": "Fukuoka-ken",
+			"city_name": "Omuta-shi",
+			"ward_name": "",
+			"town_name": "Shika",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "福岡県",
+					"city_name": "大牟田市",
+					"ward_name": "",
+					"town_name": "四ケ",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "九州",
+			"prefecture_code": "福岡県",
+			"city_code": "大牟田市"
+		}
+	}
+}

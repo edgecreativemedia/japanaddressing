@@ -1,0 +1,2581 @@
+{
+	"country_code": "JP",
+	"parent_id": "461",
+	"locale": "ja-Latn",
+	"address": {
+		"4618798": {
+			"postcode": "4618798",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "泉",
+			"building_name": "２丁目２−５",
+			"organization_name": "名古屋逓信病院",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "泉",
+					"building_name": "２丁目２−５",
+					"organization_name": "名古屋逓信病院"
+				}
+			}
+		},
+		"4618795": {
+			"postcode": "4618795",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "白壁",
+			"building_name": "１丁目１５−１",
+			"organization_name": "東海総合通信局",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "白壁",
+					"building_name": "１丁目１５−１",
+					"organization_name": "東海総合通信局"
+				}
+			}
+		},
+		"4618729": {
+			"postcode": "4618729",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "東桜",
+			"building_name": "１丁目１−６（名古屋東郵便局私書箱第２９号）",
+			"organization_name": "住友商事　株式会社　中部支社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "東桜",
+					"building_name": "１丁目１−６（名古屋東郵便局私書箱第２９号）",
+					"organization_name": "住友商事　株式会社　中部支社"
+				}
+			}
+		},
+		"4618725": {
+			"postcode": "4618725",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "東桜",
+			"building_name": "１丁目１３−３",
+			"organization_name": "日本放送協会　名古屋放送局",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "東桜",
+					"building_name": "１丁目１３−３",
+					"organization_name": "日本放送協会　名古屋放送局"
+				}
+			}
+		},
+		"4618721": {
+			"postcode": "4618721",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "白壁",
+			"building_name": "５丁目３（名古屋東郵便局私書箱第１１５号）",
+			"organization_name": "敷島製パン　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "白壁",
+					"building_name": "５丁目３（名古屋東郵便局私書箱第１１５号）",
+					"organization_name": "敷島製パン　株式会社"
+				}
+			}
+		},
+		"4618717": {
+			"postcode": "4618717",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "橦木町",
+			"building_name": "三丁目２２番地",
+			"organization_name": "星野楽器　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "橦木町",
+					"building_name": "三丁目２２番地",
+					"organization_name": "星野楽器　株式会社"
+				}
+			}
+		},
+		"4618715": {
+			"postcode": "4618715",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "徳川",
+			"building_name": "２丁目４−３（名古屋東郵便局私書箱第１７８号）",
+			"organization_name": "千趣会",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "徳川",
+					"building_name": "２丁目４−３（名古屋東郵便局私書箱第１７８号）",
+					"organization_name": "千趣会"
+				}
+			}
+		},
+		"4618714": {
+			"postcode": "4618714",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "東桜",
+			"building_name": "１丁目３番１０号",
+			"organization_name": "（株）　豊田自動織機　トヨタＬ＆Ｆカンパニー　東桜ビル",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "東桜",
+					"building_name": "１丁目３番１０号",
+					"organization_name": "（株）　豊田自動織機　トヨタＬ＆Ｆカンパニー　東桜ビル"
+				}
+			}
+		},
+		"4618710": {
+			"postcode": "4618710",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "東桜",
+			"building_name": "１丁目１３−３（名古屋東郵便局私書箱第１１７号）",
+			"organization_name": "ＮＨＫ　名古屋放送局",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "東桜",
+					"building_name": "１丁目１３−３（名古屋東郵便局私書箱第１１７号）",
+					"organization_name": "ＮＨＫ　名古屋放送局"
+				}
+			}
+		},
+		"4618707": {
+			"postcode": "4618707",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "徳川町",
+			"building_name": "２３０８",
+			"organization_name": "名古屋モザイク工業",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "徳川町",
+					"building_name": "２３０８",
+					"organization_name": "名古屋モザイク工業"
+				}
+			}
+		},
+		"4618706": {
+			"postcode": "4618706",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "葵",
+			"building_name": "３丁目１４−１２",
+			"organization_name": "ヒサゴ　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "葵",
+					"building_name": "３丁目１４−１２",
+					"organization_name": "ヒサゴ　株式会社"
+				}
+			}
+		},
+		"4618703": {
+			"postcode": "4618703",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "徳川",
+			"building_name": "１丁目５０１",
+			"organization_name": "ホーユー　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "徳川",
+					"building_name": "１丁目５０１",
+					"organization_name": "ホーユー　株式会社"
+				}
+			}
+		},
+		"4618680": {
+			"postcode": "4618680",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "東新町",
+			"building_name": "１（名古屋東郵便局私書箱第１５８号）",
+			"organization_name": "中部電力",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "東新町",
+					"building_name": "１（名古屋東郵便局私書箱第１５８号）",
+					"organization_name": "中部電力"
+				}
+			}
+		},
+		"4618678": {
+			"postcode": "4618678",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "矢田",
+			"building_name": "３丁目１６−８５",
+			"organization_name": "尾張精機　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "矢田",
+					"building_name": "３丁目１６−８５",
+					"organization_name": "尾張精機　株式会社"
+				}
+			}
+		},
+		"4618676": {
+			"postcode": "4618676",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "砂田橋",
+			"building_name": "２丁目１−５８",
+			"organization_name": "学校法人　名古屋学院（中学校・高等学校）",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "砂田橋",
+					"building_name": "２丁目１−５８",
+					"organization_name": "学校法人　名古屋学院（中学校・高等学校）"
+				}
+			}
+		},
+		"4618675": {
+			"postcode": "4618675",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "矢田南",
+			"building_name": "５丁目１−１４",
+			"organization_name": "三菱電機システムサービス　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "矢田南",
+					"building_name": "５丁目１−１４",
+					"organization_name": "三菱電機システムサービス　株式会社"
+				}
+			}
+		},
+		"4618673": {
+			"postcode": "4618673",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "大幸南",
+			"building_name": "１丁目１−２０",
+			"organization_name": "名古屋大学医学部保健学科　名古屋大学医療技術短期大学部",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "大幸南",
+					"building_name": "１丁目１−２０",
+					"organization_name": "名古屋大学医学部保健学科　名古屋大学医療技術短期大学部"
+				}
+			}
+		},
+		"4618672": {
+			"postcode": "4618672",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "砂田橋",
+			"building_name": "５丁目７−１２",
+			"organization_name": "株式会社　明治屋　名古屋支店",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "砂田橋",
+					"building_name": "５丁目７−１２",
+					"organization_name": "株式会社　明治屋　名古屋支店"
+				}
+			}
+		},
+		"4618671": {
+			"postcode": "4618671",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "砂田橋",
+			"building_name": "４丁目１−４７",
+			"organization_name": "中京コカ・コーラボトリング　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "砂田橋",
+					"building_name": "４丁目１−４７",
+					"organization_name": "中京コカ・コーラボトリング　株式会社"
+				}
+			}
+		},
+		"4618670": {
+			"postcode": "4618670",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "矢田南",
+			"building_name": "５丁目１−１４",
+			"organization_name": "三菱電機　株式会社　名古屋製作所",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "矢田南",
+					"building_name": "５丁目１−１４",
+					"organization_name": "三菱電機　株式会社　名古屋製作所"
+				}
+			}
+		},
+		"4618666": {
+			"postcode": "4618666",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "東桜",
+			"building_name": "２丁目１３−３２",
+			"organization_name": "ぴあ　株式会社　中部支局",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "東桜",
+					"building_name": "２丁目１３−３２",
+					"organization_name": "ぴあ　株式会社　中部支局"
+				}
+			}
+		},
+		"4618658": {
+			"postcode": "4618658",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "徳川",
+			"building_name": "１丁目１５−３０",
+			"organization_name": "森永乳業　株式会社　東海支店",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "徳川",
+					"building_name": "１丁目１５−３０",
+					"organization_name": "森永乳業　株式会社　東海支店"
+				}
+			}
+		},
+		"4618655": {
+			"postcode": "4618655",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "徳川",
+			"building_name": "１丁目８−４８",
+			"organization_name": "株式会社　タカコム",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "徳川",
+					"building_name": "１丁目８−４８",
+					"organization_name": "株式会社　タカコム"
+				}
+			}
+		},
+		"4618654": {
+			"postcode": "4618654",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "出来町",
+			"building_name": "３丁目６−２３",
+			"organization_name": "旭陵高等学校",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "出来町",
+					"building_name": "３丁目６−２３",
+					"organization_name": "旭陵高等学校"
+				}
+			}
+		},
+		"4618651": {
+			"postcode": "4618651",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "徳川",
+			"building_name": "１丁目９０１",
+			"organization_name": "千趣会　名古屋支社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "徳川",
+					"building_name": "１丁目９０１",
+					"organization_name": "千趣会　名古屋支社"
+				}
+			}
+		},
+		"4618650": {
+			"postcode": "4618650",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "徳川",
+			"building_name": "１丁目５０１",
+			"organization_name": "ホーユー　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "徳川",
+					"building_name": "１丁目５０１",
+					"organization_name": "ホーユー　株式会社"
+				}
+			}
+		},
+		"4618645": {
+			"postcode": "4618645",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "代官町",
+			"building_name": "３７−１３",
+			"organization_name": "ジェイルハウス",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "代官町",
+					"building_name": "３７−１３",
+					"organization_name": "ジェイルハウス"
+				}
+			}
+		},
+		"4618641": {
+			"postcode": "4618641",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "筒井",
+			"building_name": "２丁目１０−３１",
+			"organization_name": "愛知大学",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "筒井",
+					"building_name": "２丁目１０−３１",
+					"organization_name": "愛知大学"
+				}
+			}
+		},
+		"4618640": {
+			"postcode": "4618640",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "筒井",
+			"building_name": "一丁目７−７４",
+			"organization_name": "名古屋市東区役所",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "筒井",
+					"building_name": "一丁目７−７４",
+					"organization_name": "名古屋市東区役所"
+				}
+			}
+		},
+		"4618639": {
+			"postcode": "4618639",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "東桜",
+			"building_name": "１丁目１０−３７",
+			"organization_name": "愛知国際放送　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "東桜",
+					"building_name": "１丁目１０−３７",
+					"organization_name": "愛知国際放送　株式会社"
+				}
+			}
+		},
+		"4618636": {
+			"postcode": "4618636",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "東桜",
+			"building_name": "一丁目３番１０号東桜第一ビル１０階",
+			"organization_name": "株式会社　コミュニティネットワークセンター",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "東桜",
+					"building_name": "一丁目３番１０号東桜第一ビル１０階",
+					"organization_name": "株式会社　コミュニティネットワークセンター"
+				}
+			}
+		},
+		"4618631": {
+			"postcode": "4618631",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "東外堀町",
+			"building_name": "３５",
+			"organization_name": "（株）　三和化学研究所",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "東外堀町",
+					"building_name": "３５",
+					"organization_name": "（株）　三和化学研究所"
+				}
+			}
+		},
+		"4618630": {
+			"postcode": "4618630",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "相生町",
+			"building_name": "５５",
+			"organization_name": "いその　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "相生町",
+					"building_name": "５５",
+					"organization_name": "いその　株式会社"
+				}
+			}
+		},
+		"4618626": {
+			"postcode": "4618626",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "東桜",
+			"building_name": "１丁目１３番３号ＮＨＫ名古屋放送センタービル８階",
+			"organization_name": "名古屋市　栄市税事務所",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "東桜",
+					"building_name": "１丁目１３番３号ＮＨＫ名古屋放送センタービル８階",
+					"organization_name": "名古屋市　栄市税事務所"
+				}
+			}
+		},
+		"4618621": {
+			"postcode": "4618621",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "主税町",
+			"building_name": "３丁目１８番地",
+			"organization_name": "名古屋東　税務署",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "主税町",
+					"building_name": "３丁目１８番地",
+					"organization_name": "名古屋東　税務署"
+				}
+			}
+		},
+		"4618620": {
+			"postcode": "4618620",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "主税町",
+			"building_name": "４丁目８５",
+			"organization_name": "ダイテック",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "主税町",
+					"building_name": "４丁目８５",
+					"organization_name": "ダイテック"
+				}
+			}
+		},
+		"4618614": {
+			"postcode": "4618614",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "東桜",
+			"building_name": "１丁目１３−３１１Ｆ",
+			"organization_name": "阪和興業　株式会社　名古屋支社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "東桜",
+					"building_name": "１丁目１３−３１１Ｆ",
+					"organization_name": "阪和興業　株式会社　名古屋支社"
+				}
+			}
+		},
+		"4618612": {
+			"postcode": "4618612",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "葵",
+			"building_name": "１丁目２−１３",
+			"organization_name": "トヨタカローラ中京　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "葵",
+					"building_name": "１丁目２−１３",
+					"organization_name": "トヨタカローラ中京　株式会社"
+				}
+			}
+		},
+		"4618610": {
+			"postcode": "4618610",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "葵",
+			"building_name": "１丁目１７−８",
+			"organization_name": "山田学園",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "葵",
+					"building_name": "１丁目１７−８",
+					"organization_name": "山田学園"
+				}
+			}
+		},
+		"4618608": {
+			"postcode": "4618608",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "葵",
+			"building_name": "３丁目１５−３１",
+			"organization_name": "株式会社　ヤマナカ",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "葵",
+					"building_name": "３丁目１５−３１",
+					"organization_name": "株式会社　ヤマナカ"
+				}
+			}
+		},
+		"4618605": {
+			"postcode": "4618605",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "葵",
+			"building_name": "１丁目２０−６",
+			"organization_name": "（株）　ＮＴＴデータ　東海支社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "葵",
+					"building_name": "１丁目２０−６",
+					"organization_name": "（株）　ＮＴＴデータ　東海支社"
+				}
+			}
+		},
+		"4618603": {
+			"postcode": "4618603",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "葵",
+			"building_name": "３丁目１−２４",
+			"organization_name": "株式会社　大塚屋",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "葵",
+					"building_name": "３丁目１−２４",
+					"organization_name": "株式会社　大塚屋"
+				}
+			}
+		},
+		"4618602": {
+			"postcode": "4618602",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "葵",
+			"building_name": "３丁目１５−３１",
+			"organization_name": "住友生命保険　相互会社　愛知南支社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "葵",
+					"building_name": "３丁目１５−３１",
+					"organization_name": "住友生命保険　相互会社　愛知南支社"
+				}
+			}
+		},
+		"4618588": {
+			"postcode": "4618588",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "白壁",
+			"building_name": "２丁目３０−８",
+			"organization_name": "株式会社　小出物産",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "白壁",
+					"building_name": "２丁目３０−８",
+					"organization_name": "株式会社　小出物産"
+				}
+			}
+		},
+		"4618586": {
+			"postcode": "4618586",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "白壁",
+			"building_name": "１丁目１",
+			"organization_name": "名古屋拘置所",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "白壁",
+					"building_name": "１丁目１",
+					"organization_name": "名古屋拘置所"
+				}
+			}
+		},
+		"4618585": {
+			"postcode": "4618585",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "白壁",
+			"building_name": "１丁目４５番地白壁ビル",
+			"organization_name": "日本国土開発　株式会社　名古屋支店",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "白壁",
+					"building_name": "１丁目４５番地白壁ビル",
+					"organization_name": "日本国土開発　株式会社　名古屋支店"
+				}
+			}
+		},
+		"4618582": {
+			"postcode": "4618582",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "泉",
+			"building_name": "２丁目２１−２８",
+			"organization_name": "株式会社　日刊工業新聞社　名古屋支社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "泉",
+					"building_name": "２丁目２１−２８",
+					"organization_name": "株式会社　日刊工業新聞社　名古屋支社"
+				}
+			}
+		},
+		"4618581": {
+			"postcode": "4618581",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "東桜",
+			"building_name": "１丁目１番１０号",
+			"organization_name": "大同特殊鋼　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "東桜",
+					"building_name": "１丁目１番１０号",
+					"organization_name": "大同特殊鋼　株式会社"
+				}
+			}
+		},
+		"4618580": {
+			"postcode": "4618580",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "白壁",
+			"building_name": "３丁目１２−１３",
+			"organization_name": "社団法人　中部産業連盟",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "白壁",
+					"building_name": "３丁目１２−１３",
+					"organization_name": "社団法人　中部産業連盟"
+				}
+			}
+		},
+		"4618577": {
+			"postcode": "4618577",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "白壁",
+			"building_name": "５丁目３番地",
+			"organization_name": "（株）　レアールパスコベーカリーズ　名古屋本部",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "白壁",
+					"building_name": "５丁目３番地",
+					"organization_name": "（株）　レアールパスコベーカリーズ　名古屋本部"
+				}
+			}
+		},
+		"4618575": {
+			"postcode": "4618575",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "白壁",
+			"building_name": "１丁目１５−１",
+			"organization_name": "名古屋北労働基準監督署",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "白壁",
+					"building_name": "１丁目１５−１",
+					"organization_name": "名古屋北労働基準監督署"
+				}
+			}
+		},
+		"4618560": {
+			"postcode": "4618560",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "白壁",
+			"building_name": "３丁目１８−１１",
+			"organization_name": "六合エレメック",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "白壁",
+					"building_name": "３丁目１８−１１",
+					"organization_name": "六合エレメック"
+				}
+			}
+		},
+		"4618558": {
+			"postcode": "4618558",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "泉",
+			"building_name": "二丁目２７番１４号東海関電ビルディング４階",
+			"organization_name": "西松建設　株式会社　中部支店",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "泉",
+					"building_name": "二丁目２７番１４号東海関電ビルディング４階",
+					"organization_name": "西松建設　株式会社　中部支店"
+				}
+			}
+		},
+		"4618555": {
+			"postcode": "4618555",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "泉",
+			"building_name": "３丁目４−３",
+			"organization_name": "株式会社　松本義肢製作所",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "泉",
+					"building_name": "３丁目４−３",
+					"organization_name": "株式会社　松本義肢製作所"
+				}
+			}
+		},
+		"4618550": {
+			"postcode": "4618550",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "泉",
+			"building_name": "１丁目１−３９",
+			"organization_name": "第一法規出版　（株）　東海支社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "泉",
+					"building_name": "１丁目１−３９",
+					"organization_name": "第一法規出版　（株）　東海支社"
+				}
+			}
+		},
+		"4618541": {
+			"postcode": "4618541",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "東桜",
+			"building_name": "１丁目１４番１１号",
+			"organization_name": "東京海上日動火災保険　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "東桜",
+					"building_name": "１丁目１４番１１号",
+					"organization_name": "東京海上日動火災保険　株式会社"
+				}
+			}
+		},
+		"4618540": {
+			"postcode": "4618540",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "東桜",
+			"building_name": "２丁目２−１高岳パークビル１０Ｆ総務広報Ｇ",
+			"organization_name": "関西電力　株式会社　東海支社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "東桜",
+					"building_name": "２丁目２−１高岳パークビル１０Ｆ総務広報Ｇ",
+					"organization_name": "関西電力　株式会社　東海支社"
+				}
+			}
+		},
+		"4618539": {
+			"postcode": "4618539",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "東桜",
+			"building_name": "２丁目１７−１４",
+			"organization_name": "玉野総合コンサルタント　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "東桜",
+					"building_name": "２丁目１７−１４",
+					"organization_name": "玉野総合コンサルタント　株式会社"
+				}
+			}
+		},
+		"4618532": {
+			"postcode": "4618532",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "泉",
+			"building_name": "１丁目６番５号",
+			"organization_name": "愛知県国民健康保険団体連合会",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "泉",
+					"building_name": "１丁目６番５号",
+					"organization_name": "愛知県国民健康保険団体連合会"
+				}
+			}
+		},
+		"4618531": {
+			"postcode": "4618531",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "泉",
+			"building_name": "２丁目２８−８",
+			"organization_name": "アスゲン製薬　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "泉",
+					"building_name": "２丁目２８−８",
+					"organization_name": "アスゲン製薬　株式会社"
+				}
+			}
+		},
+		"4618530": {
+			"postcode": "4618530",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "泉",
+			"building_name": "１丁目２３−３０",
+			"organization_name": "松下電器産業　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "泉",
+					"building_name": "１丁目２３−３０",
+					"organization_name": "松下電器産業　株式会社"
+				}
+			}
+		},
+		"4618525": {
+			"postcode": "4618525",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "東桜",
+			"building_name": "１丁目１３−２",
+			"organization_name": "愛知芸術文化センター",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "東桜",
+					"building_name": "１丁目１３−２",
+					"organization_name": "愛知芸術文化センター"
+				}
+			}
+		},
+		"4618522": {
+			"postcode": "4618522",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "東桜",
+			"building_name": "２丁目１２−８",
+			"organization_name": "サンデーフォークプロモーション",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "東桜",
+					"building_name": "２丁目１２−８",
+					"organization_name": "サンデーフォークプロモーション"
+				}
+			}
+		},
+		"4618520": {
+			"postcode": "4618520",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "東桜",
+			"building_name": "２丁目３−３",
+			"organization_name": "萩原電気　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "東桜",
+					"building_name": "２丁目３−３",
+					"organization_name": "萩原電気　株式会社"
+				}
+			}
+		},
+		"4618516": {
+			"postcode": "4618516",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "葵",
+			"building_name": "１丁目１９番３０号マザックアートプラザ２０階",
+			"organization_name": "三菱ＵＦＪリサーチ＆コンサルティング　株式会社",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "葵",
+					"building_name": "１丁目１９番３０号マザックアートプラザ２０階",
+					"organization_name": "三菱ＵＦＪリサーチ＆コンサルティング　株式会社"
+				}
+			}
+		},
+		"4618515": {
+			"postcode": "4618515",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "葵",
+			"building_name": "１丁目１３−８アーバンネット布池ビル",
+			"organization_name": "全国健康保険協会　愛知支部",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "葵",
+					"building_name": "１丁目１３−８アーバンネット布池ビル",
+					"organization_name": "全国健康保険協会　愛知支部"
+				}
+			}
+		},
+		"4618512": {
+			"postcode": "4618512",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "泉",
+			"building_name": "１丁目２−３ソアービル",
+			"organization_name": "佐藤工業　株式会社　名古屋支店",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "泉",
+					"building_name": "１丁目２−３ソアービル",
+					"organization_name": "佐藤工業　株式会社　名古屋支店"
+				}
+			}
+		},
+		"4618511": {
+			"postcode": "4618511",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "東桜",
+			"building_name": "２丁目２−１",
+			"organization_name": "キヤノンマーケティングジャパン　株式会社　名古屋支店",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "東桜",
+					"building_name": "２丁目２−１",
+					"organization_name": "キヤノンマーケティングジャパン　株式会社　名古屋支店"
+				}
+			}
+		},
+		"4618508": {
+			"postcode": "4618508",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "東桜",
+			"building_name": "２丁目３−７",
+			"organization_name": "東カン名古屋ビル",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "東桜",
+					"building_name": "２丁目３−７",
+					"organization_name": "東カン名古屋ビル"
+				}
+			}
+		},
+		"4618507": {
+			"postcode": "4618507",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "東桜",
+			"building_name": "１丁目１−６",
+			"organization_name": "住友林業　株式会社　営業本部　東海支店",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "東桜",
+					"building_name": "１丁目１−６",
+					"organization_name": "住友林業　株式会社　営業本部　東海支店"
+				}
+			}
+		},
+		"4618506": {
+			"postcode": "4618506",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "東桜",
+			"building_name": "１丁目１０−１９",
+			"organization_name": "株式会社　大林組　名古屋支店",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "東桜",
+					"building_name": "１丁目１０−１９",
+					"organization_name": "株式会社　大林組　名古屋支店"
+				}
+			}
+		},
+		"4618505": {
+			"postcode": "4618505",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "東桜",
+			"building_name": "２丁目１５−４",
+			"organization_name": "株式会社　梅澤",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "東桜",
+					"building_name": "２丁目１５−４",
+					"organization_name": "株式会社　梅澤"
+				}
+			}
+		},
+		"4618504": {
+			"postcode": "4618504",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "東桜",
+			"building_name": "１丁目１４−２７",
+			"organization_name": "東海ラジオ放送",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "東桜",
+					"building_name": "１丁目１４−２７",
+					"organization_name": "東海ラジオ放送"
+				}
+			}
+		},
+		"4618503": {
+			"postcode": "4618503",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "東桜",
+			"building_name": "１丁目１４−２７",
+			"organization_name": "東海ラジオ放送",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "東桜",
+					"building_name": "１丁目１４−２７",
+					"organization_name": "東海ラジオ放送"
+				}
+			}
+		},
+		"4618501": {
+			"postcode": "4618501",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "東桜",
+			"building_name": "１丁目１４−２７",
+			"organization_name": "東海テレビ放送",
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "東桜",
+					"building_name": "１丁目１４−２７",
+					"organization_name": "東海テレビ放送"
+				}
+			}
+		},
+		"4610049": {
+			"postcode": "4610049",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Kodeki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "古出来",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4610048": {
+			"postcode": "4610048",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Yadaminami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "矢田南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4610047": {
+			"postcode": "4610047",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Daikominami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "大幸南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4610046": {
+			"postcode": "4610046",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Maenamicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "前浪町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4610045": {
+			"postcode": "4610045",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Sunadabashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "砂田橋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4610044": {
+			"postcode": "4610044",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Yadahigashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "矢田東",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4610043": {
+			"postcode": "4610043",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Daiko",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "大幸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4610040": {
+			"postcode": "4610040",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Yada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "矢田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4610038": {
+			"postcode": "4610038",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Shindeki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "新出来",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4610037": {
+			"postcode": "4610037",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Hyakunincho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "百人町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4610036": {
+			"postcode": "4610036",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Kurumamichicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "車道町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4610035": {
+			"postcode": "4610035",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Kuromoncho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "黒門町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4610034": {
+			"postcode": "4610034",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Toyomaecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "豊前町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4610033": {
+			"postcode": "4610033",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Omatsucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "大松町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4610032": {
+			"postcode": "4610032",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Dekimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "出来町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4610031": {
+			"postcode": "4610031",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Meirincho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "明倫町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4610027": {
+			"postcode": "4610027",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Yoshino",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "芳野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4610026": {
+			"postcode": "4610026",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Akatsukacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "赤塚町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4610025": {
+			"postcode": "4610025",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Tokugawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "徳川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4610024": {
+			"postcode": "4610024",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Yamaguchicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "山口町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4610023": {
+			"postcode": "4610023",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Tokugawacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "徳川町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4610022": {
+			"postcode": "4610022",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Higashiozonecho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "東大曽根町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4610021": {
+			"postcode": "4610021",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Ozone",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "大曽根",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4610019": {
+			"postcode": "4610019",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Sannomaru",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "三の丸",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4610018": {
+			"postcode": "4610018",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Chikaramachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "主税町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4610017": {
+			"postcode": "4610017",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Higashisotoboricho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "東外堀町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4610016": {
+			"postcode": "4610016",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Kamitatesuginocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "上竪杉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4610015": {
+			"postcode": "4610015",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Higashikatahamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "東片端町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4610014": {
+			"postcode": "4610014",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Shumokucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "橦木町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4610013": {
+			"postcode": "4610013",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Iidamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "飯田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4610012": {
+			"postcode": "4610012",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Aioicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "相生町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4610011": {
+			"postcode": "4610011",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Shirakabe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "白壁",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4610009": {
+			"postcode": "4610009",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Hisayacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "久屋町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4610008": {
+			"postcode": "4610008",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Buheicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "武平町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4610007": {
+			"postcode": "4610007",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Nishishincho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "西新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4610006": {
+			"postcode": "4610006",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Higashishincho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "東新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4610005": {
+			"postcode": "4610005",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Higashisakura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "東桜",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4610004": {
+			"postcode": "4610004",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Aoi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "葵",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4610003": {
+			"postcode": "4610003",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Tsutsui",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "筒井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4610002": {
+			"postcode": "4610002",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Daikancho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "代官町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4610001": {
+			"postcode": "4610001",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "Izumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "泉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		},
+		"4610000": {
+			"postcode": "4610000",
+			"prefecture_name": "Aichi-ken",
+			"city_name": "Nagoya-shi",
+			"ward_name": "Higashi-ku",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "愛知県",
+					"city_name": "名古屋市",
+					"ward_name": "東区",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "中部",
+			"prefecture_code": "愛知県",
+			"city_code": "名古屋市"
+		}
+	}
+}

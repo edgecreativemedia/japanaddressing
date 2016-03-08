@@ -1,0 +1,1371 @@
+{
+	"country_code": "JP",
+	"parent_id": "782",
+	"locale": "ja-Latn",
+	"address": {
+		"7828502": {
+			"postcode": "7828502",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "土佐山田町宮ノ口",
+			"building_name": "１８５",
+			"organization_name": "高知工科大学",
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町宮ノ口",
+					"building_name": "１８５",
+					"organization_name": "高知工科大学"
+				}
+			}
+		},
+		"7820079": {
+			"postcode": "7820079",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Sano",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "佐野",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820078": {
+			"postcode": "7820078",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Ohira",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820077": {
+			"postcode": "7820077",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "佐野",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820076": {
+			"postcode": "7820076",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Hommura",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820075": {
+			"postcode": "7820075",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Nishigonyu",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820074": {
+			"postcode": "7820074",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Ogonyu",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820073": {
+			"postcode": "7820073",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Nakagonyu",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820072": {
+			"postcode": "7820072",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Aratani",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820071": {
+			"postcode": "7820071",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Satake",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820064": {
+			"postcode": "7820064",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Daihoji",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820063": {
+			"postcode": "7820063",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Higashigawa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820062": {
+			"postcode": "7820062",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Hirayama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "平山",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820061": {
+			"postcode": "7820061",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Sogabegawa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820059": {
+			"postcode": "7820059",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Irino",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820058": {
+			"postcode": "7820058",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Shingai",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820057": {
+			"postcode": "7820057",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Hisatsugi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820056": {
+			"postcode": "7820056",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Kamikaida",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820055": {
+			"postcode": "7820055",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Sue",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820054": {
+			"postcode": "7820054",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Ue",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820051": {
+			"postcode": "7820051",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Kuzume",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "楠目",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820047": {
+			"postcode": "7820047",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820046": {
+			"postcode": "7820046",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820045": {
+			"postcode": "7820045",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820044": {
+			"postcode": "7820044",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820043": {
+			"postcode": "7820043",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820042": {
+			"postcode": "7820042",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820041": {
+			"postcode": "7820041",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820039": {
+			"postcode": "7820039",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Sakaemachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820038": {
+			"postcode": "7820038",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Jinzancho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820037": {
+			"postcode": "7820037",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Miyamaecho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820036": {
+			"postcode": "7820036",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820035": {
+			"postcode": "7820035",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Hyakkokucho",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820034": {
+			"postcode": "7820034",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Takaramachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820033": {
+			"postcode": "7820033",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Asahimachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820032": {
+			"postcode": "7820032",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Nishihommachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820031": {
+			"postcode": "7820031",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Higashihommachi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820025": {
+			"postcode": "7820025",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Matsumoto",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820024": {
+			"postcode": "7820024",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Jintsuji",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820023": {
+			"postcode": "7820023",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Kyoden",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "京田",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820022": {
+			"postcode": "7820022",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "京田",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820021": {
+			"postcode": "7820021",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Iwatsugi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820019": {
+			"postcode": "7820019",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Nakano",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820018": {
+			"postcode": "7820018",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Toitajima",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820017": {
+			"postcode": "7820017",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Iwazumi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820016": {
+			"postcode": "7820016",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Yamada",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "山田",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820015": {
+			"postcode": "7820015",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Shimonomura",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820014": {
+			"postcode": "7820014",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Odajima",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820013": {
+			"postcode": "7820013",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Machida",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820012": {
+			"postcode": "7820012",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Kamo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820011": {
+			"postcode": "7820011",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Yamadajima",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820010": {
+			"postcode": "7820010",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Tekunopaku",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820009": {
+			"postcode": "7820009",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Igenoki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820008": {
+			"postcode": "7820008",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Sakoyabu",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820007": {
+			"postcode": "7820007",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Hayashida",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820006": {
+			"postcode": "7820006",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Kageyama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820005": {
+			"postcode": "7820005",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Sakakawa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820004": {
+			"postcode": "7820004",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Hazama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820003": {
+			"postcode": "7820003",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Miyanokuchi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820002": {
+			"postcode": "7820002",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Funadani",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820001": {
+			"postcode": "7820001",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "Tosayamadacho",
+			"building_name": "Suita",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "土佐山田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		},
+		"7820000": {
+			"postcode": "7820000",
+			"prefecture_name": "Kochi-ken",
+			"city_name": "Kami-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "高知県",
+					"city_name": "香美市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "四国",
+			"prefecture_code": "高知県",
+			"city_code": "香美市"
+		}
+	}
+}

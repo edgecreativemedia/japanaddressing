@@ -1,0 +1,513 @@
+{
+	"country_code": "JP",
+	"parent_id": "295",
+	"locale": "ja-Latn",
+	"address": {
+		"2958601": {
+			"postcode": "2958601",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Minamiboso-shi",
+			"ward_name": "",
+			"town_name": "千倉町瀬戸",
+			"building_name": "２２９６番地６",
+			"organization_name": "南房総市役所　朝夷行政センター",
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "南房総市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "南房総市",
+					"ward_name": "",
+					"town_name": "千倉町瀬戸",
+					"building_name": "２２９６番地６",
+					"organization_name": "南房総市役所　朝夷行政センター"
+				}
+			}
+		},
+		"2950192": {
+			"postcode": "2950192",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Minamiboso-shi",
+			"ward_name": "",
+			"town_name": "白浜町白浜",
+			"building_name": "３４６７番地１",
+			"organization_name": "南房総市役所　白浜地域センター",
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "南房総市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "南房総市",
+					"ward_name": "",
+					"town_name": "白浜町白浜",
+					"building_name": "３４６７番地１",
+					"organization_name": "南房総市役所　白浜地域センター"
+				}
+			}
+		},
+		"2950104": {
+			"postcode": "2950104",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Minamiboso-shi",
+			"ward_name": "",
+			"town_name": "Shirahamacho",
+			"building_name": "Nemoto",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "南房総市",
+					"ward_name": "",
+					"town_name": "白浜町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "南房総市"
+		},
+		"2950103": {
+			"postcode": "2950103",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Minamiboso-shi",
+			"ward_name": "",
+			"town_name": "Shirahamacho",
+			"building_name": "Takiguchi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "南房総市",
+					"ward_name": "",
+					"town_name": "白浜町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "南房総市"
+		},
+		"2950102": {
+			"postcode": "2950102",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Minamiboso-shi",
+			"ward_name": "",
+			"town_name": "Shirahamacho",
+			"building_name": "Shirahama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "南房総市",
+					"ward_name": "",
+					"town_name": "白浜町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "南房総市"
+		},
+		"2950101": {
+			"postcode": "2950101",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Minamiboso-shi",
+			"ward_name": "",
+			"town_name": "Shirahamacho",
+			"building_name": "Otohama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "南房総市",
+					"ward_name": "",
+					"town_name": "白浜町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "南房総市"
+		},
+		"2950027": {
+			"postcode": "2950027",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Minamiboso-shi",
+			"ward_name": "",
+			"town_name": "Chikuracho",
+			"building_name": "Shiramazu",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "南房総市",
+					"ward_name": "",
+					"town_name": "千倉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "南房総市"
+		},
+		"2950026": {
+			"postcode": "2950026",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Minamiboso-shi",
+			"ward_name": "",
+			"town_name": "Chikuracho",
+			"building_name": "Okawa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "南房総市",
+					"ward_name": "",
+					"town_name": "千倉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "南房総市"
+		},
+		"2950025": {
+			"postcode": "2950025",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Minamiboso-shi",
+			"ward_name": "",
+			"town_name": "Chikuracho",
+			"building_name": "Senda",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "南房総市",
+					"ward_name": "",
+					"town_name": "千倉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "南房総市"
+		},
+		"2950024": {
+			"postcode": "2950024",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Minamiboso-shi",
+			"ward_name": "",
+			"town_name": "Chikuracho",
+			"building_name": "Hiraiso",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "南房総市",
+					"ward_name": "",
+					"town_name": "千倉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "南房総市"
+		},
+		"2950023": {
+			"postcode": "2950023",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Minamiboso-shi",
+			"ward_name": "",
+			"town_name": "Chikuracho",
+			"building_name": "Kawaguchi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "南房総市",
+					"ward_name": "",
+					"town_name": "千倉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "南房総市"
+		},
+		"2950022": {
+			"postcode": "2950022",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Minamiboso-shi",
+			"ward_name": "",
+			"town_name": "Chikuracho",
+			"building_name": "Kotto",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "南房総市",
+					"ward_name": "",
+					"town_name": "千倉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "南房総市"
+		},
+		"2950021": {
+			"postcode": "2950021",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Minamiboso-shi",
+			"ward_name": "",
+			"town_name": "Chikuracho",
+			"building_name": "Hedate",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "南房総市",
+					"ward_name": "",
+					"town_name": "千倉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "南房総市"
+		},
+		"2950014": {
+			"postcode": "2950014",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Minamiboso-shi",
+			"ward_name": "",
+			"town_name": "Chikuracho",
+			"building_name": "Kawato",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "南房総市",
+					"ward_name": "",
+					"town_name": "千倉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "南房総市"
+		},
+		"2950013": {
+			"postcode": "2950013",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Minamiboso-shi",
+			"ward_name": "",
+			"town_name": "Chikuracho",
+			"building_name": "Onuki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "南房総市",
+					"ward_name": "",
+					"town_name": "千倉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "南房総市"
+		},
+		"2950012": {
+			"postcode": "2950012",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Minamiboso-shi",
+			"ward_name": "",
+			"town_name": "Chikuracho",
+			"building_name": "Minamiasai",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "南房総市",
+					"ward_name": "",
+					"town_name": "千倉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "南房総市"
+		},
+		"2950011": {
+			"postcode": "2950011",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Minamiboso-shi",
+			"ward_name": "",
+			"town_name": "Chikuracho",
+			"building_name": "Kitaasai",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "南房総市",
+					"ward_name": "",
+					"town_name": "千倉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "南房総市"
+		},
+		"2950006": {
+			"postcode": "2950006",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Minamiboso-shi",
+			"ward_name": "",
+			"town_name": "Chikuracho",
+			"building_name": "Uda",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "南房総市",
+					"ward_name": "",
+					"town_name": "千倉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "南房総市"
+		},
+		"2950005": {
+			"postcode": "2950005",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Minamiboso-shi",
+			"ward_name": "",
+			"town_name": "Chikuracho",
+			"building_name": "Makida",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "南房総市",
+					"ward_name": "",
+					"town_name": "千倉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "南房総市"
+		},
+		"2950004": {
+			"postcode": "2950004",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Minamiboso-shi",
+			"ward_name": "",
+			"town_name": "Chikuracho",
+			"building_name": "Seto",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "南房総市",
+					"ward_name": "",
+					"town_name": "千倉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "南房総市"
+		},
+		"2950003": {
+			"postcode": "2950003",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Minamiboso-shi",
+			"ward_name": "",
+			"town_name": "Chikuracho",
+			"building_name": "Shirako",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "南房総市",
+					"ward_name": "",
+					"town_name": "千倉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "南房総市"
+		},
+		"2950002": {
+			"postcode": "2950002",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Minamiboso-shi",
+			"ward_name": "",
+			"town_name": "Chikuracho",
+			"building_name": "Kawai",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "南房総市",
+					"ward_name": "",
+					"town_name": "千倉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "南房総市"
+		},
+		"2950001": {
+			"postcode": "2950001",
+			"prefecture_name": "Chiba-ken",
+			"city_name": "Minamiboso-shi",
+			"ward_name": "",
+			"town_name": "Chikuracho",
+			"building_name": "Kubo",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "千葉県",
+					"city_name": "南房総市",
+					"ward_name": "",
+					"town_name": "千倉町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "関東",
+			"prefecture_code": "千葉県",
+			"city_code": "南房総市"
+		}
+	}
+}

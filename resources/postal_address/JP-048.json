@@ -1,0 +1,3769 @@
+{
+	"country_code": "JP",
+	"parent_id": "048",
+	"locale": "ja-Latn",
+	"address": {
+		"0482673": {
+			"postcode": "0482673",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Otaru-shi",
+			"ward_name": "",
+			"town_name": "Momonai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "小樽市",
+					"ward_name": "",
+					"town_name": "桃内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "小樽市"
+		},
+		"0482672": {
+			"postcode": "0482672",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Otaru-shi",
+			"ward_name": "",
+			"town_name": "Shioya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "小樽市",
+					"ward_name": "",
+					"town_name": "塩谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "小樽市"
+		},
+		"0482671": {
+			"postcode": "0482671",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Otaru-shi",
+			"ward_name": "",
+			"town_name": "Otamoi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "小樽市",
+					"ward_name": "",
+					"town_name": "オタモイ",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "小樽市"
+		},
+		"0482562": {
+			"postcode": "0482562",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Otaru-shi",
+			"ward_name": "",
+			"town_name": "Ranshima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "小樽市",
+					"ward_name": "",
+					"town_name": "蘭島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "小樽市"
+		},
+		"0482561": {
+			"postcode": "0482561",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Otaru-shi",
+			"ward_name": "",
+			"town_name": "Oshoro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "小樽市",
+					"ward_name": "",
+					"town_name": "忍路",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "小樽市"
+		},
+		"0482493": {
+			"postcode": "0482493",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yoichi-gun",
+			"ward_name": "Niki-cho",
+			"town_name": "北町",
+			"building_name": "３丁目４",
+			"organization_name": "新おたる農業協同組合",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "余市郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "余市郡",
+					"ward_name": "仁木町",
+					"town_name": "北町",
+					"building_name": "３丁目４",
+					"organization_name": "新おたる農業協同組合"
+				}
+			}
+		},
+		"0482492": {
+			"postcode": "0482492",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yoichi-gun",
+			"ward_name": "Niki-cho",
+			"town_name": "西町",
+			"building_name": "１丁目３６番地１",
+			"organization_name": "仁木町役場",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "余市郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "余市郡",
+					"ward_name": "仁木町",
+					"town_name": "西町",
+					"building_name": "１丁目３６番地１",
+					"organization_name": "仁木町役場"
+				}
+			}
+		},
+		"0482413": {
+			"postcode": "0482413",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yoichi-gun",
+			"ward_name": "Niki-cho",
+			"town_name": "Minamimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "余市郡",
+					"ward_name": "仁木町",
+					"town_name": "南町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "余市郡"
+		},
+		"0482412": {
+			"postcode": "0482412",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yoichi-gun",
+			"ward_name": "Niki-cho",
+			"town_name": "Higashimachimidorigaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "余市郡",
+					"ward_name": "仁木町",
+					"town_name": "東町緑ケ丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "余市郡"
+		},
+		"0482411": {
+			"postcode": "0482411",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yoichi-gun",
+			"ward_name": "Niki-cho",
+			"town_name": "Higashimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "余市郡",
+					"ward_name": "仁木町",
+					"town_name": "東町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "余市郡"
+		},
+		"0482406": {
+			"postcode": "0482406",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yoichi-gun",
+			"ward_name": "Niki-cho",
+			"town_name": "Nishimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "余市郡",
+					"ward_name": "仁木町",
+					"town_name": "西町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "余市郡"
+		},
+		"0482405": {
+			"postcode": "0482405",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yoichi-gun",
+			"ward_name": "Niki-cho",
+			"town_name": "Kitamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "余市郡",
+					"ward_name": "仁木町",
+					"town_name": "北町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "余市郡"
+		},
+		"0482404": {
+			"postcode": "0482404",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yoichi-gun",
+			"ward_name": "Niki-cho",
+			"town_name": "Tonokawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "余市郡",
+					"ward_name": "仁木町",
+					"town_name": "砥の川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "余市郡"
+		},
+		"0482403": {
+			"postcode": "0482403",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yoichi-gun",
+			"ward_name": "Niki-cho",
+			"town_name": "Shikaribetsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "余市郡",
+					"ward_name": "仁木町",
+					"town_name": "然別",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "余市郡"
+		},
+		"0482402": {
+			"postcode": "0482402",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yoichi-gun",
+			"ward_name": "Niki-cho",
+			"town_name": "Oe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "余市郡",
+					"ward_name": "仁木町",
+					"town_name": "大江",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "余市郡"
+		},
+		"0482401": {
+			"postcode": "0482401",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yoichi-gun",
+			"ward_name": "Niki-cho",
+			"town_name": "Asahidai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "余市郡",
+					"ward_name": "仁木町",
+					"town_name": "旭台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "余市郡"
+		},
+		"0482400": {
+			"postcode": "0482400",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yoichi-gun",
+			"ward_name": "Niki-cho",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "余市郡",
+					"ward_name": "仁木町",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "余市郡"
+		},
+		"0482335": {
+			"postcode": "0482335",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yoichi-gun",
+			"ward_name": "Niki-cho",
+			"town_name": "Ginzan",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "余市郡",
+					"ward_name": "仁木町",
+					"town_name": "銀山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "余市郡"
+		},
+		"0482334": {
+			"postcode": "0482334",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yoichi-gun",
+			"ward_name": "Niki-cho",
+			"town_name": "Onenai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "余市郡",
+					"ward_name": "仁木町",
+					"town_name": "尾根内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "余市郡"
+		},
+		"0482333": {
+			"postcode": "0482333",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yoichi-gun",
+			"ward_name": "Niki-cho",
+			"town_name": "Nagasawaminami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "余市郡",
+					"ward_name": "仁木町",
+					"town_name": "長沢南",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "余市郡"
+		},
+		"0482332": {
+			"postcode": "0482332",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yoichi-gun",
+			"ward_name": "Niki-cho",
+			"town_name": "Nagasawanishi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "余市郡",
+					"ward_name": "仁木町",
+					"town_name": "長沢西",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "余市郡"
+		},
+		"0482331": {
+			"postcode": "0482331",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Yoichi-gun",
+			"ward_name": "Niki-cho",
+			"town_name": "Oe",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "余市郡",
+					"ward_name": "仁木町",
+					"town_name": "大江",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "余市郡"
+		},
+		"0482292": {
+			"postcode": "0482292",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwanai-gun",
+			"ward_name": "Kyowa-cho",
+			"town_name": "南幌似",
+			"building_name": "３８番地の２",
+			"organization_name": "共和町役場",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩内郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩内郡",
+					"ward_name": "共和町",
+					"town_name": "南幌似",
+					"building_name": "３８番地の２",
+					"organization_name": "共和町役場"
+				}
+			}
+		},
+		"0482202": {
+			"postcode": "0482202",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwanai-gun",
+			"ward_name": "Kyowa-cho",
+			"town_name": "Minamihoroni",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩内郡",
+					"ward_name": "共和町",
+					"town_name": "南幌似",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩内郡"
+		},
+		"0482201": {
+			"postcode": "0482201",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwanai-gun",
+			"ward_name": "Kyowa-cho",
+			"town_name": "Maeda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩内郡",
+					"ward_name": "共和町",
+					"town_name": "前田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩内郡"
+		},
+		"0482200": {
+			"postcode": "0482200",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwanai-gun",
+			"ward_name": "Kyowa-cho",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩内郡",
+					"ward_name": "共和町",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩内郡"
+		},
+		"0482143": {
+			"postcode": "0482143",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwanai-gun",
+			"ward_name": "Kyowa-cho",
+			"town_name": "Kunitomi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩内郡",
+					"ward_name": "共和町",
+					"town_name": "国富",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩内郡"
+		},
+		"0482142": {
+			"postcode": "0482142",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwanai-gun",
+			"ward_name": "Kyowa-cho",
+			"town_name": "Kozawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩内郡",
+					"ward_name": "共和町",
+					"town_name": "小沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩内郡"
+		},
+		"0482141": {
+			"postcode": "0482141",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Iwanai-gun",
+			"ward_name": "Kyowa-cho",
+			"town_name": "Waisu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "岩内郡",
+					"ward_name": "共和町",
+					"town_name": "ワイス",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "岩内郡"
+		},
+		"0481752": {
+			"postcode": "0481752",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Rusutsu-mura",
+			"town_name": "Asahino",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "留寿都村",
+					"town_name": "旭野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481751": {
+			"postcode": "0481751",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Rusutsu-mura",
+			"town_name": "Nobori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "留寿都村",
+					"town_name": "登",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481741": {
+			"postcode": "0481741",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Rusutsu-mura",
+			"town_name": "Nishinohara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "留寿都村",
+					"town_name": "西ノ原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481731": {
+			"postcode": "0481731",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Rusutsu-mura",
+			"town_name": "Rusutsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "留寿都村",
+					"town_name": "留寿都",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481724": {
+			"postcode": "0481724",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Rusutsu-mura",
+			"town_name": "Mitoyo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "留寿都村",
+					"town_name": "三豊",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481723": {
+			"postcode": "0481723",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Rusutsu-mura",
+			"town_name": "Sannohara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "留寿都村",
+					"town_name": "三ノ原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481722": {
+			"postcode": "0481722",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Rusutsu-mura",
+			"town_name": "Kuroda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "留寿都村",
+					"town_name": "黒田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481721": {
+			"postcode": "0481721",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Rusutsu-mura",
+			"town_name": "Mukaioka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "留寿都村",
+					"town_name": "向丘",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481712": {
+			"postcode": "0481712",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Rusutsu-mura",
+			"town_name": "Toyoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "留寿都村",
+					"town_name": "豊岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481711": {
+			"postcode": "0481711",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Rusutsu-mura",
+			"town_name": "Izumikawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "留寿都村",
+					"town_name": "泉川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481700": {
+			"postcode": "0481700",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Rusutsu-mura",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "留寿都村",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481631": {
+			"postcode": "0481631",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Makkari-mura",
+			"town_name": "Makkari",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "真狩村",
+					"town_name": "真狩",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481624": {
+			"postcode": "0481624",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Makkari-mura",
+			"town_name": "Kamisato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "真狩村",
+					"town_name": "神里",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481623": {
+			"postcode": "0481623",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Makkari-mura",
+			"town_name": "Kawasaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "真狩村",
+					"town_name": "川崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481622": {
+			"postcode": "0481622",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Makkari-mura",
+			"town_name": "Kano",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "真狩村",
+					"town_name": "加野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481621": {
+			"postcode": "0481621",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Makkari-mura",
+			"town_name": "Toyokawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "真狩村",
+					"town_name": "豊川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481615": {
+			"postcode": "0481615",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Makkari-mura",
+			"town_name": "Midorioka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "真狩村",
+					"town_name": "緑岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481614": {
+			"postcode": "0481614",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Makkari-mura",
+			"town_name": "Sakuragawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "真狩村",
+					"town_name": "桜川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481613": {
+			"postcode": "0481613",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Makkari-mura",
+			"town_name": "Nambu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "真狩村",
+					"town_name": "南部",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481612": {
+			"postcode": "0481612",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Makkari-mura",
+			"town_name": "Miharashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "真狩村",
+					"town_name": "見晴",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481611": {
+			"postcode": "0481611",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Makkari-mura",
+			"town_name": "Hikari",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "真狩村",
+					"town_name": "光",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481605": {
+			"postcode": "0481605",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Makkari-mura",
+			"town_name": "Yashiro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "真狩村",
+					"town_name": "社",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481604": {
+			"postcode": "0481604",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Makkari-mura",
+			"town_name": "Tomisato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "真狩村",
+					"town_name": "富里",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481603": {
+			"postcode": "0481603",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Makkari-mura",
+			"town_name": "Kyomei",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "真狩村",
+					"town_name": "共明",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481602": {
+			"postcode": "0481602",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Makkari-mura",
+			"town_name": "Izumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "真狩村",
+					"town_name": "泉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481601": {
+			"postcode": "0481601",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Makkari-mura",
+			"town_name": "Mihara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "真狩村",
+					"town_name": "美原",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481600": {
+			"postcode": "0481600",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Makkari-mura",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "真狩村",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481595": {
+			"postcode": "0481595",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Niseko-cho",
+			"town_name": "字富士見",
+			"building_name": "４７番地",
+			"organization_name": "ニセコ町役場",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "ニセコ町",
+					"town_name": "字富士見",
+					"building_name": "４７番地",
+					"organization_name": "ニセコ町役場"
+				}
+			}
+		},
+		"0481592": {
+			"postcode": "0481592",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Niseko-cho",
+			"town_name": "字東山",
+			"building_name": "温泉",
+			"organization_name": "ヒルトンニセコビレッジ",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "ニセコ町",
+					"town_name": "字東山",
+					"building_name": "温泉",
+					"organization_name": "ヒルトンニセコビレッジ"
+				}
+			}
+		},
+		"0481563": {
+			"postcode": "0481563",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Niseko-cho",
+			"town_name": "Nishitomi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "ニセコ町",
+					"town_name": "西富",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481562": {
+			"postcode": "0481562",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Niseko-cho",
+			"town_name": "Katsuradai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "ニセコ町",
+					"town_name": "桂台",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481561": {
+			"postcode": "0481561",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Niseko-cho",
+			"town_name": "Fukui",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "ニセコ町",
+					"town_name": "福井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481554": {
+			"postcode": "0481554",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Niseko-cho",
+			"town_name": "Tomikawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "ニセコ町",
+					"town_name": "富川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481553": {
+			"postcode": "0481553",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Niseko-cho",
+			"town_name": "Kurokawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "ニセコ町",
+					"town_name": "黒川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481552": {
+			"postcode": "0481552",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Niseko-cho",
+			"town_name": "Miyata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "ニセコ町",
+					"town_name": "宮田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481551": {
+			"postcode": "0481551",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Niseko-cho",
+			"town_name": "Satomi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "ニセコ町",
+					"town_name": "里見",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481544": {
+			"postcode": "0481544",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Niseko-cho",
+			"town_name": "Motomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "ニセコ町",
+					"town_name": "元町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481543": {
+			"postcode": "0481543",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Niseko-cho",
+			"town_name": "Toyosato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "ニセコ町",
+					"town_name": "豊里",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481542": {
+			"postcode": "0481542",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Niseko-cho",
+			"town_name": "Kondo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "ニセコ町",
+					"town_name": "近藤",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481541": {
+			"postcode": "0481541",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Niseko-cho",
+			"town_name": "Yotei",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "ニセコ町",
+					"town_name": "羊蹄",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481531": {
+			"postcode": "0481531",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Niseko-cho",
+			"town_name": "Arishima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "ニセコ町",
+					"town_name": "有島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481522": {
+			"postcode": "0481522",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Niseko-cho",
+			"town_name": "Soga",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "ニセコ町",
+					"town_name": "曽我",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481521": {
+			"postcode": "0481521",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Niseko-cho",
+			"town_name": "Higashiyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "ニセコ町",
+					"town_name": "東山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481512": {
+			"postcode": "0481512",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Niseko-cho",
+			"town_name": "Chuodori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "ニセコ町",
+					"town_name": "中央通",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481511": {
+			"postcode": "0481511",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Niseko-cho",
+			"town_name": "Niseko",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "ニセコ町",
+					"town_name": "ニセコ",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481502": {
+			"postcode": "0481502",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Niseko-cho",
+			"town_name": "Hondori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "ニセコ町",
+					"town_name": "本通",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481501": {
+			"postcode": "0481501",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Niseko-cho",
+			"town_name": "Fujimi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "ニセコ町",
+					"town_name": "富士見",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481500": {
+			"postcode": "0481500",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Abuta-gun",
+			"ward_name": "Niseko-cho",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "虻田郡",
+					"ward_name": "ニセコ町",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "虻田郡"
+		},
+		"0481396": {
+			"postcode": "0481396",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Isoya-gun",
+			"ward_name": "Rankoshi-cho",
+			"town_name": "蘭越町",
+			"building_name": "５１４番地の２（蘭越郵便局私書箱第１９号）",
+			"organization_name": "室野建設工業　（株）",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "磯谷郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "磯谷郡",
+					"ward_name": "蘭越町",
+					"town_name": "蘭越町",
+					"building_name": "５１４番地の２（蘭越郵便局私書箱第１９号）",
+					"organization_name": "室野建設工業　（株）"
+				}
+			}
+		},
+		"0481395": {
+			"postcode": "0481395",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Isoya-gun",
+			"ward_name": "Rankoshi-cho",
+			"town_name": "蘭越町",
+			"building_name": "１１１番地の６",
+			"organization_name": "北海信用金庫　蘭越支店",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "磯谷郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "磯谷郡",
+					"ward_name": "蘭越町",
+					"town_name": "蘭越町",
+					"building_name": "１１１番地の６",
+					"organization_name": "北海信用金庫　蘭越支店"
+				}
+			}
+		},
+		"0481394": {
+			"postcode": "0481394",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Isoya-gun",
+			"ward_name": "Rankoshi-cho",
+			"town_name": "蘭越町",
+			"building_name": "２２番地（蘭越郵便局私書箱第１８号）",
+			"organization_name": "（株）　熊谷本店",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "磯谷郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "磯谷郡",
+					"ward_name": "蘭越町",
+					"town_name": "蘭越町",
+					"building_name": "２２番地（蘭越郵便局私書箱第１８号）",
+					"organization_name": "（株）　熊谷本店"
+				}
+			}
+		},
+		"0481393": {
+			"postcode": "0481393",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Isoya-gun",
+			"ward_name": "Rankoshi-cho",
+			"town_name": "蘭越町",
+			"building_name": "",
+			"organization_name": "ようてい農業協同組合　蘭越支所",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "磯谷郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "磯谷郡",
+					"ward_name": "蘭越町",
+					"town_name": "蘭越町",
+					"building_name": "",
+					"organization_name": "ようてい農業協同組合　蘭越支所"
+				}
+			}
+		},
+		"0481392": {
+			"postcode": "0481392",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Isoya-gun",
+			"ward_name": "Rankoshi-cho",
+			"town_name": "蘭越町",
+			"building_name": "２５８番地の５",
+			"organization_name": "蘭越町役場",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "磯谷郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "磯谷郡",
+					"ward_name": "蘭越町",
+					"town_name": "蘭越町",
+					"building_name": "２５８番地の５",
+					"organization_name": "蘭越町役場"
+				}
+			}
+		},
+		"0481341": {
+			"postcode": "0481341",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Isoya-gun",
+			"ward_name": "Rankoshi-cho",
+			"town_name": "Minatomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "磯谷郡",
+					"ward_name": "蘭越町",
+					"town_name": "港町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "磯谷郡"
+		},
+		"0481327": {
+			"postcode": "0481327",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Isoya-gun",
+			"ward_name": "Rankoshi-cho",
+			"town_name": "Niimi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "磯谷郡",
+					"ward_name": "蘭越町",
+					"town_name": "新見",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "磯谷郡"
+		},
+		"0481326": {
+			"postcode": "0481326",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Isoya-gun",
+			"ward_name": "Rankoshi-cho",
+			"town_name": "Tomioka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "磯谷郡",
+					"ward_name": "蘭越町",
+					"town_name": "富岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "磯谷郡"
+		},
+		"0481325": {
+			"postcode": "0481325",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Isoya-gun",
+			"ward_name": "Rankoshi-cho",
+			"town_name": "Sakae",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "磯谷郡",
+					"ward_name": "蘭越町",
+					"town_name": "栄",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "磯谷郡"
+		},
+		"0481324": {
+			"postcode": "0481324",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Isoya-gun",
+			"ward_name": "Rankoshi-cho",
+			"town_name": "Toyokuni",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "磯谷郡",
+					"ward_name": "蘭越町",
+					"town_name": "豊国",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "磯谷郡"
+		},
+		"0481323": {
+			"postcode": "0481323",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Isoya-gun",
+			"ward_name": "Rankoshi-cho",
+			"town_name": "Kogane",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "磯谷郡",
+					"ward_name": "蘭越町",
+					"town_name": "黄金",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "磯谷郡"
+		},
+		"0481322": {
+			"postcode": "0481322",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Isoya-gun",
+			"ward_name": "Rankoshi-cho",
+			"town_name": "Hinode",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "磯谷郡",
+					"ward_name": "蘭越町",
+					"town_name": "日出",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "磯谷郡"
+		},
+		"0481321": {
+			"postcode": "0481321",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Isoya-gun",
+			"ward_name": "Rankoshi-cho",
+			"town_name": "Kombuonsen",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "磯谷郡",
+					"ward_name": "蘭越町",
+					"town_name": "昆布温泉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "磯谷郡"
+		},
+		"0481316": {
+			"postcode": "0481316",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Isoya-gun",
+			"ward_name": "Rankoshi-cho",
+			"town_name": "Omagari",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "磯谷郡",
+					"ward_name": "蘭越町",
+					"town_name": "大曲",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "磯谷郡"
+		},
+		"0481315": {
+			"postcode": "0481315",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Isoya-gun",
+			"ward_name": "Rankoshi-cho",
+			"town_name": "Kyoei",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "磯谷郡",
+					"ward_name": "蘭越町",
+					"town_name": "共栄",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "磯谷郡"
+		},
+		"0481314": {
+			"postcode": "0481314",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Isoya-gun",
+			"ward_name": "Rankoshi-cho",
+			"town_name": "Onari",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "磯谷郡",
+					"ward_name": "蘭越町",
+					"town_name": "御成",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "磯谷郡"
+		},
+		"0481313": {
+			"postcode": "0481313",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Isoya-gun",
+			"ward_name": "Rankoshi-cho",
+			"town_name": "Kamisato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "磯谷郡",
+					"ward_name": "蘭越町",
+					"town_name": "上里",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "磯谷郡"
+		},
+		"0481312": {
+			"postcode": "0481312",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Isoya-gun",
+			"ward_name": "Rankoshi-cho",
+			"town_name": "Hiyamizu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "磯谷郡",
+					"ward_name": "蘭越町",
+					"town_name": "冷水",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "磯谷郡"
+		},
+		"0481311": {
+			"postcode": "0481311",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Isoya-gun",
+			"ward_name": "Rankoshi-cho",
+			"town_name": "Yoshikuni",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "磯谷郡",
+					"ward_name": "蘭越町",
+					"town_name": "吉国",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "磯谷郡"
+		},
+		"0481307": {
+			"postcode": "0481307",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Isoya-gun",
+			"ward_name": "Rankoshi-cho",
+			"town_name": "Tonkara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "磯谷郡",
+					"ward_name": "蘭越町",
+					"town_name": "トンカラ",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "磯谷郡"
+		},
+		"0481306": {
+			"postcode": "0481306",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Isoya-gun",
+			"ward_name": "Rankoshi-cho",
+			"town_name": "Yodogawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "磯谷郡",
+					"ward_name": "蘭越町",
+					"town_name": "淀川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "磯谷郡"
+		},
+		"0481305": {
+			"postcode": "0481305",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Isoya-gun",
+			"ward_name": "Rankoshi-cho",
+			"town_name": "Otani",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "磯谷郡",
+					"ward_name": "蘭越町",
+					"town_name": "大谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "磯谷郡"
+		},
+		"0481304": {
+			"postcode": "0481304",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Isoya-gun",
+			"ward_name": "Rankoshi-cho",
+			"town_name": "Mizukami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "磯谷郡",
+					"ward_name": "蘭越町",
+					"town_name": "水上",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "磯谷郡"
+		},
+		"0481303": {
+			"postcode": "0481303",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Isoya-gun",
+			"ward_name": "Rankoshi-cho",
+			"town_name": "Tachikawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "磯谷郡",
+					"ward_name": "蘭越町",
+					"town_name": "立川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "磯谷郡"
+		},
+		"0481302": {
+			"postcode": "0481302",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Isoya-gun",
+			"ward_name": "Rankoshi-cho",
+			"town_name": "Kombumachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "磯谷郡",
+					"ward_name": "蘭越町",
+					"town_name": "昆布町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "磯谷郡"
+		},
+		"0481301": {
+			"postcode": "0481301",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Isoya-gun",
+			"ward_name": "Rankoshi-cho",
+			"town_name": "Rankoshimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "磯谷郡",
+					"ward_name": "蘭越町",
+					"town_name": "蘭越町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "磯谷郡"
+		},
+		"0481300": {
+			"postcode": "0481300",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Isoya-gun",
+			"ward_name": "Rankoshi-cho",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "磯谷郡",
+					"ward_name": "蘭越町",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "磯谷郡"
+		},
+		"0481265": {
+			"postcode": "0481265",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Isoya-gun",
+			"ward_name": "Rankoshi-cho",
+			"town_name": "Ayukawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "磯谷郡",
+					"ward_name": "蘭越町",
+					"town_name": "鮎川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "磯谷郡"
+		},
+		"0481264": {
+			"postcode": "0481264",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Isoya-gun",
+			"ward_name": "Rankoshi-cho",
+			"town_name": "Shimizu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "磯谷郡",
+					"ward_name": "蘭越町",
+					"town_name": "清水",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "磯谷郡"
+		},
+		"0481263": {
+			"postcode": "0481263",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Isoya-gun",
+			"ward_name": "Rankoshi-cho",
+			"town_name": "Mikasa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "磯谷郡",
+					"ward_name": "蘭越町",
+					"town_name": "三笠",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "磯谷郡"
+		},
+		"0481262": {
+			"postcode": "0481262",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Isoya-gun",
+			"ward_name": "Rankoshi-cho",
+			"town_name": "Kaikawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "磯谷郡",
+					"ward_name": "蘭越町",
+					"town_name": "貝川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "磯谷郡"
+		},
+		"0481261": {
+			"postcode": "0481261",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Isoya-gun",
+			"ward_name": "Rankoshi-cho",
+			"town_name": "Menamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "磯谷郡",
+					"ward_name": "蘭越町",
+					"town_name": "目名町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "磯谷郡"
+		},
+		"0481254": {
+			"postcode": "0481254",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Isoya-gun",
+			"ward_name": "Rankoshi-cho",
+			"town_name": "Kamimena",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "磯谷郡",
+					"ward_name": "蘭越町",
+					"town_name": "上目名",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "磯谷郡"
+		},
+		"0481253": {
+			"postcode": "0481253",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Isoya-gun",
+			"ward_name": "Rankoshi-cho",
+			"town_name": "Tashimo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "磯谷郡",
+					"ward_name": "蘭越町",
+					"town_name": "田下",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "磯谷郡"
+		},
+		"0481252": {
+			"postcode": "0481252",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Isoya-gun",
+			"ward_name": "Rankoshi-cho",
+			"town_name": "Sanuki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "磯谷郡",
+					"ward_name": "蘭越町",
+					"town_name": "讃岐",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "磯谷郡"
+		},
+		"0481251": {
+			"postcode": "0481251",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Isoya-gun",
+			"ward_name": "Rankoshi-cho",
+			"town_name": "Aioi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "磯谷郡",
+					"ward_name": "蘭越町",
+					"town_name": "相生",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "磯谷郡"
+		},
+		"0480634": {
+			"postcode": "0480634",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Shimamaki-gun",
+			"ward_name": "Shimamaki-mura",
+			"town_name": "Sakaehama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "島牧郡",
+					"ward_name": "島牧村",
+					"town_name": "栄浜",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "島牧郡"
+		},
+		"0480633": {
+			"postcode": "0480633",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Shimamaki-gun",
+			"ward_name": "Shimamaki-mura",
+			"town_name": "Harautamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "島牧郡",
+					"ward_name": "島牧村",
+					"town_name": "原歌町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "島牧郡"
+		},
+		"0480632": {
+			"postcode": "0480632",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Shimamaki-gun",
+			"ward_name": "Shimamaki-mura",
+			"town_name": "Motomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "島牧郡",
+					"ward_name": "島牧村",
+					"town_name": "元町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "島牧郡"
+		},
+		"0480631": {
+			"postcode": "0480631",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Shimamaki-gun",
+			"ward_name": "Shimamaki-mura",
+			"town_name": "Chiwase",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "島牧郡",
+					"ward_name": "島牧村",
+					"town_name": "千走",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "島牧郡"
+		},
+		"0480623": {
+			"postcode": "0480623",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Shimamaki-gun",
+			"ward_name": "Shimamaki-mura",
+			"town_name": "Enoshima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "島牧郡",
+					"ward_name": "島牧村",
+					"town_name": "江の島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "島牧郡"
+		},
+		"0480622": {
+			"postcode": "0480622",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Shimamaki-gun",
+			"ward_name": "Shimamaki-mura",
+			"town_name": "Toyohira",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "島牧郡",
+					"ward_name": "島牧村",
+					"town_name": "豊平",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "島牧郡"
+		},
+		"0480621": {
+			"postcode": "0480621",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Shimamaki-gun",
+			"ward_name": "Shimamaki-mura",
+			"town_name": "Tomari",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "島牧郡",
+					"ward_name": "島牧村",
+					"town_name": "泊",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "島牧郡"
+		},
+		"0480614": {
+			"postcode": "0480614",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Shimamaki-gun",
+			"ward_name": "Shimamaki-mura",
+			"town_name": "Nagatoyomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "島牧郡",
+					"ward_name": "島牧村",
+					"town_name": "永豊町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "島牧郡"
+		},
+		"0480613": {
+			"postcode": "0480613",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Shimamaki-gun",
+			"ward_name": "Shimamaki-mura",
+			"town_name": "Obira",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "島牧郡",
+					"ward_name": "島牧村",
+					"town_name": "大平",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "島牧郡"
+		},
+		"0480612": {
+			"postcode": "0480612",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Shimamaki-gun",
+			"ward_name": "Shimamaki-mura",
+			"town_name": "Toyohama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "島牧郡",
+					"ward_name": "島牧村",
+					"town_name": "豊浜",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "島牧郡"
+		},
+		"0480611": {
+			"postcode": "0480611",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Shimamaki-gun",
+			"ward_name": "Shimamaki-mura",
+			"town_name": "Sakaeiso",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "島牧郡",
+					"ward_name": "島牧村",
+					"town_name": "栄磯",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "島牧郡"
+		},
+		"0480604": {
+			"postcode": "0480604",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Shimamaki-gun",
+			"ward_name": "Shimamaki-mura",
+			"town_name": "Minato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "島牧郡",
+					"ward_name": "島牧村",
+					"town_name": "港",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "島牧郡"
+		},
+		"0480603": {
+			"postcode": "0480603",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Shimamaki-gun",
+			"ward_name": "Shimamaki-mura",
+			"town_name": "Homme",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "島牧郡",
+					"ward_name": "島牧村",
+					"town_name": "本目",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "島牧郡"
+		},
+		"0480602": {
+			"postcode": "0480602",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Shimamaki-gun",
+			"ward_name": "Shimamaki-mura",
+			"town_name": "Utashima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "島牧郡",
+					"ward_name": "島牧村",
+					"town_name": "歌島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "島牧郡"
+		},
+		"0480601": {
+			"postcode": "0480601",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Shimamaki-gun",
+			"ward_name": "Shimamaki-mura",
+			"town_name": "Tomiura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "島牧郡",
+					"ward_name": "島牧村",
+					"town_name": "富浦",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "島牧郡"
+		},
+		"0480600": {
+			"postcode": "0480600",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Shimamaki-gun",
+			"ward_name": "Shimamaki-mura",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "島牧郡",
+					"ward_name": "島牧村",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "島牧郡"
+		},
+		"0480415": {
+			"postcode": "0480415",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Suttsu-gun",
+			"ward_name": "Suttsu-cho",
+			"town_name": "Utasutsucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "寿都郡",
+					"ward_name": "寿都町",
+					"town_name": "歌棄町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "寿都郡"
+		},
+		"0480414": {
+			"postcode": "0480414",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Suttsu-gun",
+			"ward_name": "Suttsu-cho",
+			"town_name": "Yubetsucho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "寿都郡",
+					"ward_name": "寿都町",
+					"town_name": "湯別町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "寿都郡"
+		},
+		"0480413": {
+			"postcode": "0480413",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Suttsu-gun",
+			"ward_name": "Suttsu-cho",
+			"town_name": "Tarukishicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "寿都郡",
+					"ward_name": "寿都町",
+					"town_name": "樽岸町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "寿都郡"
+		},
+		"0480412": {
+			"postcode": "0480412",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Suttsu-gun",
+			"ward_name": "Suttsu-cho",
+			"town_name": "Iwasakicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "寿都郡",
+					"ward_name": "寿都町",
+					"town_name": "岩崎町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "寿都郡"
+		},
+		"0480411": {
+			"postcode": "0480411",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Suttsu-gun",
+			"ward_name": "Suttsu-cho",
+			"town_name": "Rokujocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "寿都郡",
+					"ward_name": "寿都町",
+					"town_name": "六条町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "寿都郡"
+		},
+		"0480406": {
+			"postcode": "0480406",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Suttsu-gun",
+			"ward_name": "Suttsu-cho",
+			"town_name": "Toshimacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "寿都郡",
+					"ward_name": "寿都町",
+					"town_name": "渡島町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "寿都郡"
+		},
+		"0480405": {
+			"postcode": "0480405",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Suttsu-gun",
+			"ward_name": "Suttsu-cho",
+			"town_name": "Kaishincho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "寿都郡",
+					"ward_name": "寿都町",
+					"town_name": "開進町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "寿都郡"
+		},
+		"0480404": {
+			"postcode": "0480404",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Suttsu-gun",
+			"ward_name": "Suttsu-cho",
+			"town_name": "Oisocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "寿都郡",
+					"ward_name": "寿都町",
+					"town_name": "大磯町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "寿都郡"
+		},
+		"0480403": {
+			"postcode": "0480403",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Suttsu-gun",
+			"ward_name": "Suttsu-cho",
+			"town_name": "Masadomaricho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "寿都郡",
+					"ward_name": "寿都町",
+					"town_name": "政泊町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "寿都郡"
+		},
+		"0480402": {
+			"postcode": "0480402",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Suttsu-gun",
+			"ward_name": "Suttsu-cho",
+			"town_name": "Yaoicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "寿都郡",
+					"ward_name": "寿都町",
+					"town_name": "矢追町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "寿都郡"
+		},
+		"0480401": {
+			"postcode": "0480401",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Suttsu-gun",
+			"ward_name": "Suttsu-cho",
+			"town_name": "Shineicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "寿都郡",
+					"ward_name": "寿都町",
+					"town_name": "新栄町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "寿都郡"
+		},
+		"0480400": {
+			"postcode": "0480400",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Suttsu-gun",
+			"ward_name": "Suttsu-cho",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "寿都郡",
+					"ward_name": "寿都町",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "寿都郡"
+		},
+		"0480351": {
+			"postcode": "0480351",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Suttsu-gun",
+			"ward_name": "Suttsu-cho",
+			"town_name": "Isoyacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "寿都郡",
+					"ward_name": "寿都町",
+					"town_name": "磯谷町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "寿都郡"
+		},
+		"0480192": {
+			"postcode": "0480192",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Suttsu-gun",
+			"ward_name": "Kuromatsunai-cho",
+			"town_name": "字黒松内",
+			"building_name": "３０２−１",
+			"organization_name": "黒松内町役場",
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "寿都郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "寿都郡",
+					"ward_name": "黒松内町",
+					"town_name": "字黒松内",
+					"building_name": "３０２−１",
+					"organization_name": "黒松内町役場"
+				}
+			}
+		},
+		"0480145": {
+			"postcode": "0480145",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Suttsu-gun",
+			"ward_name": "Kuromatsunai-cho",
+			"town_name": "Kamitaisei",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "寿都郡",
+					"ward_name": "黒松内町",
+					"town_name": "上大成",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "寿都郡"
+		},
+		"0480144": {
+			"postcode": "0480144",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Suttsu-gun",
+			"ward_name": "Kuromatsunai-cho",
+			"town_name": "Higashikawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "寿都郡",
+					"ward_name": "黒松内町",
+					"town_name": "東川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "寿都郡"
+		},
+		"0480143": {
+			"postcode": "0480143",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Suttsu-gun",
+			"ward_name": "Kuromatsunai-cho",
+			"town_name": "Taisei",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "寿都郡",
+					"ward_name": "黒松内町",
+					"town_name": "大成",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "寿都郡"
+		},
+		"0480142": {
+			"postcode": "0480142",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Suttsu-gun",
+			"ward_name": "Kuromatsunai-cho",
+			"town_name": "Toei",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "寿都郡",
+					"ward_name": "黒松内町",
+					"town_name": "東栄",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "寿都郡"
+		},
+		"0480141": {
+			"postcode": "0480141",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Suttsu-gun",
+			"ward_name": "Kuromatsunai-cho",
+			"town_name": "Kamitoyohoro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "寿都郡",
+					"ward_name": "黒松内町",
+					"town_name": "上豊幌",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "寿都郡"
+		},
+		"0480137": {
+			"postcode": "0480137",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Suttsu-gun",
+			"ward_name": "Kuromatsunai-cho",
+			"town_name": "Babasawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "寿都郡",
+					"ward_name": "黒松内町",
+					"town_name": "婆沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "寿都郡"
+		},
+		"0480136": {
+			"postcode": "0480136",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Suttsu-gun",
+			"ward_name": "Kuromatsunai-cho",
+			"town_name": "Akaikawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "寿都郡",
+					"ward_name": "黒松内町",
+					"town_name": "赤井川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "寿都郡"
+		},
+		"0480135": {
+			"postcode": "0480135",
+			"prefecture_name": "Suttsu gun kuromatsunai cho",
+			"city_name": "Kakuju",
+			"ward_name": "",
+			"town_name": null,
+			"building_name": null,
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "寿都郡",
+					"ward_name": "黒松内町",
+					"town_name": "角十\",HOKKAIDO\"",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "寿都郡"
+		},
+		"0480134": {
+			"postcode": "0480134",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Suttsu-gun",
+			"ward_name": "Kuromatsunai-cho",
+			"town_name": "Shiroikawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "寿都郡",
+					"ward_name": "黒松内町",
+					"town_name": "白井川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "寿都郡"
+		},
+		"0480133": {
+			"postcode": "0480133",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Suttsu-gun",
+			"ward_name": "Kuromatsunai-cho",
+			"town_name": "Oyachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "寿都郡",
+					"ward_name": "黒松内町",
+					"town_name": "大谷地",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "寿都郡"
+		},
+		"0480132": {
+			"postcode": "0480132",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Suttsu-gun",
+			"ward_name": "Kuromatsunai-cho",
+			"town_name": "Choposhinai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "寿都郡",
+					"ward_name": "黒松内町",
+					"town_name": "チョポシナイ",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "寿都郡"
+		},
+		"0480131": {
+			"postcode": "0480131",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Suttsu-gun",
+			"ward_name": "Kuromatsunai-cho",
+			"town_name": "Nishineppugenya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "寿都郡",
+					"ward_name": "黒松内町",
+					"town_name": "西熱郛原野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "寿都郡"
+		},
+		"0480127": {
+			"postcode": "0480127",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Suttsu-gun",
+			"ward_name": "Kuromatsunai-cho",
+			"town_name": "Minamisakkai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "寿都郡",
+					"ward_name": "黒松内町",
+					"town_name": "南作開",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "寿都郡"
+		},
+		"0480126": {
+			"postcode": "0480126",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Suttsu-gun",
+			"ward_name": "Kuromatsunai-cho",
+			"town_name": "Kitasakkai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "寿都郡",
+					"ward_name": "黒松内町",
+					"town_name": "北作開",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "寿都郡"
+		},
+		"0480125": {
+			"postcode": "0480125",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Suttsu-gun",
+			"ward_name": "Kuromatsunai-cho",
+			"town_name": "Mena",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "寿都郡",
+					"ward_name": "黒松内町",
+					"town_name": "目名",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "寿都郡"
+		},
+		"0480124": {
+			"postcode": "0480124",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Suttsu-gun",
+			"ward_name": "Kuromatsunai-cho",
+			"town_name": "Igarashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "寿都郡",
+					"ward_name": "黒松内町",
+					"town_name": "五十嵐",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "寿都郡"
+		},
+		"0480123": {
+			"postcode": "0480123",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Suttsu-gun",
+			"ward_name": "Kuromatsunai-cho",
+			"town_name": "Nakanokawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "寿都郡",
+					"ward_name": "黒松内町",
+					"town_name": "中ノ川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "寿都郡"
+		},
+		"0480122": {
+			"postcode": "0480122",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Suttsu-gun",
+			"ward_name": "Kuromatsunai-cho",
+			"town_name": "Shirozumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "寿都郡",
+					"ward_name": "黒松内町",
+					"town_name": "白炭",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "寿都郡"
+		},
+		"0480121": {
+			"postcode": "0480121",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Suttsu-gun",
+			"ward_name": "Kuromatsunai-cho",
+			"town_name": "Neppu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "寿都郡",
+					"ward_name": "黒松内町",
+					"town_name": "熱郛",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "寿都郡"
+		},
+		"0480117": {
+			"postcode": "0480117",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Suttsu-gun",
+			"ward_name": "Kuromatsunai-cho",
+			"town_name": "Soibetsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "寿都郡",
+					"ward_name": "黒松内町",
+					"town_name": "添別",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "寿都郡"
+		},
+		"0480116": {
+			"postcode": "0480116",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Suttsu-gun",
+			"ward_name": "Kuromatsunai-cho",
+			"town_name": "Asahino",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "寿都郡",
+					"ward_name": "黒松内町",
+					"town_name": "旭野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "寿都郡"
+		},
+		"0480115": {
+			"postcode": "0480115",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Suttsu-gun",
+			"ward_name": "Kuromatsunai-cho",
+			"town_name": "Nishinosawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "寿都郡",
+					"ward_name": "黒松内町",
+					"town_name": "西沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "寿都郡"
+		},
+		"0480114": {
+			"postcode": "0480114",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Suttsu-gun",
+			"ward_name": "Kuromatsunai-cho",
+			"town_name": "Utasai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "寿都郡",
+					"ward_name": "黒松内町",
+					"town_name": "歌才",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "寿都郡"
+		},
+		"0480113": {
+			"postcode": "0480113",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Suttsu-gun",
+			"ward_name": "Kuromatsunai-cho",
+			"town_name": "Toyohoro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "寿都郡",
+					"ward_name": "黒松内町",
+					"town_name": "豊幌",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "寿都郡"
+		},
+		"0480112": {
+			"postcode": "0480112",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Suttsu-gun",
+			"ward_name": "Kuromatsunai-cho",
+			"town_name": "Kaikara",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "寿都郡",
+					"ward_name": "黒松内町",
+					"town_name": "貝殻",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "寿都郡"
+		},
+		"0480111": {
+			"postcode": "0480111",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Suttsu-gun",
+			"ward_name": "Kuromatsunai-cho",
+			"town_name": "Nakasato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "寿都郡",
+					"ward_name": "黒松内町",
+					"town_name": "中里",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "寿都郡"
+		},
+		"0480101": {
+			"postcode": "0480101",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Suttsu-gun",
+			"ward_name": "Kuromatsunai-cho",
+			"town_name": "Kuromatsunai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "寿都郡",
+					"ward_name": "黒松内町",
+					"town_name": "黒松内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "寿都郡"
+		},
+		"0480100": {
+			"postcode": "0480100",
+			"prefecture_name": "Hokkaido",
+			"city_name": "Suttsu-gun",
+			"ward_name": "Kuromatsunai-cho",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "北海道",
+					"city_name": "寿都郡",
+					"ward_name": "黒松内町",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "北海道",
+			"prefecture_code": "北海道",
+			"city_code": "寿都郡"
+		}
+	}
+}

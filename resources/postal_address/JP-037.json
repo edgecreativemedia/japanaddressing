@@ -1,0 +1,3219 @@
+{
+	"country_code": "JP",
+	"parent_id": "037",
+	"locale": "ja-Latn",
+	"address": {
+		"0378686": {
+			"postcode": "0378686",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "字岩木町",
+			"building_name": "１２",
+			"organization_name": "五所川原市役所",
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "字岩木町",
+					"building_name": "１２",
+					"organization_name": "五所川原市役所"
+				}
+			}
+		},
+		"0378655": {
+			"postcode": "0378655",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "大字唐笠柳",
+			"building_name": "字藤巻５０７番地１０",
+			"organization_name": "青森地方法務局　五所川原支局",
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "大字唐笠柳",
+					"building_name": "字藤巻５０７番地１０",
+					"organization_name": "青森地方法務局　五所川原支局"
+				}
+			}
+		},
+		"0378601": {
+			"postcode": "0378601",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "字東町",
+			"building_name": "１７番地の５",
+			"organization_name": "株式会社　五所川原エフエム",
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "字東町",
+					"building_name": "１７番地の５",
+					"organization_name": "株式会社　五所川原エフエム"
+				}
+			}
+		},
+		"0370642": {
+			"postcode": "0370642",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Mokkozawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "持子沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370641": {
+			"postcode": "0370641",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Hanokizawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "羽野木沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370632": {
+			"postcode": "0370632",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Koya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "高野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370631": {
+			"postcode": "0370631",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Maedanome",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "前田野目",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370623": {
+			"postcode": "0370623",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Tawaramoto",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "俵元",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370622": {
+			"postcode": "0370622",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Harako",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "原子",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370621": {
+			"postcode": "0370621",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Toyonari",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "豊成",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370614": {
+			"postcode": "0370614",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Nozato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "野里",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370613": {
+			"postcode": "0370613",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Asai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "浅井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370612": {
+			"postcode": "0370612",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Fukuyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "福山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370611": {
+			"postcode": "0370611",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Kamiyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "神山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370602": {
+			"postcode": "0370602",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Matsunoki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "松野木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370601": {
+			"postcode": "0370601",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Tozawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "戸沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370543": {
+			"postcode": "0370543",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Kitatsugaru-gun",
+			"ward_name": "Nakadomari-machi",
+			"town_name": "Kodomari",
+			"building_name": "Bozusawa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "北津軽郡",
+					"ward_name": "中泊町",
+					"town_name": "小泊",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "北津軽郡"
+		},
+		"0370542": {
+			"postcode": "0370542",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Kitatsugaru-gun",
+			"ward_name": "Nakadomari-machi",
+			"town_name": "Kodomari",
+			"building_name": "Oyamanagane",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "北津軽郡",
+					"ward_name": "中泊町",
+					"town_name": "小泊",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "北津軽郡"
+		},
+		"0370541": {
+			"postcode": "0370541",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Kitatsugaru-gun",
+			"ward_name": "Nakadomari-machi",
+			"town_name": "Kodomari",
+			"building_name": "Ugaisawa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "北津軽郡",
+					"ward_name": "中泊町",
+					"town_name": "小泊",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "北津軽郡"
+		},
+		"0370538": {
+			"postcode": "0370538",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Kitatsugaru-gun",
+			"ward_name": "Nakadomari-machi",
+			"town_name": "Kodomari",
+			"building_name": "Shitamae",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "北津軽郡",
+					"ward_name": "中泊町",
+					"town_name": "小泊",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "北津軽郡"
+		},
+		"0370537": {
+			"postcode": "0370537",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Kitatsugaru-gun",
+			"ward_name": "Nakadomari-machi",
+			"town_name": "Kodomari",
+			"building_name": "Fuchiiwa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "北津軽郡",
+					"ward_name": "中泊町",
+					"town_name": "小泊",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "北津軽郡"
+		},
+		"0370536": {
+			"postcode": "0370536",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Kitatsugaru-gun",
+			"ward_name": "Nakadomari-machi",
+			"town_name": "Kodomari",
+			"building_name": "Nakama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "北津軽郡",
+					"ward_name": "中泊町",
+					"town_name": "小泊",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "北津軽郡"
+		},
+		"0370535": {
+			"postcode": "0370535",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Kitatsugaru-gun",
+			"ward_name": "Nakadomari-machi",
+			"town_name": "Kodomari",
+			"building_name": "Osakimichi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "北津軽郡",
+					"ward_name": "中泊町",
+					"town_name": "小泊",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "北津軽郡"
+		},
+		"0370534": {
+			"postcode": "0370534",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Kitatsugaru-gun",
+			"ward_name": "Nakadomari-machi",
+			"town_name": "Kodomari",
+			"building_name": "Urushinagare",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "北津軽郡",
+					"ward_name": "中泊町",
+					"town_name": "小泊",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "北津軽郡"
+		},
+		"0370533": {
+			"postcode": "0370533",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Kitatsugaru-gun",
+			"ward_name": "Nakadomari-machi",
+			"town_name": "Kodomari",
+			"building_name": "Shirokura",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "北津軽郡",
+					"ward_name": "中泊町",
+					"town_name": "小泊",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "北津軽郡"
+		},
+		"0370532": {
+			"postcode": "0370532",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Kitatsugaru-gun",
+			"ward_name": "Nakadomari-machi",
+			"town_name": "Kodomari",
+			"building_name": "Nashikitaira",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "北津軽郡",
+					"ward_name": "中泊町",
+					"town_name": "小泊",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "北津軽郡"
+		},
+		"0370531": {
+			"postcode": "0370531",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Kitatsugaru-gun",
+			"ward_name": "Nakadomari-machi",
+			"town_name": "Kodomari",
+			"building_name": "Nagasaka",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "北津軽郡",
+					"ward_name": "中泊町",
+					"town_name": "小泊",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "北津軽郡"
+		},
+		"0370525": {
+			"postcode": "0370525",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Kitatsugaru-gun",
+			"ward_name": "Nakadomari-machi",
+			"town_name": "Kodomari",
+			"building_name": "Samegai",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "北津軽郡",
+					"ward_name": "中泊町",
+					"town_name": "小泊",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "北津軽郡"
+		},
+		"0370524": {
+			"postcode": "0370524",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Kitatsugaru-gun",
+			"ward_name": "Nakadomari-machi",
+			"town_name": "Kodomari",
+			"building_name": "Mizunoma",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "北津軽郡",
+					"ward_name": "中泊町",
+					"town_name": "小泊",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "北津軽郡"
+		},
+		"0370523": {
+			"postcode": "0370523",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Kitatsugaru-gun",
+			"ward_name": "Nakadomari-machi",
+			"town_name": "Kodomari",
+			"building_name": "Inari",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "北津軽郡",
+					"ward_name": "中泊町",
+					"town_name": "小泊",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "北津軽郡"
+		},
+		"0370522": {
+			"postcode": "0370522",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Kitatsugaru-gun",
+			"ward_name": "Nakadomari-machi",
+			"town_name": "Kodomari",
+			"building_name": "Kodomari",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "北津軽郡",
+					"ward_name": "中泊町",
+					"town_name": "小泊",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "北津軽郡"
+		},
+		"0370521": {
+			"postcode": "0370521",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Kitatsugaru-gun",
+			"ward_name": "Nakadomari-machi",
+			"town_name": "Kodomari",
+			"building_name": "Orito",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "北津軽郡",
+					"ward_name": "中泊町",
+					"town_name": "小泊",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "北津軽郡"
+		},
+		"0370514": {
+			"postcode": "0370514",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Kitatsugaru-gun",
+			"ward_name": "Nakadomari-machi",
+			"town_name": "Kodomari",
+			"building_name": "Hamano",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "北津軽郡",
+					"ward_name": "中泊町",
+					"town_name": "小泊",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "北津軽郡"
+		},
+		"0370513": {
+			"postcode": "0370513",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Kitatsugaru-gun",
+			"ward_name": "Nakadomari-machi",
+			"town_name": "Kodomari",
+			"building_name": "Warinagane",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "北津軽郡",
+					"ward_name": "中泊町",
+					"town_name": "小泊",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "北津軽郡"
+		},
+		"0370512": {
+			"postcode": "0370512",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Kitatsugaru-gun",
+			"ward_name": "Nakadomari-machi",
+			"town_name": "Kodomari",
+			"building_name": "Asama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "北津軽郡",
+					"ward_name": "中泊町",
+					"town_name": "小泊",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "北津軽郡"
+		},
+		"0370511": {
+			"postcode": "0370511",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Kitatsugaru-gun",
+			"ward_name": "Nakadomari-machi",
+			"town_name": "Kodomari",
+			"building_name": "Sunayama",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "北津軽郡",
+					"ward_name": "中泊町",
+					"town_name": "小泊",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "北津軽郡"
+		},
+		"0370405": {
+			"postcode": "0370405",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Wakimoto",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "脇元",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370404": {
+			"postcode": "0370404",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Isomatsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "磯松",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370403": {
+			"postcode": "0370403",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Jusan",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "十三",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370402": {
+			"postcode": "0370402",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Ota",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "太田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370401": {
+			"postcode": "0370401",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Aiuchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "相内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370392": {
+			"postcode": "0370392",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Kitatsugaru-gun",
+			"ward_name": "Nakadomari-machi",
+			"town_name": "大字中里",
+			"building_name": "字亀山４３４番地１",
+			"organization_name": "中泊町役場",
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "北津軽郡",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "北津軽郡",
+					"ward_name": "中泊町",
+					"town_name": "大字中里",
+					"building_name": "字亀山４３４番地１",
+					"organization_name": "中泊町役場"
+				}
+			}
+		},
+		"0370318": {
+			"postcode": "0370318",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Kitatsugaru-gun",
+			"ward_name": "Nakadomari-machi",
+			"town_name": "Tamogi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "北津軽郡",
+					"ward_name": "中泊町",
+					"town_name": "田茂木",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "北津軽郡"
+		},
+		"0370317": {
+			"postcode": "0370317",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Kitatsugaru-gun",
+			"ward_name": "Nakadomari-machi",
+			"town_name": "Nagadoro",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "北津軽郡",
+					"ward_name": "中泊町",
+					"town_name": "長泥",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "北津軽郡"
+		},
+		"0370316": {
+			"postcode": "0370316",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Kitatsugaru-gun",
+			"ward_name": "Nakadomari-machi",
+			"town_name": "Ashino",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "北津軽郡",
+					"ward_name": "中泊町",
+					"town_name": "芦野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "北津軽郡"
+		},
+		"0370315": {
+			"postcode": "0370315",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Kitatsugaru-gun",
+			"ward_name": "Nakadomari-machi",
+			"town_name": "Toyoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "北津軽郡",
+					"ward_name": "中泊町",
+					"town_name": "豊岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "北津軽郡"
+		},
+		"0370314": {
+			"postcode": "0370314",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Kitatsugaru-gun",
+			"ward_name": "Nakadomari-machi",
+			"town_name": "Fukura",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "北津軽郡",
+					"ward_name": "中泊町",
+					"town_name": "福浦",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "北津軽郡"
+		},
+		"0370313": {
+			"postcode": "0370313",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Kitatsugaru-gun",
+			"ward_name": "Nakadomari-machi",
+			"town_name": "Tomino",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "北津軽郡",
+					"ward_name": "中泊町",
+					"town_name": "富野",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "北津軽郡"
+		},
+		"0370312": {
+			"postcode": "0370312",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Kitatsugaru-gun",
+			"ward_name": "Nakadomari-machi",
+			"town_name": "Toyoshima",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "北津軽郡",
+					"ward_name": "中泊町",
+					"town_name": "豊島",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "北津軽郡"
+		},
+		"0370311": {
+			"postcode": "0370311",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Kitatsugaru-gun",
+			"ward_name": "Nakadomari-machi",
+			"town_name": "Osawanai",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "北津軽郡",
+					"ward_name": "中泊町",
+					"town_name": "大沢内",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "北津軽郡"
+		},
+		"0370309": {
+			"postcode": "0370309",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Kitatsugaru-gun",
+			"ward_name": "Nakadomari-machi",
+			"town_name": "Hachiman",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "北津軽郡",
+					"ward_name": "中泊町",
+					"town_name": "八幡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "北津軽郡"
+		},
+		"0370308": {
+			"postcode": "0370308",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Kitatsugaru-gun",
+			"ward_name": "Nakadomari-machi",
+			"town_name": "Fukoda",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "北津軽郡",
+					"ward_name": "中泊町",
+					"town_name": "深郷田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "北津軽郡"
+		},
+		"0370307": {
+			"postcode": "0370307",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Kitatsugaru-gun",
+			"ward_name": "Nakadomari-machi",
+			"town_name": "Miyanosawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "北津軽郡",
+					"ward_name": "中泊町",
+					"town_name": "宮野沢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "北津軽郡"
+		},
+		"0370306": {
+			"postcode": "0370306",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Kitatsugaru-gun",
+			"ward_name": "Nakadomari-machi",
+			"town_name": "Miyakawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "北津軽郡",
+					"ward_name": "中泊町",
+					"town_name": "宮川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "北津軽郡"
+		},
+		"0370305": {
+			"postcode": "0370305",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Kitatsugaru-gun",
+			"ward_name": "Nakadomari-machi",
+			"town_name": "Nakasato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "北津軽郡",
+					"ward_name": "中泊町",
+					"town_name": "中里",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "北津軽郡"
+		},
+		"0370304": {
+			"postcode": "0370304",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Kitatsugaru-gun",
+			"ward_name": "Nakadomari-machi",
+			"town_name": "Oppetsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "北津軽郡",
+					"ward_name": "中泊町",
+					"town_name": "尾別",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "北津軽郡"
+		},
+		"0370303": {
+			"postcode": "0370303",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Kitatsugaru-gun",
+			"ward_name": "Nakadomari-machi",
+			"town_name": "Takane",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "北津軽郡",
+					"ward_name": "中泊町",
+					"town_name": "高根",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "北津軽郡"
+		},
+		"0370302": {
+			"postcode": "0370302",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Kitatsugaru-gun",
+			"ward_name": "Nakadomari-machi",
+			"town_name": "Usuichi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "北津軽郡",
+					"ward_name": "中泊町",
+					"town_name": "薄市",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "北津軽郡"
+		},
+		"0370301": {
+			"postcode": "0370301",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Kitatsugaru-gun",
+			"ward_name": "Nakadomari-machi",
+			"town_name": "Imaizumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "北津軽郡",
+					"ward_name": "中泊町",
+					"town_name": "今泉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "北津軽郡"
+		},
+		"0370300": {
+			"postcode": "0370300",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Kitatsugaru-gun",
+			"ward_name": "Nakadomari-machi",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "北津軽郡",
+					"ward_name": "中泊町",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "北津軽郡"
+		},
+		"0370208": {
+			"postcode": "0370208",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Kanagicho",
+			"building_name": "Fujieda",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "金木町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370207": {
+			"postcode": "0370207",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Kanagicho",
+			"building_name": "Makita",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "金木町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370206": {
+			"postcode": "0370206",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Kanagicho",
+			"building_name": "Kambara",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "金木町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370205": {
+			"postcode": "0370205",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Kanagicho",
+			"building_name": "Nakakashiwagi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "金木町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370204": {
+			"postcode": "0370204",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Kanagicho",
+			"building_name": "Kase",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "金木町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370203": {
+			"postcode": "0370203",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Kanagicho",
+			"building_name": "Kiraichi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "金木町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370202": {
+			"postcode": "0370202",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Kanagicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "金木町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370201": {
+			"postcode": "0370201",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Kanagicho",
+			"building_name": "Kawakura",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "金木町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370109": {
+			"postcode": "0370109",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Tsugaru-shi",
+			"ward_name": "",
+			"town_name": "Inagakicho",
+			"building_name": "Chitose",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "つがる市",
+					"ward_name": "",
+					"town_name": "稲垣町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "つがる市"
+		},
+		"0370108": {
+			"postcode": "0370108",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Tsugaru-shi",
+			"ward_name": "",
+			"town_name": "Inagakicho",
+			"building_name": "Yoshide",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "つがる市",
+					"ward_name": "",
+					"town_name": "稲垣町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "つがる市"
+		},
+		"0370107": {
+			"postcode": "0370107",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Tsugaru-shi",
+			"ward_name": "",
+			"town_name": "Inagakicho",
+			"building_name": "Numadate",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "つがる市",
+					"ward_name": "",
+					"town_name": "稲垣町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "つがる市"
+		},
+		"0370106": {
+			"postcode": "0370106",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Tsugaru-shi",
+			"ward_name": "",
+			"town_name": "Inagakicho",
+			"building_name": "Numazaki",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "つがる市",
+					"ward_name": "",
+					"town_name": "稲垣町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "つがる市"
+		},
+		"0370105": {
+			"postcode": "0370105",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Tsugaru-shi",
+			"ward_name": "",
+			"town_name": "Inagakicho",
+			"building_name": "Fukutomi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "つがる市",
+					"ward_name": "",
+					"town_name": "稲垣町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "つがる市"
+		},
+		"0370104": {
+			"postcode": "0370104",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Tsugaru-shi",
+			"ward_name": "",
+			"town_name": "Inagakicho",
+			"building_name": "Toyokawa",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "つがる市",
+					"ward_name": "",
+					"town_name": "稲垣町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "つがる市"
+		},
+		"0370103": {
+			"postcode": "0370103",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Tsugaru-shi",
+			"ward_name": "",
+			"town_name": "Inagakicho",
+			"building_name": "Hozumi",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "つがる市",
+					"ward_name": "",
+					"town_name": "稲垣町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "つがる市"
+		},
+		"0370102": {
+			"postcode": "0370102",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Tsugaru-shi",
+			"ward_name": "",
+			"town_name": "Inagakicho",
+			"building_name": "Shigeta",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "つがる市",
+					"ward_name": "",
+					"town_name": "稲垣町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "つがる市"
+		},
+		"0370101": {
+			"postcode": "0370101",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Tsugaru-shi",
+			"ward_name": "",
+			"town_name": "Inagakicho",
+			"building_name": "Shimoshigeta",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "つがる市",
+					"ward_name": "",
+					"town_name": "稲垣町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "つがる市"
+		},
+		"0370097": {
+			"postcode": "0370097",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Nagatomi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "長富",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370096": {
+			"postcode": "0370096",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Bishamon",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "毘沙門",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370095": {
+			"postcode": "0370095",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Sakurada",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "桜田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370094": {
+			"postcode": "0370094",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Kawayama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "川山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370093": {
+			"postcode": "0370093",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Ichinotsubo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "一野坪",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370092": {
+			"postcode": "0370092",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Okiiizume",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "沖飯詰",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370091": {
+			"postcode": "0370091",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Tachiuchi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "太刀打",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370089": {
+			"postcode": "0370089",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Mogawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "藻川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370088": {
+			"postcode": "0370088",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Tsurugaoka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "鶴ケ岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370087": {
+			"postcode": "0370087",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Takase",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "高瀬",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370086": {
+			"postcode": "0370086",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Tagawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "田川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370085": {
+			"postcode": "0370085",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Basho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "芭蕉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370084": {
+			"postcode": "0370084",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Sotetsu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "蘇鉄",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370083": {
+			"postcode": "0370083",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Shimmiyacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "新宮町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370082": {
+			"postcode": "0370082",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Tanei",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "種井",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370081": {
+			"postcode": "0370081",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Shimmiya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "新宮",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370076": {
+			"postcode": "0370076",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Komagari",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "小曲",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370075": {
+			"postcode": "0370075",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Teramachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "寺町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370074": {
+			"postcode": "0370074",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Iwakicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "岩木町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370073": {
+			"postcode": "0370073",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Yanagimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "柳町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370072": {
+			"postcode": "0370072",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Kawabatacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "川端町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370071": {
+			"postcode": "0370071",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Honcho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "本町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370069": {
+			"postcode": "0370069",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Wakaba",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "若葉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370068": {
+			"postcode": "0370068",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Nagahashi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "長橋",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370067": {
+			"postcode": "0370067",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Shikishimacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "敷島町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370066": {
+			"postcode": "0370066",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Nakahiraimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "中平井町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370065": {
+			"postcode": "0370065",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Ikusemori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "幾世森",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370064": {
+			"postcode": "0370064",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Shimohiraimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "下平井町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370063": {
+			"postcode": "0370063",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Omachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "大町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370062": {
+			"postcode": "0370062",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Asahicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "旭町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370061": {
+			"postcode": "0370061",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Hinata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "雛田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370058": {
+			"postcode": "0370058",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Nishikicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "錦町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370057": {
+			"postcode": "0370057",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Ikushimacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "幾島町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370056": {
+			"postcode": "0370056",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Suehirocho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "末広町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370055": {
+			"postcode": "0370055",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Kashiwabaracho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "柏原町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370054": {
+			"postcode": "0370054",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Kamihiraimachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "上平井町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370053": {
+			"postcode": "0370053",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Nunoyacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "布屋町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370052": {
+			"postcode": "0370052",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Azumacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "東町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370051": {
+			"postcode": "0370051",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Yayoicho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "弥生町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370046": {
+			"postcode": "0370046",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Sakaemachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "栄町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370045": {
+			"postcode": "0370045",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Shimmachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "新町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370044": {
+			"postcode": "0370044",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Motomachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "元町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370043": {
+			"postcode": "0370043",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Hasunuma",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "蓮沼",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370042": {
+			"postcode": "0370042",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Uosumazu",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "不魚住",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370041": {
+			"postcode": "0370041",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Tamachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "田町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370036": {
+			"postcode": "0370036",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Chuo",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "中央",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370035": {
+			"postcode": "0370035",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Minato",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "湊",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370034": {
+			"postcode": "0370034",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Yaegiku",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "八重菊",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370033": {
+			"postcode": "0370033",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Kamayacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "鎌谷町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370032": {
+			"postcode": "0370032",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Karasumori",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "烏森",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370025": {
+			"postcode": "0370025",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Nanatsudate",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "七ツ館",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370024": {
+			"postcode": "0370024",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Midoricho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "みどり町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370023": {
+			"postcode": "0370023",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Hirota",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "広田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370022": {
+			"postcode": "0370022",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Umeta",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "梅田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370021": {
+			"postcode": "0370021",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Nakaizumi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "中泉",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370017": {
+			"postcode": "0370017",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Urushikawa",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "漆川",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370016": {
+			"postcode": "0370016",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Hitotsuya",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "一ツ谷",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370015": {
+			"postcode": "0370015",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Ubayachi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "姥萢",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370014": {
+			"postcode": "0370014",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Inami",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "稲実",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370013": {
+			"postcode": "0370013",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Yoneta",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "米田",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370012": {
+			"postcode": "0370012",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Mizuno",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "水野尾",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370011": {
+			"postcode": "0370011",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Kaneyama",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "金山",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370006": {
+			"postcode": "0370006",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Matsushimacho",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "松島町",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370005": {
+			"postcode": "0370005",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Ishioka",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "石岡",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370004": {
+			"postcode": "0370004",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Karakasayanagi",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "唐笠柳",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370003": {
+			"postcode": "0370003",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Fukihata",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "吹畑",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370002": {
+			"postcode": "0370002",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Iizume",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "飯詰",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370001": {
+			"postcode": "0370001",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "Shimoiwasaki",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "下岩崎",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		},
+		"0370000": {
+			"postcode": "0370000",
+			"prefecture_name": "Aomori-ken",
+			"city_name": "Goshogawara-shi",
+			"ward_name": "",
+			"town_name": "",
+			"building_name": "",
+			"organization_name": "",
+			"translation": {
+				"ja": {
+					"prefecture_name": "青森県",
+					"city_name": "五所川原市",
+					"ward_name": "",
+					"town_name": "",
+					"building_name": "",
+					"organization_name": ""
+				}
+			},
+			"region_code": "東北",
+			"prefecture_code": "青森県",
+			"city_code": "五所川原市"
+		}
+	}
+}
