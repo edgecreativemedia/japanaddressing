@@ -4,7 +4,6 @@
     "description": "Japan’s regions, prefectures and cities library.",
     "keywords": ["japan", "region", "prefecture", "city", "postal", "address", "internationalization", "localization"],
     "license": "MIT",
-    "minimum-stability": "dev-master",
     "require": {
         "php": ">=5.4.0"
     },
