@@ -1,129 +1,118 @@
 {
 	"country_code": "JP",
-	"parent_id": null,
 	"locale": "ja-Latn",
-	"regions": {
-		"JP-R1": {
+	"supdivision_type": "region",
+	"subdivision": {
+		"北海道": {
 			"code": "北海道",
-			"name": "Hokkaidō",
-			"name_suffix": " Region",
+			"lname": "Hokkaido Region",
+			"sname": "Hokkaido",
 			"kanji": "北海道",
 			"hiragana": "ほっかいどう",
 			"romaji": "Hokkaidō",
 			"translations": {
 				"ja": {
-					"name": "北海道",
-					"name_suffix": null
-				},
-				"kr": {
-					"name": "홋카이도",
-					"name_suffix": null
-				},
-				"cn": {
-					"name": "北海道",
-					"name_suffix": null
-				},
-				"th": {
-					"name": "ฮอกไกโด",
-					"name_suffix": null
+					"lname": "北海道",
+					"sname": "北海道"
+
 				}
 			}
 		},
-		"JP-R2": {
+		"東北": {
 			"code": "東北",
-			"name": "Tōhoku",
-			"name_suffix": " Region",
+			"lname": "Tohoku Region",
+			"sname": "Tohoku",
 			"kanji": "東北",
 			"hiragana": "とうほく",
 			"romaji": "Tōhoku",
 			"translations": {
 				"ja": {
-					"name": "東北",
-					"name_suffix": null
+					"lname": "東北",
+					"sname": "東北"
 				}
 			}
 		},
-		"JP-R3": {
+		"関東": {
 			"code": "関東",
-			"name": "Kantō",
-			"name_suffix": " Region",
+			"lname": "Kanto Region",
+			"sname": "Kanto",
 			"kanji": "関東",
 			"hiragana": "かんとう",
 			"romaji": "Kantō",
 			"translations": {
 				"ja": {
-					"name": "関東",
-					"name_suffix": null
+					"lname": "関東",
+					"sname": "関東"
 				}
 			}
 		},
-		"JP-R4": {
+		"中部": {
 			"code": "中部",
-			"name": "Chūbu",
-			"name_suffix": " Region",
+			"lname": "Chubu Region",
+			"sname": "Chubu",
 			"kanji": "中部",
 			"hiragana": "ちゅうぶ",
 			"romaji": "Chūbu",
 			"translations": {
 				"ja": {
-					"name": "中部",
-					"name_suffix": null
+					"lname": "中部",
+					"sname": "中部"
 				}
 			}
 		},
-		"JP-R5": {
+		"関西": {
 			"code": "関西",
-			"name": "Kansai",
-			"name_suffix": " Region",
+			"lname": "Kansai Region",
+			"sname": "Kansai",
 			"kanji": "関西",
 			"hiragana": "かんさい",
 			"romaji": "Kansai",
 			"translations": {
 				"ja": {
-					"name": "関西",
-					"name_suffix": null
+					"lname": "関西",
+					"sname": "関西"
 				}
 			}
 		},
-		"JP-R6": {
+		"中国": {
 			"code": "中国",
-			"name": "Chūgoku",
-			"name_suffix": " Region",
+			"lname": "Chugoku Region",
+			"sname": "Chugoku",
 			"kanji": "中国",
 			"hiragana": "ちゅうごく",
 			"romaji": "Chūgoku",
 			"translations": {
 				"ja": {
-					"name": "中国",
-					"name_suffix": null
+					"lname": "中国",
+					"sname": "中国"
 				}
 			}
 		},
-		"JP-R7": {
+		"四国": {
 			"code": "四国",
-			"name": "Shikoku",
-			"name_suffix": " Region",
+			"lname": "Shikoku Region",
+			"sname": "Shikoku",
 			"kanji": "四国",
 			"hiragana": "しこく",
 			"romaji": "Shikoku",
 			"translations": {
 				"ja": {
-					"name": "四国",
-					"name_suffix": null
+					"lname": "四国",
+					"sname": "四国"
 				}
 			}
 		},
-		"JP-R8": {
+		"九州": {
 			"code": "九州",
-			"name": "Kyūshū",
-			"name_suffix": " Region",
+			"lname": "Kyushu Region",
+			"sname": "Kyushu",
 			"kanji": "九州",
 			"hiragana": "きゅうしゅう",
 			"romaji": "Kyūshū",
 			"translations": {
 				"ja": {
-					"name": "九州",
-					"name_suffix": null
+					"lname": "九州",
+					"sname": "九州"
 				}
 			}
 		}
