@@ -4,7 +4,7 @@
 	"locale": "ja-Latn",
 	"address": {
 		"0028504": {
-			"postcode": "0028504",
+			"postcode": "002-8504",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
@@ -14,7 +14,7 @@
 			"region_code": "北海道",
 			"prefecture_code": "北海道",
 			"city_code": "札幌市",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -26,7 +26,7 @@
 			}
 		},
 		"0028503": {
-			"postcode": "0028503",
+			"postcode": "002-8503",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
@@ -36,7 +36,7 @@
 			"region_code": "北海道",
 			"prefecture_code": "北海道",
 			"city_code": "札幌市",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -48,7 +48,7 @@
 			}
 		},
 		"0028502": {
-			"postcode": "0028502",
+			"postcode": "002-8502",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
@@ -58,7 +58,7 @@
 			"region_code": "北海道",
 			"prefecture_code": "北海道",
 			"city_code": "札幌市",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -70,7 +70,7 @@
 			}
 		},
 		"0028501": {
-			"postcode": "0028501",
+			"postcode": "002-8501",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
@@ -80,7 +80,7 @@
 			"region_code": "北海道",
 			"prefecture_code": "北海道",
 			"city_code": "札幌市",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -92,14 +92,14 @@
 			}
 		},
 		"0028091": {
-			"postcode": "0028091",
+			"postcode": "002-8091",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Minamiainosato",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -114,14 +114,14 @@
 			"city_code": "札幌市"
 		},
 		"0028089": {
-			"postcode": "0028089",
+			"postcode": "002-8089",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Ishikari-gun",
 			"ward_name": "Tobetsu-cho",
 			"town_name": "Bitoe",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "石狩郡",
@@ -136,14 +136,14 @@
 			"city_code": "石狩郡"
 		},
 		"0028082": {
-			"postcode": "0028082",
+			"postcode": "002-8082",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Yurigaharakoen",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -158,14 +158,14 @@
 			"city_code": "札幌市"
 		},
 		"0028081": {
-			"postcode": "0028081",
+			"postcode": "002-8081",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Yurigahara",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -180,14 +180,14 @@
 			"city_code": "札幌市"
 		},
 		"0028075": {
-			"postcode": "0028075",
+			"postcode": "002-8075",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Ainosato",
 			"building_name": "5-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -202,14 +202,14 @@
 			"city_code": "札幌市"
 		},
 		"0028074": {
-			"postcode": "0028074",
+			"postcode": "002-8074",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Ainosato",
 			"building_name": "4-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -224,14 +224,14 @@
 			"city_code": "札幌市"
 		},
 		"0028073": {
-			"postcode": "0028073",
+			"postcode": "002-8073",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Ainosato",
 			"building_name": "3-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -246,14 +246,14 @@
 			"city_code": "札幌市"
 		},
 		"0028072": {
-			"postcode": "0028072",
+			"postcode": "002-8072",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Ainosato",
 			"building_name": "2-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -268,14 +268,14 @@
 			"city_code": "札幌市"
 		},
 		"0028071": {
-			"postcode": "0028071",
+			"postcode": "002-8071",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Ainosato",
 			"building_name": "1-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -290,14 +290,14 @@
 			"city_code": "札幌市"
 		},
 		"0028068": {
-			"postcode": "0028068",
+			"postcode": "002-8068",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Takuhoku",
 			"building_name": "8-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -312,14 +312,14 @@
 			"city_code": "札幌市"
 		},
 		"0028067": {
-			"postcode": "0028067",
+			"postcode": "002-8067",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Takuhoku",
 			"building_name": "7-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -334,14 +334,14 @@
 			"city_code": "札幌市"
 		},
 		"0028066": {
-			"postcode": "0028066",
+			"postcode": "002-8066",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Takuhoku",
 			"building_name": "6-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -356,14 +356,14 @@
 			"city_code": "札幌市"
 		},
 		"0028065": {
-			"postcode": "0028065",
+			"postcode": "002-8065",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Takuhoku",
 			"building_name": "5-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -378,14 +378,14 @@
 			"city_code": "札幌市"
 		},
 		"0028064": {
-			"postcode": "0028064",
+			"postcode": "002-8064",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Takuhoku",
 			"building_name": "4-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -400,14 +400,14 @@
 			"city_code": "札幌市"
 		},
 		"0028063": {
-			"postcode": "0028063",
+			"postcode": "002-8063",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Takuhoku",
 			"building_name": "3-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -422,14 +422,14 @@
 			"city_code": "札幌市"
 		},
 		"0028062": {
-			"postcode": "0028062",
+			"postcode": "002-8062",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Takuhoku",
 			"building_name": "2-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -444,14 +444,14 @@
 			"city_code": "札幌市"
 		},
 		"0028061": {
-			"postcode": "0028061",
+			"postcode": "002-8061",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Takuhoku",
 			"building_name": "1-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -466,14 +466,14 @@
 			"city_code": "札幌市"
 		},
 		"0028055": {
-			"postcode": "0028055",
+			"postcode": "002-8055",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Shinorocho",
 			"building_name": "Fukui",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -488,14 +488,14 @@
 			"city_code": "札幌市"
 		},
 		"0028054": {
-			"postcode": "0028054",
+			"postcode": "002-8054",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Shinorocho",
 			"building_name": "Takuhoku",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -510,14 +510,14 @@
 			"city_code": "札幌市"
 		},
 		"0028053": {
-			"postcode": "0028053",
+			"postcode": "002-8053",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Shinorocho",
 			"building_name": "Shinoro",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -532,14 +532,14 @@
 			"city_code": "札幌市"
 		},
 		"0028052": {
-			"postcode": "0028052",
+			"postcode": "002-8052",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Shinorocho",
 			"building_name": "Kamishinoro",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -554,14 +554,14 @@
 			"city_code": "札幌市"
 		},
 		"0028051": {
-			"postcode": "0028051",
+			"postcode": "002-8051",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Shinorocho",
 			"building_name": "Taihei",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -576,14 +576,14 @@
 			"city_code": "札幌市"
 		},
 		"0028045": {
-			"postcode": "0028045",
+			"postcode": "002-8045",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Higashibarato",
 			"building_name": "4-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -598,14 +598,14 @@
 			"city_code": "札幌市"
 		},
 		"0028044": {
-			"postcode": "0028044",
+			"postcode": "002-8044",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Higashibarato",
 			"building_name": "3-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -620,14 +620,14 @@
 			"city_code": "札幌市"
 		},
 		"0028043": {
-			"postcode": "0028043",
+			"postcode": "002-8043",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Higashibarato",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -642,14 +642,14 @@
 			"city_code": "札幌市"
 		},
 		"0028042": {
-			"postcode": "0028042",
+			"postcode": "002-8042",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Higashibarato",
 			"building_name": "2-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -664,14 +664,14 @@
 			"city_code": "札幌市"
 		},
 		"0028041": {
-			"postcode": "0028041",
+			"postcode": "002-8041",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Higashibarato",
 			"building_name": "1-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -686,14 +686,14 @@
 			"city_code": "札幌市"
 		},
 		"0028038": {
-			"postcode": "0028038",
+			"postcode": "002-8038",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Nishibarato",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -708,14 +708,14 @@
 			"city_code": "札幌市"
 		},
 		"0028037": {
-			"postcode": "0028037",
+			"postcode": "002-8037",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Nishibarato",
 			"building_name": "7-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -730,14 +730,14 @@
 			"city_code": "札幌市"
 		},
 		"0028036": {
-			"postcode": "0028036",
+			"postcode": "002-8036",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Nishibarato",
 			"building_name": "6-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -752,14 +752,14 @@
 			"city_code": "札幌市"
 		},
 		"0028035": {
-			"postcode": "0028035",
+			"postcode": "002-8035",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Nishibarato",
 			"building_name": "5-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -774,14 +774,14 @@
 			"city_code": "札幌市"
 		},
 		"0028034": {
-			"postcode": "0028034",
+			"postcode": "002-8034",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Nishibarato",
 			"building_name": "4-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -796,14 +796,14 @@
 			"city_code": "札幌市"
 		},
 		"0028033": {
-			"postcode": "0028033",
+			"postcode": "002-8033",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Nishibarato",
 			"building_name": "3-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -818,14 +818,14 @@
 			"city_code": "札幌市"
 		},
 		"0028032": {
-			"postcode": "0028032",
+			"postcode": "002-8032",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Nishibarato",
 			"building_name": "2-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -840,14 +840,14 @@
 			"city_code": "札幌市"
 		},
 		"0028031": {
-			"postcode": "0028031",
+			"postcode": "002-8031",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Nishibarato",
 			"building_name": "1-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -862,14 +862,14 @@
 			"city_code": "札幌市"
 		},
 		"0028030": {
-			"postcode": "0028030",
+			"postcode": "002-8030",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Shinoro",
 			"building_name": "10-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -884,14 +884,14 @@
 			"city_code": "札幌市"
 		},
 		"0028029": {
-			"postcode": "0028029",
+			"postcode": "002-8029",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Shinoro",
 			"building_name": "9-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -906,14 +906,14 @@
 			"city_code": "札幌市"
 		},
 		"0028028": {
-			"postcode": "0028028",
+			"postcode": "002-8028",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Shinoro",
 			"building_name": "8-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -928,14 +928,14 @@
 			"city_code": "札幌市"
 		},
 		"0028027": {
-			"postcode": "0028027",
+			"postcode": "002-8027",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Shinoro",
 			"building_name": "7-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -950,14 +950,14 @@
 			"city_code": "札幌市"
 		},
 		"0028026": {
-			"postcode": "0028026",
+			"postcode": "002-8026",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Shinoro",
 			"building_name": "6-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -972,14 +972,14 @@
 			"city_code": "札幌市"
 		},
 		"0028025": {
-			"postcode": "0028025",
+			"postcode": "002-8025",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Shinoro",
 			"building_name": "5-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -994,14 +994,14 @@
 			"city_code": "札幌市"
 		},
 		"0028024": {
-			"postcode": "0028024",
+			"postcode": "002-8024",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Shinoro",
 			"building_name": "4-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1016,14 +1016,14 @@
 			"city_code": "札幌市"
 		},
 		"0028023": {
-			"postcode": "0028023",
+			"postcode": "002-8023",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Shinoro",
 			"building_name": "3-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1038,14 +1038,14 @@
 			"city_code": "札幌市"
 		},
 		"0028022": {
-			"postcode": "0028022",
+			"postcode": "002-8022",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Shinoro",
 			"building_name": "2-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1060,14 +1060,14 @@
 			"city_code": "札幌市"
 		},
 		"0028021": {
-			"postcode": "0028021",
+			"postcode": "002-8021",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Shinoro",
 			"building_name": "1-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1082,14 +1082,14 @@
 			"city_code": "札幌市"
 		},
 		"0028012": {
-			"postcode": "0028012",
+			"postcode": "002-8012",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Taihei",
 			"building_name": "12-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1104,14 +1104,14 @@
 			"city_code": "札幌市"
 		},
 		"0028011": {
-			"postcode": "0028011",
+			"postcode": "002-8011",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Taihei",
 			"building_name": "11-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1126,14 +1126,14 @@
 			"city_code": "札幌市"
 		},
 		"0028010": {
-			"postcode": "0028010",
+			"postcode": "002-8010",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Taihei",
 			"building_name": "10-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1148,14 +1148,14 @@
 			"city_code": "札幌市"
 		},
 		"0028009": {
-			"postcode": "0028009",
+			"postcode": "002-8009",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Taihei",
 			"building_name": "9-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1170,14 +1170,14 @@
 			"city_code": "札幌市"
 		},
 		"0028008": {
-			"postcode": "0028008",
+			"postcode": "002-8008",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Taihei",
 			"building_name": "8-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1192,14 +1192,14 @@
 			"city_code": "札幌市"
 		},
 		"0028007": {
-			"postcode": "0028007",
+			"postcode": "002-8007",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Taihei",
 			"building_name": "7-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1214,14 +1214,14 @@
 			"city_code": "札幌市"
 		},
 		"0028006": {
-			"postcode": "0028006",
+			"postcode": "002-8006",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Taihei",
 			"building_name": "6-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1236,14 +1236,14 @@
 			"city_code": "札幌市"
 		},
 		"0028005": {
-			"postcode": "0028005",
+			"postcode": "002-8005",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Taihei",
 			"building_name": "5-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1258,14 +1258,14 @@
 			"city_code": "札幌市"
 		},
 		"0028004": {
-			"postcode": "0028004",
+			"postcode": "002-8004",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Taihei",
 			"building_name": "4-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1280,14 +1280,14 @@
 			"city_code": "札幌市"
 		},
 		"0028003": {
-			"postcode": "0028003",
+			"postcode": "002-8003",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Taihei",
 			"building_name": "3-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1302,14 +1302,14 @@
 			"city_code": "札幌市"
 		},
 		"0028002": {
-			"postcode": "0028002",
+			"postcode": "002-8002",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Taihei",
 			"building_name": "2-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1324,14 +1324,14 @@
 			"city_code": "札幌市"
 		},
 		"0028001": {
-			"postcode": "0028001",
+			"postcode": "002-8001",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Taihei",
 			"building_name": "1-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1346,14 +1346,14 @@
 			"city_code": "札幌市"
 		},
 		"0020865": {
-			"postcode": "0020865",
+			"postcode": "002-0865",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Tondencho",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1368,14 +1368,14 @@
 			"city_code": "札幌市"
 		},
 		"0020861": {
-			"postcode": "0020861",
+			"postcode": "002-0861",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Tonden",
 			"building_name": "11-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1390,14 +1390,14 @@
 			"city_code": "札幌市"
 		},
 		"0020860": {
-			"postcode": "0020860",
+			"postcode": "002-0860",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Tonden",
 			"building_name": "10-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1412,14 +1412,14 @@
 			"city_code": "札幌市"
 		},
 		"0020859": {
-			"postcode": "0020859",
+			"postcode": "002-0859",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Tonden",
 			"building_name": "9-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1434,14 +1434,14 @@
 			"city_code": "札幌市"
 		},
 		"0020858": {
-			"postcode": "0020858",
+			"postcode": "002-0858",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Tonden",
 			"building_name": "8-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1456,14 +1456,14 @@
 			"city_code": "札幌市"
 		},
 		"0020857": {
-			"postcode": "0020857",
+			"postcode": "002-0857",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Tonden",
 			"building_name": "7-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1478,14 +1478,14 @@
 			"city_code": "札幌市"
 		},
 		"0020856": {
-			"postcode": "0020856",
+			"postcode": "002-0856",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Tonden",
 			"building_name": "6-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1500,14 +1500,14 @@
 			"city_code": "札幌市"
 		},
 		"0020855": {
-			"postcode": "0020855",
+			"postcode": "002-0855",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Tonden",
 			"building_name": "5-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1522,14 +1522,14 @@
 			"city_code": "札幌市"
 		},
 		"0020854": {
-			"postcode": "0020854",
+			"postcode": "002-0854",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Tonden",
 			"building_name": "4-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1544,14 +1544,14 @@
 			"city_code": "札幌市"
 		},
 		"0020853": {
-			"postcode": "0020853",
+			"postcode": "002-0853",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Tonden",
 			"building_name": "3-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1566,14 +1566,14 @@
 			"city_code": "札幌市"
 		},
 		"0020852": {
-			"postcode": "0020852",
+			"postcode": "002-0852",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Tonden",
 			"building_name": "2-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1588,14 +1588,14 @@
 			"city_code": "札幌市"
 		},
 		"0020851": {
-			"postcode": "0020851",
+			"postcode": "002-0851",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Kita-ku",
 			"town_name": "Tonden",
 			"building_name": "1-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",

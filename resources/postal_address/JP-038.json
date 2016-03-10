@@ -4,7 +4,7 @@
 	"locale": "ja-Latn",
 	"address": {
 		"0388585": {
-			"postcode": "0388585",
+			"postcode": "038-8585",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
@@ -14,7 +14,7 @@
 			"region_code": "東北",
 			"prefecture_code": "青森県",
 			"city_code": "青森市",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -26,7 +26,7 @@
 			}
 		},
 		"0388560": {
-			"postcode": "0388560",
+			"postcode": "038-8560",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
@@ -36,7 +36,7 @@
 			"region_code": "東北",
 			"prefecture_code": "青森県",
 			"city_code": "青森市",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -48,7 +48,7 @@
 			}
 		},
 		"0388550": {
-			"postcode": "0388550",
+			"postcode": "038-8550",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
@@ -58,7 +58,7 @@
 			"region_code": "東北",
 			"prefecture_code": "青森県",
 			"city_code": "青森市",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -70,7 +70,7 @@
 			}
 		},
 		"0388505": {
-			"postcode": "0388505",
+			"postcode": "038-8505",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
@@ -80,7 +80,7 @@
 			"region_code": "東北",
 			"prefecture_code": "青森県",
 			"city_code": "青森市",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -92,7 +92,7 @@
 			}
 		},
 		"0383892": {
-			"postcode": "0383892",
+			"postcode": "038-3892",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Fujisaki-machi",
@@ -102,7 +102,7 @@
 			"region_code": "東北",
 			"prefecture_code": "青森県",
 			"city_code": "南津軽郡",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -114,14 +114,14 @@
 			}
 		},
 		"0383874": {
-			"postcode": "0383874",
+			"postcode": "038-3874",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Hirosaki-shi",
 			"ward_name": "",
 			"town_name": "Tsukano",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "弘前市",
@@ -136,14 +136,14 @@
 			"city_code": "弘前市"
 		},
 		"0383837": {
-			"postcode": "0383837",
+			"postcode": "038-3837",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Fujisaki-machi",
 			"town_name": "Kashiwagizeki",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -158,14 +158,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0383836": {
-			"postcode": "0383836",
+			"postcode": "038-3836",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Fujisaki-machi",
 			"town_name": "Shimotawaramasu",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -180,14 +180,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0383835": {
-			"postcode": "0383835",
+			"postcode": "038-3835",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Fujisaki-machi",
 			"town_name": "Tawaramasu",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -202,14 +202,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0383834": {
-			"postcode": "0383834",
+			"postcode": "038-3834",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Fujisaki-machi",
 			"town_name": "Nishinakanome",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -224,14 +224,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0383833": {
-			"postcode": "0383833",
+			"postcode": "038-3833",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Fujisaki-machi",
 			"town_name": "Kameoka",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -246,14 +246,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0383832": {
-			"postcode": "0383832",
+			"postcode": "038-3832",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Fujisaki-machi",
 			"town_name": "Yoshimukai",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -268,14 +268,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0383831": {
-			"postcode": "0383831",
+			"postcode": "038-3831",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Fujisaki-machi",
 			"town_name": "Nakanome",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -290,14 +290,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0383821": {
-			"postcode": "0383821",
+			"postcode": "038-3821",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Hirosaki-shi",
 			"ward_name": "",
 			"town_name": "Momota",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "弘前市",
@@ -312,14 +312,14 @@
 			"city_code": "弘前市"
 		},
 		"0383814": {
-			"postcode": "0383814",
+			"postcode": "038-3814",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Fujisaki-machi",
 			"town_name": "Mizunuma",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -334,14 +334,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0383813": {
-			"postcode": "0383813",
+			"postcode": "038-3813",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Fujisaki-machi",
 			"town_name": "Yazawa",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -356,14 +356,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0383812": {
-			"postcode": "0383812",
+			"postcode": "038-3812",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Fujisaki-machi",
 			"town_name": "Kobata",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -378,14 +378,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0383811": {
-			"postcode": "0383811",
+			"postcode": "038-3811",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Fujisaki-machi",
 			"town_name": "Nakajima",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -400,14 +400,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0383806": {
-			"postcode": "0383806",
+			"postcode": "038-3806",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Fujisaki-machi",
 			"town_name": "Hayashizaki",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -422,14 +422,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0383805": {
-			"postcode": "0383805",
+			"postcode": "038-3805",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Fujisaki-machi",
 			"town_name": "Gorin",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -444,14 +444,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0383804": {
-			"postcode": "0383804",
+			"postcode": "038-3804",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Fujisaki-machi",
 			"town_name": "Kuzuno",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -466,14 +466,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0383803": {
-			"postcode": "0383803",
+			"postcode": "038-3803",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Fujisaki-machi",
 			"town_name": "Nishitoyoda",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -488,14 +488,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0383802": {
-			"postcode": "0383802",
+			"postcode": "038-3802",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Fujisaki-machi",
 			"town_name": "Fujisaki",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -510,14 +510,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0383801": {
-			"postcode": "0383801",
+			"postcode": "038-3801",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Fujisaki-machi",
 			"town_name": "Fujikoshi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -532,14 +532,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0383800": {
-			"postcode": "0383800",
+			"postcode": "038-3800",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Fujisaki-machi",
 			"town_name": "",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -554,7 +554,7 @@
 			"city_code": "南津軽郡"
 		},
 		"0383692": {
-			"postcode": "0383692",
+			"postcode": "038-3692",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Itayanagi-machi",
@@ -564,7 +564,7 @@
 			"region_code": "東北",
 			"prefecture_code": "青森県",
 			"city_code": "北津軽郡",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -576,14 +576,14 @@
 			}
 		},
 		"0383685": {
-			"postcode": "0383685",
+			"postcode": "038-3685",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Itayanagi-machi",
 			"town_name": "Itayacho",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -598,14 +598,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383684": {
-			"postcode": "0383684",
+			"postcode": "038-3684",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Itayanagi-machi",
 			"town_name": "Sanzengoku",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -620,14 +620,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383683": {
-			"postcode": "0383683",
+			"postcode": "038-3683",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Itayanagi-machi",
 			"town_name": "Akada",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -642,14 +642,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383682": {
-			"postcode": "0383682",
+			"postcode": "038-3682",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Itayanagi-machi",
 			"town_name": "Ishino",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -664,14 +664,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383681": {
-			"postcode": "0383681",
+			"postcode": "038-3681",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Itayanagi-machi",
 			"town_name": "Nonaka",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -686,14 +686,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383673": {
-			"postcode": "0383673",
+			"postcode": "038-3673",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Itayanagi-machi",
 			"town_name": "Kohata",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -708,14 +708,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383672": {
-			"postcode": "0383672",
+			"postcode": "038-3672",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Itayanagi-machi",
 			"town_name": "Hainuma",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -730,14 +730,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383671": {
-			"postcode": "0383671",
+			"postcode": "038-3671",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Itayanagi-machi",
 			"town_name": "Kakeochibayashi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -752,14 +752,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383662": {
-			"postcode": "0383662",
+			"postcode": "038-3662",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Itayanagi-machi",
 			"town_name": "Itayanagi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -774,14 +774,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383661": {
-			"postcode": "0383661",
+			"postcode": "038-3661",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Itayanagi-machi",
 			"town_name": "Fukunoda",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -796,14 +796,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383651": {
-			"postcode": "0383651",
+			"postcode": "038-3651",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Itayanagi-machi",
 			"town_name": "Iida",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -818,14 +818,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383645": {
-			"postcode": "0383645",
+			"postcode": "038-3645",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Itayanagi-machi",
 			"town_name": "Tsuji",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -840,14 +840,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383644": {
-			"postcode": "0383644",
+			"postcode": "038-3644",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Itayanagi-machi",
 			"town_name": "Yokosawa",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -862,14 +862,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383643": {
-			"postcode": "0383643",
+			"postcode": "038-3643",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Itayanagi-machi",
 			"town_name": "Nagano",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -884,14 +884,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383642": {
-			"postcode": "0383642",
+			"postcode": "038-3642",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Itayanagi-machi",
 			"town_name": "Ota",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -906,14 +906,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383641": {
-			"postcode": "0383641",
+			"postcode": "038-3641",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Itayanagi-machi",
 			"town_name": "Fukami",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -928,14 +928,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383636": {
-			"postcode": "0383636",
+			"postcode": "038-3636",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Itayanagi-machi",
 			"town_name": "Gokigata",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -950,14 +950,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383635": {
-			"postcode": "0383635",
+			"postcode": "038-3635",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Itayanagi-machi",
 			"town_name": "Otawara",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -972,14 +972,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383634": {
-			"postcode": "0383634",
+			"postcode": "038-3634",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Itayanagi-machi",
 			"town_name": "Takamasu",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -994,14 +994,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383633": {
-			"postcode": "0383633",
+			"postcode": "038-3633",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Itayanagi-machi",
 			"town_name": "Kitsunemori",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -1016,14 +1016,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383632": {
-			"postcode": "0383632",
+			"postcode": "038-3632",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Itayanagi-machi",
 			"town_name": "Kashiwagi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -1038,14 +1038,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383631": {
-			"postcode": "0383631",
+			"postcode": "038-3631",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Itayanagi-machi",
 			"town_name": "Botammori",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -1060,14 +1060,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383625": {
-			"postcode": "0383625",
+			"postcode": "038-3625",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Itayanagi-machi",
 			"town_name": "Tatenokoshi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -1082,14 +1082,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383624": {
-			"postcode": "0383624",
+			"postcode": "038-3624",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Itayanagi-machi",
 			"town_name": "Takii",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -1104,14 +1104,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383623": {
-			"postcode": "0383623",
+			"postcode": "038-3623",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Itayanagi-machi",
 			"town_name": "Jokaibashi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -1126,14 +1126,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383622": {
-			"postcode": "0383622",
+			"postcode": "038-3622",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Itayanagi-machi",
 			"town_name": "Yugaozeki",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -1148,14 +1148,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383621": {
-			"postcode": "0383621",
+			"postcode": "038-3621",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Itayanagi-machi",
 			"town_name": "Gorintai",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -1170,14 +1170,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383615": {
-			"postcode": "0383615",
+			"postcode": "038-3615",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Hirosaki-shi",
 			"ward_name": "",
 			"town_name": "Aonago",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "弘前市",
@@ -1192,14 +1192,14 @@
 			"city_code": "弘前市"
 		},
 		"0383614": {
-			"postcode": "0383614",
+			"postcode": "038-3614",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Hirosaki-shi",
 			"ward_name": "",
 			"town_name": "Taneichi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "弘前市",
@@ -1214,14 +1214,14 @@
 			"city_code": "弘前市"
 		},
 		"0383613": {
-			"postcode": "0383613",
+			"postcode": "038-3613",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Hirosaki-shi",
 			"ward_name": "",
 			"town_name": "Otomo",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "弘前市",
@@ -1236,14 +1236,14 @@
 			"city_code": "弘前市"
 		},
 		"0383612": {
-			"postcode": "0383612",
+			"postcode": "038-3612",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Hirosaki-shi",
 			"ward_name": "",
 			"town_name": "Sasadate",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "弘前市",
@@ -1258,14 +1258,14 @@
 			"city_code": "弘前市"
 		},
 		"0383611": {
-			"postcode": "0383611",
+			"postcode": "038-3611",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Hirosaki-shi",
 			"ward_name": "",
 			"town_name": "Miwa",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "弘前市",
@@ -1280,14 +1280,14 @@
 			"city_code": "弘前市"
 		},
 		"0383600": {
-			"postcode": "0383600",
+			"postcode": "038-3600",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Itayanagi-machi",
 			"town_name": "",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -1302,7 +1302,7 @@
 			"city_code": "北津軽郡"
 		},
 		"0383595": {
-			"postcode": "0383595",
+			"postcode": "038-3595",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Tsuruta-machi",
@@ -1312,7 +1312,7 @@
 			"region_code": "東北",
 			"prefecture_code": "青森県",
 			"city_code": "北津軽郡",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -1324,14 +1324,14 @@
 			}
 		},
 		"0383543": {
-			"postcode": "0383543",
+			"postcode": "038-3543",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Tsuruta-machi",
 			"town_name": "Myodozaki",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -1346,14 +1346,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383542": {
-			"postcode": "0383542",
+			"postcode": "038-3542",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Tsuruta-machi",
 			"town_name": "Mawarizeki",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -1368,14 +1368,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383541": {
-			"postcode": "0383541",
+			"postcode": "038-3541",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Tsuruta-machi",
 			"town_name": "Ohara",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -1390,14 +1390,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383532": {
-			"postcode": "0383532",
+			"postcode": "038-3532",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Tsuruta-machi",
 			"town_name": "Nogi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -1412,14 +1412,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383531": {
-			"postcode": "0383531",
+			"postcode": "038-3531",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Tsuruta-machi",
 			"town_name": "Kizutsu",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -1434,14 +1434,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383525": {
-			"postcode": "0383525",
+			"postcode": "038-3525",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Tsuruta-machi",
 			"town_name": "Daisho",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -1456,14 +1456,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383524": {
-			"postcode": "0383524",
+			"postcode": "038-3524",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Tsuruta-machi",
 			"town_name": "Sakai",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -1478,14 +1478,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383523": {
-			"postcode": "0383523",
+			"postcode": "038-3523",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Tsuruta-machi",
 			"town_name": "Kurumidate",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -1500,14 +1500,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383522": {
-			"postcode": "0383522",
+			"postcode": "038-3522",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Tsuruta-machi",
 			"town_name": "Tsurudomari",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -1522,14 +1522,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383521": {
-			"postcode": "0383521",
+			"postcode": "038-3521",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Tsuruta-machi",
 			"town_name": "Shobukawa",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -1544,14 +1544,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383515": {
-			"postcode": "0383515",
+			"postcode": "038-3515",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Tsuruta-machi",
 			"town_name": "Yamamichi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -1566,14 +1566,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383514": {
-			"postcode": "0383514",
+			"postcode": "038-3514",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Tsuruta-machi",
 			"town_name": "Nakano",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -1588,14 +1588,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383513": {
-			"postcode": "0383513",
+			"postcode": "038-3513",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Tsuruta-machi",
 			"town_name": "Oki",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -1610,14 +1610,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383512": {
-			"postcode": "0383512",
+			"postcode": "038-3512",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Tsuruta-machi",
 			"town_name": "Serazawa",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -1632,14 +1632,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383511": {
-			"postcode": "0383511",
+			"postcode": "038-3511",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Tsuruta-machi",
 			"town_name": "Yokoyachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -1654,14 +1654,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383503": {
-			"postcode": "0383503",
+			"postcode": "038-3503",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Tsuruta-machi",
 			"town_name": "Tsuruta",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -1676,14 +1676,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383502": {
-			"postcode": "0383502",
+			"postcode": "038-3502",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Tsuruta-machi",
 			"town_name": "Kowamaki",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -1698,14 +1698,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383501": {
-			"postcode": "0383501",
+			"postcode": "038-3501",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Tsuruta-machi",
 			"town_name": "Omaki",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -1720,14 +1720,14 @@
 			"city_code": "北津軽郡"
 		},
 		"0383500": {
-			"postcode": "0383500",
+			"postcode": "038-3500",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Kitatsugaru-gun",
 			"ward_name": "Tsuruta-machi",
 			"town_name": "",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "北津軽郡",
@@ -1742,7 +1742,7 @@
 			"city_code": "北津軽郡"
 		},
 		"0383394": {
-			"postcode": "0383394",
+			"postcode": "038-3394",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
@@ -1752,7 +1752,7 @@
 			"region_code": "東北",
 			"prefecture_code": "青森県",
 			"city_code": "つがる市",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -1764,7 +1764,7 @@
 			}
 		},
 		"0383393": {
-			"postcode": "0383393",
+			"postcode": "038-3393",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
@@ -1774,7 +1774,7 @@
 			"region_code": "東北",
 			"prefecture_code": "青森県",
 			"city_code": "つがる市",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -1786,7 +1786,7 @@
 			}
 		},
 		"0383392": {
-			"postcode": "0383392",
+			"postcode": "038-3392",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
@@ -1796,7 +1796,7 @@
 			"region_code": "東北",
 			"prefecture_code": "青森県",
 			"city_code": "つがる市",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -1808,14 +1808,14 @@
 			}
 		},
 		"0383306": {
-			"postcode": "0383306",
+			"postcode": "038-3306",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Shimoshigatacho",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -1830,14 +1830,14 @@
 			"city_code": "つがる市"
 		},
 		"0383305": {
-			"postcode": "0383305",
+			"postcode": "038-3305",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Ushigatacho",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -1852,14 +1852,14 @@
 			"city_code": "つがる市"
 		},
 		"0383304": {
-			"postcode": "0383304",
+			"postcode": "038-3304",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Shitasharikicho",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -1874,14 +1874,14 @@
 			"city_code": "つがる市"
 		},
 		"0383303": {
-			"postcode": "0383303",
+			"postcode": "038-3303",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Sharikicho",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -1896,14 +1896,14 @@
 			"city_code": "つがる市"
 		},
 		"0383302": {
-			"postcode": "0383302",
+			"postcode": "038-3302",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Toyotomicho",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -1918,14 +1918,14 @@
 			"city_code": "つがる市"
 		},
 		"0383301": {
-			"postcode": "0383301",
+			"postcode": "038-3301",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Tomiyachicho",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -1940,14 +1940,14 @@
 			"city_code": "つがる市"
 		},
 		"0383288": {
-			"postcode": "0383288",
+			"postcode": "038-3288",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Dekishima",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -1962,14 +1962,14 @@
 			"city_code": "つがる市"
 		},
 		"0383287": {
-			"postcode": "0383287",
+			"postcode": "038-3287",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Shimotoyamasato",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -1984,14 +1984,14 @@
 			"city_code": "つがる市"
 		},
 		"0383286": {
-			"postcode": "0383286",
+			"postcode": "038-3286",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Komotsuchi",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2006,14 +2006,14 @@
 			"city_code": "つがる市"
 		},
 		"0383285": {
-			"postcode": "0383285",
+			"postcode": "038-3285",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Oyumachi",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2028,14 +2028,14 @@
 			"city_code": "つがる市"
 		},
 		"0383284": {
-			"postcode": "0383284",
+			"postcode": "038-3284",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Kamegaoka",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2050,14 +2050,14 @@
 			"city_code": "つがる市"
 		},
 		"0383283": {
-			"postcode": "0383283",
+			"postcode": "038-3283",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Tateoka",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2072,14 +2072,14 @@
 			"city_code": "つがる市"
 		},
 		"0383282": {
-			"postcode": "0383282",
+			"postcode": "038-3282",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Dokizaka",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2094,14 +2094,14 @@
 			"city_code": "つがる市"
 		},
 		"0383281": {
-			"postcode": "0383281",
+			"postcode": "038-3281",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Hirataki",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2116,14 +2116,14 @@
 			"city_code": "つがる市"
 		},
 		"0383278": {
-			"postcode": "0383278",
+			"postcode": "038-3278",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Tsuchitaki",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2138,14 +2138,14 @@
 			"city_code": "つがる市"
 		},
 		"0383277": {
-			"postcode": "0383277",
+			"postcode": "038-3277",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Obata",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2160,14 +2160,14 @@
 			"city_code": "つがる市"
 		},
 		"0383276": {
-			"postcode": "0383276",
+			"postcode": "038-3276",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Hayashi",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2182,14 +2182,14 @@
 			"city_code": "つがる市"
 		},
 		"0383275": {
-			"postcode": "0383275",
+			"postcode": "038-3275",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Nagata",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2204,14 +2204,14 @@
 			"city_code": "つがる市"
 		},
 		"0383274": {
-			"postcode": "0383274",
+			"postcode": "038-3274",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Rengeta",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2226,14 +2226,14 @@
 			"city_code": "つがる市"
 		},
 		"0383273": {
-			"postcode": "0383273",
+			"postcode": "038-3273",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Idenosato",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2248,14 +2248,14 @@
 			"city_code": "つがる市"
 		},
 		"0383272": {
-			"postcode": "0383272",
+			"postcode": "038-3272",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Kanedate",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2270,14 +2270,14 @@
 			"city_code": "つがる市"
 		},
 		"0383271": {
-			"postcode": "0383271",
+			"postcode": "038-3271",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Yoshizumi",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2292,7 +2292,7 @@
 			"city_code": "つがる市"
 		},
 		"0383195": {
-			"postcode": "0383195",
+			"postcode": "038-3195",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
@@ -2302,7 +2302,7 @@
 			"region_code": "東北",
 			"prefecture_code": "青森県",
 			"city_code": "つがる市",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2314,7 +2314,7 @@
 			}
 		},
 		"0383194": {
-			"postcode": "0383194",
+			"postcode": "038-3194",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
@@ -2324,7 +2324,7 @@
 			"region_code": "東北",
 			"prefecture_code": "青森県",
 			"city_code": "つがる市",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2336,7 +2336,7 @@
 			}
 		},
 		"0383193": {
-			"postcode": "0383193",
+			"postcode": "038-3193",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
@@ -2346,7 +2346,7 @@
 			"region_code": "東北",
 			"prefecture_code": "青森県",
 			"city_code": "つがる市",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2358,7 +2358,7 @@
 			}
 		},
 		"0383192": {
-			"postcode": "0383192",
+			"postcode": "038-3192",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
@@ -2368,7 +2368,7 @@
 			"region_code": "東北",
 			"prefecture_code": "青森県",
 			"city_code": "つがる市",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2380,14 +2380,14 @@
 			}
 		},
 		"0383167": {
-			"postcode": "0383167",
+			"postcode": "038-3167",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Chiyoda",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2402,14 +2402,14 @@
 			"city_code": "つがる市"
 		},
 		"0383166": {
-			"postcode": "0383166",
+			"postcode": "038-3166",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Fukuhara",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2424,14 +2424,14 @@
 			"city_code": "つがる市"
 		},
 		"0383165": {
-			"postcode": "0383165",
+			"postcode": "038-3165",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Kikukawa",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2446,14 +2446,14 @@
 			"city_code": "つがる市"
 		},
 		"0383164": {
-			"postcode": "0383164",
+			"postcode": "038-3164",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Shibata",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2468,14 +2468,14 @@
 			"city_code": "つがる市"
 		},
 		"0383163": {
-			"postcode": "0383163",
+			"postcode": "038-3163",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Nakadate",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2490,14 +2490,14 @@
 			"city_code": "つがる市"
 		},
 		"0383162": {
-			"postcode": "0383162",
+			"postcode": "038-3162",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Urafune",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2512,14 +2512,14 @@
 			"city_code": "つがる市"
 		},
 		"0383161": {
-			"postcode": "0383161",
+			"postcode": "038-3161",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Nigorigawa",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2534,14 +2534,14 @@
 			"city_code": "つがる市"
 		},
 		"0383159": {
-			"postcode": "0383159",
+			"postcode": "038-3159",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Sakuragawa",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2556,14 +2556,14 @@
 			"city_code": "つがる市"
 		},
 		"0383158": {
-			"postcode": "0383158",
+			"postcode": "038-3158",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Fusamatsu",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2578,14 +2578,14 @@
 			"city_code": "つがる市"
 		},
 		"0383157": {
-			"postcode": "0383157",
+			"postcode": "038-3157",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Miyazaki",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2600,14 +2600,14 @@
 			"city_code": "つがる市"
 		},
 		"0383156": {
-			"postcode": "0383156",
+			"postcode": "038-3156",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Miyai",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2622,14 +2622,14 @@
 			"city_code": "つがる市"
 		},
 		"0383155": {
-			"postcode": "0383155",
+			"postcode": "038-3155",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Masuta",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2644,14 +2644,14 @@
 			"city_code": "つがる市"
 		},
 		"0383154": {
-			"postcode": "0383154",
+			"postcode": "038-3154",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Teruhi",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2666,14 +2666,14 @@
 			"city_code": "つがる市"
 		},
 		"0383153": {
-			"postcode": "0383153",
+			"postcode": "038-3153",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Nomiya",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2688,14 +2688,14 @@
 			"city_code": "つがる市"
 		},
 		"0383152": {
-			"postcode": "0383152",
+			"postcode": "038-3152",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Fujioka",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2710,14 +2710,14 @@
 			"city_code": "つがる市"
 		},
 		"0383151": {
-			"postcode": "0383151",
+			"postcode": "038-3151",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Wakatake",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2732,14 +2732,14 @@
 			"city_code": "つがる市"
 		},
 		"0383146": {
-			"postcode": "0383146",
+			"postcode": "038-3146",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Sakuragi",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2754,14 +2754,14 @@
 			"city_code": "つがる市"
 		},
 		"0383145": {
-			"postcode": "0383145",
+			"postcode": "038-3145",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Chiyomachi",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2776,14 +2776,14 @@
 			"city_code": "つがる市"
 		},
 		"0383144": {
-			"postcode": "0383144",
+			"postcode": "038-3144",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Akebono",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2798,14 +2798,14 @@
 			"city_code": "つがる市"
 		},
 		"0383143": {
-			"postcode": "0383143",
+			"postcode": "038-3143",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Hinata",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2820,14 +2820,14 @@
 			"city_code": "つがる市"
 		},
 		"0383142": {
-			"postcode": "0383142",
+			"postcode": "038-3142",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Akane",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2842,14 +2842,14 @@
 			"city_code": "つがる市"
 		},
 		"0383141": {
-			"postcode": "0383141",
+			"postcode": "038-3141",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Ukisu",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2864,14 +2864,14 @@
 			"city_code": "つがる市"
 		},
 		"0383139": {
-			"postcode": "0383139",
+			"postcode": "038-3139",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Haginagare",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2886,14 +2886,14 @@
 			"city_code": "つがる市"
 		},
 		"0383138": {
-			"postcode": "0383138",
+			"postcode": "038-3138",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Wakamidori",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2908,14 +2908,14 @@
 			"city_code": "つがる市"
 		},
 		"0383137": {
-			"postcode": "0383137",
+			"postcode": "038-3137",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Wakamiya",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2930,14 +2930,14 @@
 			"city_code": "つがる市"
 		},
 		"0383136": {
-			"postcode": "0383136",
+			"postcode": "038-3136",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Hagino",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2952,14 +2952,14 @@
 			"city_code": "つがる市"
 		},
 		"0383135": {
-			"postcode": "0383135",
+			"postcode": "038-3135",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Urakumachi",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2974,14 +2974,14 @@
 			"city_code": "つがる市"
 		},
 		"0383134": {
-			"postcode": "0383134",
+			"postcode": "038-3134",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Tanetori",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -2996,14 +2996,14 @@
 			"city_code": "つがる市"
 		},
 		"0383133": {
-			"postcode": "0383133",
+			"postcode": "038-3133",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Suehiro",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -3018,14 +3018,14 @@
 			"city_code": "つがる市"
 		},
 		"0383132": {
-			"postcode": "0383132",
+			"postcode": "038-3132",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Shimizu",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -3040,14 +3040,14 @@
 			"city_code": "つがる市"
 		},
 		"0383131": {
-			"postcode": "0383131",
+			"postcode": "038-3131",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Chitose",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -3062,14 +3062,14 @@
 			"city_code": "つがる市"
 		},
 		"0383128": {
-			"postcode": "0383128",
+			"postcode": "038-3128",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Morimoto",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -3084,14 +3084,14 @@
 			"city_code": "つがる市"
 		},
 		"0383127": {
-			"postcode": "0383127",
+			"postcode": "038-3127",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Moriyama",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -3106,14 +3106,14 @@
 			"city_code": "つがる市"
 		},
 		"0383126": {
-			"postcode": "0383126",
+			"postcode": "038-3126",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Moriuchi",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -3128,14 +3128,14 @@
 			"city_code": "つがる市"
 		},
 		"0383125": {
-			"postcode": "0383125",
+			"postcode": "038-3125",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Tsurudomari",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -3150,14 +3150,14 @@
 			"city_code": "つがる市"
 		},
 		"0383124": {
-			"postcode": "0383124",
+			"postcode": "038-3124",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Asahi",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -3172,14 +3172,14 @@
 			"city_code": "つがる市"
 		},
 		"0383123": {
-			"postcode": "0383123",
+			"postcode": "038-3123",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Fujita",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -3194,14 +3194,14 @@
 			"city_code": "つがる市"
 		},
 		"0383122": {
-			"postcode": "0383122",
+			"postcode": "038-3122",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Oihiro",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -3216,14 +3216,14 @@
 			"city_code": "つがる市"
 		},
 		"0383121": {
-			"postcode": "0383121",
+			"postcode": "038-3121",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Hayata",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -3238,14 +3238,14 @@
 			"city_code": "つがる市"
 		},
 		"0383115": {
-			"postcode": "0383115",
+			"postcode": "038-3115",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Hasukawa",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -3260,14 +3260,14 @@
 			"city_code": "つがる市"
 		},
 		"0383114": {
-			"postcode": "0383114",
+			"postcode": "038-3114",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Narita",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -3282,14 +3282,14 @@
 			"city_code": "つがる市"
 		},
 		"0383113": {
-			"postcode": "0383113",
+			"postcode": "038-3113",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Ashinuma",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -3304,14 +3304,14 @@
 			"city_code": "つがる市"
 		},
 		"0383112": {
-			"postcode": "0383112",
+			"postcode": "038-3112",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Kawayoke",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -3326,14 +3326,14 @@
 			"city_code": "つがる市"
 		},
 		"0383111": {
-			"postcode": "0383111",
+			"postcode": "038-3111",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Toyoda",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -3348,14 +3348,14 @@
 			"city_code": "つがる市"
 		},
 		"0383107": {
-			"postcode": "0383107",
+			"postcode": "038-3107",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kashiwa",
 			"building_name": "Ise",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -3370,14 +3370,14 @@
 			"city_code": "つがる市"
 		},
 		"0383106": {
-			"postcode": "0383106",
+			"postcode": "038-3106",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kashiwa",
 			"building_name": "Tamamizu",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -3392,14 +3392,14 @@
 			"city_code": "つがる市"
 		},
 		"0383105": {
-			"postcode": "0383105",
+			"postcode": "038-3105",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kashiwa",
 			"building_name": "Hirosu",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -3414,14 +3414,14 @@
 			"city_code": "つがる市"
 		},
 		"0383104": {
-			"postcode": "0383104",
+			"postcode": "038-3104",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kashiwa",
 			"building_name": "Kuwanokida",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -3436,14 +3436,14 @@
 			"city_code": "つがる市"
 		},
 		"0383103": {
-			"postcode": "0383103",
+			"postcode": "038-3103",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kashiwa",
 			"building_name": "Kamikogawa",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -3458,14 +3458,14 @@
 			"city_code": "つがる市"
 		},
 		"0383102": {
-			"postcode": "0383102",
+			"postcode": "038-3102",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kashiwa",
 			"building_name": "Shimokogawa",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -3480,14 +3480,14 @@
 			"city_code": "つがる市"
 		},
 		"0383101": {
-			"postcode": "0383101",
+			"postcode": "038-3101",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kashiwa",
 			"building_name": "Sagisaka",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -3502,14 +3502,14 @@
 			"city_code": "つがる市"
 		},
 		"0383100": {
-			"postcode": "0383100",
+			"postcode": "038-3100",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -3524,14 +3524,14 @@
 			"city_code": "つがる市"
 		},
 		"0382818": {
-			"postcode": "0382818",
+			"postcode": "038-2818",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Moritacho",
 			"building_name": "Odate",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -3546,14 +3546,14 @@
 			"city_code": "つがる市"
 		},
 		"0382817": {
-			"postcode": "0382817",
+			"postcode": "038-2817",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Moritacho",
 			"building_name": "Tokomai",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -3568,14 +3568,14 @@
 			"city_code": "つがる市"
 		},
 		"0382816": {
-			"postcode": "0382816",
+			"postcode": "038-2816",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Moritacho",
 			"building_name": "Morita",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -3590,14 +3590,14 @@
 			"city_code": "つがる市"
 		},
 		"0382815": {
-			"postcode": "0382815",
+			"postcode": "038-2815",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Moritacho",
 			"building_name": "Yamada",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -3612,14 +3612,14 @@
 			"city_code": "つがる市"
 		},
 		"0382814": {
-			"postcode": "0382814",
+			"postcode": "038-2814",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Moritacho",
 			"building_name": "Nakata",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -3634,14 +3634,14 @@
 			"city_code": "つがる市"
 		},
 		"0382813": {
-			"postcode": "0382813",
+			"postcode": "038-2813",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Moritacho",
 			"building_name": "Myodozaki",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -3656,14 +3656,14 @@
 			"city_code": "つがる市"
 		},
 		"0382812": {
-			"postcode": "0382812",
+			"postcode": "038-2812",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Moritacho",
 			"building_name": "Shimoaino",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -3678,14 +3678,14 @@
 			"city_code": "つがる市"
 		},
 		"0382811": {
-			"postcode": "0382811",
+			"postcode": "038-2811",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Moritacho",
 			"building_name": "Kamiaino",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -3700,14 +3700,14 @@
 			"city_code": "つがる市"
 		},
 		"0382808": {
-			"postcode": "0382808",
+			"postcode": "038-2808",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Fukihara",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -3722,14 +3722,14 @@
 			"city_code": "つがる市"
 		},
 		"0382807": {
-			"postcode": "0382807",
+			"postcode": "038-2807",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Komada",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -3744,14 +3744,14 @@
 			"city_code": "つがる市"
 		},
 		"0382806": {
-			"postcode": "0382806",
+			"postcode": "038-2806",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Koshimizu",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -3766,14 +3766,14 @@
 			"city_code": "つがる市"
 		},
 		"0382805": {
-			"postcode": "0382805",
+			"postcode": "038-2805",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Hiroka",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -3788,14 +3788,14 @@
 			"city_code": "つがる市"
 		},
 		"0382804": {
-			"postcode": "0382804",
+			"postcode": "038-2804",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Mitsutate",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -3810,14 +3810,14 @@
 			"city_code": "つがる市"
 		},
 		"0382803": {
-			"postcode": "0382803",
+			"postcode": "038-2803",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Shimofukuhara",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -3832,14 +3832,14 @@
 			"city_code": "つがる市"
 		},
 		"0382801": {
-			"postcode": "0382801",
+			"postcode": "038-2801",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Tsugaru-shi",
 			"ward_name": "",
 			"town_name": "Kizukuri",
 			"building_name": "Maruyama",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "つがる市",
@@ -3854,7 +3854,7 @@
 			"city_code": "つがる市"
 		},
 		"0382793": {
-			"postcode": "0382793",
+			"postcode": "038-2793",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Ajigasawa-machi",
@@ -3864,7 +3864,7 @@
 			"region_code": "東北",
 			"prefecture_code": "青森県",
 			"city_code": "西津軽郡",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -3876,7 +3876,7 @@
 			}
 		},
 		"0382792": {
-			"postcode": "0382792",
+			"postcode": "038-2792",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Ajigasawa-machi",
@@ -3886,7 +3886,7 @@
 			"region_code": "東北",
 			"prefecture_code": "青森県",
 			"city_code": "西津軽郡",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -3898,14 +3898,14 @@
 			}
 		},
 		"0382761": {
-			"postcode": "0382761",
+			"postcode": "038-2761",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Ajigasawa-machi",
 			"town_name": "Maitomachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -3920,14 +3920,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382754": {
-			"postcode": "0382754",
+			"postcode": "038-2754",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Ajigasawa-machi",
 			"town_name": "Komemachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -3942,14 +3942,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382753": {
-			"postcode": "0382753",
+			"postcode": "038-2753",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Ajigasawa-machi",
 			"town_name": "Honcho",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -3964,14 +3964,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382752": {
-			"postcode": "0382752",
+			"postcode": "038-2752",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Ajigasawa-machi",
 			"town_name": "Nanatsuishimachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -3986,14 +3986,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382751": {
-			"postcode": "0382751",
+			"postcode": "038-2751",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Ajigasawa-machi",
 			"town_name": "Tanakamachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4008,14 +4008,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382747": {
-			"postcode": "0382747",
+			"postcode": "038-2747",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Ajigasawa-machi",
 			"town_name": "Yodomachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4030,14 +4030,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382746": {
-			"postcode": "0382746",
+			"postcode": "038-2746",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Ajigasawa-machi",
 			"town_name": "Funecho",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4052,14 +4052,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382745": {
-			"postcode": "0382745",
+			"postcode": "038-2745",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Ajigasawa-machi",
 			"town_name": "Shinchimachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4074,14 +4074,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382744": {
-			"postcode": "0382744",
+			"postcode": "038-2744",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Ajigasawa-machi",
 			"town_name": "Ryoshimachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4096,14 +4096,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382743": {
-			"postcode": "0382743",
+			"postcode": "038-2743",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Ajigasawa-machi",
 			"town_name": "Tsurimachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4118,14 +4118,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382742": {
-			"postcode": "0382742",
+			"postcode": "038-2742",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Ajigasawa-machi",
 			"town_name": "Aramachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4140,14 +4140,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382741": {
-			"postcode": "0382741",
+			"postcode": "038-2741",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Ajigasawa-machi",
 			"town_name": "Hamamachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4162,14 +4162,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382735": {
-			"postcode": "0382735",
+			"postcode": "038-2735",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Ajigasawa-machi",
 			"town_name": "Ubafukuromachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4184,14 +4184,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382734": {
-			"postcode": "0382734",
+			"postcode": "038-2734",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Ajigasawa-machi",
 			"town_name": "Minamikanazawamachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4206,14 +4206,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382733": {
-			"postcode": "0382733",
+			"postcode": "038-2733",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Ajigasawa-machi",
 			"town_name": "Tatemaemachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4228,14 +4228,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382732": {
-			"postcode": "0382732",
+			"postcode": "038-2732",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Ajigasawa-machi",
 			"town_name": "Hideritamachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4250,14 +4250,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382731": {
-			"postcode": "0382731",
+			"postcode": "038-2731",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Ajigasawa-machi",
 			"town_name": "Akaishimachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4272,14 +4272,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382725": {
-			"postcode": "0382725",
+			"postcode": "038-2725",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Ajigasawa-machi",
 			"town_name": "Tanesatomachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4294,14 +4294,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382724": {
-			"postcode": "0382724",
+			"postcode": "038-2724",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Ajigasawa-machi",
 			"town_name": "Onifukuromachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4316,14 +4316,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382723": {
-			"postcode": "0382723",
+			"postcode": "038-2723",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Ajigasawa-machi",
 			"town_name": "Hitotsumorimachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4338,14 +4338,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382722": {
-			"postcode": "0382722",
+			"postcode": "038-2722",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Ajigasawa-machi",
 			"town_name": "Komorimachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4360,14 +4360,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382721": {
-			"postcode": "0382721",
+			"postcode": "038-2721",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Ajigasawa-machi",
 			"town_name": "Fukayamachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4382,14 +4382,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382715": {
-			"postcode": "0382715",
+			"postcode": "038-2715",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Ajigasawa-machi",
 			"town_name": "Hamayokosawamachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4404,14 +4404,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382714": {
-			"postcode": "0382714",
+			"postcode": "038-2714",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Ajigasawa-machi",
 			"town_name": "Ashiyachimachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4426,14 +4426,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382713": {
-			"postcode": "0382713",
+			"postcode": "038-2713",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Ajigasawa-machi",
 			"town_name": "Matsudaimachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4448,14 +4448,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382712": {
-			"postcode": "0382712",
+			"postcode": "038-2712",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Ajigasawa-machi",
 			"town_name": "Nagadaimachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4470,14 +4470,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382711": {
-			"postcode": "0382711",
+			"postcode": "038-2711",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Ajigasawa-machi",
 			"town_name": "Nakamuramachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4492,14 +4492,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382705": {
-			"postcode": "0382705",
+			"postcode": "038-2705",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Ajigasawa-machi",
 			"town_name": "Minamiukitamachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4514,14 +4514,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382704": {
-			"postcode": "0382704",
+			"postcode": "038-2704",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Ajigasawa-machi",
 			"town_name": "Yubunemachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4536,14 +4536,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382703": {
-			"postcode": "0382703",
+			"postcode": "038-2703",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Ajigasawa-machi",
 			"town_name": "Koyashikimachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4558,14 +4558,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382702": {
-			"postcode": "0382702",
+			"postcode": "038-2702",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Ajigasawa-machi",
 			"town_name": "Tateishimachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4580,14 +4580,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382701": {
-			"postcode": "0382701",
+			"postcode": "038-2701",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Ajigasawa-machi",
 			"town_name": "Kitaukitamachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4602,14 +4602,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382700": {
-			"postcode": "0382700",
+			"postcode": "038-2700",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Ajigasawa-machi",
 			"town_name": "",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4624,14 +4624,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382505": {
-			"postcode": "0382505",
+			"postcode": "038-2505",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Fukaura-machi",
 			"town_name": "Tanosawa",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4646,14 +4646,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382504": {
-			"postcode": "0382504",
+			"postcode": "038-2504",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Fukaura-machi",
 			"town_name": "Kitakanegasawa",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4668,14 +4668,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382503": {
-			"postcode": "0382503",
+			"postcode": "038-2503",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Fukaura-machi",
 			"town_name": "Seki",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4690,14 +4690,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382502": {
-			"postcode": "0382502",
+			"postcode": "038-2502",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Fukaura-machi",
 			"town_name": "Iwasaka",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4712,14 +4712,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382501": {
-			"postcode": "0382501",
+			"postcode": "038-2501",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Fukaura-machi",
 			"town_name": "Yanagita",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4734,14 +4734,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382413": {
-			"postcode": "0382413",
+			"postcode": "038-2413",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Fukaura-machi",
 			"town_name": "Oirase",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4756,14 +4756,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382412": {
-			"postcode": "0382412",
+			"postcode": "038-2412",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Fukaura-machi",
 			"town_name": "Todoroki",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4778,14 +4778,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382411": {
-			"postcode": "0382411",
+			"postcode": "038-2411",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Fukaura-machi",
 			"town_name": "Kasose",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4800,14 +4800,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382327": {
-			"postcode": "0382327",
+			"postcode": "038-2327",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Fukaura-machi",
 			"town_name": "Henashi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4822,14 +4822,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382326": {
-			"postcode": "0382326",
+			"postcode": "038-2326",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Fukaura-machi",
 			"town_name": "Tsukiya",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4844,14 +4844,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382325": {
-			"postcode": "0382325",
+			"postcode": "038-2325",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Fukaura-machi",
 			"town_name": "Yokoiso",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4866,14 +4866,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382324": {
-			"postcode": "0382324",
+			"postcode": "038-2324",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Fukaura-machi",
 			"town_name": "Fukaura",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4888,14 +4888,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382323": {
-			"postcode": "0382323",
+			"postcode": "038-2323",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Fukaura-machi",
 			"town_name": "Kamichokeidaira",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4910,14 +4910,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382322": {
-			"postcode": "0382322",
+			"postcode": "038-2322",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Fukaura-machi",
 			"town_name": "Chokeidaira",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4932,14 +4932,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382321": {
-			"postcode": "0382321",
+			"postcode": "038-2321",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Fukaura-machi",
 			"town_name": "Hiroto",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4954,14 +4954,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382300": {
-			"postcode": "0382300",
+			"postcode": "038-2300",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Fukaura-machi",
 			"town_name": "",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4976,14 +4976,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382208": {
-			"postcode": "0382208",
+			"postcode": "038-2208",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Fukaura-machi",
 			"town_name": "Omagoshi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -4998,14 +4998,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382207": {
-			"postcode": "0382207",
+			"postcode": "038-2207",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Fukaura-machi",
 			"town_name": "Kurosaki",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -5020,14 +5020,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382206": {
-			"postcode": "0382206",
+			"postcode": "038-2206",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Fukaura-machi",
 			"town_name": "Matsukami",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -5042,14 +5042,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382205": {
-			"postcode": "0382205",
+			"postcode": "038-2205",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Fukaura-machi",
 			"town_name": "Moriyama",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -5064,14 +5064,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382204": {
-			"postcode": "0382204",
+			"postcode": "038-2204",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Fukaura-machi",
 			"town_name": "Hisada",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -5086,14 +5086,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382203": {
-			"postcode": "0382203",
+			"postcode": "038-2203",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Fukaura-machi",
 			"town_name": "Shodojiri",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -5108,14 +5108,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382202": {
-			"postcode": "0382202",
+			"postcode": "038-2202",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Fukaura-machi",
 			"town_name": "Iwasaki",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -5130,14 +5130,14 @@
 			"city_code": "西津軽郡"
 		},
 		"0382201": {
-			"postcode": "0382201",
+			"postcode": "038-2201",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Nishitsugaru-gun",
 			"ward_name": "Fukaura-machi",
 			"town_name": "Sawabe",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "西津軽郡",
@@ -5152,7 +5152,7 @@
 			"city_code": "西津軽郡"
 		},
 		"0381393": {
-			"postcode": "0381393",
+			"postcode": "038-1393",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
@@ -5162,7 +5162,7 @@
 			"region_code": "東北",
 			"prefecture_code": "青森県",
 			"city_code": "青森市",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -5174,7 +5174,7 @@
 			}
 		},
 		"0381392": {
-			"postcode": "0381392",
+			"postcode": "038-1392",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
@@ -5184,7 +5184,7 @@
 			"region_code": "東北",
 			"prefecture_code": "青森県",
 			"city_code": "青森市",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -5196,14 +5196,14 @@
 			}
 		},
 		"0381345": {
-			"postcode": "0381345",
+			"postcode": "038-1345",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Namioka",
 			"building_name": "Shimoishikawa",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -5218,14 +5218,14 @@
 			"city_code": "青森市"
 		},
 		"0381344": {
-			"postcode": "0381344",
+			"postcode": "038-1344",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Namioka",
 			"building_name": "Yoshinoda",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -5240,14 +5240,14 @@
 			"city_code": "青森市"
 		},
 		"0381343": {
-			"postcode": "0381343",
+			"postcode": "038-1343",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Namioka",
 			"building_name": "Gosammae",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -5262,14 +5262,14 @@
 			"city_code": "青森市"
 		},
 		"0381342": {
-			"postcode": "0381342",
+			"postcode": "038-1342",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Namioka",
 			"building_name": "Tarusawa",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -5284,14 +5284,14 @@
 			"city_code": "青森市"
 		},
 		"0381341": {
-			"postcode": "0381341",
+			"postcode": "038-1341",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Namioka",
 			"building_name": "Shirogane",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -5306,14 +5306,14 @@
 			"city_code": "青森市"
 		},
 		"0381333": {
-			"postcode": "0381333",
+			"postcode": "038-1333",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Namioka",
 			"building_name": "Masudate",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -5328,14 +5328,14 @@
 			"city_code": "青森市"
 		},
 		"0381332": {
-			"postcode": "0381332",
+			"postcode": "038-1332",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Namioka",
 			"building_name": "Shimotogawa",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -5350,14 +5350,14 @@
 			"city_code": "青森市"
 		},
 		"0381331": {
-			"postcode": "0381331",
+			"postcode": "038-1331",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Namioka",
 			"building_name": "Megasawa",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -5372,14 +5372,14 @@
 			"city_code": "青森市"
 		},
 		"0381325": {
-			"postcode": "0381325",
+			"postcode": "038-1325",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Namioka",
 			"building_name": "Kitanakano",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -5394,14 +5394,14 @@
 			"city_code": "青森市"
 		},
 		"0381324": {
-			"postcode": "0381324",
+			"postcode": "038-1324",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Namioka",
 			"building_name": "Kichinai",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -5416,14 +5416,14 @@
 			"city_code": "青森市"
 		},
 		"0381323": {
-			"postcode": "0381323",
+			"postcode": "038-1323",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Namioka",
 			"building_name": "Hongo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -5438,14 +5438,14 @@
 			"city_code": "青森市"
 		},
 		"0381322": {
-			"postcode": "0381322",
+			"postcode": "038-1322",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Namioka",
 			"building_name": "Hosono",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -5460,14 +5460,14 @@
 			"city_code": "青森市"
 		},
 		"0381321": {
-			"postcode": "0381321",
+			"postcode": "038-1321",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Namioka",
 			"building_name": "Aizawa",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -5482,14 +5482,14 @@
 			"city_code": "青森市"
 		},
 		"0381313": {
-			"postcode": "0381313",
+			"postcode": "038-1313",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Namioka",
 			"building_name": "Kareizawa",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -5504,14 +5504,14 @@
 			"city_code": "青森市"
 		},
 		"0381312": {
-			"postcode": "0381312",
+			"postcode": "038-1312",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Namioka",
 			"building_name": "Gohommatsu",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -5526,14 +5526,14 @@
 			"city_code": "青森市"
 		},
 		"0381311": {
-			"postcode": "0381311",
+			"postcode": "038-1311",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Namioka",
 			"building_name": "Namioka",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -5548,14 +5548,14 @@
 			"city_code": "青森市"
 		},
 		"0381306": {
-			"postcode": "0381306",
+			"postcode": "038-1306",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Namioka",
 			"building_name": "Fukuda",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -5570,14 +5570,14 @@
 			"city_code": "青森市"
 		},
 		"0381305": {
-			"postcode": "0381305",
+			"postcode": "038-1305",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Namioka",
 			"building_name": "Sugisawa",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -5592,14 +5592,14 @@
 			"city_code": "青森市"
 		},
 		"0381304": {
-			"postcode": "0381304",
+			"postcode": "038-1304",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Namioka",
 			"building_name": "Takayashiki",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -5614,14 +5614,14 @@
 			"city_code": "青森市"
 		},
 		"0381303": {
-			"postcode": "0381303",
+			"postcode": "038-1303",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Namioka",
 			"building_name": "Tokusaishi",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -5636,14 +5636,14 @@
 			"city_code": "青森市"
 		},
 		"0381302": {
-			"postcode": "0381302",
+			"postcode": "038-1302",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Namioka",
 			"building_name": "Naganuma",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -5658,14 +5658,14 @@
 			"city_code": "青森市"
 		},
 		"0381301": {
-			"postcode": "0381301",
+			"postcode": "038-1301",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Namioka",
 			"building_name": "Daishaka",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -5680,14 +5680,14 @@
 			"city_code": "青森市"
 		},
 		"0381216": {
-			"postcode": "0381216",
+			"postcode": "038-1216",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Fujisaki-machi",
 			"town_name": "Sakaki",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -5702,14 +5702,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0381215": {
-			"postcode": "0381215",
+			"postcode": "038-1215",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Fujisaki-machi",
 			"town_name": "Wakamatsu",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -5724,14 +5724,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0381214": {
-			"postcode": "0381214",
+			"postcode": "038-1214",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Fujisaki-machi",
 			"town_name": "Tokiwa",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -5746,14 +5746,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0381213": {
-			"postcode": "0381213",
+			"postcode": "038-1213",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Fujisaki-machi",
 			"town_name": "Tokuge",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -5768,14 +5768,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0381212": {
-			"postcode": "0381212",
+			"postcode": "038-1212",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Fujisaki-machi",
 			"town_name": "Mitsuya",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -5790,14 +5790,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0381211": {
-			"postcode": "0381211",
+			"postcode": "038-1211",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Fujisaki-machi",
 			"town_name": "Fukushima",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -5812,14 +5812,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0381207": {
-			"postcode": "0381207",
+			"postcode": "038-1207",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Fujisaki-machi",
 			"town_name": "Masudate",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -5834,14 +5834,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0381206": {
-			"postcode": "0381206",
+			"postcode": "038-1206",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Fujisaki-machi",
 			"town_name": "Gosammae",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -5856,14 +5856,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0381205": {
-			"postcode": "0381205",
+			"postcode": "038-1205",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Fujisaki-machi",
 			"town_name": "Yoshinoda",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -5878,14 +5878,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0381204": {
-			"postcode": "0381204",
+			"postcode": "038-1204",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Fujisaki-machi",
 			"town_name": "Mizuki",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -5900,14 +5900,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0381203": {
-			"postcode": "0381203",
+			"postcode": "038-1203",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Fujisaki-machi",
 			"town_name": "Guinadate",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -5922,14 +5922,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0381202": {
-			"postcode": "0381202",
+			"postcode": "038-1202",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Fujisaki-machi",
 			"town_name": "Tomiyanagi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -5944,14 +5944,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0381201": {
-			"postcode": "0381201",
+			"postcode": "038-1201",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Fujisaki-machi",
 			"town_name": "Fukudate",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -5966,14 +5966,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0381145": {
-			"postcode": "0381145",
+			"postcode": "038-1145",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Inakadate-mura",
 			"town_name": "Tsuchiyagura",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -5988,14 +5988,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0381144": {
-			"postcode": "0381144",
+			"postcode": "038-1144",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Inakadate-mura",
 			"town_name": "Maetayashiki",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -6010,14 +6010,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0381143": {
-			"postcode": "0381143",
+			"postcode": "038-1143",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Inakadate-mura",
 			"town_name": "Sakaimori",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -6032,14 +6032,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0381142": {
-			"postcode": "0381142",
+			"postcode": "038-1142",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Inakadate-mura",
 			"town_name": "Izumi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -6054,14 +6054,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0381141": {
-			"postcode": "0381141",
+			"postcode": "038-1141",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Inakadate-mura",
 			"town_name": "Kawabe",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -6076,14 +6076,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0381134": {
-			"postcode": "0381134",
+			"postcode": "038-1134",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Inakadate-mura",
 			"town_name": "Toyomaki",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -6098,14 +6098,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0381133": {
-			"postcode": "0381133",
+			"postcode": "038-1133",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Inakadate-mura",
 			"town_name": "Oneko",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -6120,14 +6120,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0381132": {
-			"postcode": "0381132",
+			"postcode": "038-1132",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Inakadate-mura",
 			"town_name": "Suwado",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -6142,14 +6142,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0381131": {
-			"postcode": "0381131",
+			"postcode": "038-1131",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Inakadate-mura",
 			"town_name": "Ofukuro",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -6164,14 +6164,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0381123": {
-			"postcode": "0381123",
+			"postcode": "038-1123",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Inakadate-mura",
 			"town_name": "Omagari",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -6186,14 +6186,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0381122": {
-			"postcode": "0381122",
+			"postcode": "038-1122",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Inakadate-mura",
 			"town_name": "Hattanda",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -6208,14 +6208,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0381121": {
-			"postcode": "0381121",
+			"postcode": "038-1121",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Inakadate-mura",
 			"town_name": "Hatakenaka",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -6230,14 +6230,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0381113": {
-			"postcode": "0381113",
+			"postcode": "038-1113",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Inakadate-mura",
 			"town_name": "Inakadate",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -6252,14 +6252,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0381112": {
-			"postcode": "0381112",
+			"postcode": "038-1112",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Inakadate-mura",
 			"town_name": "Tareyanagi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -6274,14 +6274,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0381111": {
-			"postcode": "0381111",
+			"postcode": "038-1111",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Inakadate-mura",
 			"town_name": "Takahi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -6296,14 +6296,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0381104": {
-			"postcode": "0381104",
+			"postcode": "038-1104",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Inakadate-mura",
 			"town_name": "Edagawa",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -6318,14 +6318,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0381103": {
-			"postcode": "0381103",
+			"postcode": "038-1103",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Inakadate-mura",
 			"town_name": "Junikawara",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -6340,14 +6340,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0381102": {
-			"postcode": "0381102",
+			"postcode": "038-1102",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Inakadate-mura",
 			"town_name": "Donomae",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -6362,14 +6362,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0381101": {
-			"postcode": "0381101",
+			"postcode": "038-1101",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Inakadate-mura",
 			"town_name": "Tokoji",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -6384,14 +6384,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0381100": {
-			"postcode": "0381100",
+			"postcode": "038-1100",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Inakadate-mura",
 			"town_name": "",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -6406,7 +6406,7 @@
 			"city_code": "南津軽郡"
 		},
 		"0380292": {
-			"postcode": "0380292",
+			"postcode": "038-0292",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Owani-machi",
@@ -6416,7 +6416,7 @@
 			"region_code": "東北",
 			"prefecture_code": "青森県",
 			"city_code": "南津軽郡",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -6428,14 +6428,14 @@
 			}
 		},
 		"0380243": {
-			"postcode": "0380243",
+			"postcode": "038-0243",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Owani-machi",
 			"town_name": "Hachimandate",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -6450,14 +6450,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0380242": {
-			"postcode": "0380242",
+			"postcode": "038-0242",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Owani-machi",
 			"town_name": "Moriyama",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -6472,14 +6472,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0380241": {
-			"postcode": "0380241",
+			"postcode": "038-0241",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Owani-machi",
 			"town_name": "Sabaishi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -6494,14 +6494,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0380233": {
-			"postcode": "0380233",
+			"postcode": "038-0233",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Owani-machi",
 			"town_name": "Izuchi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -6516,14 +6516,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0380232": {
-			"postcode": "0380232",
+			"postcode": "038-0232",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Owani-machi",
 			"town_name": "Mitsumenai",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -6538,14 +6538,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0380231": {
-			"postcode": "0380231",
+			"postcode": "038-0231",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Owani-machi",
 			"town_name": "Shukugawara",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -6560,14 +6560,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0380223": {
-			"postcode": "0380223",
+			"postcode": "038-0223",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Owani-machi",
 			"town_name": "Shimada",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -6582,14 +6582,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0380222": {
-			"postcode": "0380222",
+			"postcode": "038-0222",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Owani-machi",
 			"town_name": "Hayaseno",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -6604,14 +6604,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0380221": {
-			"postcode": "0380221",
+			"postcode": "038-0221",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Owani-machi",
 			"town_name": "Nijikai",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -6626,14 +6626,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0380212": {
-			"postcode": "0380212",
+			"postcode": "038-0212",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Owani-machi",
 			"town_name": "Kuradate",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -6648,14 +6648,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0380211": {
-			"postcode": "0380211",
+			"postcode": "038-0211",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Owani-machi",
 			"town_name": "Owani",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -6670,14 +6670,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0380204": {
-			"postcode": "0380204",
+			"postcode": "038-0204",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Owani-machi",
 			"town_name": "Karoji",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -6692,14 +6692,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0380203": {
-			"postcode": "0380203",
+			"postcode": "038-0203",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Owani-machi",
 			"town_name": "Komaki",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -6714,14 +6714,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0380202": {
-			"postcode": "0380202",
+			"postcode": "038-0202",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Owani-machi",
 			"town_name": "Nagamine",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -6736,14 +6736,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0380201": {
-			"postcode": "0380201",
+			"postcode": "038-0201",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Owani-machi",
 			"town_name": "Nigaki",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -6758,14 +6758,14 @@
 			"city_code": "南津軽郡"
 		},
 		"0380200": {
-			"postcode": "0380200",
+			"postcode": "038-0200",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Minamitsugaru-gun",
 			"ward_name": "Owani-machi",
 			"town_name": "",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "南津軽郡",
@@ -6780,7 +6780,7 @@
 			"city_code": "南津軽郡"
 		},
 		"0380194": {
-			"postcode": "0380194",
+			"postcode": "038-0194",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Hirakawa-shi",
 			"ward_name": "",
@@ -6790,7 +6790,7 @@
 			"region_code": "東北",
 			"prefecture_code": "青森県",
 			"city_code": "平川市",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "平川市",
@@ -6802,7 +6802,7 @@
 			}
 		},
 		"0380192": {
-			"postcode": "0380192",
+			"postcode": "038-0192",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Hirakawa-shi",
 			"ward_name": "",
@@ -6812,7 +6812,7 @@
 			"region_code": "東北",
 			"prefecture_code": "青森県",
 			"city_code": "平川市",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "平川市",
@@ -6824,14 +6824,14 @@
 			}
 		},
 		"0380103": {
-			"postcode": "0380103",
+			"postcode": "038-0103",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Hirakawa-shi",
 			"ward_name": "",
 			"town_name": "Ikarigasekihisayoshi",
 			"building_name": "Imogataira",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "平川市",
@@ -6846,14 +6846,14 @@
 			"city_code": "平川市"
 		},
 		"0380102": {
-			"postcode": "0380102",
+			"postcode": "038-0102",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Hirakawa-shi",
 			"ward_name": "",
 			"town_name": "Ikarigasekikogake",
 			"building_name": "Kamihodomori",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "平川市",
@@ -6868,14 +6868,14 @@
 			"city_code": "平川市"
 		},
 		"0380101": {
-			"postcode": "0380101",
+			"postcode": "038-0101",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Hirakawa-shi",
 			"ward_name": "",
 			"town_name": "Ikarigaseki",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "平川市",
@@ -6890,14 +6890,14 @@
 			"city_code": "平川市"
 		},
 		"0380059": {
-			"postcode": "0380059",
+			"postcode": "038-0059",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Aburakawa",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -6912,14 +6912,14 @@
 			"city_code": "青森市"
 		},
 		"0380058": {
-			"postcode": "0380058",
+			"postcode": "038-0058",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Hajiro",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -6934,14 +6934,14 @@
 			"city_code": "青森市"
 		},
 		"0380057": {
-			"postcode": "0380057",
+			"postcode": "038-0057",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Nishitazawa",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -6956,14 +6956,14 @@
 			"city_code": "青森市"
 		},
 		"0380056": {
-			"postcode": "0380056",
+			"postcode": "038-0056",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Asuka",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -6978,14 +6978,14 @@
 			"city_code": "青森市"
 		},
 		"0380055": {
-			"postcode": "0380055",
+			"postcode": "038-0055",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Setoshi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -7000,14 +7000,14 @@
 			"city_code": "青森市"
 		},
 		"0380054": {
-			"postcode": "0380054",
+			"postcode": "038-0054",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Okunai",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -7022,14 +7022,14 @@
 			"city_code": "青森市"
 		},
 		"0380053": {
-			"postcode": "0380053",
+			"postcode": "038-0053",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Maeda",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -7044,14 +7044,14 @@
 			"city_code": "青森市"
 		},
 		"0380052": {
-			"postcode": "0380052",
+			"postcode": "038-0052",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Shimizu",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -7066,14 +7066,14 @@
 			"city_code": "青森市"
 		},
 		"0380051": {
-			"postcode": "0380051",
+			"postcode": "038-0051",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Uchimampe",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -7088,14 +7088,14 @@
 			"city_code": "青森市"
 		},
 		"0380046": {
-			"postcode": "0380046",
+			"postcode": "038-0046",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Tokado",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -7110,14 +7110,14 @@
 			"city_code": "青森市"
 		},
 		"0380045": {
-			"postcode": "0380045",
+			"postcode": "038-0045",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Tsurugasaka",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -7132,14 +7132,14 @@
 			"city_code": "青森市"
 		},
 		"0380044": {
-			"postcode": "0380044",
+			"postcode": "038-0044",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Magonai",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -7154,14 +7154,14 @@
 			"city_code": "青森市"
 		},
 		"0380043": {
-			"postcode": "0380043",
+			"postcode": "038-0043",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Iwatari",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -7176,14 +7176,14 @@
 			"city_code": "青森市"
 		},
 		"0380042": {
-			"postcode": "0380042",
+			"postcode": "038-0042",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Shinjo",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -7198,14 +7198,14 @@
 			"city_code": "青森市"
 		},
 		"0380041": {
-			"postcode": "0380041",
+			"postcode": "038-0041",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Okamachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -7220,14 +7220,14 @@
 			"city_code": "青森市"
 		},
 		"0380032": {
-			"postcode": "0380032",
+			"postcode": "038-0032",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Satomi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -7242,14 +7242,14 @@
 			"city_code": "青森市"
 		},
 		"0380031": {
-			"postcode": "0380031",
+			"postcode": "038-0031",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Sannai",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -7264,14 +7264,14 @@
 			"city_code": "青森市"
 		},
 		"0380024": {
-			"postcode": "0380024",
+			"postcode": "038-0024",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Namidatemaeda",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -7286,14 +7286,14 @@
 			"city_code": "青森市"
 		},
 		"0380023": {
-			"postcode": "0380023",
+			"postcode": "038-0023",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Hosogoe",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -7308,14 +7308,14 @@
 			"city_code": "青森市"
 		},
 		"0380022": {
-			"postcode": "0380022",
+			"postcode": "038-0022",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Namidate",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -7330,14 +7330,14 @@
 			"city_code": "青森市"
 		},
 		"0380021": {
-			"postcode": "0380021",
+			"postcode": "038-0021",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Yasuta",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -7352,14 +7352,14 @@
 			"city_code": "青森市"
 		},
 		"0380015": {
-			"postcode": "0380015",
+			"postcode": "038-0015",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Sengari",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -7374,14 +7374,14 @@
 			"city_code": "青森市"
 		},
 		"0380014": {
-			"postcode": "0380014",
+			"postcode": "038-0014",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Nishitaki",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -7396,14 +7396,14 @@
 			"city_code": "青森市"
 		},
 		"0380013": {
-			"postcode": "0380013",
+			"postcode": "038-0013",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Kusushi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -7418,14 +7418,14 @@
 			"city_code": "青森市"
 		},
 		"0380012": {
-			"postcode": "0380012",
+			"postcode": "038-0012",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Yanakawa",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -7440,14 +7440,14 @@
 			"city_code": "青森市"
 		},
 		"0380011": {
-			"postcode": "0380011",
+			"postcode": "038-0011",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Shinoda",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -7462,14 +7462,14 @@
 			"city_code": "青森市"
 		},
 		"0380006": {
-			"postcode": "0380006",
+			"postcode": "038-0006",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Miyoshi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -7484,14 +7484,14 @@
 			"city_code": "青森市"
 		},
 		"0380004": {
-			"postcode": "0380004",
+			"postcode": "038-0004",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Tomita",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -7506,14 +7506,14 @@
 			"city_code": "青森市"
 		},
 		"0380003": {
-			"postcode": "0380003",
+			"postcode": "038-0003",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Ishie",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -7528,14 +7528,14 @@
 			"city_code": "青森市"
 		},
 		"0380002": {
-			"postcode": "0380002",
+			"postcode": "038-0002",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Okidate",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -7550,14 +7550,14 @@
 			"city_code": "青森市"
 		},
 		"0380001": {
-			"postcode": "0380001",
+			"postcode": "038-0001",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "Nitta",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",
@@ -7572,14 +7572,14 @@
 			"city_code": "青森市"
 		},
 		"0380000": {
-			"postcode": "0380000",
+			"postcode": "038-0000",
 			"prefecture_name": "Aomori-ken",
 			"city_name": "Aomori-shi",
 			"ward_name": "",
 			"town_name": "",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "青森県",
 					"city_name": "青森市",

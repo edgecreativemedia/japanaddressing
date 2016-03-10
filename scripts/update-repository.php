@@ -9,7 +9,7 @@ error_reporting(~0);
 //settings
 $config = getSettings();
 $config['dir_path'] = realpath(__DIR__ . '');
-$config['repository_path'] = realpath(__DIR__ . '').'/resources';
+$config['repository_path'] = realpath(__DIR__ . '/../').'/resources';
 $config['source_path'] = realpath(__DIR__ . '').'/data/source';
 //$config['repository_path']['postcode'] = realpath(__DIR__ . '').'/resources/postcode/';
 
@@ -206,27 +206,27 @@ function generateAllFiles($config) {
 
   if($postalData !== FALSE) {
   
-	//Array of translations for Prefecture & city using current data if ALL_KEN_ROMA = TRUE in Setting/config file.
+	//Array of translationss for Prefecture & city using current data if ALL_KEN_ROMA = TRUE in Setting/config file.
 	if($config['settings']['csv_primary']["KEN_ALL_ROME"] == "TRUE") {
     
-		$translationList = array();  
+		$translationsList = array();  
 		krsort($postalData);      	
     	foreach($postalData as $transItem) {
 
-			if(isset($transItem['translation']['ja'])) {    				
-    				$prefecture_code = $transItem['translation']['ja']['prefecture_name'];
-    				$city_code = $transItem['translation']['ja']['city_name'];
-    				$ward_code = $transItem['translation']['ja']['ward_name'];
+			if(isset($transItem['translations']['ja'])) {    				
+    				$prefecture_code = $transItem['translations']['ja']['prefecture_name'];
+    				$city_code = $transItem['translations']['ja']['city_name'];
+    				$ward_code = $transItem['translations']['ja']['ward_name'];
     				$cityward_code = $city_code.''.$ward_code;
     				
-    				$translationList[$prefecture_code][$cityward_code]['prefecture_name'] = $transItem['prefecture_name'];
-    				$translationList[$prefecture_code][$cityward_code]['city_name'] = $transItem['city_name'];
-    				$translationList[$prefecture_code][$cityward_code]['ward_name'] = $transItem['ward_name'];
-    				$translationList[$prefecture_code][$cityward_code]['town_name'] = $transItem['town_name'];
-    				$translationList[$prefecture_code][$cityward_code]['translation']['ja']['prefecture_name'] = $transItem['translation']['ja']['prefecture_name'];
-    				$translationList[$prefecture_code][$cityward_code]['translation']['ja']['city_name'] = $transItem['translation']['ja']['city_name'];
-    				$translationList[$prefecture_code][$cityward_code]['translation']['ja']['ward_name'] = $transItem['translation']['ja']['ward_name'];
-    				$translationList[$prefecture_code][$cityward_code]['translation']['ja']['town_name'] = $transItem['translation']['ja']['town_name'];			
+    				$translationsList[$prefecture_code][$cityward_code]['prefecture_name'] = $transItem['prefecture_name'];
+    				$translationsList[$prefecture_code][$cityward_code]['city_name'] = $transItem['city_name'];
+    				$translationsList[$prefecture_code][$cityward_code]['ward_name'] = $transItem['ward_name'];
+    				$translationsList[$prefecture_code][$cityward_code]['town_name'] = $transItem['town_name'];
+    				$translationsList[$prefecture_code][$cityward_code]['translations']['ja']['prefecture_name'] = $transItem['translations']['ja']['prefecture_name'];
+    				$translationsList[$prefecture_code][$cityward_code]['translations']['ja']['city_name'] = $transItem['translations']['ja']['city_name'];
+    				$translationsList[$prefecture_code][$cityward_code]['translations']['ja']['ward_name'] = $transItem['translations']['ja']['ward_name'];
+    				$translationsList[$prefecture_code][$cityward_code]['translations']['ja']['town_name'] = $transItem['translations']['ja']['town_name'];			
 			}		
 		}	
     }
@@ -243,64 +243,66 @@ function generateAllFiles($config) {
 	  $fullData[$parent_id]['parent_id'] = $parent_id;
 	  $fullData[$parent_id]['locale'] = $langLocale;
 	  $fullData[$parent_id]['address'][$id] = $item;
+	  $fullData[$parent_id]['address'][$id]['postcode'] = _clean_postcode_string($item['postcode']);
+	  
 	  
 	  //add region, prefecture and city codes.	  
-	  if(!isset($fullData[$parent_id]['address'][$id]['translation']['ja'])) {
+	  if(!isset($fullData[$parent_id]['address'][$id]['translations']['ja'])) {
 	    $item_prefecture_code = $fullData[$parent_id]['address'][$id]['prefecture_name'];
 	  	$fullData[$parent_id]['address'][$id]['region_code'] = $prefecturesList[$item_prefecture_code]['region_code'];
 	  	$fullData[$parent_id]['address'][$id]['prefecture_code'] = $fullData[$parent_id]['address'][$id]['prefecture_name'];
 	  	$fullData[$parent_id]['address'][$id]['city_code'] = $fullData[$parent_id]['address'][$id]['city_name'];	  	
 	  } else {
-	    $item_prefecture_code = $fullData[$parent_id]['address'][$id]['translation']['ja']['prefecture_name'];
+	    $item_prefecture_code = $fullData[$parent_id]['address'][$id]['translations']['ja']['prefecture_name'];
 	    $fullData[$parent_id]['address'][$id]['region_code'] = $prefecturesList[$item_prefecture_code]['region_code'];
-	  	$fullData[$parent_id]['address'][$id]['prefecture_code'] = $fullData[$parent_id]['address'][$id]['translation']['ja']['prefecture_name'];
-	  	$fullData[$parent_id]['address'][$id]['city_code'] = $fullData[$parent_id]['address'][$id]['translation']['ja']['city_name'];	  
+	  	$fullData[$parent_id]['address'][$id]['prefecture_code'] = $fullData[$parent_id]['address'][$id]['translations']['ja']['prefecture_name'];
+	  	$fullData[$parent_id]['address'][$id]['city_code'] = $fullData[$parent_id]['address'][$id]['translations']['ja']['city_name'];	  
 	  }
 	  
 	  	
-	  //check for translation data, if no data then use translationList to get translation. 
+	  //check for translations data, if no data then use translationsList to get translations. 
 	  //Translates prefecture, city, ward. Town is not translated for all. Building and organization is not translated. 
 	  if($config['settings']['csv_primary']["KEN_ALL_ROME"] == "TRUE") {			
-	    //only add for missing translation
-		if(!isset($fullData[$parent_id]['address'][$id]['translation']['ja'])) {
+	    //only add for missing translations
+		if(!isset($fullData[$parent_id]['address'][$id]['translations']['ja'])) {
 				
 		  $current_prefecture_name = $fullData[$parent_id]['address'][$id]['prefecture_name'];
 		  $current_city_name = $fullData[$parent_id]['address'][$id]['city_name'];
-		  $cityward_code =  $translationList[$current_prefecture_name][$current_city_name]['translation']['ja']['city_name'].$translationList[$current_prefecture_name][$current_city_name]['translation']['ja']['ward_name'];
+		  $cityward_code =  $translationsList[$current_prefecture_name][$current_city_name]['translations']['ja']['city_name'].$translationsList[$current_prefecture_name][$current_city_name]['translations']['ja']['ward_name'];
 
 		  if($current_city_name == $cityward_code) {
 
-			$fullData[$parent_id]['address'][$id]['translation']['ja']['prefecture_name'] = $current_prefecture_name;
-			$fullData[$parent_id]['address'][$id]['translation']['ja']['city_name'] = $translationList[$current_prefecture_name][$current_city_name]['translation']['ja']['city_name'];
-			$fullData[$parent_id]['address'][$id]['translation']['ja']['ward_name'] = $translationList[$current_prefecture_name][$current_city_name]['translation']['ja']['ward_name'];
-			$fullData[$parent_id]['address'][$id]['translation']['ja']['town_name'] = $fullData[$parent_id]['address'][$id]['town_name'];
-			$fullData[$parent_id]['address'][$id]['translation']['ja']['building_name'] = $fullData[$parent_id]['address'][$id]['building_name'];
-			$fullData[$parent_id]['address'][$id]['translation']['ja']['organization_name'] = $fullData[$parent_id]['address'][$id]['organization_name'];
-			$fullData[$parent_id]['address'][$id]['prefecture_name'] = $translationList[$current_prefecture_name][$current_city_name]['prefecture_name'];
-			$fullData[$parent_id]['address'][$id]['city_name'] = $translationList[$current_prefecture_name][$current_city_name]['city_name'];
-			$fullData[$parent_id]['address'][$id]['ward_name'] = $translationList[$current_prefecture_name][$current_city_name]['ward_name'];
-			if($fullData[$parent_id]['address'][$id]['town_name'] == $translationList[$current_prefecture_name][$current_city_name]['translation']['ja']['town_name']) {
-			  $fullData[$parent_id]['address'][$id]['town_name'] = $translationList[$current_prefecture_name][$current_city_name]['town_name'];
+			$fullData[$parent_id]['address'][$id]['translations']['ja']['prefecture_name'] = $current_prefecture_name;
+			$fullData[$parent_id]['address'][$id]['translations']['ja']['city_name'] = $translationsList[$current_prefecture_name][$current_city_name]['translations']['ja']['city_name'];
+			$fullData[$parent_id]['address'][$id]['translations']['ja']['ward_name'] = $translationsList[$current_prefecture_name][$current_city_name]['translations']['ja']['ward_name'];
+			$fullData[$parent_id]['address'][$id]['translations']['ja']['town_name'] = $fullData[$parent_id]['address'][$id]['town_name'];
+			$fullData[$parent_id]['address'][$id]['translations']['ja']['building_name'] = $fullData[$parent_id]['address'][$id]['building_name'];
+			$fullData[$parent_id]['address'][$id]['translations']['ja']['organization_name'] = $fullData[$parent_id]['address'][$id]['organization_name'];
+			$fullData[$parent_id]['address'][$id]['prefecture_name'] = $translationsList[$current_prefecture_name][$current_city_name]['prefecture_name'];
+			$fullData[$parent_id]['address'][$id]['city_name'] = $translationsList[$current_prefecture_name][$current_city_name]['city_name'];
+			$fullData[$parent_id]['address'][$id]['ward_name'] = $translationsList[$current_prefecture_name][$current_city_name]['ward_name'];
+			if($fullData[$parent_id]['address'][$id]['town_name'] == $translationsList[$current_prefecture_name][$current_city_name]['translations']['ja']['town_name']) {
+			  $fullData[$parent_id]['address'][$id]['town_name'] = $translationsList[$current_prefecture_name][$current_city_name]['town_name'];
 			}
-			//update city codes. Due to translation of city/ward code.
-	  		$fullData[$parent_id]['address'][$id]['city_code'] = $translationList[$current_prefecture_name][$current_city_name]['translation']['ja']['city_name'];				
+			//update city codes. Due to translations of city/ward code.
+	  		$fullData[$parent_id]['address'][$id]['city_code'] = $translationsList[$current_prefecture_name][$current_city_name]['translations']['ja']['city_name'];				
 			
 		  }			
 		}
-		//create cityData array for generating japancities.json repository
+		//create cityData array for generating japancity.json repository
 		
 		$itemCityCode = $fullData[$parent_id]['address'][$id]['city_code'];
 		
-		$cityRepository['cities'][$itemCityCode]['region_code'] = $fullData[$parent_id]['address'][$id]['region_code'];
-		$cityRepository['cities'][$itemCityCode]['prefecture_code'] = $fullData[$parent_id]['address'][$id]['prefecture_code'];
-		$cityRepository['cities'][$itemCityCode]['city_code'] = $fullData[$parent_id]['address'][$id]['city_code'];
-		$cityRepository['cities'][$itemCityCode]['lname'] = clean_city_repository_string($fullData[$parent_id]['address'][$id]['city_name'], 'en-lname');
-		$cityRepository['cities'][$itemCityCode]['sname'] = clean_city_repository_string($fullData[$parent_id]['address'][$id]['city_name'], 'en-sname');
-		$cityRepository['cities'][$itemCityCode]['kanji'] = $fullData[$parent_id]['address'][$id]['translation']['ja']['city_name'];
-		$cityRepository['cities'][$itemCityCode]['hiragana'] = "";
-		$cityRepository['cities'][$itemCityCode]['romaji'] = $fullData[$parent_id]['address'][$id]['city_name'];
-		$cityRepository['cities'][$itemCityCode]['translation']['ja']['lname'] = clean_city_repository_string($fullData[$parent_id]['address'][$id]['translation']['ja']['city_name'], 'ja-lname');
-		$cityRepository['cities'][$itemCityCode]['translation']['ja']['sname'] = clean_city_repository_string($fullData[$parent_id]['address'][$id]['translation']['ja']['city_name'], 'ja-sname');
+		$cityRepository['subdivision'][$itemCityCode]['region_code'] = $fullData[$parent_id]['address'][$id]['region_code'];
+		$cityRepository['subdivision'][$itemCityCode]['prefecture_code'] = $fullData[$parent_id]['address'][$id]['prefecture_code'];
+		$cityRepository['subdivision'][$itemCityCode]['code'] = $fullData[$parent_id]['address'][$id]['city_code'];
+		$cityRepository['subdivision'][$itemCityCode]['lname'] = clean_city_repository_string($fullData[$parent_id]['address'][$id]['city_name'], 'en-lname');
+		$cityRepository['subdivision'][$itemCityCode]['sname'] = clean_city_repository_string($fullData[$parent_id]['address'][$id]['city_name'], 'en-sname');
+		$cityRepository['subdivision'][$itemCityCode]['kanji'] = $fullData[$parent_id]['address'][$id]['translations']['ja']['city_name'];
+		$cityRepository['subdivision'][$itemCityCode]['hiragana'] = "";
+		$cityRepository['subdivision'][$itemCityCode]['romaji'] = $fullData[$parent_id]['address'][$id]['city_name'];
+		$cityRepository['subdivision'][$itemCityCode]['translations']['ja']['lname'] = clean_city_repository_string($fullData[$parent_id]['address'][$id]['translations']['ja']['city_name'], 'ja-lname');
+		$cityRepository['subdivision'][$itemCityCode]['translations']['ja']['sname'] = clean_city_repository_string($fullData[$parent_id]['address'][$id]['translations']['ja']['city_name'], 'ja-sname');
 	  }		       
 	}
 
@@ -637,17 +639,31 @@ function _convert_csv_row(array $row, $type) {
   $convertedRow['building_name'] = $building_en;
   $convertedRow['organization_name'] = $organization_en;
   if(isset($prefecture_ja)){
-  	$convertedRow['translation']['ja']['prefecture_name'] = $prefecture_ja;
-  	$convertedRow['translation']['ja']['city_name'] = $city_ja;
-  	$convertedRow['translation']['ja']['ward_name'] = $ward_ja;
-  	$convertedRow['translation']['ja']['town_name'] = $town_ja;
-  	$convertedRow['translation']['ja']['building_name'] = $building_ja;
-  	$convertedRow['translation']['ja']['organization_name'] = $organization_ja;
+  	$convertedRow['translations']['ja']['prefecture_name'] = $prefecture_ja;
+  	$convertedRow['translations']['ja']['city_name'] = $city_ja;
+  	$convertedRow['translations']['ja']['ward_name'] = $ward_ja;
+  	$convertedRow['translations']['ja']['town_name'] = $town_ja;
+  	$convertedRow['translations']['ja']['building_name'] = $building_ja;
+  	$convertedRow['translations']['ja']['organization_name'] = $organization_ja;
   }
   
   return $convertedRow;
 }
 
+
+
+/**
+* Split postcode.
+*
+* @return array The postcode split into array.
+*/
+function _clean_postcode_string($postcode) {
+    $splitPostCode = array();
+	$splitPostCode[0] = mb_substr($postcode, 0, 3);
+	$splitPostCode[1] = mb_substr($postcode, 3, 4);
+    $PostCode = $splitPostCode[0].'-'.$splitPostCode[1];    
+    return $PostCode; 
+}
 
 /**
  * Convert raw Japan post office prefecture data into proper format.
@@ -1157,14 +1173,14 @@ function convertShiftJis($string) {
  * Access prefectures json file.
  */
 function getPrefecturesList($config) {
-	$dataFile = $config['repository_path'].'/japanprefectures.json';
+	$dataFile = $config['repository_path'].'/subdivision/japanprefecture.json';
 	
 	 if (file_exists($dataFile)) {
 	 	$dataFileData = file_get_contents($dataFile);	
 		$data = json_decode($dataFileData, true);
 		
-		foreach($data['prefectures'] as $pItem) {
-			$prefecture_code = $pItem['prefecture_code'];
+		foreach($data['subdivision'] as $pItem) {
+			$prefecture_code = $pItem['code'];
 			$allData[$prefecture_code] = $pItem;
 		}
 		
@@ -1182,7 +1198,7 @@ function createCityRepository($config, $cityRepository) {
 	$cityRepository['locale'] = $config['locale'];
 	$jsonPathSubdivision = $config['repository_path'].'/subdivision';
 	
-	$jsonFilename = $jsonPathSubdivision.'/japancities.json';
+	$jsonFilename = $jsonPathSubdivision.'/japancity.json';
 	  // Create json file for each item.
 	_create_json_file($jsonFilename, $cityRepository);
 	echo "File Created: ".$jsonFilename."\n";	

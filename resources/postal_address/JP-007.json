@@ -4,7 +4,7 @@
 	"locale": "ja-Latn",
 	"address": {
 		"0078632": {
-			"postcode": "0078632",
+			"postcode": "007-8632",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
@@ -14,7 +14,7 @@
 			"region_code": "北海道",
 			"prefecture_code": "北海道",
 			"city_code": "札幌市",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -26,7 +26,7 @@
 			}
 		},
 		"0078585": {
-			"postcode": "0078585",
+			"postcode": "007-8585",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
@@ -36,7 +36,7 @@
 			"region_code": "北海道",
 			"prefecture_code": "北海道",
 			"city_code": "札幌市",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -48,7 +48,7 @@
 			}
 		},
 		"0078553": {
-			"postcode": "0078553",
+			"postcode": "007-8553",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
@@ -58,7 +58,7 @@
 			"region_code": "北海道",
 			"prefecture_code": "北海道",
 			"city_code": "札幌市",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -70,7 +70,7 @@
 			}
 		},
 		"0078508": {
-			"postcode": "0078508",
+			"postcode": "007-8508",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
@@ -80,7 +80,7 @@
 			"region_code": "北海道",
 			"prefecture_code": "北海道",
 			"city_code": "札幌市",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -92,7 +92,7 @@
 			}
 		},
 		"0078507": {
-			"postcode": "0078507",
+			"postcode": "007-8507",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
@@ -102,7 +102,7 @@
 			"region_code": "北海道",
 			"prefecture_code": "北海道",
 			"city_code": "札幌市",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -114,7 +114,7 @@
 			}
 		},
 		"0078505": {
-			"postcode": "0078505",
+			"postcode": "007-8505",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
@@ -124,7 +124,7 @@
 			"region_code": "北海道",
 			"prefecture_code": "北海道",
 			"city_code": "札幌市",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -136,7 +136,7 @@
 			}
 		},
 		"0078503": {
-			"postcode": "0078503",
+			"postcode": "007-8503",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
@@ -146,7 +146,7 @@
 			"region_code": "北海道",
 			"prefecture_code": "北海道",
 			"city_code": "札幌市",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -158,7 +158,7 @@
 			}
 		},
 		"0078501": {
-			"postcode": "0078501",
+			"postcode": "007-8501",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
@@ -168,7 +168,7 @@
 			"region_code": "北海道",
 			"prefecture_code": "北海道",
 			"city_code": "札幌市",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -180,14 +180,14 @@
 			}
 		},
 		"0070895": {
-			"postcode": "0070895",
+			"postcode": "007-0895",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Nakanumanishi",
 			"building_name": "5-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -202,14 +202,14 @@
 			"city_code": "札幌市"
 		},
 		"0070894": {
-			"postcode": "0070894",
+			"postcode": "007-0894",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Nakanumanishi",
 			"building_name": "4-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -224,14 +224,14 @@
 			"city_code": "札幌市"
 		},
 		"0070893": {
-			"postcode": "0070893",
+			"postcode": "007-0893",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Nakanumanishi",
 			"building_name": "3-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -246,14 +246,14 @@
 			"city_code": "札幌市"
 		},
 		"0070892": {
-			"postcode": "0070892",
+			"postcode": "007-0892",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Nakanumanishi",
 			"building_name": "2-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -268,14 +268,14 @@
 			"city_code": "札幌市"
 		},
 		"0070891": {
-			"postcode": "0070891",
+			"postcode": "007-0891",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Nakanumanishi",
 			"building_name": "1-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -290,14 +290,14 @@
 			"city_code": "札幌市"
 		},
 		"0070890": {
-			"postcode": "0070890",
+			"postcode": "007-0890",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Nakanumacho",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -312,14 +312,14 @@
 			"city_code": "札幌市"
 		},
 		"0070886": {
-			"postcode": "0070886",
+			"postcode": "007-0886",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Kitaokadama",
 			"building_name": "6-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -334,14 +334,14 @@
 			"city_code": "札幌市"
 		},
 		"0070885": {
-			"postcode": "0070885",
+			"postcode": "007-0885",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Kitaokadama",
 			"building_name": "5-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -356,14 +356,14 @@
 			"city_code": "札幌市"
 		},
 		"0070884": {
-			"postcode": "0070884",
+			"postcode": "007-0884",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Kitaokadama",
 			"building_name": "4-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -378,14 +378,14 @@
 			"city_code": "札幌市"
 		},
 		"0070883": {
-			"postcode": "0070883",
+			"postcode": "007-0883",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Kitaokadama",
 			"building_name": "3-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -400,14 +400,14 @@
 			"city_code": "札幌市"
 		},
 		"0070882": {
-			"postcode": "0070882",
+			"postcode": "007-0882",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Kitaokadama",
 			"building_name": "2-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -422,14 +422,14 @@
 			"city_code": "札幌市"
 		},
 		"0070881": {
-			"postcode": "0070881",
+			"postcode": "007-0881",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Kitaokadama",
 			"building_name": "1-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -444,14 +444,14 @@
 			"city_code": "札幌市"
 		},
 		"0070880": {
-			"postcode": "0070880",
+			"postcode": "007-0880",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Okadamacho",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -466,14 +466,14 @@
 			"city_code": "札幌市"
 		},
 		"0070874": {
-			"postcode": "0070874",
+			"postcode": "007-0874",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Fushiko14-jo",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -488,14 +488,14 @@
 			"city_code": "札幌市"
 		},
 		"0070873": {
-			"postcode": "0070873",
+			"postcode": "007-0873",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Fushiko",
 			"building_name": "13-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -510,14 +510,14 @@
 			"city_code": "札幌市"
 		},
 		"0070872": {
-			"postcode": "0070872",
+			"postcode": "007-0872",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Fushiko",
 			"building_name": "12-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -532,14 +532,14 @@
 			"city_code": "札幌市"
 		},
 		"0070871": {
-			"postcode": "0070871",
+			"postcode": "007-0871",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Fushiko",
 			"building_name": "11-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -554,14 +554,14 @@
 			"city_code": "札幌市"
 		},
 		"0070870": {
-			"postcode": "0070870",
+			"postcode": "007-0870",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Fushiko",
 			"building_name": "10-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -576,14 +576,14 @@
 			"city_code": "札幌市"
 		},
 		"0070869": {
-			"postcode": "0070869",
+			"postcode": "007-0869",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Fushiko",
 			"building_name": "9-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -598,14 +598,14 @@
 			"city_code": "札幌市"
 		},
 		"0070868": {
-			"postcode": "0070868",
+			"postcode": "007-0868",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Fushiko",
 			"building_name": "8-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -620,14 +620,14 @@
 			"city_code": "札幌市"
 		},
 		"0070867": {
-			"postcode": "0070867",
+			"postcode": "007-0867",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Fushiko",
 			"building_name": "7-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -642,14 +642,14 @@
 			"city_code": "札幌市"
 		},
 		"0070866": {
-			"postcode": "0070866",
+			"postcode": "007-0866",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Fushiko",
 			"building_name": "6-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -664,14 +664,14 @@
 			"city_code": "札幌市"
 		},
 		"0070865": {
-			"postcode": "0070865",
+			"postcode": "007-0865",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Fushiko",
 			"building_name": "5-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -686,14 +686,14 @@
 			"city_code": "札幌市"
 		},
 		"0070864": {
-			"postcode": "0070864",
+			"postcode": "007-0864",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Fushiko",
 			"building_name": "4-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -708,14 +708,14 @@
 			"city_code": "札幌市"
 		},
 		"0070863": {
-			"postcode": "0070863",
+			"postcode": "007-0863",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Fushiko",
 			"building_name": "3-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -730,14 +730,14 @@
 			"city_code": "札幌市"
 		},
 		"0070862": {
-			"postcode": "0070862",
+			"postcode": "007-0862",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Fushiko",
 			"building_name": "2-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -752,14 +752,14 @@
 			"city_code": "札幌市"
 		},
 		"0070861": {
-			"postcode": "0070861",
+			"postcode": "007-0861",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Fushiko",
 			"building_name": "1-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -774,14 +774,14 @@
 			"city_code": "札幌市"
 		},
 		"0070852": {
-			"postcode": "0070852",
+			"postcode": "007-0852",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Sakaemachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -796,14 +796,14 @@
 			"city_code": "札幌市"
 		},
 		"0070851": {
-			"postcode": "0070851",
+			"postcode": "007-0851",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Kita51-johigashi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -818,14 +818,14 @@
 			"city_code": "札幌市"
 		},
 		"0070850": {
-			"postcode": "0070850",
+			"postcode": "007-0850",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Kita50-johigashi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -840,14 +840,14 @@
 			"city_code": "札幌市"
 		},
 		"0070849": {
-			"postcode": "0070849",
+			"postcode": "007-0849",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Kita49-johigashi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -862,14 +862,14 @@
 			"city_code": "札幌市"
 		},
 		"0070848": {
-			"postcode": "0070848",
+			"postcode": "007-0848",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Kita48-johigashi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -884,14 +884,14 @@
 			"city_code": "札幌市"
 		},
 		"0070847": {
-			"postcode": "0070847",
+			"postcode": "007-0847",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Kita47-johigashi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -906,14 +906,14 @@
 			"city_code": "札幌市"
 		},
 		"0070846": {
-			"postcode": "0070846",
+			"postcode": "007-0846",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Kita46-johigashi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -928,14 +928,14 @@
 			"city_code": "札幌市"
 		},
 		"0070845": {
-			"postcode": "0070845",
+			"postcode": "007-0845",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Kita45-johigashi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -950,14 +950,14 @@
 			"city_code": "札幌市"
 		},
 		"0070844": {
-			"postcode": "0070844",
+			"postcode": "007-0844",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Kita44-johigashi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -972,14 +972,14 @@
 			"city_code": "札幌市"
 		},
 		"0070843": {
-			"postcode": "0070843",
+			"postcode": "007-0843",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Kita43-johigashi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -994,14 +994,14 @@
 			"city_code": "札幌市"
 		},
 		"0070842": {
-			"postcode": "0070842",
+			"postcode": "007-0842",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Kita42-johigashi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1016,14 +1016,14 @@
 			"city_code": "札幌市"
 		},
 		"0070841": {
-			"postcode": "0070841",
+			"postcode": "007-0841",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Kita41-johigashi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1038,14 +1038,14 @@
 			"city_code": "札幌市"
 		},
 		"0070840": {
-			"postcode": "0070840",
+			"postcode": "007-0840",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Kita40-johigashi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1060,14 +1060,14 @@
 			"city_code": "札幌市"
 		},
 		"0070839": {
-			"postcode": "0070839",
+			"postcode": "007-0839",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Kita39-johigashi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1082,14 +1082,14 @@
 			"city_code": "札幌市"
 		},
 		"0070838": {
-			"postcode": "0070838",
+			"postcode": "007-0838",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Kita38-johigashi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1104,14 +1104,14 @@
 			"city_code": "札幌市"
 		},
 		"0070837": {
-			"postcode": "0070837",
+			"postcode": "007-0837",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Kita37-johigashi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1126,14 +1126,14 @@
 			"city_code": "札幌市"
 		},
 		"0070836": {
-			"postcode": "0070836",
+			"postcode": "007-0836",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Kita36-johigashi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1148,14 +1148,14 @@
 			"city_code": "札幌市"
 		},
 		"0070835": {
-			"postcode": "0070835",
+			"postcode": "007-0835",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Kita35-johigashi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1170,14 +1170,14 @@
 			"city_code": "札幌市"
 		},
 		"0070834": {
-			"postcode": "0070834",
+			"postcode": "007-0834",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Kita34-johigashi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1192,14 +1192,14 @@
 			"city_code": "札幌市"
 		},
 		"0070829": {
-			"postcode": "0070829",
+			"postcode": "007-0829",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Higashikariki",
 			"building_name": "9-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1214,14 +1214,14 @@
 			"city_code": "札幌市"
 		},
 		"0070828": {
-			"postcode": "0070828",
+			"postcode": "007-0828",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Higashikariki",
 			"building_name": "8-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1236,14 +1236,14 @@
 			"city_code": "札幌市"
 		},
 		"0070827": {
-			"postcode": "0070827",
+			"postcode": "007-0827",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Higashikariki",
 			"building_name": "7-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1258,14 +1258,14 @@
 			"city_code": "札幌市"
 		},
 		"0070826": {
-			"postcode": "0070826",
+			"postcode": "007-0826",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Higashikariki",
 			"building_name": "6-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1280,14 +1280,14 @@
 			"city_code": "札幌市"
 		},
 		"0070825": {
-			"postcode": "0070825",
+			"postcode": "007-0825",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Higashikariki",
 			"building_name": "5-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1302,14 +1302,14 @@
 			"city_code": "札幌市"
 		},
 		"0070824": {
-			"postcode": "0070824",
+			"postcode": "007-0824",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Higashikariki",
 			"building_name": "4-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1324,14 +1324,14 @@
 			"city_code": "札幌市"
 		},
 		"0070823": {
-			"postcode": "0070823",
+			"postcode": "007-0823",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Higashikariki",
 			"building_name": "3-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1346,14 +1346,14 @@
 			"city_code": "札幌市"
 		},
 		"0070822": {
-			"postcode": "0070822",
+			"postcode": "007-0822",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Higashikariki",
 			"building_name": "2-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1368,14 +1368,14 @@
 			"city_code": "札幌市"
 		},
 		"0070821": {
-			"postcode": "0070821",
+			"postcode": "007-0821",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Higashikariki",
 			"building_name": "1-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1390,14 +1390,14 @@
 			"city_code": "札幌市"
 		},
 		"0070820": {
-			"postcode": "0070820",
+			"postcode": "007-0820",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Higashikarikicho",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1412,14 +1412,14 @@
 			"city_code": "札幌市"
 		},
 		"0070819": {
-			"postcode": "0070819",
+			"postcode": "007-0819",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Higashinaebocho",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1434,14 +1434,14 @@
 			"city_code": "札幌市"
 		},
 		"0070815": {
-			"postcode": "0070815",
+			"postcode": "007-0815",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Higashinaebo",
 			"building_name": "15-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1456,14 +1456,14 @@
 			"city_code": "札幌市"
 		},
 		"0070814": {
-			"postcode": "0070814",
+			"postcode": "007-0814",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Higashinaebo",
 			"building_name": "14-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1478,14 +1478,14 @@
 			"city_code": "札幌市"
 		},
 		"0070813": {
-			"postcode": "0070813",
+			"postcode": "007-0813",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Higashinaebo",
 			"building_name": "13-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1500,14 +1500,14 @@
 			"city_code": "札幌市"
 		},
 		"0070812": {
-			"postcode": "0070812",
+			"postcode": "007-0812",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Higashinaebo",
 			"building_name": "12-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1522,14 +1522,14 @@
 			"city_code": "札幌市"
 		},
 		"0070811": {
-			"postcode": "0070811",
+			"postcode": "007-0811",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Higashinaebo",
 			"building_name": "11-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1544,14 +1544,14 @@
 			"city_code": "札幌市"
 		},
 		"0070810": {
-			"postcode": "0070810",
+			"postcode": "007-0810",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Higashinaebo",
 			"building_name": "10-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1566,14 +1566,14 @@
 			"city_code": "札幌市"
 		},
 		"0070809": {
-			"postcode": "0070809",
+			"postcode": "007-0809",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Higashinaebo",
 			"building_name": "9-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1588,14 +1588,14 @@
 			"city_code": "札幌市"
 		},
 		"0070808": {
-			"postcode": "0070808",
+			"postcode": "007-0808",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Higashinaebo",
 			"building_name": "8-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1610,14 +1610,14 @@
 			"city_code": "札幌市"
 		},
 		"0070807": {
-			"postcode": "0070807",
+			"postcode": "007-0807",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Higashinaebo",
 			"building_name": "7-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1632,14 +1632,14 @@
 			"city_code": "札幌市"
 		},
 		"0070806": {
-			"postcode": "0070806",
+			"postcode": "007-0806",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Higashinaebo",
 			"building_name": "6-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1654,14 +1654,14 @@
 			"city_code": "札幌市"
 		},
 		"0070805": {
-			"postcode": "0070805",
+			"postcode": "007-0805",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Higashinaebo",
 			"building_name": "5-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1676,14 +1676,14 @@
 			"city_code": "札幌市"
 		},
 		"0070804": {
-			"postcode": "0070804",
+			"postcode": "007-0804",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Higashinaebo",
 			"building_name": "4-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1698,14 +1698,14 @@
 			"city_code": "札幌市"
 		},
 		"0070803": {
-			"postcode": "0070803",
+			"postcode": "007-0803",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Higashinaebo",
 			"building_name": "3-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1720,14 +1720,14 @@
 			"city_code": "札幌市"
 		},
 		"0070802": {
-			"postcode": "0070802",
+			"postcode": "007-0802",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Higashinaebo",
 			"building_name": "2-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1742,14 +1742,14 @@
 			"city_code": "札幌市"
 		},
 		"0070801": {
-			"postcode": "0070801",
+			"postcode": "007-0801",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Higashinaebo",
 			"building_name": "1-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1764,14 +1764,14 @@
 			"city_code": "札幌市"
 		},
 		"0070034": {
-			"postcode": "0070034",
+			"postcode": "007-0034",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Higashikariki",
 			"building_name": "14-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1786,14 +1786,14 @@
 			"city_code": "札幌市"
 		},
 		"0070033": {
-			"postcode": "0070033",
+			"postcode": "007-0033",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Higashikariki",
 			"building_name": "13-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1808,14 +1808,14 @@
 			"city_code": "札幌市"
 		},
 		"0070032": {
-			"postcode": "0070032",
+			"postcode": "007-0032",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Higashikariki",
 			"building_name": "12-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1830,14 +1830,14 @@
 			"city_code": "札幌市"
 		},
 		"0070031": {
-			"postcode": "0070031",
+			"postcode": "007-0031",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Higashikariki",
 			"building_name": "11-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1852,14 +1852,14 @@
 			"city_code": "札幌市"
 		},
 		"0070030": {
-			"postcode": "0070030",
+			"postcode": "007-0030",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Higashikariki",
 			"building_name": "10-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1874,14 +1874,14 @@
 			"city_code": "札幌市"
 		},
 		"0070011": {
-			"postcode": "0070011",
+			"postcode": "007-0011",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Moerenumakoen",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1896,14 +1896,14 @@
 			"city_code": "札幌市"
 		},
 		"0070006": {
-			"postcode": "0070006",
+			"postcode": "007-0006",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Nakanuma",
 			"building_name": "6-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1918,14 +1918,14 @@
 			"city_code": "札幌市"
 		},
 		"0070005": {
-			"postcode": "0070005",
+			"postcode": "007-0005",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Nakanuma",
 			"building_name": "5-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1940,14 +1940,14 @@
 			"city_code": "札幌市"
 		},
 		"0070004": {
-			"postcode": "0070004",
+			"postcode": "007-0004",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Nakanuma",
 			"building_name": "4-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1962,14 +1962,14 @@
 			"city_code": "札幌市"
 		},
 		"0070003": {
-			"postcode": "0070003",
+			"postcode": "007-0003",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Nakanuma",
 			"building_name": "3-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -1984,14 +1984,14 @@
 			"city_code": "札幌市"
 		},
 		"0070002": {
-			"postcode": "0070002",
+			"postcode": "007-0002",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Nakanuma",
 			"building_name": "2-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",
@@ -2006,14 +2006,14 @@
 			"city_code": "札幌市"
 		},
 		"0070001": {
-			"postcode": "0070001",
+			"postcode": "007-0001",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Sapporo-shi",
 			"ward_name": "Higashi-ku",
 			"town_name": "Nakanuma",
 			"building_name": "1-jo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "札幌市",

@@ -4,7 +4,7 @@
 	"locale": "ja-Latn",
 	"address": {
 		"8888555": {
-			"postcode": "8888555",
+			"postcode": "888-8555",
 			"prefecture_name": "Miyazaki-ken",
 			"city_name": "Kushima-shi",
 			"ward_name": "",
@@ -14,7 +14,7 @@
 			"region_code": "九州",
 			"prefecture_code": "宮崎県",
 			"city_code": "串間市",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "宮崎県",
 					"city_name": "串間市",
@@ -26,14 +26,14 @@
 			}
 		},
 		"8880222": {
-			"postcode": "8880222",
+			"postcode": "888-0222",
 			"prefecture_name": "Miyazaki-ken",
 			"city_name": "Kushima-shi",
 			"ward_name": "",
 			"town_name": "Toi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "宮崎県",
 					"city_name": "串間市",
@@ -48,14 +48,14 @@
 			"city_code": "串間市"
 		},
 		"8880221": {
-			"postcode": "8880221",
+			"postcode": "888-0221",
 			"prefecture_name": "Miyazaki-ken",
 			"city_name": "Kushima-shi",
 			"ward_name": "",
 			"town_name": "Ono",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "宮崎県",
 					"city_name": "串間市",
@@ -70,14 +70,14 @@
 			"city_code": "串間市"
 		},
 		"8880013": {
-			"postcode": "8880013",
+			"postcode": "888-0013",
 			"prefecture_name": "Miyazaki-ken",
 			"city_name": "Kushima-shi",
 			"ward_name": "",
 			"town_name": "Higashimachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "宮崎県",
 					"city_name": "串間市",
@@ -92,14 +92,14 @@
 			"city_code": "串間市"
 		},
 		"8880012": {
-			"postcode": "8880012",
+			"postcode": "888-0012",
 			"prefecture_name": "Miyazaki-ken",
 			"city_name": "Kushima-shi",
 			"ward_name": "",
 			"town_name": "Nishihama",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "宮崎県",
 					"city_name": "串間市",
@@ -114,14 +114,14 @@
 			"city_code": "串間市"
 		},
 		"8880011": {
-			"postcode": "8880011",
+			"postcode": "888-0011",
 			"prefecture_name": "Miyazaki-ken",
 			"city_name": "Kushima-shi",
 			"ward_name": "",
 			"town_name": "Terazato",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "宮崎県",
 					"city_name": "串間市",
@@ -136,14 +136,14 @@
 			"city_code": "串間市"
 		},
 		"8880009": {
-			"postcode": "8880009",
+			"postcode": "888-0009",
 			"prefecture_name": "Miyazaki-ken",
 			"city_name": "Kushima-shi",
 			"ward_name": "",
 			"town_name": "Sakida",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "宮崎県",
 					"city_name": "串間市",
@@ -158,14 +158,14 @@
 			"city_code": "串間市"
 		},
 		"8880008": {
-			"postcode": "8880008",
+			"postcode": "888-0008",
 			"prefecture_name": "Miyazaki-ken",
 			"city_name": "Kushima-shi",
 			"ward_name": "",
 			"town_name": "Honjo",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "宮崎県",
 					"city_name": "串間市",
@@ -180,14 +180,14 @@
 			"city_code": "串間市"
 		},
 		"8880007": {
-			"postcode": "8880007",
+			"postcode": "888-0007",
 			"prefecture_name": "Miyazaki-ken",
 			"city_name": "Kushima-shi",
 			"ward_name": "",
 			"town_name": "Minamikata",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "宮崎県",
 					"city_name": "串間市",
@@ -202,14 +202,14 @@
 			"city_code": "串間市"
 		},
 		"8880006": {
-			"postcode": "8880006",
+			"postcode": "888-0006",
 			"prefecture_name": "Miyazaki-ken",
 			"city_name": "Kushima-shi",
 			"ward_name": "",
 			"town_name": "Akiyama",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "宮崎県",
 					"city_name": "串間市",
@@ -224,14 +224,14 @@
 			"city_code": "串間市"
 		},
 		"8880005": {
-			"postcode": "8880005",
+			"postcode": "888-0005",
 			"prefecture_name": "Miyazaki-ken",
 			"city_name": "Kushima-shi",
 			"ward_name": "",
 			"town_name": "Kitakata",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "宮崎県",
 					"city_name": "串間市",
@@ -246,14 +246,14 @@
 			"city_code": "串間市"
 		},
 		"8880004": {
-			"postcode": "8880004",
+			"postcode": "888-0004",
 			"prefecture_name": "Miyazaki-ken",
 			"city_name": "Kushima-shi",
 			"ward_name": "",
 			"town_name": "Kushima",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "宮崎県",
 					"city_name": "串間市",
@@ -268,14 +268,14 @@
 			"city_code": "串間市"
 		},
 		"8880003": {
-			"postcode": "8880003",
+			"postcode": "888-0003",
 			"prefecture_name": "Miyazaki-ken",
 			"city_name": "Kushima-shi",
 			"ward_name": "",
 			"town_name": "Nukumi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "宮崎県",
 					"city_name": "串間市",
@@ -290,14 +290,14 @@
 			"city_code": "串間市"
 		},
 		"8880002": {
-			"postcode": "8880002",
+			"postcode": "888-0002",
 			"prefecture_name": "Miyazaki-ken",
 			"city_name": "Kushima-shi",
 			"ward_name": "",
 			"town_name": "Takamatsu",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "宮崎県",
 					"city_name": "串間市",
@@ -312,14 +312,14 @@
 			"city_code": "串間市"
 		},
 		"8880001": {
-			"postcode": "8880001",
+			"postcode": "888-0001",
 			"prefecture_name": "Miyazaki-ken",
 			"city_name": "Kushima-shi",
 			"ward_name": "",
 			"town_name": "Nishikata",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "宮崎県",
 					"city_name": "串間市",
@@ -334,14 +334,14 @@
 			"city_code": "串間市"
 		},
 		"8880000": {
-			"postcode": "8880000",
+			"postcode": "888-0000",
 			"prefecture_name": "Miyazaki-ken",
 			"city_name": "Kushima-shi",
 			"ward_name": "",
 			"town_name": "",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "宮崎県",
 					"city_name": "串間市",

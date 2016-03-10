@@ -4,7 +4,7 @@
 	"locale": "ja-Latn",
 	"address": {
 		"0818501": {
-			"postcode": "0818501",
+			"postcode": "081-8501",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kamikawa-gun",
 			"ward_name": "Shintoku-cho",
@@ -14,7 +14,7 @@
 			"region_code": "北海道",
 			"prefecture_code": "北海道",
 			"city_code": "上川郡",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "上川郡",
@@ -26,14 +26,14 @@
 			}
 		},
 		"0810346": {
-			"postcode": "0810346",
+			"postcode": "081-0346",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kato-gun",
 			"ward_name": "Shikaoi-cho",
 			"town_name": "Higashiurimakunishi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "河東郡",
@@ -48,14 +48,14 @@
 			"city_code": "河東郡"
 		},
 		"0810345": {
-			"postcode": "0810345",
+			"postcode": "081-0345",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kato-gun",
 			"ward_name": "Shikaoi-cho",
 			"town_name": "Nakaurimakunishi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "河東郡",
@@ -70,14 +70,14 @@
 			"city_code": "河東郡"
 		},
 		"0810344": {
-			"postcode": "0810344",
+			"postcode": "081-0344",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kato-gun",
 			"ward_name": "Shikaoi-cho",
 			"town_name": "Kitaurimaku",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "河東郡",
@@ -92,14 +92,14 @@
 			"city_code": "河東郡"
 		},
 		"0810343": {
-			"postcode": "0810343",
+			"postcode": "081-0343",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kato-gun",
 			"ward_name": "Shikaoi-cho",
 			"town_name": "Urimakuminami",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "河東郡",
@@ -114,14 +114,14 @@
 			"city_code": "河東郡"
 		},
 		"0810342": {
-			"postcode": "0810342",
+			"postcode": "081-0342",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kato-gun",
 			"ward_name": "Shikaoi-cho",
 			"town_name": "Urimakuhigashi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "河東郡",
@@ -136,14 +136,14 @@
 			"city_code": "河東郡"
 		},
 		"0810341": {
-			"postcode": "0810341",
+			"postcode": "081-0341",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kato-gun",
 			"ward_name": "Shikaoi-cho",
 			"town_name": "Urimakunishi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "河東郡",
@@ -158,7 +158,7 @@
 			"city_code": "河東郡"
 		},
 		"0810295": {
-			"postcode": "0810295",
+			"postcode": "081-0295",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kato-gun",
 			"ward_name": "Shikaoi-cho",
@@ -168,7 +168,7 @@
 			"region_code": "北海道",
 			"prefecture_code": "北海道",
 			"city_code": "河東郡",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "河東郡",
@@ -180,7 +180,7 @@
 			}
 		},
 		"0810294": {
-			"postcode": "0810294",
+			"postcode": "081-0294",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kato-gun",
 			"ward_name": "Shikaoi-cho",
@@ -190,7 +190,7 @@
 			"region_code": "北海道",
 			"prefecture_code": "北海道",
 			"city_code": "河東郡",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "河東郡",
@@ -202,7 +202,7 @@
 			}
 		},
 		"0810293": {
-			"postcode": "0810293",
+			"postcode": "081-0293",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kato-gun",
 			"ward_name": "Shikaoi-cho",
@@ -212,7 +212,7 @@
 			"region_code": "北海道",
 			"prefecture_code": "北海道",
 			"city_code": "河東郡",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "河東郡",
@@ -224,7 +224,7 @@
 			}
 		},
 		"0810292": {
-			"postcode": "0810292",
+			"postcode": "081-0292",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kato-gun",
 			"ward_name": "Shikaoi-cho",
@@ -234,7 +234,7 @@
 			"region_code": "北海道",
 			"prefecture_code": "北海道",
 			"city_code": "河東郡",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "河東郡",
@@ -246,14 +246,14 @@
 			}
 		},
 		"0810228": {
-			"postcode": "0810228",
+			"postcode": "081-0228",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kato-gun",
 			"ward_name": "Shikaoi-cho",
 			"town_name": "Bimannishi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "河東郡",
@@ -268,14 +268,14 @@
 			"city_code": "河東郡"
 		},
 		"0810227": {
-			"postcode": "0810227",
+			"postcode": "081-0227",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kato-gun",
 			"ward_name": "Shikaoi-cho",
 			"town_name": "Horonainishi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "河東郡",
@@ -290,14 +290,14 @@
 			"city_code": "河東郡"
 		},
 		"0810226": {
-			"postcode": "0810226",
+			"postcode": "081-0226",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kato-gun",
 			"ward_name": "Shikaoi-cho",
 			"town_name": "Kamihoronai",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "河東郡",
@@ -312,14 +312,14 @@
 			"city_code": "河東郡"
 		},
 		"0810225": {
-			"postcode": "0810225",
+			"postcode": "081-0225",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kato-gun",
 			"ward_name": "Shikaoi-cho",
 			"town_name": "Kashiwagaoka",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "河東郡",
@@ -334,14 +334,14 @@
 			"city_code": "河東郡"
 		},
 		"0810224": {
-			"postcode": "0810224",
+			"postcode": "081-0224",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kato-gun",
 			"ward_name": "Shikaoi-cho",
 			"town_name": "Motomachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "河東郡",
@@ -356,14 +356,14 @@
 			"city_code": "河東郡"
 		},
 		"0810223": {
-			"postcode": "0810223",
+			"postcode": "081-0223",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kato-gun",
 			"ward_name": "Shikaoi-cho",
 			"town_name": "Minamimachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "河東郡",
@@ -378,14 +378,14 @@
 			"city_code": "河東郡"
 		},
 		"0810222": {
-			"postcode": "0810222",
+			"postcode": "081-0222",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kato-gun",
 			"ward_name": "Shikaoi-cho",
 			"town_name": "Higashimachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "河東郡",
@@ -400,14 +400,14 @@
 			"city_code": "河東郡"
 		},
 		"0810221": {
-			"postcode": "0810221",
+			"postcode": "081-0221",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kato-gun",
 			"ward_name": "Shikaoi-cho",
 			"town_name": "Sakaemachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "河東郡",
@@ -422,14 +422,14 @@
 			"city_code": "河東郡"
 		},
 		"0810218": {
-			"postcode": "0810218",
+			"postcode": "081-0218",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kato-gun",
 			"ward_name": "Shikaoi-cho",
 			"town_name": "Kamishikaribetsunishi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "河東郡",
@@ -444,14 +444,14 @@
 			"city_code": "河東郡"
 		},
 		"0810217": {
-			"postcode": "0810217",
+			"postcode": "081-0217",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kato-gun",
 			"ward_name": "Shikaoi-cho",
 			"town_name": "Shikaoi",
 			"building_name": "Kisen",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "河東郡",
@@ -466,14 +466,14 @@
 			"city_code": "河東郡"
 		},
 		"0810216": {
-			"postcode": "0810216",
+			"postcode": "081-0216",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kato-gun",
 			"ward_name": "Shikaoi-cho",
 			"town_name": "Shikaoi",
 			"building_name": "Kita",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "河東郡",
@@ -488,14 +488,14 @@
 			"city_code": "河東郡"
 		},
 		"0810215": {
-			"postcode": "0810215",
+			"postcode": "081-0215",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kato-gun",
 			"ward_name": "Shikaoi-cho",
 			"town_name": "Shikaoi",
 			"building_name": "Minami",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "河東郡",
@@ -510,14 +510,14 @@
 			"city_code": "河東郡"
 		},
 		"0810214": {
-			"postcode": "0810214",
+			"postcode": "081-0214",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kato-gun",
 			"ward_name": "Shikaoi-cho",
 			"town_name": "Kitashikaoi",
 			"building_name": "Kita",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "河東郡",
@@ -532,14 +532,14 @@
 			"city_code": "河東郡"
 		},
 		"0810213": {
-			"postcode": "0810213",
+			"postcode": "081-0213",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kato-gun",
 			"ward_name": "Shikaoi-cho",
 			"town_name": "Nishimachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "河東郡",
@@ -554,14 +554,14 @@
 			"city_code": "河東郡"
 		},
 		"0810212": {
-			"postcode": "0810212",
+			"postcode": "081-0212",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kato-gun",
 			"ward_name": "Shikaoi-cho",
 			"town_name": "Izumimachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "河東郡",
@@ -576,14 +576,14 @@
 			"city_code": "河東郡"
 		},
 		"0810211": {
-			"postcode": "0810211",
+			"postcode": "081-0211",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kato-gun",
 			"ward_name": "Shikaoi-cho",
 			"town_name": "Nakamachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "河東郡",
@@ -598,14 +598,14 @@
 			"city_code": "河東郡"
 		},
 		"0810205": {
-			"postcode": "0810205",
+			"postcode": "081-0205",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kato-gun",
 			"ward_name": "Shikaoi-cho",
 			"town_name": "Nishisasagawa",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "河東郡",
@@ -620,14 +620,14 @@
 			"city_code": "河東郡"
 		},
 		"0810204": {
-			"postcode": "0810204",
+			"postcode": "081-0204",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kato-gun",
 			"ward_name": "Shikaoi-cho",
 			"town_name": "Sasagawakita",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "河東郡",
@@ -642,14 +642,14 @@
 			"city_code": "河東郡"
 		},
 		"0810203": {
-			"postcode": "0810203",
+			"postcode": "081-0203",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kato-gun",
 			"ward_name": "Shikaoi-cho",
 			"town_name": "Midorimachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "河東郡",
@@ -664,14 +664,14 @@
 			"city_code": "河東郡"
 		},
 		"0810202": {
-			"postcode": "0810202",
+			"postcode": "081-0202",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kato-gun",
 			"ward_name": "Shikaoi-cho",
 			"town_name": "Kitamachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "河東郡",
@@ -686,14 +686,14 @@
 			"city_code": "河東郡"
 		},
 		"0810201": {
-			"postcode": "0810201",
+			"postcode": "081-0201",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kato-gun",
 			"ward_name": "Shikaoi-cho",
 			"town_name": "Shimmachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "河東郡",
@@ -708,14 +708,14 @@
 			"city_code": "河東郡"
 		},
 		"0810200": {
-			"postcode": "0810200",
+			"postcode": "081-0200",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kato-gun",
 			"ward_name": "Shikaoi-cho",
 			"town_name": "",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "河東郡",
@@ -730,14 +730,14 @@
 			"city_code": "河東郡"
 		},
 		"0810164": {
-			"postcode": "0810164",
+			"postcode": "081-0164",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kamikawa-gun",
 			"ward_name": "Shintoku-cho",
 			"town_name": "Kuttarimidorimachinishi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "上川郡",
@@ -752,14 +752,14 @@
 			"city_code": "上川郡"
 		},
 		"0810163": {
-			"postcode": "0810163",
+			"postcode": "081-0163",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kamikawa-gun",
 			"ward_name": "Shintoku-cho",
 			"town_name": "Kuttarimidorimachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "上川郡",
@@ -774,14 +774,14 @@
 			"city_code": "上川郡"
 		},
 		"0810162": {
-			"postcode": "0810162",
+			"postcode": "081-0162",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kamikawa-gun",
 			"ward_name": "Shintoku-cho",
 			"town_name": "Kuttarikashiwamachihigashi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "上川郡",
@@ -796,14 +796,14 @@
 			"city_code": "上川郡"
 		},
 		"0810161": {
-			"postcode": "0810161",
+			"postcode": "081-0161",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kamikawa-gun",
 			"ward_name": "Shintoku-cho",
 			"town_name": "Kuttarikashiwamachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "上川郡",
@@ -818,14 +818,14 @@
 			"city_code": "上川郡"
 		},
 		"0810156": {
-			"postcode": "0810156",
+			"postcode": "081-0156",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kamikawa-gun",
 			"ward_name": "Shintoku-cho",
 			"town_name": "Kuttarisaiwaimachinishi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "上川郡",
@@ -840,14 +840,14 @@
 			"city_code": "上川郡"
 		},
 		"0810155": {
-			"postcode": "0810155",
+			"postcode": "081-0155",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kamikawa-gun",
 			"ward_name": "Shintoku-cho",
 			"town_name": "Kuttarisaiwaimachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "上川郡",
@@ -862,14 +862,14 @@
 			"city_code": "上川郡"
 		},
 		"0810154": {
-			"postcode": "0810154",
+			"postcode": "081-0154",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kamikawa-gun",
 			"ward_name": "Shintoku-cho",
 			"town_name": "Kuttari",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "上川郡",
@@ -884,14 +884,14 @@
 			"city_code": "上川郡"
 		},
 		"0810153": {
-			"postcode": "0810153",
+			"postcode": "081-0153",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kamikawa-gun",
 			"ward_name": "Shintoku-cho",
 			"town_name": "Kuttariminamimachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "上川郡",
@@ -906,14 +906,14 @@
 			"city_code": "上川郡"
 		},
 		"0810152": {
-			"postcode": "0810152",
+			"postcode": "081-0152",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kamikawa-gun",
 			"ward_name": "Shintoku-cho",
 			"town_name": "Kuttariasahimachihigashi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "上川郡",
@@ -928,14 +928,14 @@
 			"city_code": "上川郡"
 		},
 		"0810151": {
-			"postcode": "0810151",
+			"postcode": "081-0151",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kamikawa-gun",
 			"ward_name": "Shintoku-cho",
 			"town_name": "Kuttariasahimachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "上川郡",
@@ -950,14 +950,14 @@
 			"city_code": "上川郡"
 		},
 		"0810039": {
-			"postcode": "0810039",
+			"postcode": "081-0039",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kamikawa-gun",
 			"ward_name": "Shintoku-cho",
 			"town_name": "Niinai",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "上川郡",
@@ -972,14 +972,14 @@
 			"city_code": "上川郡"
 		},
 		"0810038": {
-			"postcode": "0810038",
+			"postcode": "081-0038",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kamikawa-gun",
 			"ward_name": "Shintoku-cho",
 			"town_name": "Shintoku",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "上川郡",
@@ -994,14 +994,14 @@
 			"city_code": "上川郡"
 		},
 		"0810037": {
-			"postcode": "0810037",
+			"postcode": "081-0037",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kamikawa-gun",
 			"ward_name": "Shintoku-cho",
 			"town_name": "Takutetsu",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "上川郡",
@@ -1016,14 +1016,14 @@
 			"city_code": "上川郡"
 		},
 		"0810036": {
-			"postcode": "0810036",
+			"postcode": "081-0036",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kamikawa-gun",
 			"ward_name": "Shintoku-cho",
 			"town_name": "Shimosahoro",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "上川郡",
@@ -1038,14 +1038,14 @@
 			"city_code": "上川郡"
 		},
 		"0810035": {
-			"postcode": "0810035",
+			"postcode": "081-0035",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kamikawa-gun",
 			"ward_name": "Shintoku-cho",
 			"town_name": "Kamisahoro",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "上川郡",
@@ -1060,14 +1060,14 @@
 			"city_code": "上川郡"
 		},
 		"0810034": {
-			"postcode": "0810034",
+			"postcode": "081-0034",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kamikawa-gun",
 			"ward_name": "Shintoku-cho",
 			"town_name": "Nishi4-jominami",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "上川郡",
@@ -1082,14 +1082,14 @@
 			"city_code": "上川郡"
 		},
 		"0810033": {
-			"postcode": "0810033",
+			"postcode": "081-0033",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kamikawa-gun",
 			"ward_name": "Shintoku-cho",
 			"town_name": "Nishi3-jominami",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "上川郡",
@@ -1104,14 +1104,14 @@
 			"city_code": "上川郡"
 		},
 		"0810032": {
-			"postcode": "0810032",
+			"postcode": "081-0032",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kamikawa-gun",
 			"ward_name": "Shintoku-cho",
 			"town_name": "Nishi2-jominami",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "上川郡",
@@ -1126,14 +1126,14 @@
 			"city_code": "上川郡"
 		},
 		"0810031": {
-			"postcode": "0810031",
+			"postcode": "081-0031",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kamikawa-gun",
 			"ward_name": "Shintoku-cho",
 			"town_name": "Nishi1-jominami",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "上川郡",
@@ -1148,14 +1148,14 @@
 			"city_code": "上川郡"
 		},
 		"0810023": {
-			"postcode": "0810023",
+			"postcode": "081-0023",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kamikawa-gun",
 			"ward_name": "Shintoku-cho",
 			"town_name": "Nishi3-jokita",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "上川郡",
@@ -1170,14 +1170,14 @@
 			"city_code": "上川郡"
 		},
 		"0810022": {
-			"postcode": "0810022",
+			"postcode": "081-0022",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kamikawa-gun",
 			"ward_name": "Shintoku-cho",
 			"town_name": "Nishi2-jokita",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "上川郡",
@@ -1192,14 +1192,14 @@
 			"city_code": "上川郡"
 		},
 		"0810021": {
-			"postcode": "0810021",
+			"postcode": "081-0021",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kamikawa-gun",
 			"ward_name": "Shintoku-cho",
 			"town_name": "Nishi1-jokita",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "上川郡",
@@ -1214,14 +1214,14 @@
 			"city_code": "上川郡"
 		},
 		"0810015": {
-			"postcode": "0810015",
+			"postcode": "081-0015",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kamikawa-gun",
 			"ward_name": "Shintoku-cho",
 			"town_name": "5-jominami",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "上川郡",
@@ -1236,14 +1236,14 @@
 			"city_code": "上川郡"
 		},
 		"0810014": {
-			"postcode": "0810014",
+			"postcode": "081-0014",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kamikawa-gun",
 			"ward_name": "Shintoku-cho",
 			"town_name": "4-jominami",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "上川郡",
@@ -1258,14 +1258,14 @@
 			"city_code": "上川郡"
 		},
 		"0810013": {
-			"postcode": "0810013",
+			"postcode": "081-0013",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kamikawa-gun",
 			"ward_name": "Shintoku-cho",
 			"town_name": "3-jominami",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "上川郡",
@@ -1280,14 +1280,14 @@
 			"city_code": "上川郡"
 		},
 		"0810012": {
-			"postcode": "0810012",
+			"postcode": "081-0012",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kamikawa-gun",
 			"ward_name": "Shintoku-cho",
 			"town_name": "2-jominami",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "上川郡",
@@ -1302,14 +1302,14 @@
 			"city_code": "上川郡"
 		},
 		"0810011": {
-			"postcode": "0810011",
+			"postcode": "081-0011",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kamikawa-gun",
 			"ward_name": "Shintoku-cho",
 			"town_name": "1-jominami",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "上川郡",
@@ -1324,14 +1324,14 @@
 			"city_code": "上川郡"
 		},
 		"0810008": {
-			"postcode": "0810008",
+			"postcode": "081-0008",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kamikawa-gun",
 			"ward_name": "Shintoku-cho",
 			"town_name": "Hondoriminami",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "上川郡",
@@ -1346,14 +1346,14 @@
 			"city_code": "上川郡"
 		},
 		"0810007": {
-			"postcode": "0810007",
+			"postcode": "081-0007",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kamikawa-gun",
 			"ward_name": "Shintoku-cho",
 			"town_name": "Motomachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "上川郡",
@@ -1368,14 +1368,14 @@
 			"city_code": "上川郡"
 		},
 		"0810006": {
-			"postcode": "0810006",
+			"postcode": "081-0006",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kamikawa-gun",
 			"ward_name": "Shintoku-cho",
 			"town_name": "Sakaemachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "上川郡",
@@ -1390,14 +1390,14 @@
 			"city_code": "上川郡"
 		},
 		"0810005": {
-			"postcode": "0810005",
+			"postcode": "081-0005",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kamikawa-gun",
 			"ward_name": "Shintoku-cho",
 			"town_name": "Hondorikita",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "上川郡",
@@ -1412,14 +1412,14 @@
 			"city_code": "上川郡"
 		},
 		"0810003": {
-			"postcode": "0810003",
+			"postcode": "081-0003",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kamikawa-gun",
 			"ward_name": "Shintoku-cho",
 			"town_name": "3-jokita",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "上川郡",
@@ -1434,14 +1434,14 @@
 			"city_code": "上川郡"
 		},
 		"0810002": {
-			"postcode": "0810002",
+			"postcode": "081-0002",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kamikawa-gun",
 			"ward_name": "Shintoku-cho",
 			"town_name": "2-jokita",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "上川郡",
@@ -1456,14 +1456,14 @@
 			"city_code": "上川郡"
 		},
 		"0810001": {
-			"postcode": "0810001",
+			"postcode": "081-0001",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kamikawa-gun",
 			"ward_name": "Shintoku-cho",
 			"town_name": "1-jokita",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "上川郡",
@@ -1478,14 +1478,14 @@
 			"city_code": "上川郡"
 		},
 		"0810000": {
-			"postcode": "0810000",
+			"postcode": "081-0000",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Kamikawa-gun",
 			"ward_name": "Shintoku-cho",
 			"town_name": "",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "上川郡",

@@ -4,7 +4,7 @@
 	"locale": "ja-Latn",
 	"address": {
 		"6678651": {
-			"postcode": "6678651",
+			"postcode": "667-8651",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
@@ -14,7 +14,7 @@
 			"region_code": "関西",
 			"prefecture_code": "兵庫県",
 			"city_code": "養父市",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -26,7 +26,7 @@
 			}
 		},
 		"6678555": {
-			"postcode": "6678555",
+			"postcode": "667-8555",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
@@ -36,7 +36,7 @@
 			"region_code": "関西",
 			"prefecture_code": "兵庫県",
 			"city_code": "養父市",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -48,14 +48,14 @@
 			}
 		},
 		"6671545": {
-			"postcode": "6671545",
+			"postcode": "667-1545",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Ojiroku",
 			"building_name": "Higashigaki",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -70,14 +70,14 @@
 			"city_code": "美方郡"
 		},
 		"6671544": {
-			"postcode": "6671544",
+			"postcode": "667-1544",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Ojiroku",
 			"building_name": "Nukida",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -92,14 +92,14 @@
 			"city_code": "美方郡"
 		},
 		"6671543": {
-			"postcode": "6671543",
+			"postcode": "667-1543",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Ojiroku",
 			"building_name": "Tadanomiya",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -114,14 +114,14 @@
 			"city_code": "美方郡"
 		},
 		"6671542": {
-			"postcode": "6671542",
+			"postcode": "667-1542",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Ojiroku",
 			"building_name": "Kajiya",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -136,14 +136,14 @@
 			"city_code": "美方郡"
 		},
 		"6671541": {
-			"postcode": "6671541",
+			"postcode": "667-1541",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Ojiroku",
 			"building_name": "Sabo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -158,14 +158,14 @@
 			"city_code": "美方郡"
 		},
 		"6671533": {
-			"postcode": "6671533",
+			"postcode": "667-1533",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Ojiroku",
 			"building_name": "Akioka",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -180,14 +180,14 @@
 			"city_code": "美方郡"
 		},
 		"6671532": {
-			"postcode": "6671532",
+			"postcode": "667-1532",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Ojiroku",
 			"building_name": "Niiya",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -202,14 +202,14 @@
 			"city_code": "美方郡"
 		},
 		"6671531": {
-			"postcode": "6671531",
+			"postcode": "667-1531",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Ojiroku",
 			"building_name": "Kayano",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -224,14 +224,14 @@
 			"city_code": "美方郡"
 		},
 		"6671523": {
-			"postcode": "6671523",
+			"postcode": "667-1523",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Ojiroku",
 			"building_name": "Hirano",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -246,14 +246,14 @@
 			"city_code": "美方郡"
 		},
 		"6671522": {
-			"postcode": "6671522",
+			"postcode": "667-1522",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Ojiroku",
 			"building_name": "Saneyama",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -268,14 +268,14 @@
 			"city_code": "美方郡"
 		},
 		"6671521": {
-			"postcode": "6671521",
+			"postcode": "667-1521",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Ojiroku",
 			"building_name": "Nomatani",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -290,14 +290,14 @@
 			"city_code": "美方郡"
 		},
 		"6671515": {
-			"postcode": "6671515",
+			"postcode": "667-1515",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Ojiroku",
 			"building_name": "Mizuma",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -312,14 +312,14 @@
 			"city_code": "美方郡"
 		},
 		"6671514": {
-			"postcode": "6671514",
+			"postcode": "667-1514",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Ojiroku",
 			"building_name": "Kamba",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -334,14 +334,14 @@
 			"city_code": "美方郡"
 		},
 		"6671513": {
-			"postcode": "6671513",
+			"postcode": "667-1513",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Ojiroku",
 			"building_name": "Hiroi",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -356,14 +356,14 @@
 			"city_code": "美方郡"
 		},
 		"6671512": {
-			"postcode": "6671512",
+			"postcode": "667-1512",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Ojiroku",
 			"building_name": "Ishidera",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -378,14 +378,14 @@
 			"city_code": "美方郡"
 		},
 		"6671511": {
-			"postcode": "6671511",
+			"postcode": "667-1511",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Ojiroku",
 			"building_name": "Kanzui",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -400,14 +400,14 @@
 			"city_code": "美方郡"
 		},
 		"6671503": {
-			"postcode": "6671503",
+			"postcode": "667-1503",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Ojiroku",
 			"building_name": "Otani",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -422,14 +422,14 @@
 			"city_code": "美方郡"
 		},
 		"6671502": {
-			"postcode": "6671502",
+			"postcode": "667-1502",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Ojiroku",
 			"building_name": "Joyama",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -444,14 +444,14 @@
 			"city_code": "美方郡"
 		},
 		"6671501": {
-			"postcode": "6671501",
+			"postcode": "667-1501",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Ojiroku",
 			"building_name": "Kusube",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -466,14 +466,14 @@
 			"city_code": "美方郡"
 		},
 		"6671368": {
-			"postcode": "6671368",
+			"postcode": "667-1368",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Muraokaku",
 			"building_name": "Irie",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -488,14 +488,14 @@
 			"city_code": "美方郡"
 		},
 		"6671367": {
-			"postcode": "6671367",
+			"postcode": "667-1367",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Muraokaku",
 			"building_name": "Wada",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -510,14 +510,14 @@
 			"city_code": "美方郡"
 		},
 		"6671366": {
-			"postcode": "6671366",
+			"postcode": "667-1366",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Muraokaku",
 			"building_name": "Kawai",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -532,14 +532,14 @@
 			"city_code": "美方郡"
 		},
 		"6671365": {
-			"postcode": "6671365",
+			"postcode": "667-1365",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Muraokaku",
 			"building_name": "Takazu",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -554,14 +554,14 @@
 			"city_code": "美方郡"
 		},
 		"6671364": {
-			"postcode": "6671364",
+			"postcode": "667-1364",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Muraokaku",
 			"building_name": "Nagasu",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -576,14 +576,14 @@
 			"city_code": "美方郡"
 		},
 		"6671363": {
-			"postcode": "6671363",
+			"postcode": "667-1363",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Muraokaku",
 			"building_name": "Midori",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -598,14 +598,14 @@
 			"city_code": "美方郡"
 		},
 		"6671362": {
-			"postcode": "6671362",
+			"postcode": "667-1362",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Muraokaku",
 			"building_name": "Hara",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -620,14 +620,14 @@
 			"city_code": "美方郡"
 		},
 		"6671361": {
-			"postcode": "6671361",
+			"postcode": "667-1361",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Muraokaku",
 			"building_name": "Nagase",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -642,14 +642,14 @@
 			"city_code": "美方郡"
 		},
 		"6671354": {
-			"postcode": "6671354",
+			"postcode": "667-1354",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Muraokaku",
 			"building_name": "Kebioka",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -664,14 +664,14 @@
 			"city_code": "美方郡"
 		},
 		"6671353": {
-			"postcode": "6671353",
+			"postcode": "667-1353",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Muraokaku",
 			"building_name": "Kumanami",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -686,14 +686,14 @@
 			"city_code": "美方郡"
 		},
 		"6671352": {
-			"postcode": "6671352",
+			"postcode": "667-1352",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Muraokaku",
 			"building_name": "Nagaita",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -708,14 +708,14 @@
 			"city_code": "美方郡"
 		},
 		"6671351": {
-			"postcode": "6671351",
+			"postcode": "667-1351",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Muraokaku",
 			"building_name": "Marumi",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -730,14 +730,14 @@
 			"city_code": "美方郡"
 		},
 		"6671347": {
-			"postcode": "6671347",
+			"postcode": "667-1347",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Muraokaku",
 			"building_name": "Wachi",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -752,14 +752,14 @@
 			"city_code": "美方郡"
 		},
 		"6671346": {
-			"postcode": "6671346",
+			"postcode": "667-1346",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Muraokaku",
 			"building_name": "Ikeganaru",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -774,14 +774,14 @@
 			"city_code": "美方郡"
 		},
 		"6671345": {
-			"postcode": "6671345",
+			"postcode": "667-1345",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Muraokaku",
 			"building_name": "Takasaka",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -796,14 +796,14 @@
 			"city_code": "美方郡"
 		},
 		"6671344": {
-			"postcode": "6671344",
+			"postcode": "667-1344",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Muraokaku",
 			"building_name": "Osasa",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -818,14 +818,14 @@
 			"city_code": "美方郡"
 		},
 		"6671343": {
-			"postcode": "6671343",
+			"postcode": "667-1343",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Muraokaku",
 			"building_name": "Nakaotani",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -840,14 +840,14 @@
 			"city_code": "美方郡"
 		},
 		"6671342": {
-			"postcode": "6671342",
+			"postcode": "667-1342",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Muraokaku",
 			"building_name": "Kuchiotani",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -862,14 +862,14 @@
 			"city_code": "美方郡"
 		},
 		"6671341": {
-			"postcode": "6671341",
+			"postcode": "667-1341",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Muraokaku",
 			"building_name": "Moriwaki",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -884,14 +884,14 @@
 			"city_code": "美方郡"
 		},
 		"6671337": {
-			"postcode": "6671337",
+			"postcode": "667-1337",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Muraokaku",
 			"building_name": "Hikage",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -906,14 +906,14 @@
 			"city_code": "美方郡"
 		},
 		"6671336": {
-			"postcode": "6671336",
+			"postcode": "667-1336",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Muraokaku",
 			"building_name": "Yado",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -928,14 +928,14 @@
 			"city_code": "美方郡"
 		},
 		"6671335": {
-			"postcode": "6671335",
+			"postcode": "667-1335",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Muraokaku",
 			"building_name": "Kuroda",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -950,14 +950,14 @@
 			"city_code": "美方郡"
 		},
 		"6671334": {
-			"postcode": "6671334",
+			"postcode": "667-1334",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Muraokaku",
 			"building_name": "Fukuoka",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -972,14 +972,14 @@
 			"city_code": "美方郡"
 		},
 		"6671333": {
-			"postcode": "6671333",
+			"postcode": "667-1333",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Muraokaku",
 			"building_name": "Ono",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -994,14 +994,14 @@
 			"city_code": "美方郡"
 		},
 		"6671332": {
-			"postcode": "6671332",
+			"postcode": "667-1332",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Muraokaku",
 			"building_name": "Yaidani",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -1016,14 +1016,14 @@
 			"city_code": "美方郡"
 		},
 		"6671331": {
-			"postcode": "6671331",
+			"postcode": "667-1331",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Muraokaku",
 			"building_name": "Tsukuriyama",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -1038,14 +1038,14 @@
 			"city_code": "美方郡"
 		},
 		"6671326": {
-			"postcode": "6671326",
+			"postcode": "667-1326",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Muraokaku",
 			"building_name": "Koyo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -1060,14 +1060,14 @@
 			"city_code": "美方郡"
 		},
 		"6671325": {
-			"postcode": "6671325",
+			"postcode": "667-1325",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Muraokaku",
 			"building_name": "Takai",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -1082,14 +1082,14 @@
 			"city_code": "美方郡"
 		},
 		"6671324": {
-			"postcode": "6671324",
+			"postcode": "667-1324",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Muraokaku",
 			"building_name": "Ichibara",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -1104,14 +1104,14 @@
 			"city_code": "美方郡"
 		},
 		"6671323": {
-			"postcode": "6671323",
+			"postcode": "667-1323",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Muraokaku",
 			"building_name": "Kakayama",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -1126,14 +1126,14 @@
 			"city_code": "美方郡"
 		},
 		"6671322": {
-			"postcode": "6671322",
+			"postcode": "667-1322",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Muraokaku",
 			"building_name": "Teragawauchi",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -1148,14 +1148,14 @@
 			"city_code": "美方郡"
 		},
 		"6671321": {
-			"postcode": "6671321",
+			"postcode": "667-1321",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Muraokaku",
 			"building_name": "Onuka",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -1170,14 +1170,14 @@
 			"city_code": "美方郡"
 		},
 		"6671317": {
-			"postcode": "6671317",
+			"postcode": "667-1317",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Muraokaku",
 			"building_name": "Yono",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -1192,14 +1192,14 @@
 			"city_code": "美方郡"
 		},
 		"6671316": {
-			"postcode": "6671316",
+			"postcode": "667-1316",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Muraokaku",
 			"building_name": "Shikada",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -1214,14 +1214,14 @@
 			"city_code": "美方郡"
 		},
 		"6671315": {
-			"postcode": "6671315",
+			"postcode": "667-1315",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Muraokaku",
 			"building_name": "Itashino",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -1236,14 +1236,14 @@
 			"city_code": "美方郡"
 		},
 		"6671314": {
-			"postcode": "6671314",
+			"postcode": "667-1314",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Muraokaku",
 			"building_name": "Hagiyama",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -1258,14 +1258,14 @@
 			"city_code": "美方郡"
 		},
 		"6671313": {
-			"postcode": "6671313",
+			"postcode": "667-1313",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Muraokaku",
 			"building_name": "Kanzaka",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -1280,14 +1280,14 @@
 			"city_code": "美方郡"
 		},
 		"6671312": {
-			"postcode": "6671312",
+			"postcode": "667-1312",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Muraokaku",
 			"building_name": "Aida",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -1302,14 +1302,14 @@
 			"city_code": "美方郡"
 		},
 		"6671311": {
-			"postcode": "6671311",
+			"postcode": "667-1311",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Muraokaku",
 			"building_name": "Muraoka",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -1324,14 +1324,14 @@
 			"city_code": "美方郡"
 		},
 		"6671304": {
-			"postcode": "6671304",
+			"postcode": "667-1304",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Muraokaku",
 			"building_name": "Wasabu",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -1346,14 +1346,14 @@
 			"city_code": "美方郡"
 		},
 		"6671303": {
-			"postcode": "6671303",
+			"postcode": "667-1303",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Muraokaku",
 			"building_name": "Kojo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -1368,14 +1368,14 @@
 			"city_code": "美方郡"
 		},
 		"6671302": {
-			"postcode": "6671302",
+			"postcode": "667-1302",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Muraokaku",
 			"building_name": "Yamada",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -1390,14 +1390,14 @@
 			"city_code": "美方郡"
 		},
 		"6671301": {
-			"postcode": "6671301",
+			"postcode": "667-1301",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Mikata-gun",
 			"ward_name": "Kami-cho",
 			"town_name": "Muraokaku",
 			"building_name": "Sakai",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "美方郡",
@@ -1412,14 +1412,14 @@
 			"city_code": "美方郡"
 		},
 		"6671128": {
-			"postcode": "6671128",
+			"postcode": "667-1128",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Bekku",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -1434,14 +1434,14 @@
 			"city_code": "養父市"
 		},
 		"6671127": {
-			"postcode": "6671127",
+			"postcode": "667-1127",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Okubo",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -1456,14 +1456,14 @@
 			"city_code": "養父市"
 		},
 		"6671126": {
-			"postcode": "6671126",
+			"postcode": "667-1126",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Fukusada",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -1478,14 +1478,14 @@
 			"city_code": "養父市"
 		},
 		"6671125": {
-			"postcode": "6671125",
+			"postcode": "667-1125",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Narao",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -1500,14 +1500,14 @@
 			"city_code": "養父市"
 		},
 		"6671124": {
-			"postcode": "6671124",
+			"postcode": "667-1124",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Tando",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -1522,14 +1522,14 @@
 			"city_code": "養父市"
 		},
 		"6671123": {
-			"postcode": "6671123",
+			"postcode": "667-1123",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Nashigahara",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -1544,14 +1544,14 @@
 			"city_code": "養父市"
 		},
 		"6671122": {
-			"postcode": "6671122",
+			"postcode": "667-1122",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Kusaide",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -1566,14 +1566,14 @@
 			"city_code": "養父市"
 		},
 		"6671121": {
-			"postcode": "6671121",
+			"postcode": "667-1121",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Tono",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -1588,14 +1588,14 @@
 			"city_code": "養父市"
 		},
 		"6671119": {
-			"postcode": "6671119",
+			"postcode": "667-1119",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Unawa",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -1610,14 +1610,14 @@
 			"city_code": "養父市"
 		},
 		"6671118": {
-			"postcode": "6671118",
+			"postcode": "667-1118",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Yasui",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -1632,14 +1632,14 @@
 			"city_code": "養父市"
 		},
 		"6671117": {
-			"postcode": "6671117",
+			"postcode": "667-1117",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Todoroki",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -1654,14 +1654,14 @@
 			"city_code": "養父市"
 		},
 		"6671116": {
-			"postcode": "6671116",
+			"postcode": "667-1116",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Nakaze",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -1676,14 +1676,14 @@
 			"city_code": "養父市"
 		},
 		"6671115": {
-			"postcode": "6671115",
+			"postcode": "667-1115",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Kazurahata",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -1698,14 +1698,14 @@
 			"city_code": "養父市"
 		},
 		"6671114": {
-			"postcode": "6671114",
+			"postcode": "667-1114",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Ojikoro",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -1720,14 +1720,14 @@
 			"city_code": "養父市"
 		},
 		"6671113": {
-			"postcode": "6671113",
+			"postcode": "667-1113",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Kawaraba",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -1742,14 +1742,14 @@
 			"city_code": "養父市"
 		},
 		"6671112": {
-			"postcode": "6671112",
+			"postcode": "667-1112",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Deai",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -1764,14 +1764,14 @@
 			"city_code": "養父市"
 		},
 		"6671111": {
-			"postcode": "6671111",
+			"postcode": "667-1111",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Yoshii",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -1786,14 +1786,14 @@
 			"city_code": "養父市"
 		},
 		"6671105": {
-			"postcode": "6671105",
+			"postcode": "667-1105",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Sekinomiya",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -1808,14 +1808,14 @@
 			"city_code": "養父市"
 		},
 		"6671104": {
-			"postcode": "6671104",
+			"postcode": "667-1104",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Osaki",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -1830,14 +1830,14 @@
 			"city_code": "養父市"
 		},
 		"6671103": {
-			"postcode": "6671103",
+			"postcode": "667-1103",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Makuri",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -1852,14 +1852,14 @@
 			"city_code": "養父市"
 		},
 		"6671102": {
-			"postcode": "6671102",
+			"postcode": "667-1102",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Otani",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -1874,14 +1874,14 @@
 			"city_code": "養父市"
 		},
 		"6671101": {
-			"postcode": "6671101",
+			"postcode": "667-1101",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Miyake",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -1896,14 +1896,14 @@
 			"city_code": "養父市"
 		},
 		"6670436": {
-			"postcode": "6670436",
+			"postcode": "667-0436",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Oyacho",
 			"building_name": "Akenobe",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -1918,14 +1918,14 @@
 			"city_code": "養父市"
 		},
 		"6670435": {
-			"postcode": "6670435",
+			"postcode": "667-0435",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Oyacho",
 			"building_name": "Wada",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -1940,14 +1940,14 @@
 			"city_code": "養父市"
 		},
 		"6670434": {
-			"postcode": "6670434",
+			"postcode": "667-0434",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Oyacho",
 			"building_name": "Susai",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -1962,14 +1962,14 @@
 			"city_code": "養父市"
 		},
 		"6670433": {
-			"postcode": "6670433",
+			"postcode": "667-0433",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Oyacho",
 			"building_name": "Kadono",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -1984,14 +1984,14 @@
 			"city_code": "養父市"
 		},
 		"6670432": {
-			"postcode": "6670432",
+			"postcode": "667-0432",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Oyacho",
 			"building_name": "Miyamoto",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2006,14 +2006,14 @@
 			"city_code": "養父市"
 		},
 		"6670431": {
-			"postcode": "6670431",
+			"postcode": "667-0431",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Oyacho",
 			"building_name": "Itowara",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2028,14 +2028,14 @@
 			"city_code": "養父市"
 		},
 		"6670325": {
-			"postcode": "6670325",
+			"postcode": "667-0325",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Oyacho",
 			"building_name": "Kurinoshita",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2050,14 +2050,14 @@
 			"city_code": "養父市"
 		},
 		"6670324": {
-			"postcode": "6670324",
+			"postcode": "667-0324",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Oyacho",
 			"building_name": "Yokoiki",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2072,14 +2072,14 @@
 			"city_code": "養父市"
 		},
 		"6670323": {
-			"postcode": "6670323",
+			"postcode": "667-0323",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Oyacho",
 			"building_name": "Wakasu",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2094,14 +2094,14 @@
 			"city_code": "養父市"
 		},
 		"6670322": {
-			"postcode": "6670322",
+			"postcode": "667-0322",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Oyacho",
 			"building_name": "Ikada",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2116,14 +2116,14 @@
 			"city_code": "養父市"
 		},
 		"6670321": {
-			"postcode": "6670321",
+			"postcode": "667-0321",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Oyacho",
 			"building_name": "Kuragaki",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2138,14 +2138,14 @@
 			"city_code": "養父市"
 		},
 		"6670315": {
-			"postcode": "6670315",
+			"postcode": "667-0315",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Oyacho",
 			"building_name": "Kabo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2160,14 +2160,14 @@
 			"city_code": "養父市"
 		},
 		"6670314": {
-			"postcode": "6670314",
+			"postcode": "667-0314",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Oyacho",
 			"building_name": "Osugi",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2182,14 +2182,14 @@
 			"city_code": "養父市"
 		},
 		"6670313": {
-			"postcode": "6670313",
+			"postcode": "667-0313",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Oyacho",
 			"building_name": "Kasadani",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2204,14 +2204,14 @@
 			"city_code": "養父市"
 		},
 		"6670312": {
-			"postcode": "6670312",
+			"postcode": "667-0312",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Oyacho",
 			"building_name": "Yamaji",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2226,14 +2226,14 @@
 			"city_code": "養父市"
 		},
 		"6670311": {
-			"postcode": "6670311",
+			"postcode": "667-0311",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Oyacho",
 			"building_name": "Oyaichiba",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2248,14 +2248,14 @@
 			"city_code": "養父市"
 		},
 		"6670306": {
-			"postcode": "6670306",
+			"postcode": "667-0306",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Oyacho",
 			"building_name": "Miyagaki",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2270,14 +2270,14 @@
 			"city_code": "養父市"
 		},
 		"6670305": {
-			"postcode": "6670305",
+			"postcode": "667-0305",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Oyacho",
 			"building_name": "Natsume",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2292,14 +2292,14 @@
 			"city_code": "養父市"
 		},
 		"6670304": {
-			"postcode": "6670304",
+			"postcode": "667-0304",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Oyacho",
 			"building_name": "Naka",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2314,14 +2314,14 @@
 			"city_code": "養父市"
 		},
 		"6670303": {
-			"postcode": "6670303",
+			"postcode": "667-0303",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Oyacho",
 			"building_name": "Omi",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2336,14 +2336,14 @@
 			"city_code": "養父市"
 		},
 		"6670302": {
-			"postcode": "6670302",
+			"postcode": "667-0302",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Oyacho",
 			"building_name": "Tarumi",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2358,14 +2358,14 @@
 			"city_code": "養父市"
 		},
 		"6670301": {
-			"postcode": "6670301",
+			"postcode": "667-0301",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Oyacho",
 			"building_name": "Uyama",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2380,7 +2380,7 @@
 			"city_code": "養父市"
 		},
 		"6670198": {
-			"postcode": "6670198",
+			"postcode": "667-0198",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
@@ -2390,7 +2390,7 @@
 			"region_code": "関西",
 			"prefecture_code": "兵庫県",
 			"city_code": "養父市",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2402,14 +2402,14 @@
 			}
 		},
 		"6670145": {
-			"postcode": "6670145",
+			"postcode": "667-0145",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Nagano",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2424,14 +2424,14 @@
 			"city_code": "養父市"
 		},
 		"6670144": {
-			"postcode": "6670144",
+			"postcode": "667-0144",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Mochigochi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2446,14 +2446,14 @@
 			"city_code": "養父市"
 		},
 		"6670143": {
-			"postcode": "6670143",
+			"postcode": "667-0143",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Noza",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2468,14 +2468,14 @@
 			"city_code": "養父市"
 		},
 		"6670142": {
-			"postcode": "6670142",
+			"postcode": "667-0142",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Takinoya",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2490,14 +2490,14 @@
 			"city_code": "養父市"
 		},
 		"6670141": {
-			"postcode": "6670141",
+			"postcode": "667-0141",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Mori",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2512,14 +2512,14 @@
 			"city_code": "養父市"
 		},
 		"6670136": {
-			"postcode": "6670136",
+			"postcode": "667-0136",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Mitani",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2534,14 +2534,14 @@
 			"city_code": "養父市"
 		},
 		"6670135": {
-			"postcode": "6670135",
+			"postcode": "667-0135",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Funedani",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2556,14 +2556,14 @@
 			"city_code": "養父市"
 		},
 		"6670134": {
-			"postcode": "6670134",
+			"postcode": "667-0134",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Otsubo",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2578,14 +2578,14 @@
 			"city_code": "養父市"
 		},
 		"6670133": {
-			"postcode": "6670133",
+			"postcode": "667-0133",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Hata",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2600,14 +2600,14 @@
 			"city_code": "養父市"
 		},
 		"6670132": {
-			"postcode": "6670132",
+			"postcode": "667-0132",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Inazu",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2622,14 +2622,14 @@
 			"city_code": "養父市"
 		},
 		"6670131": {
-			"postcode": "6670131",
+			"postcode": "667-0131",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Ueno",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2644,14 +2644,14 @@
 			"city_code": "養父市"
 		},
 		"6670126": {
-			"postcode": "6670126",
+			"postcode": "667-0126",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Horihata",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2666,14 +2666,14 @@
 			"city_code": "養父市"
 		},
 		"6670125": {
-			"postcode": "6670125",
+			"postcode": "667-0125",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Otsuka",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2688,14 +2688,14 @@
 			"city_code": "養父市"
 		},
 		"6670124": {
-			"postcode": "6670124",
+			"postcode": "667-0124",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Kuchimeiji",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2710,14 +2710,14 @@
 			"city_code": "養父市"
 		},
 		"6670123": {
-			"postcode": "6670123",
+			"postcode": "667-0123",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Kanayameiji",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2732,14 +2732,14 @@
 			"city_code": "養父市"
 		},
 		"6670122": {
-			"postcode": "6670122",
+			"postcode": "667-0122",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Nakameiji",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2754,14 +2754,14 @@
 			"city_code": "養父市"
 		},
 		"6670121": {
-			"postcode": "6670121",
+			"postcode": "667-0121",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Okumeiji",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2776,14 +2776,14 @@
 			"city_code": "養父市"
 		},
 		"6670115": {
-			"postcode": "6670115",
+			"postcode": "667-0115",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Age",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2798,14 +2798,14 @@
 			"city_code": "養父市"
 		},
 		"6670114": {
-			"postcode": "6670114",
+			"postcode": "667-0114",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Kojo",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2820,14 +2820,14 @@
 			"city_code": "養父市"
 		},
 		"6670113": {
-			"postcode": "6670113",
+			"postcode": "667-0113",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Yabusaki",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2842,14 +2842,14 @@
 			"city_code": "養父市"
 		},
 		"6670112": {
-			"postcode": "6670112",
+			"postcode": "667-0112",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Yabuichiba",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2864,14 +2864,14 @@
 			"city_code": "養父市"
 		},
 		"6670111": {
-			"postcode": "6670111",
+			"postcode": "667-0111",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Oyabu",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2886,14 +2886,14 @@
 			"city_code": "養父市"
 		},
 		"6670107": {
-			"postcode": "6670107",
+			"postcode": "667-0107",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Shinzu",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2908,14 +2908,14 @@
 			"city_code": "養父市"
 		},
 		"6670106": {
-			"postcode": "6670106",
+			"postcode": "667-0106",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Tamami",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2930,14 +2930,14 @@
 			"city_code": "養父市"
 		},
 		"6670105": {
-			"postcode": "6670105",
+			"postcode": "667-0105",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Sakoyama",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2952,14 +2952,14 @@
 			"city_code": "養父市"
 		},
 		"6670104": {
-			"postcode": "6670104",
+			"postcode": "667-0104",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Izu",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2974,14 +2974,14 @@
 			"city_code": "養父市"
 		},
 		"6670103": {
-			"postcode": "6670103",
+			"postcode": "667-0103",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Azano",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -2996,14 +2996,14 @@
 			"city_code": "養父市"
 		},
 		"6670102": {
-			"postcode": "6670102",
+			"postcode": "667-0102",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Junisho",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -3018,14 +3018,14 @@
 			"city_code": "養父市"
 		},
 		"6670101": {
-			"postcode": "6670101",
+			"postcode": "667-0101",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Hirotani",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -3040,14 +3040,14 @@
 			"city_code": "養父市"
 		},
 		"6670053": {
-			"postcode": "6670053",
+			"postcode": "667-0053",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Yokacho",
 			"building_name": "Osa",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -3062,14 +3062,14 @@
 			"city_code": "養父市"
 		},
 		"6670052": {
-			"postcode": "6670052",
+			"postcode": "667-0052",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Yokacho",
 			"building_name": "Hibata",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -3084,14 +3084,14 @@
 			"city_code": "養父市"
 		},
 		"6670051": {
-			"postcode": "6670051",
+			"postcode": "667-0051",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Yokacho",
 			"building_name": "Ishihara",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -3106,14 +3106,14 @@
 			"city_code": "養父市"
 		},
 		"6670045": {
-			"postcode": "6670045",
+			"postcode": "667-0045",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Yokacho",
 			"building_name": "Meiri",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -3128,14 +3128,14 @@
 			"city_code": "養父市"
 		},
 		"6670044": {
-			"postcode": "6670044",
+			"postcode": "667-0044",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Yokacho",
 			"building_name": "Kunugi",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -3150,14 +3150,14 @@
 			"city_code": "養父市"
 		},
 		"6670043": {
-			"postcode": "6670043",
+			"postcode": "667-0043",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Yokacho",
 			"building_name": "Takayanagi",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -3172,14 +3172,14 @@
 			"city_code": "養父市"
 		},
 		"6670042": {
-			"postcode": "6670042",
+			"postcode": "667-0042",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Yokacho",
 			"building_name": "Konryuji",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -3194,14 +3194,14 @@
 			"city_code": "養父市"
 		},
 		"6670041": {
-			"postcode": "6670041",
+			"postcode": "667-0041",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Yokacho",
 			"building_name": "Yagi",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -3216,14 +3216,14 @@
 			"city_code": "養父市"
 		},
 		"6670032": {
-			"postcode": "6670032",
+			"postcode": "667-0032",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Yokacho",
 			"building_name": "Koyama",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -3238,14 +3238,14 @@
 			"city_code": "養父市"
 		},
 		"6670031": {
-			"postcode": "6670031",
+			"postcode": "667-0031",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Yokacho",
 			"building_name": "Kuroku",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -3260,14 +3260,14 @@
 			"city_code": "養父市"
 		},
 		"6670024": {
-			"postcode": "6670024",
+			"postcode": "667-0024",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Yokacho",
 			"building_name": "Asakura",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -3282,14 +3282,14 @@
 			"city_code": "養父市"
 		},
 		"6670023": {
-			"postcode": "6670023",
+			"postcode": "667-0023",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Yokacho",
 			"building_name": "Kaminamba",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -3304,14 +3304,14 @@
 			"city_code": "養父市"
 		},
 		"6670022": {
-			"postcode": "6670022",
+			"postcode": "667-0022",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Yokacho",
 			"building_name": "Shimonamba",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -3326,14 +3326,14 @@
 			"city_code": "養父市"
 		},
 		"6670021": {
-			"postcode": "6670021",
+			"postcode": "667-0021",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Yokacho",
 			"building_name": "Yoka",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -3348,14 +3348,14 @@
 			"city_code": "養父市"
 		},
 		"6670016": {
-			"postcode": "6670016",
+			"postcode": "667-0016",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Yokacho",
 			"building_name": "Bukyo",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -3370,14 +3370,14 @@
 			"city_code": "養父市"
 		},
 		"6670015": {
-			"postcode": "6670015",
+			"postcode": "667-0015",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Yokacho",
 			"building_name": "Oe",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -3392,14 +3392,14 @@
 			"city_code": "養父市"
 		},
 		"6670014": {
-			"postcode": "6670014",
+			"postcode": "667-0014",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Yokacho",
 			"building_name": "Iwasai",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -3414,14 +3414,14 @@
 			"city_code": "養父市"
 		},
 		"6670013": {
-			"postcode": "6670013",
+			"postcode": "667-0013",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Yokacho",
 			"building_name": "Sakamoto",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -3436,14 +3436,14 @@
 			"city_code": "養父市"
 		},
 		"6670012": {
-			"postcode": "6670012",
+			"postcode": "667-0012",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Yokacho",
 			"building_name": "Iza",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -3458,14 +3458,14 @@
 			"city_code": "養父市"
 		},
 		"6670011": {
-			"postcode": "6670011",
+			"postcode": "667-0011",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Yokacho",
 			"building_name": "Asama",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -3480,14 +3480,14 @@
 			"city_code": "養父市"
 		},
 		"6670005": {
-			"postcode": "6670005",
+			"postcode": "667-0005",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Yokacho",
 			"building_name": "Shimoda",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -3502,14 +3502,14 @@
 			"city_code": "養父市"
 		},
 		"6670004": {
-			"postcode": "6670004",
+			"postcode": "667-0004",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Yokacho",
 			"building_name": "Kamioda",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -3524,14 +3524,14 @@
 			"city_code": "養父市"
 		},
 		"6670003": {
-			"postcode": "6670003",
+			"postcode": "667-0003",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Yokacho",
 			"building_name": "Shukunami",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -3546,14 +3546,14 @@
 			"city_code": "養父市"
 		},
 		"6670002": {
-			"postcode": "6670002",
+			"postcode": "667-0002",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Yokacho",
 			"building_name": "Mitani",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -3568,14 +3568,14 @@
 			"city_code": "養父市"
 		},
 		"6670001": {
-			"postcode": "6670001",
+			"postcode": "667-0001",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "Yokacho",
 			"building_name": "Aoyama",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",
@@ -3590,14 +3590,14 @@
 			"city_code": "養父市"
 		},
 		"6670000": {
-			"postcode": "6670000",
+			"postcode": "667-0000",
 			"prefecture_name": "Hyogo-ken",
 			"city_name": "Yabu-shi",
 			"ward_name": "",
 			"town_name": "",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "兵庫県",
 					"city_name": "養父市",

@@ -4,7 +4,7 @@
 	"locale": "ja-Latn",
 	"address": {
 		"0588501": {
-			"postcode": "0588501",
+			"postcode": "058-8501",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Samani-gun",
 			"ward_name": "Samani-cho",
@@ -14,7 +14,7 @@
 			"region_code": "北海道",
 			"prefecture_code": "北海道",
 			"city_code": "様似郡",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "様似郡",
@@ -26,14 +26,14 @@
 			}
 		},
 		"0580422": {
-			"postcode": "0580422",
+			"postcode": "058-0422",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Horoizumi-gun",
 			"ward_name": "Erimo-cho",
 			"town_name": "Meguro",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "幌泉郡",
@@ -48,14 +48,14 @@
 			"city_code": "幌泉郡"
 		},
 		"0580421": {
-			"postcode": "0580421",
+			"postcode": "058-0421",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Horoizumi-gun",
 			"ward_name": "Erimo-cho",
 			"town_name": "Shoya",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "幌泉郡",
@@ -70,14 +70,14 @@
 			"city_code": "幌泉郡"
 		},
 		"0580343": {
-			"postcode": "0580343",
+			"postcode": "058-0343",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Horoizumi-gun",
 			"ward_name": "Erimo-cho",
 			"town_name": "Toyo",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "幌泉郡",
@@ -92,14 +92,14 @@
 			"city_code": "幌泉郡"
 		},
 		"0580342": {
-			"postcode": "0580342",
+			"postcode": "058-0342",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Horoizumi-gun",
 			"ward_name": "Erimo-cho",
 			"town_name": "Erimomisaki",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "幌泉郡",
@@ -114,14 +114,14 @@
 			"city_code": "幌泉郡"
 		},
 		"0580341": {
-			"postcode": "0580341",
+			"postcode": "058-0341",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Horoizumi-gun",
 			"ward_name": "Erimo-cho",
 			"town_name": "Tomabetsu",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "幌泉郡",
@@ -136,7 +136,7 @@
 			"city_code": "幌泉郡"
 		},
 		"0580292": {
-			"postcode": "0580292",
+			"postcode": "058-0292",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Horoizumi-gun",
 			"ward_name": "Erimo-cho",
@@ -146,7 +146,7 @@
 			"region_code": "北海道",
 			"prefecture_code": "北海道",
 			"city_code": "幌泉郡",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "幌泉郡",
@@ -158,14 +158,14 @@
 			}
 		},
 		"0580207": {
-			"postcode": "0580207",
+			"postcode": "058-0207",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Horoizumi-gun",
 			"ward_name": "Erimo-cho",
 			"town_name": "Chikaura",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "幌泉郡",
@@ -180,14 +180,14 @@
 			"city_code": "幌泉郡"
 		},
 		"0580206": {
-			"postcode": "0580206",
+			"postcode": "058-0206",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Horoizumi-gun",
 			"ward_name": "Erimo-cho",
 			"town_name": "Fuemai",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "幌泉郡",
@@ -202,14 +202,14 @@
 			"city_code": "幌泉郡"
 		},
 		"0580205": {
-			"postcode": "0580205",
+			"postcode": "058-0205",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Horoizumi-gun",
 			"ward_name": "Erimo-cho",
 			"town_name": "Yamato",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "幌泉郡",
@@ -224,14 +224,14 @@
 			"city_code": "幌泉郡"
 		},
 		"0580204": {
-			"postcode": "0580204",
+			"postcode": "058-0204",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Horoizumi-gun",
 			"ward_name": "Erimo-cho",
 			"town_name": "Honcho",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "幌泉郡",
@@ -246,14 +246,14 @@
 			"city_code": "幌泉郡"
 		},
 		"0580203": {
-			"postcode": "0580203",
+			"postcode": "058-0203",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Horoizumi-gun",
 			"ward_name": "Erimo-cho",
 			"town_name": "Shinhama",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "幌泉郡",
@@ -268,14 +268,14 @@
 			"city_code": "幌泉郡"
 		},
 		"0580202": {
-			"postcode": "0580202",
+			"postcode": "058-0202",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Horoizumi-gun",
 			"ward_name": "Erimo-cho",
 			"town_name": "Utabetsu",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "幌泉郡",
@@ -290,14 +290,14 @@
 			"city_code": "幌泉郡"
 		},
 		"0580201": {
-			"postcode": "0580201",
+			"postcode": "058-0201",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Horoizumi-gun",
 			"ward_name": "Erimo-cho",
 			"town_name": "Toyo",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "幌泉郡",
@@ -312,14 +312,14 @@
 			"city_code": "幌泉郡"
 		},
 		"0580200": {
-			"postcode": "0580200",
+			"postcode": "058-0200",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Horoizumi-gun",
 			"ward_name": "Erimo-cho",
 			"town_name": "",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "幌泉郡",
@@ -334,14 +334,14 @@
 			"city_code": "幌泉郡"
 		},
 		"0580041": {
-			"postcode": "0580041",
+			"postcode": "058-0041",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Urakawa-gun",
 			"ward_name": "Urakawa-cho",
 			"town_name": "Higashihorobetsu",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "浦河郡",
@@ -356,14 +356,14 @@
 			"city_code": "浦河郡"
 		},
 		"0580033": {
-			"postcode": "0580033",
+			"postcode": "058-0033",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Samani-gun",
 			"ward_name": "Samani-cho",
 			"town_name": "Utoma",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "様似郡",
@@ -378,14 +378,14 @@
 			"city_code": "様似郡"
 		},
 		"0580032": {
-			"postcode": "0580032",
+			"postcode": "058-0032",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Samani-gun",
 			"ward_name": "Samani-cho",
 			"town_name": "Nishimachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "様似郡",
@@ -400,14 +400,14 @@
 			"city_code": "様似郡"
 		},
 		"0580031": {
-			"postcode": "0580031",
+			"postcode": "058-0031",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Samani-gun",
 			"ward_name": "Samani-cho",
 			"town_name": "Nishisamani",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "様似郡",
@@ -422,14 +422,14 @@
 			"city_code": "様似郡"
 		},
 		"0580027": {
-			"postcode": "0580027",
+			"postcode": "058-0027",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Samani-gun",
 			"ward_name": "Samani-cho",
 			"town_name": "Shiomidai",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "様似郡",
@@ -444,14 +444,14 @@
 			"city_code": "様似郡"
 		},
 		"0580026": {
-			"postcode": "0580026",
+			"postcode": "058-0026",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Samani-gun",
 			"ward_name": "Samani-cho",
 			"town_name": "Honcho",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "様似郡",
@@ -466,14 +466,14 @@
 			"city_code": "様似郡"
 		},
 		"0580025": {
-			"postcode": "0580025",
+			"postcode": "058-0025",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Samani-gun",
 			"ward_name": "Samani-cho",
 			"town_name": "Minatomachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "様似郡",
@@ -488,14 +488,14 @@
 			"city_code": "様似郡"
 		},
 		"0580024": {
-			"postcode": "0580024",
+			"postcode": "058-0024",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Samani-gun",
 			"ward_name": "Samani-cho",
 			"town_name": "Kaishomachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "様似郡",
@@ -510,14 +510,14 @@
 			"city_code": "様似郡"
 		},
 		"0580023": {
-			"postcode": "0580023",
+			"postcode": "058-0023",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Samani-gun",
 			"ward_name": "Samani-cho",
 			"town_name": "Sakaemachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "様似郡",
@@ -532,14 +532,14 @@
 			"city_code": "様似郡"
 		},
 		"0580022": {
-			"postcode": "0580022",
+			"postcode": "058-0022",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Samani-gun",
 			"ward_name": "Samani-cho",
 			"town_name": "Okada",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "様似郡",
@@ -554,14 +554,14 @@
 			"city_code": "様似郡"
 		},
 		"0580021": {
-			"postcode": "0580021",
+			"postcode": "058-0021",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Samani-gun",
 			"ward_name": "Samani-cho",
 			"town_name": "Shintomi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "様似郡",
@@ -576,14 +576,14 @@
 			"city_code": "様似郡"
 		},
 		"0580015": {
-			"postcode": "0580015",
+			"postcode": "058-0015",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Samani-gun",
 			"ward_name": "Samani-cho",
 			"town_name": "Nishikimachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "様似郡",
@@ -598,14 +598,14 @@
 			"city_code": "様似郡"
 		},
 		"0580014": {
-			"postcode": "0580014",
+			"postcode": "058-0014",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Samani-gun",
 			"ward_name": "Samani-cho",
 			"town_name": "Odori",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "様似郡",
@@ -620,14 +620,14 @@
 			"city_code": "様似郡"
 		},
 		"0580013": {
-			"postcode": "0580013",
+			"postcode": "058-0013",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Samani-gun",
 			"ward_name": "Samani-cho",
 			"town_name": "Midorimachi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "様似郡",
@@ -642,14 +642,14 @@
 			"city_code": "様似郡"
 		},
 		"0580012": {
-			"postcode": "0580012",
+			"postcode": "058-0012",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Samani-gun",
 			"ward_name": "Samani-cho",
 			"town_name": "Asahioka",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "様似郡",
@@ -664,14 +664,14 @@
 			"city_code": "様似郡"
 		},
 		"0580011": {
-			"postcode": "0580011",
+			"postcode": "058-0011",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Samani-gun",
 			"ward_name": "Samani-cho",
 			"town_name": "Tashiro",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "様似郡",
@@ -686,14 +686,14 @@
 			"city_code": "様似郡"
 		},
 		"0580004": {
-			"postcode": "0580004",
+			"postcode": "058-0004",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Samani-gun",
 			"ward_name": "Samani-cho",
 			"town_name": "Hirau",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "様似郡",
@@ -708,14 +708,14 @@
 			"city_code": "様似郡"
 		},
 		"0580003": {
-			"postcode": "0580003",
+			"postcode": "058-0003",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Samani-gun",
 			"ward_name": "Samani-cho",
 			"town_name": "Fuyushima",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "様似郡",
@@ -730,14 +730,14 @@
 			"city_code": "様似郡"
 		},
 		"0580002": {
-			"postcode": "0580002",
+			"postcode": "058-0002",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Samani-gun",
 			"ward_name": "Samani-cho",
 			"town_name": "Horoman",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "様似郡",
@@ -752,14 +752,14 @@
 			"city_code": "様似郡"
 		},
 		"0580001": {
-			"postcode": "0580001",
+			"postcode": "058-0001",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Samani-gun",
 			"ward_name": "Samani-cho",
 			"town_name": "Asahi",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "様似郡",
@@ -774,14 +774,14 @@
 			"city_code": "様似郡"
 		},
 		"0580000": {
-			"postcode": "0580000",
+			"postcode": "058-0000",
 			"prefecture_name": "Hokkaido",
 			"city_name": "Samani-gun",
 			"ward_name": "Samani-cho",
 			"town_name": "",
 			"building_name": "",
 			"organization_name": "",
-			"translation": {
+			"translations": {
 				"ja": {
 					"prefecture_name": "北海道",
 					"city_name": "様似郡",
