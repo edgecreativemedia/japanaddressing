@@ -3,20 +3,11 @@
 namespace EdgeCreativeMedia\JapanAddressing\Model;
 
 /**
- * Interface for country subdivisons.
+ * Interface for subdivisons.
  *
- * Subdivisions are hierarchical and can have up to three levels:
- * Administrative Area -> Locality -> Dependent Locality.
  */
 interface SubdivisionInterface
 {
-    /**
-     * Gets the subdivision parent.
-     *
-     * @return SubdivisionInterface|null The parent, or NULL if there is none.
-     */
-    //public function getParent();
-
     /**
      * Gets the two-letter country code.
      *
@@ -25,7 +16,7 @@ interface SubdivisionInterface
      *
      * @return string The two-letter country code.
      */
-    //public function getCountryCode();
+    public function getCountryCode();
 
     /**
      * Gets the subdivision type.
@@ -93,41 +84,20 @@ interface SubdivisionInterface
      * @return string|null The postal code pattern.
      */
     public function getPostalCodePattern();
-
-    /**
-     * Gets the postal code pattern type.
-     *
-     * @return string|null The postal code pattern type.
-     */
-    //public function getPostalCodePatternType();
-
-    /**
-     * Gets the subdivision children.
-     *
-     * @return SubdivisionInterface[] The subdivision children.
-     */
-   // public function getChildren();
-
-    /**
-     * Checks whether the subdivision has children.
-     *
-     * @return bool TRUE if the subdivision has children, FALSE otherwise.
-     */
-    //public function hasChildren();
     
     /**
-     * Gets the subdivision region code.
+     * Gets the subdivision region.
      *
-     * @return string The subdivision region code.
+     * @return string The subdivision region.
      */
-    public function getRegionCode();
+    public function getRegion();
 
     /**
-     * Gets the subdivision prefecture code.
+     * Gets the subdivision prefecture.
      *
-     * @return string The subdivision prefecture code.
+     * @return string The subdivision prefecture.
      */
-    public function getPrefectureCode();
+    public function getPrefecture();
 
     /**
      * Gets the subdivision prefecture iso.

@@ -6,14 +6,7 @@ namespace EdgeCreativeMedia\JapanAddressing\Model;
 
 interface SubdivisionEntityInterface extends SubdivisionInterface
 {
-    /**
-     * Sets the subdivision parent.
-     *
-     * @param SubdivisionEntityInterface|null $parent The subdivision parent.
-     *
-     * @return self
-     */
-    //public function setParent(SubdivisionEntityInterface $parent = null);
+
 
     /**
      * Sets the two-letter country code.
@@ -22,7 +15,7 @@ interface SubdivisionEntityInterface extends SubdivisionInterface
      *
      * @return self
      */
-    //public function setCountryCode($countryCode);
+    public function setCountryCode($countryCode);
 
     /**
      * Sets the subdivision type.
@@ -104,43 +97,24 @@ interface SubdivisionEntityInterface extends SubdivisionInterface
      * @return self
      */
     public function setPostalCodePattern($postalCodePattern);
-
-    /**
-     * Sets the postal code pattern type.
-     *
-     * @param string $postalCodePatternType The postal code pattern type.
-     *
-     * @return self
-     */
-    //public function setPostalCodePatternType($postalCodePatternType);
-
-    /**
-     * Sets the subdivision children.
-     *
-     * @param SubdivisionEntityInterface[] $children The subdivision children.
-     *
-     * @return self
-     */
-    //public function setChildren(Collection $children);
-    
     
     /**
-     * Sets the subdivision region code.
+     * Sets the subdivision region.
      *
-     * @param string $regionCode The subdivision region code.
+     * @param string $region The subdivision region.
      *
      * @return self
      */
-    public function setRegionCode($regionCode);    
+    public function setRegion($region);    
 
     /**
-     * Sets the subdivision prefecture code.
+     * Sets the subdivision prefecture .
      *
-     * @param string $prefectureCode The subdivision prefecture code.
+     * @param string $prefecture The subdivision prefecture.
      *
      * @return self
      */
-    public function setPrefectureCode($prefectureCode); 
+    public function setPrefecture($prefecture); 
 
     /**
      * Sets the subdivision prefecture iso.

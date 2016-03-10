@@ -18,12 +18,57 @@ namespace EdgeCreativeMedia\JapanAddressing\Model;
 class Subdivision implements SubdivisionEntityInterface
 {
 
-    /**
+ 
+     /**
      * The subdivision type.
      *
      * @var string
      */
     protected $subdivisionType;
+
+    /**
+     * The locale.
+     *
+     * @var string
+     */
+    protected $locale;
+
+     /**
+     * The country code.
+     *
+     * @var string
+     */
+    protected $countryCode;
+
+    /**
+     * The subdivision region code.
+     *
+     * @var string
+     */
+    protected $region;
+
+    /**
+     * The subdivision prefecture code.
+     *
+     * @var string
+     */
+    protected $prefecture;
+ 
+     /**
+     * The subdivision prefecture iso code.
+     *
+     * @var string
+     */
+    protected $iso;
+ 
+    /**
+     * The postal code pattern.
+     *
+     * @var string
+     */
+    protected $postalCodePattern;
+    
+
 
     /**
      * The subdivision id.
@@ -74,40 +119,18 @@ class Subdivision implements SubdivisionEntityInterface
      */
     protected $romaji;
 
-    /**
-     * The postal code pattern.
-     *
-     * @var string
-     */
-    protected $postalCodePattern;
+
 
     /**
      * The postal code pattern type.
      *
      * @var string
      */
-    protected $postalCodePatternType;
+   // protected $postalCodePatternType;
     
-    /**
-     * The subdivision region code.
-     *
-     * @var string
-     */
-    protected $regionCode;
 
-    /**
-     * The subdivision prefecture code.
-     *
-     * @var string
-     */
-    protected $prefectureCode;
 
-    /**
-     * The subdivision prefecture iso code.
-     *
-     * @var string
-     */
-    protected $iso;
+
 
     /**
      * The children.
@@ -116,12 +139,7 @@ class Subdivision implements SubdivisionEntityInterface
      */
     //protected $children;
 
-    /**
-     * The locale.
-     *
-     * @var string
-     */
-    protected $locale;
+
 
     /**
      * Creates a Subdivision instance.
@@ -135,6 +153,24 @@ class Subdivision implements SubdivisionEntityInterface
     /**
      * {@inheritdoc}
      *
+    public function getParent()
+    {
+        return $this->parent;
+    }
+
+    /**
+     * {@inheritdoc}
+     *
+    public function setParent(SubdivisionEntityInterface $parent = null)
+    {
+        $this->parent = $parent;
+
+        return $this;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
     public function getCountryCode()
     {
         return $this->countryCode;
@@ -142,7 +178,7 @@ class Subdivision implements SubdivisionEntityInterface
 
     /**
      * {@inheritdoc}
-     *
+     */
     public function setCountryCode($countryCode)
     {
         $this->countryCode = $countryCode;
@@ -215,9 +251,9 @@ class Subdivision implements SubdivisionEntityInterface
     /**
      * {@inheritdoc}
      */
-    public function setSname($sName)
+    public function setLname($lName)
     {
-        $this->sname = $sName;
+        $this->lname = $lName;
 
         return $this;
     }
@@ -312,91 +348,47 @@ class Subdivision implements SubdivisionEntityInterface
         return $this;
     }
 
+
     /**
-     * {@inheritdoc}
+     * Gets the region.
      *
-    public function getPostalCodePatternType()
+     * @return string The region.
+     */
+    public function getRegion()
     {
-        return $this->postalCodePatternType;
+        return $this->region;
     }
 
     /**
-     * {@inheritdoc}
+     * Sets the region.
      *
-    public function setPostalCodePatternType($postalCodePatternType)
+     * @param string $region The region.
+     */
+    public function setRegion($region)
     {
-        PatternType::assertExists($postalCodePatternType);
-        $this->postalCodePatternType = $postalCodePatternType;
+        $this->region = $region;
 
         return $this;
     }
 
     /**
-     * {@inheritdoc}
+     * Gets the prefecture.
      *
-    public function getChildren()
-    {
-        return $this->children;
-    }
-
-    /**
-     * {@inheritdoc}
-     *
-    public function setChildren(Collection $children)
-    {
-        $this->children = $children;
-
-        return $this;
-    }
-
-    /**
-     * {@inheritdoc}
-     *
-    public function hasChildren()
-    {
-        return !$this->children->isEmpty();
-    }
-
-    /**
-     * Gets the region code.
-     *
-     * @return string The region code.
+     * @return string The prefecture.
      */
-    public function getRegionCode()
+    public function getPrefecture()
     {
-        return $this->regionCode;
+        return $this->prefecture;
     }
 
     /**
-     * Sets the region code.
+     * Sets the prefecture.
      *
-     * @param string $regionCode The region code.
+     * @param string $prefecture The prefecture.
      */
-    public function setRegionCode($regionCode)
+    public function setPrefecture($prefecture)
     {
-        $this->regionCode = $regionCode;
-
-        return $this;
-    }
-
-    /**
-     * Gets the prefecture code.
-     *
-     * @return string The prefecture code.
-     */
-    public function getPrefectureCode()
-    {
-        return $this->prefectureCode;
-    }
-
-    /**
-     * Sets the prefecture code.
-     *
-     * @param string $prefectureCode The prefecture code.
-     */
-    public function setPrefectureCode($prefectureCode)
-    {
-        $this->prefectureCode = $prefectureCode;
+        $this->prefecture = $prefecture;
 
         return $this;
     }

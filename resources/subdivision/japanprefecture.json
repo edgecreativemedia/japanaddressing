@@ -1,7 +1,7 @@
 {
 	"country_code": "JP",
 	"locale": "ja-Latn",
-	"supdivision_type": "prefecture",	
+	"subdivision_type": "prefecture",	
 	"subdivision": {
 		"北海道": {
 		  	"iso": "JP-01",
@@ -144,7 +144,8 @@
 			"postal_code_pattern": "32|311|349",
 		  	"region_code": "関東",
 			"code": "栃木県",
-			"lname": "Tochigi",
+			"lname": "Tochigi Prefecture",
+			"sname": "Tochigi",
 			"kanji": "栃木県",
 			"hiragana": "",
 			"romaji": "Tochigi-ken",

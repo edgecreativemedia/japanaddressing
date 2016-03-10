@@ -7,8 +7,6 @@ use EdgeCreativeMedia\JapanAddressing\Model\Subdivision;
 /**
  * Provides the subdivision list.
  *
- * Choosing the source at runtime allows integrations (such as the symfony
- * bundle) to stay agnostic about the intl library they need.
  */
 class SubdivisionRepository implements SubdivisionRepositoryInterface
 {
@@ -45,27 +43,10 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
      */
     public function get($id, $subdivisionType, $locale = null)
     {	
-    	/*
-        $idParts = explode('-', $id);
-        if (count($idParts) < 2) {
-            // Invalid id, nothing to load.
-            return null;
-        }
-		*/
-        // The default ids are constructed to contain the country code
-        // and parent id. For "BR-AL-64b095" BR is the country code and BR-AL
-        // is the parent id.
-        /*
-        array_pop($idParts);
-        $countryCode = $idParts[0];
-        $parentId = implode('-', $idParts);
-        if ($parentId == $countryCode) {
-            $parentId = null;
-        }
-        */
+
         $definitions = $this->loadDefinitions($subdivisionType);
 
-        return $this->createSubdivisionFromDefinitions($id, $definitions, $locale);
+        return $this->createSubdivisionFromDefinitions($id, $definitions, $subdivisionType, $locale);
     }
 
 
@@ -81,7 +62,7 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
 
         $subdivisions = [];
         foreach (array_keys($definitions['subdivisions']) as $id) {
-            $subdivisions[$id] = $this->createSubdivisionFromDefinitions($id, $definitions, $locale);
+            $subdivisions[$id] = $this->createSubdivisionFromDefinitions($id, $definitions, $subdivisionType, $locale);
         }
 
         return $subdivisions;
@@ -90,7 +71,7 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
     /**
      * {@inheritdoc}
      */
-    public function getList($subdivisionType, $locale = null)
+    public function getList($subdivisionType, $nameType, $locale = null)
     {
         $definitions = $this->loadDefinitions($subdivisionType);
         if (empty($definitions)) {
@@ -100,11 +81,68 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
         $list = [];
         foreach ($definitions['subdivision'] as $id => $definition) {
             $definition = $this->translateDefinition($definition, $locale);
-            $list[$id] = $definition['name'];
-        }
-
+            
+            //load correct list type
+    		switch ($nameType) {    
+				case 'long':
+					$list[$id] = $definition['lname'];
+				break;
+				case 'short':
+					$list[$id] = $definition['sname'];
+				break;   	
+				default:
+					$list[$id] = $definition['lname'];
+				break;		
+    		}
+            
+        }		
         return $list;
     }
+
+    /**
+     * Loads the subdivision item array.
+     *
+     * @return array The subdivision item array.
+     */
+    protected function getArray($id, $subdivisionType, $locale = null)
+    {
+        $definitions = $this->loadDefinitions($subdivisionType);
+        if (empty($definitions)) {
+            return [];
+        }
+        if (!isset($definitions['subdivision'][$id])) {
+            // No matching definition found.
+            return null;
+        }
+		$item = [];
+        $definition = $this->translateDefinition($definitions['subdivision'][$id], $locale);
+        
+        // Provide defaults.
+        if (!isset($definition['code'])) {
+            $definition['code'] = $definition['kanji'];
+        }
+        
+        $item['code'] = $definition['code'];
+  
+    	//load special items
+    	switch ($subdivisionType) {    
+			case 'region':				
+			break;
+			case 'prefecture':
+				$item['iso'] = $definition['iso'];
+				$item['postal_code_pattern'] = $definition['postal_code_pattern'];
+			break;   	
+ 			case 'city':				
+			break;			
+    	}        
+        $item['lname'] = $definition['lname'];
+        $item['sname'] = $definition['sname'];
+        $item['kanji'] = $definition['kanji'];
+        $item['hiragana'] = $definition['hiragana'];
+        $item['romaji'] = $definition['romaji'];           
+        
+		return $item;
+	}
 
     /**
      * Loads the subdivision definitions.
@@ -113,17 +151,19 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
      */
     protected function loadDefinitions($subdivisionType)
     {
+    
     	//load correct subdivision
     	switch ($subdivisionType) {    
 			case 'region':
-				$subdivisionFilename = 'japanregions.json';
+				$subdivisionFilename = 'japanregion.json';
 			break;
 			case 'prefecture':
-				$subdivisionFilename = 'japanprefectures.json';
+				$subdivisionFilename = 'japanprefecture.json';
 			break;   	
  			case 'city':
-				$subdivisionFilename = 'japancities.json';
+				$subdivisionFilename = 'japancity.json';
 			break;
+			
     	}
     	
     	$filename = $this->definitionPath . $subdivisionFilename;
@@ -143,7 +183,7 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
      *
      * @return Subdivision
      */
-    protected function createSubdivisionFromDefinitions($id, array $definitions, $locale)
+    protected function createSubdivisionFromDefinitions($id, array $definitions, $subdivisionType, $locale)
     {
         if (!isset($definitions['subdivision'][$id])) {
             // No matching definition found.
@@ -153,6 +193,7 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
         $definition = $this->translateDefinition($definitions['subdivision'][$id], $locale);
         // Add common keys from the root level.
         $definition['country_code'] = $definitions['country_code'];
+        
         //$definition['parent_id'] = $definitions['parent_id'];
         $definition['subdivision_type'] = $definitions['subdivision_type'];
         $definition['locale'] = $definitions['locale'];
@@ -160,20 +201,43 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
         if (!isset($definition['code'])) {
             $definition['code'] = $definition['kanji'];
         }
-
+		
+		// Load the parent, if known.
+    	switch ($subdivisionType) {    
+			case 'prefecture':			
+				$definition['regionParent'] = $this->getArray($definition['region_code'], 'region');
+			break;   	
+ 			case 'city':
+				$definition['regionParent'] = $this->getArray($definition['region_code'], 'region');
+				$definition['prefectureParent'] = $this->getArray($definition['prefecture_code'], 'prefecture');	
+			break;			
+    	}
+		
         $subdivision = new Subdivision();
         // Bind the closure to the Subdivision object, giving it access to its
         // protected properties. Faster than both setters and reflection.
         $setValues = \Closure::bind(function ($id, $definition) {
-            $this->countryCode = $definition['country_code'];
-            $this->id = $id;
+            
+            $this->subdivisionType = $definition['subdivision_type'];
             $this->locale = $definition['locale'];
+            $this->countryCode = $definition['country_code'];
+            $this->region = $definition['regionParent'];
+            $this->prefecture = $definition['prefectureParent'];
+
+            $this->postalCodePattern = $definition['postal_code_pattern'];
+            $this->iso = $definition['iso'];
+            
+            $this->id = $id;            
             $this->code = $definition['code'];
-            $this->name = $definition['lname'];
+            $this->lName = $definition['lname'];
+            $this->sName = $definition['sname'];
+            $this->kanji = $definition['kanji'];
+            $this->hiragana = $definition['hiragana'];
+            $this->romaji = $definition['romaji'];
             
         }, $subdivision, '\EdgeCreativeMedia\JapanAddressing\Model\Subdivision');
         $setValues($id, $definition);
-
+        
         return $subdivision;
     }
 }

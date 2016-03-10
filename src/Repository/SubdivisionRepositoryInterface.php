@@ -1,8 +1,8 @@
 <?php
 
-namespace EdgeCreativeMedia\JapanLocation\Repository;
+namespace EdgeCreativeMedia\JapanAddressing\Repository;
 
-use EdgeCreativeMedia\JapanLocation\Model\Subdivision;
+use EdgeCreativeMedia\JapanAddressing\Model\Subdivision;
 
 /**
  * Subdivision repository interface.
@@ -39,6 +39,6 @@ interface SubdivisionRepositoryInterface
      *
      * @return array An array of subdivision names, keyed by id.
      */
-    public function getList($subdivisionType, $locale = null);
+    public function getList($subdivisionType, $nameType, $locale = null);
 
 }
